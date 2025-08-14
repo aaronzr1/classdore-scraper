@@ -1,4 +1,4 @@
-import json, traceback, requests
+import json, traceback
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 from scrape_listings_by_keyword import fetch
@@ -139,9 +139,6 @@ def iterate_listings():
     with open('data/course_listings.json', 'r') as file:
         data = json.load(file)
     
-    r = requests.get("https://more.app.vanderbilt.edu/more/GetClassSectionDetail.action?classNumber=2302&termCode=1055")
-    print(r.status_code, r.text[:200])
-    
     base_url = "https://more.app.vanderbilt.edu/more/GetClassSectionDetail.action?classNumber="
     for listing in tqdm(data, desc="Scraping data", unit="listing"):
         url = base_url + f"{listing['classNumber']}&termCode={listing['termCode']}"
@@ -150,6 +147,5 @@ def iterate_listings():
             current_data = scrape_course_details(soup, listing['termCode'])
             update_course_details(current_data)
         except Exception as e:
-            print(f"Error scraping listing {listing}: {e}")
             print(f"error scraping details for listing '{listing}': {e}") 
             traceback.print_exc()
