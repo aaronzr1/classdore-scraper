@@ -148,3 +148,18 @@ def iterate_listings():
             update_course_details(current_data)
         except:
             print(f"error scraping details for listing '{listing}'") 
+        
+        try:
+            soup = fetch(url)
+        except:
+            print("1")
+
+        try:
+            current_data = scrape_course_details(soup, listing['termCode'])
+        except:
+            print("2")
+
+        try:
+            update_course_details(current_data)
+        except:
+            print("3")
