@@ -1,0 +1,23 @@
+name: Sync main → data-pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Merge main into data-pipeline
+        run: |
+          git fetch origin
+          git checkout data-pipeline
+          git merge main --no-edit || echo "No changes to merge"
+          git push origin data-pipeline
