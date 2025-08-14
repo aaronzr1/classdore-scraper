@@ -18,6 +18,6 @@ jobs:
       - name: Merge main into data-pipeline
         run: |
           git fetch origin
-          git checkout data-pipeline
-          git merge main --no-edit || echo "No changes to merge"
+          git checkout -B data-pipeline origin/data-pipeline
+          git merge origin/main --no-edit || echo "No changes to merge"
           git push origin data-pipeline
