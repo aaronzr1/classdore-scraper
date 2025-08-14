@@ -1,0 +1,35 @@
+name: Run -l and push data
+
+on:
+  schedule:
+    - cron: "30 8 * * *"  # 3:30 AM CT → 8:30 UTC
+  workflow_dispatch:
+
+jobs:
+  run-l:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }} # personal access token with repo write access
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run -l job
+        run: python main.py -l
+
+      - name: Commit and push data file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/l_output.json
+          git commit -m "Automated -l output for $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes"
+          git push

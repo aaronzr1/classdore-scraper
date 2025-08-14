@@ -1,13 +1,9 @@
-import json
+import os, time, argparse, json
 import redis
-from redis.commands.search.field import TextField, NumericField, TagField
-from redis.commands.search.indexDefinition import IndexDefinition, IndexType
-import os
-import sys
-import time
 from tqdm import tqdm
 from dotenv import load_dotenv
-import argparse
+from redis.commands.search.field import TextField, NumericField, TagField
+from redis.commands.search.indexDefinition import IndexDefinition, IndexType
 
 BATCH_SIZE = 1000
 
