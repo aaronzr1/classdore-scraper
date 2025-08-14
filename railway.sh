@@ -13,8 +13,8 @@ else
 fi
 
 # Set git identity
-git config user.name "railway-bot"
-git config user.email "railway-bot@example.com"
+git config user.name "Railway CI"
+git config user.email "ci@railway.app"
 
 
 echo "Starting -d job..."
