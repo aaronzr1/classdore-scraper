@@ -3,3 +3,4 @@ python-dotenv==1.1.1
 redis==5.0.1
 Requests==2.32.4
 tqdm==4.65.2
+lxml
