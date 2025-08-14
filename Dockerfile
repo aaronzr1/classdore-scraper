@@ -17,7 +17,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Ensure our script is executable
-RUN chmod +x run_d_and_upload.sh
+RUN chmod +x railway.sh
 
 # Command to run when container starts
 CMD ["bash", "railway.sh"]
