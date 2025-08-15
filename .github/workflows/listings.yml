@@ -1,4 +1,4 @@
-name: Run -l and push data
+name: Scrape listings (-l) and push (data-pipeline)
 
 on:
   schedule:
@@ -35,7 +35,7 @@ jobs:
           git merge origin/main --allow-unrelated-histories --no-edit || echo "No changes to merge"
           git push origin data-pipeline
 
-      - name: Check for UPLOAD_ONLY file
+      - name: Check for UPLOAD_ONLY marker
         id: check_upload_only
         run: |
           if [ -f "UPLOAD_ONLY" ]; then
@@ -45,10 +45,12 @@ jobs:
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Run -l job
+      - name: Scrape listings (-l)
+        if: steps.check_upload_only.outputs.skip == 'false'
         run: python scraper.py -l
 
-      - name: Commit and push data file
+      - name: Commit and push (data-pipeline branch)
+        if: steps.check_upload_only.outputs.skip == 'false'
         run: |
           git add data/course_listings.json
           git commit -m "Automated -l output for $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes"
