@@ -27,7 +27,7 @@ git commit -m "Automated -d output for $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || e
 git push origin data-pipeline
 
 
-# echo "Running upload step..."
-# python upload_to_redis.py data/data.json --skip-unchanged
+echo "Running upload step..."
+python upload_to_redis.py data/data.json --skip-unchanged
 
 echo "All done!"
