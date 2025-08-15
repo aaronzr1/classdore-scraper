@@ -1,18 +1,6 @@
 #!/bin/bash
 set -e
 
-last_commit_msg=$(git log -1 --pretty=%B)
-last_commit_author_email=$(git log -1 --pretty=%ae)
-
-if [[ "$last_commit_msg" == Automated\ -l\ output* ]] && \
-   [[ "$last_commit_author_email" == "actions@github.com" ]]; then
-    echo "Running -d job..."
-else
-    echo "Skipping -d job because last commit was not from a GitHub Actions -l run."
-    exit 0
-fi
-
-
 # Clone repo (fresh if needed)
 if [ -d "repo" ]; then
     cd repo
@@ -22,6 +10,17 @@ else
     git clone https://x-access-token:${GH_PAT}@github.com/aaronzr1/classdore-scraper.git repo
     cd repo
     git checkout data-pipeline
+fi
+
+last_commit_msg=$(git log -1 --pretty=%B)
+last_commit_author_email=$(git log -1 --pretty=%ae)
+
+if [[ "$last_commit_msg" == Automated\ -l\ output* ]] && \
+   [[ "$last_commit_author_email" == "actions@github.com" ]]; then
+    echo "Running -d job..."
+else
+    echo "Skipping -d job because last commit was not from a GitHub Actions -l run."
+    exit 0
 fi
 
 # Set git identity
