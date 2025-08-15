@@ -16,9 +16,11 @@ fi
 git config user.name "Railway CI"
 git config user.email "ci@railway.app"
 
-
-echo "Starting -d job..."
-python scraper.py -d
+if [ -f "UPLOAD_ONLY" ]; then
+    echo "UPLOAD_ONLY file found. Skipping -d job..."
+else
+    echo "Starting -d job..."
+    python scraper.py -d
 
 
 # Commit and push

@@ -35,6 +35,16 @@ jobs:
           git merge origin/main --allow-unrelated-histories --no-edit || echo "No changes to merge"
           git push origin data-pipeline
 
+      - name: Check for UPLOAD_ONLY file
+        id: check_upload_only
+        run: |
+          if [ -f "UPLOAD_ONLY" ]; then
+            echo "UPLOAD_ONLY exists, skipping -l job."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Run -l job
         run: python scraper.py -l
 
