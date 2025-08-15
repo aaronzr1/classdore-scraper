@@ -21,7 +21,7 @@ if [ -f "UPLOAD_ONLY" ]; then
 else
     echo "Starting -d job..."
     python scraper.py -d
-
+fi
 
 # Commit and push
 git add data/data.json
