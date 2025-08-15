@@ -30,5 +30,4 @@ git push origin data-pipeline
 # echo "Running upload step..."
 # python upload_to_redis.py data/data.json --skip-unchanged
 
-
 echo "All done!"
