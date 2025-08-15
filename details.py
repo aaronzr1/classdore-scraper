@@ -71,8 +71,26 @@ def extract_meetings_and_instructors(soup):
             meeting_times.append(columns[1].text.strip())
             meeting_dates.append(columns[3].text.strip())
             for inst in columns[4].find_all("div"): instructors.add(inst.text.strip())
+    
+    # Helper to check primary status and clean name
+    def parse_instructor(name):
+        is_primary = name.endswith("(Primary)")
+        clean_name = name.replace("(Primary)", "").strip()
+        return is_primary, clean_name
 
-    return meeting_days, meeting_times, meeting_dates, list(instructors)
+    # Convert set to list with metadata
+    instructor_list = [parse_instructor(name) for name in instructors]
+
+    # Sort: Primary first, then alphabetical by clean name
+    instructor_list.sort(key=lambda x: (not x[0], x[1]))
+
+    # Format for output
+    formatted_instructors = [
+        f"{name}" if is_primary else f"{name} (Secondary)"
+        for is_primary, name in instructor_list
+    ]
+
+    return meeting_days, meeting_times, meeting_dates, formatted_instructors
 
 def scrape_course_details(soup, term_code):
     class_number = soup.find("div", class_="classNumber").text.split(":")[1].strip()
