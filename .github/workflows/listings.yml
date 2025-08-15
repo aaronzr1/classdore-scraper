@@ -23,13 +23,23 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
+      - name: Set Git identity
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Merge main into data-pipeline
+        run: |
+          git fetch origin
+          git checkout -B data-pipeline origin/data-pipeline
+          git merge origin/main --allow-unrelated-histories --no-edit || echo "No changes to merge"
+          git push origin data-pipeline
+
       - name: Run -l job
-        run: python main.py -l
+        run: python scraper.py -l
 
       - name: Commit and push data file
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/course_listings.json
           git commit -m "Automated -l output for $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes"
           git push origin data-pipeline
