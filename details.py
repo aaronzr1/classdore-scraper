@@ -1,7 +1,7 @@
 import json, traceback
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-from scrape_listings_by_keyword import fetch
+from listings import fetch
 
 def extract_class_details(soup):
     header = soup.find("h1").text.strip()

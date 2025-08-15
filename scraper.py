@@ -1,6 +1,6 @@
 import argparse
-from scrape_listings_by_keyword import iterate_keywords
-from scrape_details_by_listing import iterate_listings
+from listings import iterate_keywords
+from details import iterate_listings
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape course listings and details.")

@@ -98,8 +98,7 @@ def iterate_keywords():
 
     edges = [100, 110, 385, 799, 850, 899] # keywords that have over 300 entries (gets truncated)
     # skip *999 series since it's mostly phd dissertation research (7999, 8999, 9999 have 300+ each)
-    # for i in tqdm(range(999), desc="Generating course listings", unit="keyword"):
-    for i in tqdm(range(5), desc="Generating course listings", unit="keyword"):
+    for i in tqdm(range(999), desc="Generating course listings", unit="keyword"):
 
         if i in edges:
             addons = [str(j) + f"{i:03d}" for j in range(10)]
