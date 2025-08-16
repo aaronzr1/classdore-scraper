@@ -34,6 +34,9 @@ git config user.email "ci@railway.app"
 #     python scraper.py -d
 # fi
 
+echo "Starting -d job..."
+python scraper.py -d
+
 # Commit and push
 git add data/data.json
 git commit -m "Automated -d output for $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
