@@ -50,7 +50,6 @@ def create_index(r: redis.Redis):
             print("Index already exists, skipping creation.")
         else:
             raise
-
 def upload_courses(r: redis.Redis, courses, skip_unchanged=False):
     pipe = r.pipeline(transaction=False)
     count = 0
@@ -97,12 +96,20 @@ def upload_courses(r: redis.Redis, courses, skip_unchanged=False):
             batch_end = time.time()
             elapsed = batch_end - start_time
             batch_time = batch_end - batch_start
-            pbar.set_postfix({"Total time": f"{elapsed:.1f}s", "Batch time": f"{batch_time:.1f}s"}, refresh=True)
+            pbar.set_postfix(
+                {"Total time": f"{elapsed:.1f}s", "Batch time": f"{batch_time:.1f}s"},
+                refresh=True,
+            )
 
     pbar.close()
+
+    # 🆕 Store *all* courses in one big key for fast bulk fetch
+    r.json().set("courses:all", "$", courses)
+
     total_elapsed = time.time() - start_time
     print(f"\nAll courses uploaded in {total_elapsed:.1f} seconds")
     print(f"Summary: {new_courses} new, {updated_courses} updated, {skipped_courses} unchanged/skipped")
+    print(f"Stored {len(courses)} courses into single key 'courses:all'")
 
 def main():
     parser = argparse.ArgumentParser(description="Upload course data to Redis with optional skip-unchanged")
