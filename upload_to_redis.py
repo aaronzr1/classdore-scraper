@@ -1,5 +1,6 @@
 import os, time, argparse, json
 import redis
+import json, zlib, base64
 from tqdm import tqdm
 from dotenv import load_dotenv
 from redis.commands.search.field import TextField, NumericField, TagField
@@ -103,8 +104,8 @@ def upload_courses(r: redis.Redis, courses, skip_unchanged=False):
 
     pbar.close()
 
-    # 🆕 Store *all* courses in one big key for fast bulk fetch
-    r.json().set("courses:all", "$", courses)
+    compressed = base64.b64encode(zlib.compress(json.dumps(courses).encode()))
+    r.set("courses:all:compressed", compressed)
 
     total_elapsed = time.time() - start_time
     print(f"\nAll courses uploaded in {total_elapsed:.1f} seconds")
