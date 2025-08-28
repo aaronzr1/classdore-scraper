@@ -23054,5 +23054,45 @@
     {
         "classNumber": "11700",
         "termCode": "1055"
+    },
+    {
+        "classNumber": "11709",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11710",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11704",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11714",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11719",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11717",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11705",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11713",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11718",
+        "termCode": "1055"
+    },
+    {
+        "classNumber": "11712",
+        "termCode": "1055"
     }
 ]
