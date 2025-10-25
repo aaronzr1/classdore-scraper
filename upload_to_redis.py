@@ -12,10 +12,12 @@ def create_index(r: redis.Redis):
     try:
         schema = [
             TextField("$.id", as_name="id"),
+            TagField("$.course_dept_tag", as_name="course_dept_tag"), # for filtering
             TextField("$.course_dept", as_name="course_dept", weight=2),
             TextField("$.course_code", as_name="course_code", weight=2),
             TextField("$.class_section", as_name="class_section"),
             TextField("$.course_title", as_name="course_title", weight=2),
+            TagField("$.school_tag", as_name="school_tag"), # for filtering
             TextField("$.school", as_name="school"),
             TextField("$.career", as_name="career"),
             TextField("$.class_type", as_name="class_type"),
@@ -123,6 +125,9 @@ def main():
     redis_url = os.getenv("REDIS_URL", "redis://localhost:6379")
     r = redis.Redis.from_url(redis_url)
 
+    # # Clear all data from Redis
+    # r.flushall()
+
     # Load course data
     with open(args.data_file, "r", encoding="utf-8") as f:
         courses = json.load(f)
@@ -132,6 +137,9 @@ def main():
         for field in ["capacity", "enrolled", "wl_capacity", "wl_occupied", "term_year"]:
             if field in c:
                 c[field] = int(c[field]) if c[field] is not None else 0
+        
+        c["course_dept_tag"] = c.get("course_dept", "")
+        c["school_tag"] = c.get("school", "")
 
     create_index(r)
     upload_courses(r, courses, skip_unchanged=args.skip_unchanged)
