@@ -1,8 +1,9 @@
-import requests
+import aiohttp
+import asyncio
 import re
 import json
 from bs4 import BeautifulSoup
-from tqdm import tqdm
+from tqdm.asyncio import tqdm
 
 def find_total_records(soup):
     """
@@ -24,35 +25,38 @@ def find_total_records(soup):
     
     return total_records
 
-def fetch(url):
+async def fetch(url, session):
     """
-    A simple fetch function to extract data from a url (with search keywords encoded).
+    A simple async fetch function to extract data from a url (with search keywords encoded).
 
     Parameters:
     url (string): url to extract data from
+    session (aiohttp.ClientSession): shared session for requests
 
     Returns:
     BeautifulSoup object: extracted info from url
     """
-    session = requests.Session() # use same session to allow page switching
+    # Create a new session context for this specific search to maintain state
+    async with aiohttp.ClientSession() as search_session:
+        # First, get the initial search URL
+        async with search_session.get(url) as response:
+            content = await response.read()
 
-    response = session.get(url)
-    content = response.content
-    
-    total_records = find_total_records(BeautifulSoup(content, "lxml"))
-    if total_records == 300: 
-        print("NOTE: MAX RECORD COUNT HIT WITH URL", url)
+        total_records = find_total_records(BeautifulSoup(content, "lxml"))
+        if total_records == 300:
+            print("NOTE: MAX RECORD COUNT HIT WITH URL", url)
 
-    # 0-50 records means no additional pages, 51-100 means 1 additional page, etc.
-    additional_pages = max(0, total_records // 50 - (not (total_records % 50))) # note 0 gives -1
-    page_url = "https://more.app.vanderbilt.edu/more/SearchClassesExecute!switchPage.action?pageNum="
+        # 0-50 records means no additional pages, 51-100 means 1 additional page, etc.
+        additional_pages = max(0, total_records // 50 - (not (total_records % 50))) # note 0 gives -1
+        page_url = "https://more.app.vanderbilt.edu/more/SearchClassesExecute!switchPage.action?pageNum="
 
-    for i in range(additional_pages):
-        add_response = session.get(page_url + str(i + 2))
-        content += add_response.content
-    
-    soup = BeautifulSoup(content, "lxml")
-    return soup
+        # Fetch additional pages SEQUENTIALLY using the same session
+        for i in range(additional_pages):
+            async with search_session.get(page_url + str(i + 2)) as add_response:
+                content += await add_response.read()
+
+        soup = BeautifulSoup(content, "lxml")
+        return soup
 
 def scrape_listings_for_keyword(soup):
     # find all <td> with "classNumber_" in id
@@ -93,13 +97,32 @@ def update_course_listings(new_data):
     with open('data/course_listings.json', 'w') as file:
         json.dump(existing_data, file, indent=4)
 
-def iterate_keywords():
+async def process_keyword(url, addon, session, semaphore):
+    """Process a single keyword with rate limiting. Returns scraped data."""
+    async with semaphore:
+        try:
+            soup = await fetch(url, session)
+            new_data = scrape_listings_for_keyword(soup)
+            return new_data
+        except Exception as e:
+            print(f"error scraping listings for keyword '{addon}': {e}")
+            return []
+
+async def iterate_keywords(max_concurrent=10):
+    """
+    Scrape course listings for all keywords concurrently.
+
+    Parameters:
+    max_concurrent (int): Maximum number of concurrent requests (default: 10)
+    """
     base_url = "https://more.app.vanderbilt.edu/more/SearchClassesExecute!search.action?keywords="
 
     edges = [100, 110, 385, 799, 850, 899] # keywords that have over 300 entries (gets truncated)
     # skip *999 series since it's mostly phd dissertation research (7999, 8999, 9999 have 300+ each)
-    for i in tqdm(range(999), desc="Generating course listings", unit="keyword"):
 
+    # Build list of all URLs to fetch
+    urls_and_addons = []
+    for i in range(999):
         if i in edges:
             addons = [str(j) + f"{i:03d}" for j in range(10)]
         else:
@@ -107,14 +130,27 @@ def iterate_keywords():
 
         for addon in addons:
             url = base_url + addon
+            urls_and_addons.append((url, addon))
 
-            # response = requests.get(url)
-            # content = response.content
-            # total_records = find_total_records(BeautifulSoup(content, "lxml"))
+    # Create semaphore for rate limiting
+    semaphore = asyncio.Semaphore(max_concurrent)
 
-            try:
-                soup = fetch(url)
-                new_data = scrape_listings_for_keyword(soup)
-                update_course_listings(new_data)
-            except:
-                print(f"error scraping listings for keyword '{addon}'") 
+    # Collect all results in memory
+    all_new_data = []
+
+    # Create aiohttp session
+    async with aiohttp.ClientSession() as session:
+        # Create tasks for all URLs
+        tasks = []
+        for url, addon in urls_and_addons:
+            task = process_keyword(url, addon, session, semaphore)
+            tasks.append(task)
+
+        # Process all tasks with progress bar and collect results
+        for coro in tqdm.as_completed(tasks, desc="Generating course listings", unit="keyword", total=len(tasks)):
+            result = await coro
+            all_new_data.extend(result)
+
+    # Write all results once at the end
+    print("Writing course listings to file...")
+    update_course_listings(all_new_data) 

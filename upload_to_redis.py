@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from redis.commands.search.field import TextField, NumericField, TagField
 from redis.commands.search.indexDefinition import IndexDefinition, IndexType
 
-BATCH_SIZE = 1000
+BATCH_SIZE = 500
 
 def create_index(r: redis.Redis):
     try:
@@ -53,7 +53,7 @@ def create_index(r: redis.Redis):
             print("Index already exists, skipping creation.")
         else:
             raise
-def upload_courses(r: redis.Redis, courses, skip_unchanged=False):
+def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
     pipe = r.pipeline(transaction=False)
     count = 0
 
@@ -66,19 +66,24 @@ def upload_courses(r: redis.Redis, courses, skip_unchanged=False):
 
     for course in courses:
         key = f"course:{course['id']}"
-        existing = r.json().get(key)
+
+        # Only fetch existing data if we need to check for changes
+        if dont_skip_unchanged:
+            existing = r.json().get(key)
+        else:
+            # Check if key exists without fetching the data
+            existing = r.exists(key)
 
         if not existing:
             pipe.json().set(key, "$", course, nx=True)
             new_courses += 1
         else:
-            if not skip_unchanged:
-                # Update all fields
-                for field, new_val in course.items():
-                    pipe.json().set(key, f"$.{field}", new_val)
+            if not dont_skip_unchanged:
+                # Replace entire document with one command (much more efficient)
+                pipe.json().set(key, "$", course)
                 updated_courses += 1
             else:
-                # Update only changed fields
+                # Update only changed fields - we have the full existing data
                 updated = False
                 for field, new_val in course.items():
                     old_val = existing.get(field)
@@ -117,7 +122,7 @@ def upload_courses(r: redis.Redis, courses, skip_unchanged=False):
 def main():
     parser = argparse.ArgumentParser(description="Upload course data to Redis with optional skip-unchanged")
     parser.add_argument("data_file", help="Path to JSON data file")
-    parser.add_argument("--skip-unchanged", action="store_true", help="Skip writing unchanged fields to Redis")
+    parser.add_argument("--dont-skip-unchanged", action="store_true", help="Don't skip unchanged fields (overwrite all fields)")
     args = parser.parse_args()
 
     # Load environment variables from .env
@@ -125,7 +130,7 @@ def main():
     redis_url = os.getenv("REDIS_URL", "redis://localhost:6379")
     r = redis.Redis.from_url(redis_url)
 
-    # # Clear all data from Redis
+    # Clear all data from Redis (comment out if you want to update existing data)
     # r.flushall()
 
     # Load course data
@@ -142,7 +147,7 @@ def main():
         c["school_tag"] = c.get("school", "")
 
     create_index(r)
-    upload_courses(r, courses, skip_unchanged=args.skip_unchanged)
+    upload_courses(r, courses, dont_skip_unchanged=not args.dont_skip_unchanged)
 
 if __name__ == "__main__":
     main()

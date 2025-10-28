@@ -1,6 +1,8 @@
 import json, traceback
+import aiohttp
+import asyncio
 from bs4 import BeautifulSoup
-from tqdm import tqdm
+from tqdm.asyncio import tqdm
 from listings import fetch
 
 def extract_class_details(soup):
@@ -141,7 +143,7 @@ def update_course_details(new_data):
             existing_data = json.load(file)
     except FileNotFoundError:
         existing_data = []
-    
+
     # convert to dict for easy saving
     existing_data_dict = {entry["id"]: entry for entry in existing_data}
     id = new_data["id"]
@@ -149,21 +151,88 @@ def update_course_details(new_data):
 
     # back to list for saving
     updated_data = list(existing_data_dict.values())
-    
+
     with open('data/data.json', 'w') as file:
         json.dump(updated_data, file, indent=4)
 
-def iterate_listings():
+def batch_update_course_details(batch_data, existing_data_dict):
+    """Update existing data dict with a batch of new entries."""
+    for entry in batch_data:
+        if entry is not None:  # Skip failed scrapes
+            existing_data_dict[entry["id"]] = entry
+    return existing_data_dict
+
+def write_course_details(existing_data_dict):
+    """Write the data dict to file."""
+    updated_data = list(existing_data_dict.values())
+    with open('data/data.json', 'w') as file:
+        json.dump(updated_data, file, indent=4)
+
+async def process_listing(listing, session, semaphore):
+    """Process a single course listing with rate limiting. Returns scraped data."""
+    base_url = "https://more.app.vanderbilt.edu/more/GetClassSectionDetail.action?classNumber="
+    url = base_url + f"{listing['classNumber']}&termCode={listing['termCode']}"
+
+    async with semaphore:
+        try:
+            soup = await fetch(url, session)
+            current_data = scrape_course_details(soup, listing['termCode'])
+            return current_data
+        except Exception as e:
+            print(f"error scraping details for listing '{listing}': {e}")
+            traceback.print_exc()
+            return None
+
+async def iterate_listings(max_concurrent=10, batch_size=500):
+    """
+    Scrape course details for all listings concurrently with periodic batch writes.
+
+    Parameters:
+    max_concurrent (int): Maximum number of concurrent requests (default: 10)
+    batch_size (int): Number of listings to process before writing to disk (default: 500)
+    """
     with open('data/course_listings.json', 'r') as file:
         data = json.load(file)
-    
-    base_url = "https://more.app.vanderbilt.edu/more/GetClassSectionDetail.action?classNumber="
-    for listing in tqdm(data, desc="Scraping data", unit="listing"):
-        url = base_url + f"{listing['classNumber']}&termCode={listing['termCode']}"
-        try:
-            soup = fetch(url)
-            current_data = scrape_course_details(soup, listing['termCode'])
-            update_course_details(current_data)
-        except Exception as e:
-            print(f"error scraping details for listing '{listing}': {e}") 
-            traceback.print_exc()
+
+    # Load existing data once at the start
+    try:
+        with open('data/data.json', 'r') as file:
+            existing_data = json.load(file)
+    except FileNotFoundError:
+        existing_data = []
+
+    existing_data_dict = {entry["id"]: entry for entry in existing_data}
+
+    # Create semaphore for rate limiting
+    semaphore = asyncio.Semaphore(max_concurrent)
+
+    # Batch collection
+    current_batch = []
+    completed_count = 0
+
+    # Create aiohttp session
+    async with aiohttp.ClientSession() as session:
+        # Create tasks for all listings
+        tasks = []
+        for listing in data:
+            task = process_listing(listing, session, semaphore)
+            tasks.append(task)
+
+        # Process all tasks with progress bar and periodic writes
+        for coro in tqdm.as_completed(tasks, desc="Scraping data", unit="listing", total=len(tasks)):
+            result = await coro
+            current_batch.append(result)
+            completed_count += 1
+
+            # Write batch when we hit batch_size
+            if len(current_batch) >= batch_size:
+                existing_data_dict = batch_update_course_details(current_batch, existing_data_dict)
+                write_course_details(existing_data_dict)
+                print(f"\nWrote batch of {len(current_batch)} listings ({completed_count}/{len(tasks)} total)")
+                current_batch = []
+
+    # Write any remaining data
+    if current_batch:
+        existing_data_dict = batch_update_course_details(current_batch, existing_data_dict)
+        write_course_details(existing_data_dict)
+        print(f"\nWrote final batch of {len(current_batch)} listings ({completed_count}/{len(tasks)} total)")
