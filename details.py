@@ -245,7 +245,7 @@ async def iterate_listings(max_concurrent=10, batch_size=500):
         # Retry failed listings once
         if failed_listings:
             print(f"\nRetrying {len(failed_listings)} failed listing(s)...")
-            print(f'Retrying the following failures: {", ".join(f"({listing['classNumber']}, {listing['termCode']})" for listing in failed_listings)}')
+            print(f"Retrying the following failures: {", ".join(f"({listing["classNumber"]}, {listing["termCode"]})" for listing in failed_listings)}")
             retry_tasks = []
             for listing in failed_listings:
                 task = process_listing(listing, session, semaphore)

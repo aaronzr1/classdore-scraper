@@ -169,7 +169,7 @@ async def iterate_keywords(max_concurrent=10):
         # Retry failed keywords once
         if failed_items:
             print(f"\nRetrying {len(failed_items)} failed keyword(s)...")
-            print(f"Retrying the following failures: {', '.join(addon for _, addon in failed_items)}")
+            print(f"Retrying the following failures: {", ".join(f"{addon}" for _, addon in failed_items)}")
             retry_tasks = []
             for url, addon in failed_items:
                 task = process_keyword(url, addon, session, semaphore, retry_attempt=1)
