@@ -38484,5 +38484,215 @@
         "keyword": "777",
         "scraped_at": "2025-10-29T02:46:09.413973",
         "retry_attempt": 0
+    },
+    {
+        "classNumber": "9009",
+        "termCode": "1060",
+        "keyword": "180",
+        "scraped_at": "2025-10-29T05:40:00.458224",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "4788",
+        "termCode": "1060",
+        "keyword": "400",
+        "scraped_at": "2025-10-29T05:40:06.173245",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9368",
+        "termCode": "1060",
+        "keyword": "400",
+        "scraped_at": "2025-10-29T05:40:06.173245",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9369",
+        "termCode": "1060",
+        "keyword": "400",
+        "scraped_at": "2025-10-29T05:40:06.173245",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9026",
+        "termCode": "1060",
+        "keyword": "190",
+        "scraped_at": "2025-10-29T05:40:10.322300",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9002",
+        "termCode": "1060",
+        "keyword": "200",
+        "scraped_at": "2025-10-29T05:40:19.571855",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9003",
+        "termCode": "1060",
+        "keyword": "200",
+        "scraped_at": "2025-10-29T05:40:19.571855",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9001",
+        "termCode": "1060",
+        "keyword": "210",
+        "scraped_at": "2025-10-29T05:40:30.361617",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9004",
+        "termCode": "1060",
+        "keyword": "210",
+        "scraped_at": "2025-10-29T05:40:30.361617",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "8997",
+        "termCode": "1060",
+        "keyword": "8110",
+        "scraped_at": "2025-10-29T05:40:39.701512",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9011",
+        "termCode": "1060",
+        "keyword": "220",
+        "scraped_at": "2025-10-29T05:40:41.665747",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9016",
+        "termCode": "1060",
+        "keyword": "9110",
+        "scraped_at": "2025-10-29T05:40:41.784935",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9017",
+        "termCode": "1060",
+        "keyword": "9110",
+        "scraped_at": "2025-10-29T05:40:41.784935",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9019",
+        "termCode": "1060",
+        "keyword": "871",
+        "scraped_at": "2025-10-29T05:40:45.691111",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9013",
+        "termCode": "1060",
+        "keyword": "230",
+        "scraped_at": "2025-10-29T05:40:49.229452",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9015",
+        "termCode": "1060",
+        "keyword": "120",
+        "scraped_at": "2025-10-29T05:40:50.826372",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9087",
+        "termCode": "1060",
+        "keyword": "240",
+        "scraped_at": "2025-10-29T05:40:57.319003",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9088",
+        "termCode": "1060",
+        "keyword": "240",
+        "scraped_at": "2025-10-29T05:40:57.319003",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "8998",
+        "termCode": "1060",
+        "keyword": "130",
+        "scraped_at": "2025-10-29T05:40:58.696886",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "8999",
+        "termCode": "1060",
+        "keyword": "130",
+        "scraped_at": "2025-10-29T05:40:58.696886",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9020",
+        "termCode": "1060",
+        "keyword": "891",
+        "scraped_at": "2025-10-29T05:41:03.036662",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9021",
+        "termCode": "1060",
+        "keyword": "891",
+        "scraped_at": "2025-10-29T05:41:03.036662",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9089",
+        "termCode": "1060",
+        "keyword": "890",
+        "scraped_at": "2025-10-29T05:41:03.784383",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9090",
+        "termCode": "1060",
+        "keyword": "890",
+        "scraped_at": "2025-10-29T05:41:03.784383",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "10775",
+        "termCode": "1060",
+        "keyword": "890",
+        "scraped_at": "2025-10-29T05:41:03.784383",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9205",
+        "termCode": "1060",
+        "keyword": "250",
+        "scraped_at": "2025-10-29T05:41:07.737903",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9000",
+        "termCode": "1060",
+        "keyword": "140",
+        "scraped_at": "2025-10-29T05:41:08.741532",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9005",
+        "termCode": "1060",
+        "keyword": "150",
+        "scraped_at": "2025-10-29T05:41:16.725331",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9006",
+        "termCode": "1060",
+        "keyword": "160",
+        "scraped_at": "2025-10-29T05:41:26.054740",
+        "retry_attempt": 0
+    },
+    {
+        "classNumber": "9007",
+        "termCode": "1060",
+        "keyword": "817",
+        "scraped_at": "2025-10-29T05:41:28.878855",
+        "retry_attempt": 0
     }
 ]
