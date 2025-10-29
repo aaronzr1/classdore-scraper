@@ -177,7 +177,7 @@ async def process_listing(listing, session, semaphore, save_failed_html=False):
     url = base_url + f"{listing['classNumber']}&termCode={listing['termCode']}"
 
     async with semaphore:
-        await asyncio.sleep(0.5)  # Small delay to avoid rate limiting
+        await asyncio.sleep(0.3)  # Small delay to avoid rate limiting
         try:
             async with session.get(url) as response:
                 html = await response.text()
