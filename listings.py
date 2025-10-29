@@ -3,6 +3,7 @@ import aiohttp
 import asyncio
 import re
 import json
+from datetime import datetime
 from bs4 import BeautifulSoup
 from tqdm.asyncio import tqdm
 
@@ -59,22 +60,30 @@ async def fetch(url, session):
         soup = BeautifulSoup(content, "lxml")
         return soup
 
-def scrape_listings_for_keyword(soup):
+def scrape_listings_for_keyword(soup, keyword, retry_attempt=0):
     # find all <td> with "classNumber_" in id
     listing_elements = soup.find_all('td', id=lambda x: x and x.startswith("classNumber_"))
 
     new_data = []
+    scraped_at = datetime.now().isoformat()
+
     for listing in listing_elements:
         onclick_text = listing.get('onclick', '')
-        
+
         class_number, term_code = None, None
         if "classNumber" in onclick_text and "termCode" in onclick_text:
             class_number = onclick_text.split("classNumber : '")[1].split("'")[0]
             term_code = onclick_text.split("termCode : '")[1].split("'")[0]
-        
+
         if class_number and term_code:
-            new_data.append({'classNumber': class_number, 'termCode': term_code})
-    
+            new_data.append({
+                'classNumber': class_number,
+                'termCode': term_code,
+                'keyword': keyword,
+                'scraped_at': scraped_at,
+                'retry_attempt': retry_attempt
+            })
+
     return new_data
 
 def update_course_listings(new_data):
@@ -100,12 +109,12 @@ def update_course_listings(new_data):
     with open('data/course_listings.json', 'w') as file:
         json.dump(existing_data, file, indent=4)
 
-async def process_keyword(url, addon, session, semaphore):
+async def process_keyword(url, addon, session, semaphore, retry_attempt=0):
     """Process a single keyword with rate limiting. Returns (scraped data, success status, url, addon)."""
     async with semaphore:
         try:
             soup = await fetch(url, session)
-            new_data = scrape_listings_for_keyword(soup)
+            new_data = scrape_listings_for_keyword(soup, keyword=addon, retry_attempt=retry_attempt)
             return new_data, True, url, addon
         except Exception as e:
             print(f"error scraping listings for keyword '{addon}': {e}")
@@ -147,7 +156,7 @@ async def iterate_keywords(max_concurrent=10):
         # Create tasks for all URLs
         tasks = []
         for url, addon in urls_and_addons:
-            task = process_keyword(url, addon, session, semaphore)
+            task = process_keyword(url, addon, session, semaphore, retry_attempt=0)
             tasks.append(task)
 
         # Process all tasks with progress bar and collect results
@@ -162,7 +171,7 @@ async def iterate_keywords(max_concurrent=10):
             print(f"\nRetrying {len(failed_items)} failed keyword(s)...")
             retry_tasks = []
             for url, addon in failed_items:
-                task = process_keyword(url, addon, session, semaphore)
+                task = process_keyword(url, addon, session, semaphore, retry_attempt=1)
                 retry_tasks.append(task)
 
             for coro in tqdm.as_completed(retry_tasks, desc="Retrying failed keywords", unit="keyword", total=len(retry_tasks)):
