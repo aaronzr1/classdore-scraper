@@ -101,19 +101,19 @@ def update_course_listings(new_data):
         json.dump(existing_data, file, indent=4)
 
 async def process_keyword(url, addon, session, semaphore):
-    """Process a single keyword with rate limiting. Returns scraped data."""
+    """Process a single keyword with rate limiting. Returns (scraped data, success status, url, addon)."""
     async with semaphore:
         try:
             soup = await fetch(url, session)
             new_data = scrape_listings_for_keyword(soup)
-            return new_data
+            return new_data, True, url, addon
         except Exception as e:
             print(f"error scraping listings for keyword '{addon}': {e}")
-            return []
+            return [], False, url, addon
 
 async def iterate_keywords(max_concurrent=10):
     """
-    Scrape course listings for all keywords concurrently.
+    Scrape course listings for all keywords concurrently with retry on failure.
 
     Parameters:
     max_concurrent (int): Maximum number of concurrent requests (default: 10)
@@ -138,8 +138,9 @@ async def iterate_keywords(max_concurrent=10):
     # Create semaphore for rate limiting
     semaphore = asyncio.Semaphore(max_concurrent)
 
-    # Collect all results in memory
+    # Collect all results in memory and track failures
     all_new_data = []
+    failed_items = []
 
     # Create aiohttp session
     async with aiohttp.ClientSession() as session:
@@ -151,8 +152,24 @@ async def iterate_keywords(max_concurrent=10):
 
         # Process all tasks with progress bar and collect results
         for coro in tqdm.as_completed(tasks, desc="Generating course listings", unit="keyword", total=len(tasks)):
-            result = await coro
-            all_new_data.extend(result)
+            data, success, url, addon = await coro
+            all_new_data.extend(data)
+            if not success:
+                failed_items.append((url, addon))
+
+        # Retry failed keywords once
+        if failed_items:
+            print(f"\nRetrying {len(failed_items)} failed keyword(s)...")
+            retry_tasks = []
+            for url, addon in failed_items:
+                task = process_keyword(url, addon, session, semaphore)
+                retry_tasks.append(task)
+
+            for coro in tqdm.as_completed(retry_tasks, desc="Retrying failed keywords", unit="keyword", total=len(retry_tasks)):
+                data, success, url, addon = await coro
+                all_new_data.extend(data)
+                if not success:
+                    print(f"Retry also failed for keyword '{addon}'")
 
     # Write all results once at the end
     print("Writing course listings to file...")
