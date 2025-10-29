@@ -77,7 +77,7 @@ jobs:
           fi
 
       - name: Upload to Redis
-        if: steps.check_data_changes.outputs.has_changes == 'true' && !inputs.skip_upload
+        # if: steps.check_data_changes.outputs.has_changes == 'true' && !inputs.skip_upload
         run: python upload_to_redis.py data/data.json
 
       - name: Commit and push (data-pipeline branch)
