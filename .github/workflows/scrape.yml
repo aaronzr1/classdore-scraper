@@ -17,6 +17,10 @@ on:
         description: 'Skip commit and push step'
         type: boolean
         default: false
+      delete_data_json:
+        description: 'Debug: Delete data/data.json before running'
+        type: boolean
+        default: false
 
 jobs:
   scrape-data:
@@ -58,6 +62,16 @@ jobs:
             git push origin data-pipeline
           else
             echo "No changes to merge"
+          fi
+
+      - name: Delete data.json (debug)
+        if: inputs.delete_data_json
+        run: |
+          if [ -f "data/data.json" ]; then
+            rm data/data.json
+            echo "Deleted data/data.json"
+          else
+            echo "data/data.json does not exist"
           fi
 
       - name: Check for UPLOAD_ONLY marker
