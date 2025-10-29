@@ -1,4 +1,4 @@
-name: Scrape listings (-l) and push (data-pipeline)
+name: Scrape data, upload to redis, and push (data-pipeline)
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-l:
+  scrape-data:
     runs-on: ubuntu-latest
 
     steps:
@@ -45,13 +45,28 @@ jobs:
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Scrape listings (-l)
+      - name: Run scraper
         if: steps.check_upload_only.outputs.skip == 'false'
-        run: python scraper.py -l
+        run: python scraper.py
+
+      - name: Check if data.json has changes
+        id: check_data_changes
+        run: |
+          if git diff --quiet HEAD~1 HEAD -- data/data.json; then
+            echo "No changes detected in data/data.json"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in data/data.json"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Upload to Redis
+        if: steps.check_data_changes.outputs.has_changes == 'true'
+        run: python upload_to_redis.py data/data.json
 
       - name: Commit and push (data-pipeline branch)
-        if: steps.check_upload_only.outputs.skip == 'false'
         run: |
           git add data/course_listings.json
-          git commit -m "Automated -l output for $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes"
+          git add data/data.json
+          git commit -m "Automated output for $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes"
           git push origin data-pipeline
