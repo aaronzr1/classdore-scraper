@@ -4,10 +4,26 @@ on:
   schedule:
     - cron: "30 8 * * *"  # 3:30 AM CT → 8:30 UTC
   workflow_dispatch:
+    inputs:
+      skip_scrape:
+        description: 'Skip scraping step'
+        type: boolean
+        default: false
+      skip_upload:
+        description: 'Skip Redis upload step'
+        type: boolean
+        default: false
+      skip_commit:
+        description: 'Skip commit and push step'
+        type: boolean
+        default: false
 
 jobs:
   scrape-data:
     runs-on: ubuntu-latest
+
+    env:
+      REDIS_URL: ${{ secrets.REDIS_URL }}
 
     steps:
       - name: Checkout repo
@@ -46,7 +62,7 @@ jobs:
           fi
 
       - name: Run scraper
-        if: steps.check_upload_only.outputs.skip == 'false'
+        if: steps.check_upload_only.outputs.skip == 'false' && !inputs.skip_scrape
         run: python scraper.py
 
       - name: Check if data.json has changes
@@ -61,10 +77,11 @@ jobs:
           fi
 
       - name: Upload to Redis
-        if: steps.check_data_changes.outputs.has_changes == 'true'
+        if: steps.check_data_changes.outputs.has_changes == 'true' && !inputs.skip_upload
         run: python upload_to_redis.py data/data.json
 
       - name: Commit and push (data-pipeline branch)
+        if: ${{ !inputs.skip_commit }}
         run: |
           git add data/course_listings.json
           git add data/data.json
