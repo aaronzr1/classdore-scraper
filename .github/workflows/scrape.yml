@@ -77,7 +77,7 @@ jobs:
       - name: Check if data.json has changes
         id: check_data_changes
         run: |
-          if git diff --quiet HEAD~1 HEAD -- data/data.json; then
+          if git diff --quiet -- data/data.json; then
             echo "No changes detected in data/data.json"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
