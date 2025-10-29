@@ -8,8 +8,8 @@ def main():
 
     parser.add_argument('-l', '--listings', action='store_true', help="Scrape course listings only")
     parser.add_argument('-d', '--details', action='store_true', help="Scrape course details only")
-    parser.add_argument('-c', '--concurrent', type=int, default=15,
-                        help="Maximum number of concurrent requests (default: 15)")
+    parser.add_argument('-c', '--concurrent', type=int, default=10,
+                        help="Maximum number of concurrent requests (default: 10)")
     parser.add_argument('-b', '--batch-size', type=int, default=1000,
                         help="Number of listings to process before writing to disk (default: 500)")
 

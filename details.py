@@ -1,9 +1,8 @@
-import json, traceback
+import json, traceback, os
 import aiohttp
 import asyncio
 from bs4 import BeautifulSoup
 from tqdm.asyncio import tqdm
-from listings import fetch
 
 def extract_class_details(soup):
     header = soup.find("h1").text.strip()
@@ -95,6 +94,10 @@ def extract_meetings_and_instructors(soup):
     return meeting_days, meeting_times, meeting_dates, formatted_instructors
 
 def scrape_course_details(soup, term_code):
+    # Validate we got the right page
+    if not soup.find("div", class_="classNumber"):
+        raise ValueError("Invalid HTML response - missing classNumber element")
+
     class_number = soup.find("div", class_="classNumber").text.split(":")[1].strip()
     course_dept, course_code, class_section, course_title = extract_class_details(soup)
     school, career, class_type, credit_hours, grading_basis, consent, term_year, term_season, session, dates, requirements = extract_other_details(soup)
@@ -168,17 +171,26 @@ def write_course_details(existing_data_dict):
     with open('data/data.json', 'w') as file:
         json.dump(updated_data, file, indent=4)
 
-async def process_listing(listing, session, semaphore):
+async def process_listing(listing, session, semaphore, save_failed_html=False):
     """Process a single course listing with rate limiting. Returns (scraped data, success status, listing)."""
     base_url = "https://more.app.vanderbilt.edu/more/GetClassSectionDetail.action?classNumber="
     url = base_url + f"{listing['classNumber']}&termCode={listing['termCode']}"
 
     async with semaphore:
+        await asyncio.sleep(0.2)  # Small delay to avoid rate limiting
         try:
-            soup = await fetch(url, session)
+            async with session.get(url) as response:
+                html = await response.text()
+
+            soup = BeautifulSoup(html, 'lxml')
             current_data = scrape_course_details(soup, listing['termCode'])
             return current_data, True, listing
         except Exception as e:
+            # Save one failed HTML for debugging
+            if save_failed_html and not os.path.exists('data/failed_response.html'):
+                os.makedirs('data', exist_ok=True)
+                with open('data/failed_response.html', 'w') as f:
+                    f.write(html if 'html' in locals() else "No HTML captured")
             print(f"error scraping details for listing '{listing}': {e}")
             traceback.print_exc()
             return None, False, listing
@@ -216,7 +228,7 @@ async def iterate_listings(max_concurrent=10, batch_size=500):
         # Create tasks for all listings
         tasks = []
         for listing in data:
-            task = process_listing(listing, session, semaphore)
+            task = process_listing(listing, session, semaphore, save_failed_html=True)
             tasks.append(task)
 
         # Process all tasks with progress bar and periodic writes
@@ -248,7 +260,7 @@ async def iterate_listings(max_concurrent=10, batch_size=500):
             print(f"Retrying the following failures: {', '.join('(' + listing['classNumber'] + ', ' + listing['termCode'] + ')' for listing in failed_listings)}")
             retry_tasks = []
             for listing in failed_listings:
-                task = process_listing(listing, session, semaphore)
+                task = process_listing(listing, session, semaphore, save_failed_html=True)
                 retry_tasks.append(task)
 
             for coro in tqdm.as_completed(retry_tasks, desc="Retrying failed listings", unit="listing", total=len(retry_tasks)):

@@ -54,6 +54,26 @@ def create_index(r: redis.Redis):
         else:
             raise
 def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
+    # Merge with existing compressed data to avoid losing data from failed scrapes
+    existing_courses = {}
+    try:
+        compressed = r.get("courses:all:compressed")
+        if compressed:
+            decompressed = zlib.decompress(base64.b64decode(compressed))
+            existing_data = json.loads(decompressed.decode())
+            existing_courses = {c["id"]: c for c in existing_data}
+            print(f"Loaded {len(existing_courses)} existing courses from Redis for merging")
+    except Exception as e:
+        print(f"No existing compressed data found or error loading: {e}")
+
+    # Merge: new data overwrites existing entries with same ID
+    for course in courses:
+        existing_courses[course["id"]] = course
+
+    # Use merged data for upload
+    merged_courses = list(existing_courses.values())
+    print(f"Uploading {len(merged_courses)} total courses ({len(courses)} from file, {len(merged_courses) - len(courses)} preserved from Redis)")
+
     pipe = r.pipeline(transaction=False)
     count = 0
 
@@ -62,9 +82,9 @@ def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
     skipped_courses = 0
 
     start_time = time.time()
-    pbar = tqdm(total=len(courses), desc="Uploading courses", ncols=100, dynamic_ncols=True)
+    pbar = tqdm(total=len(merged_courses), desc="Uploading courses", ncols=100, dynamic_ncols=True)
 
-    for course in courses:
+    for course in merged_courses:
         key = f"course:{course['id']}"
 
         # Only fetch existing data if we need to check for changes
@@ -98,7 +118,7 @@ def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
         count += 1
         pbar.update(1)
 
-        if count % BATCH_SIZE == 0 or count == len(courses):
+        if count % BATCH_SIZE == 0 or count == len(merged_courses):
             batch_start = time.time()
             pipe.execute()
             batch_end = time.time()
@@ -111,13 +131,13 @@ def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
 
     pbar.close()
 
-    compressed = base64.b64encode(zlib.compress(json.dumps(courses).encode()))
+    compressed = base64.b64encode(zlib.compress(json.dumps(merged_courses).encode()))
     r.set("courses:all:compressed", compressed)
 
     total_elapsed = time.time() - start_time
     print(f"\nAll courses uploaded in {total_elapsed:.1f} seconds")
     print(f"Summary: {new_courses} new, {updated_courses} updated, {skipped_courses} unchanged/skipped")
-    print(f"Stored {len(courses)} courses into single key 'courses:all'")
+    print(f"Stored {len(merged_courses)} courses into 'courses:all:compressed' (merged from existing data)")
 
 def main():
     parser = argparse.ArgumentParser(description="Upload course data to Redis with optional skip-unchanged")
