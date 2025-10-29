@@ -2,11 +2,16 @@ name: Scrape data, upload to redis, and push (data-pipeline)
 
 on:
   schedule:
-    - cron: "30 8 * * *"  # 3:30 AM CT → 8:30 UTC
+    - cron: "30 8 * * *"  # 3:30 AM CT → 8:30 UTC (full scrape)
+    - cron: "17 * * * *"  # Every hour at minute 17 (delta scrape)
   workflow_dispatch:
     inputs:
       skip_scrape:
         description: 'Skip scraping step'
+        type: boolean
+        default: false
+      details_only:
+        description: 'Only scrape details (skip listings generation)'
         type: boolean
         default: false
       skip_upload:
@@ -84,9 +89,36 @@ jobs:
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Determine scrape type and add random delay
+        id: scrape_type
+        run: |
+          HOUR=$(date -u +%H)
+          MINUTE=$(date -u +%M)
+          if [ "$HOUR" = "08" ] && [ "$MINUTE" = "30" ]; then
+            echo "Running full scrape (scheduled 3:30 AM CT)"
+            echo "is_delta=false" >> $GITHUB_OUTPUT
+          else
+            echo "Running delta scrape (hourly)"
+            echo "is_delta=true" >> $GITHUB_OUTPUT
+            # Random delay between 0-20 minutes (0-1200 seconds)
+            DELAY=$((RANDOM % 1201))
+            echo "Adding random delay of $DELAY seconds (~$((DELAY / 60)) minutes)"
+            sleep $DELAY
+          fi
+
       - name: Run scraper
         if: steps.check_upload_only.outputs.skip == 'false' && !inputs.skip_scrape
-        run: python scraper.py
+        run: |
+          if [ "${{ inputs.details_only }}" = "true" ]; then
+            echo "Running details-only scrape (using existing course_listings.json)"
+            python scraper.py -d
+          elif [ "${{ steps.scrape_type.outputs.is_delta }}" = "true" ]; then
+            echo "Running delta scrape (using existing course_listings.json)"
+            python scraper.py -d
+          else
+            echo "Running full scrape (listings + details)"
+            python scraper.py
+          fi
 
       - name: Check if data.json has changes
         id: check_data_changes
