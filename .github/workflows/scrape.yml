@@ -17,6 +17,10 @@ on:
         description: 'Skip commit and push step'
         type: boolean
         default: false
+      delete_data_json:
+        description: 'Debug: Delete data/data.json before running'
+        type: boolean
+        default: false
 
 jobs:
   scrape-data:
@@ -34,7 +38,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Install deps
         run: pip install -r requirements.txt
@@ -60,6 +64,16 @@ jobs:
             echo "No changes to merge"
           fi
 
+      - name: Delete data.json (debug)
+        if: inputs.delete_data_json
+        run: |
+          if [ -f "data/data.json" ]; then
+            rm data/data.json
+            echo "Deleted data/data.json"
+          else
+            echo "data/data.json does not exist"
+          fi
+
       - name: Check for UPLOAD_ONLY marker
         id: check_upload_only
         run: |
@@ -77,7 +91,7 @@ jobs:
       - name: Check if data.json has changes
         id: check_data_changes
         run: |
-          if git diff --quiet HEAD~1 HEAD -- data/data.json; then
+          if git diff --quiet -- data/data.json; then
             echo "No changes detected in data/data.json"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
