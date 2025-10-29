@@ -169,7 +169,7 @@ def write_course_details(existing_data_dict):
         json.dump(updated_data, file, indent=4)
 
 async def process_listing(listing, session, semaphore):
-    """Process a single course listing with rate limiting. Returns scraped data."""
+    """Process a single course listing with rate limiting. Returns (scraped data, success status, listing)."""
     base_url = "https://more.app.vanderbilt.edu/more/GetClassSectionDetail.action?classNumber="
     url = base_url + f"{listing['classNumber']}&termCode={listing['termCode']}"
 
@@ -177,15 +177,15 @@ async def process_listing(listing, session, semaphore):
         try:
             soup = await fetch(url, session)
             current_data = scrape_course_details(soup, listing['termCode'])
-            return current_data
+            return current_data, True, listing
         except Exception as e:
             print(f"error scraping details for listing '{listing}': {e}")
             traceback.print_exc()
-            return None
+            return None, False, listing
 
 async def iterate_listings(max_concurrent=10, batch_size=500):
     """
-    Scrape course details for all listings concurrently with periodic batch writes.
+    Scrape course details for all listings concurrently with periodic batch writes and retry on failure.
 
     Parameters:
     max_concurrent (int): Maximum number of concurrent requests (default: 10)
@@ -206,8 +206,9 @@ async def iterate_listings(max_concurrent=10, batch_size=500):
     # Create semaphore for rate limiting
     semaphore = asyncio.Semaphore(max_concurrent)
 
-    # Batch collection
+    # Batch collection and failure tracking
     current_batch = []
+    failed_listings = []
     completed_count = 0
 
     # Create aiohttp session
@@ -220,9 +221,12 @@ async def iterate_listings(max_concurrent=10, batch_size=500):
 
         # Process all tasks with progress bar and periodic writes
         for coro in tqdm.as_completed(tasks, desc="Scraping data", unit="listing", total=len(tasks)):
-            result = await coro
-            current_batch.append(result)
+            result_data, success, listing = await coro
+            current_batch.append(result_data)
             completed_count += 1
+
+            if not success:
+                failed_listings.append(listing)
 
             # Write batch when we hit batch_size
             if len(current_batch) >= batch_size:
@@ -231,8 +235,30 @@ async def iterate_listings(max_concurrent=10, batch_size=500):
                 print(f"\nWrote batch of {len(current_batch)} listings ({completed_count}/{len(tasks)} total)")
                 current_batch = []
 
-    # Write any remaining data
-    if current_batch:
-        existing_data_dict = batch_update_course_details(current_batch, existing_data_dict)
-        write_course_details(existing_data_dict)
-        print(f"\nWrote final batch of {len(current_batch)} listings ({completed_count}/{len(tasks)} total)")
+        # Write any remaining data from first pass
+        if current_batch:
+            existing_data_dict = batch_update_course_details(current_batch, existing_data_dict)
+            write_course_details(existing_data_dict)
+            print(f"\nWrote final batch of {len(current_batch)} listings ({completed_count}/{len(tasks)} total)")
+            current_batch = []
+
+        # Retry failed listings once
+        if failed_listings:
+            print(f"\nRetrying {len(failed_listings)} failed listing(s)...")
+            retry_tasks = []
+            for listing in failed_listings:
+                task = process_listing(listing, session, semaphore)
+                retry_tasks.append(task)
+
+            for coro in tqdm.as_completed(retry_tasks, desc="Retrying failed listings", unit="listing", total=len(retry_tasks)):
+                result_data, success, listing = await coro
+                if result_data:
+                    current_batch.append(result_data)
+                if not success:
+                    print(f"Retry also failed for listing '{listing}'")
+
+            # Write retry results
+            if current_batch:
+                existing_data_dict = batch_update_course_details(current_batch, existing_data_dict)
+                write_course_details(existing_data_dict)
+                print(f"\nWrote {len(current_batch)} retried listings")
