@@ -1,3 +1,4 @@
+import os
 import aiohttp
 import asyncio
 import re
@@ -94,6 +95,8 @@ def update_course_listings(new_data):
             existing_data.append(entry)
             existing_set.add(pair)
 
+    # ensure data directory exists
+    os.makedirs('data', exist_ok=True)
     with open('data/course_listings.json', 'w') as file:
         json.dump(existing_data, file, indent=4)
 
