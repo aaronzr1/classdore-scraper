@@ -132,7 +132,8 @@ def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
     pbar.close()
 
     compressed = base64.b64encode(zlib.compress(json.dumps(merged_courses).encode()))
-    r.set("courses:all:compressed", compressed)
+    r.set("courses:all:compressed:new", compressed)
+    r.rename("courses:all:compressed:new", "courses:all:compressed")
 
     total_elapsed = time.time() - start_time
     print(f"\nAll courses uploaded in {total_elapsed:.1f} seconds")

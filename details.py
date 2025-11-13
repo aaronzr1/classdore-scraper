@@ -3,6 +3,7 @@ import aiohttp
 import asyncio
 from bs4 import BeautifulSoup
 from tqdm.asyncio import tqdm
+from datetime import datetime
 
 def extract_class_details(soup):
     header = soup.find("h1").text.strip()
@@ -150,6 +151,15 @@ def update_course_details(new_data):
     # convert to dict for easy saving
     existing_data_dict = {entry["id"]: entry for entry in existing_data}
     id = new_data["id"]
+
+    # Only set timestamp for truly new courses
+    if id in existing_data_dict:
+        # Course exists - preserve existing date_added or keep as null
+        new_data["date_added"] = existing_data_dict[id].get("date_added", None)
+    else:
+        # Brand new course - set current timestamp
+        new_data["date_added"] = datetime.now().isoformat()
+
     existing_data_dict[id] = new_data # update or append
 
     # back to list for saving
@@ -162,7 +172,15 @@ def batch_update_course_details(batch_data, existing_data_dict):
     """Update existing data dict with a batch of new entries."""
     for entry in batch_data:
         if entry is not None:  # Skip failed scrapes
-            existing_data_dict[entry["id"]] = entry
+            course_id = entry["id"]
+            # Only set timestamp for truly new courses
+            if course_id in existing_data_dict:
+                # Course exists - preserve existing date_added or keep as null
+                entry["date_added"] = existing_data_dict[course_id].get("date_added", None)
+            else:
+                # Brand new course - set current timestamp
+                entry["date_added"] = datetime.now().isoformat()
+            existing_data_dict[course_id] = entry
     return existing_data_dict
 
 def write_course_details(existing_data_dict):
