@@ -103,7 +103,7 @@ jobs:
             # Random delay between 0-20 minutes (0-1200 seconds)
             DELAY=$((RANDOM % 1201))
             echo "Adding random delay of $DELAY seconds (~$((DELAY / 60)) minutes)"
-            # sleep $DELAY
+            sleep $DELAY
           fi
 
       - name: Run scraper
