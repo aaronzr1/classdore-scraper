@@ -41975,7 +41975,7 @@
         "capacity": "14",
         "enrolled": "16",
         "wl_capacity": "18",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -94270,9 +94270,9 @@
         "requirements": "ARTS 1600 or 1601 as pre-req",
         "description": "Advanced study in traditional and experimental printmaking processes. Prerequisite: 1600 or 1601. [3] (HCA)",
         "notes": "The combined enrollment capacity of ARTS 1601 01, ARTS 2600 01 and ARTS 3600 01 is 12. Although seats may appear open in a section if the combined enrollment capacity has been reached he course will close.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "2",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -112600,7 +112600,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "85",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
