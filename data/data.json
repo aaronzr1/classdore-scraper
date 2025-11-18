@@ -18098,7 +18098,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "28",
+        "enrolled": "30",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18259,7 +18259,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18498,7 +18498,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -48365,7 +48365,7 @@
         "notes": "Class is 100% online.",
         "status": "Open",
         "capacity": "425",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -53449,7 +53449,8 @@
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
-            "AXLE: Math and Natural Sciences"
+            "AXLE: Math and Natural Sciences",
+            "LE: MNS-Math and Natural Sciences"
         ],
         "meeting_days": [
             "TR",
@@ -80441,7 +80442,7 @@
         "notes": "This section is for FNP students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx.\n         \n            \n            Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Jackson, Heather",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -116768,7 +116769,7 @@
         "notes": "EdD only. Must enroll in all three ELP 9500 sections.\n         \n            \n            Class meets 1/30/26 4-8PM and 1/31/26 8AM-6PM",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -117011,7 +117012,7 @@
         "notes": "EdD only. Must enroll in all three ELP 9500 sections.\n         \n            \n            Class meets 02/27/26 4-8PM and 02/28/26 8AM-5PM",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -117292,7 +117293,7 @@
         "notes": "EdD only. Must enroll in all three ELP 9500 sections.\n         \n            \n            Class meets 03/13/26 4-8PM and 03/14/26 8AM-6PM",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -119679,7 +119680,7 @@
         "notes": "Undergraduate students must obtain the approval of the instructor and the DGS in the Math Department to enroll in this class.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -133831,7 +133832,8 @@
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
-            "AXLE: Math and Natural Sciences"
+            "AXLE: Math and Natural Sciences",
+            "LE: MNS-Math and Natural Sciences"
         ],
         "meeting_days": [
             "MWF"
@@ -133998,7 +134000,8 @@
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
-            "AXLE: Math and Natural Sciences"
+            "AXLE: Math and Natural Sciences",
+            "LE: MNS-Math and Natural Sciences"
         ],
         "meeting_days": [
             "MWF"
@@ -134081,7 +134084,8 @@
         "wl_capacity": "30",
         "wl_occupied": "24",
         "attributes": [
-            "AXLE: Math and Natural Sciences"
+            "AXLE: Math and Natural Sciences",
+            "LE: MNS-Math and Natural Sciences"
         ],
         "meeting_days": [
             "TR"
@@ -136984,7 +136988,7 @@
         "notes": "This section is for FNP students only.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "18",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -147130,7 +147134,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -155666,7 +155670,8 @@
         "wl_capacity": "50",
         "wl_occupied": "3",
         "attributes": [
-            "AXLE: Math and Natural Sciences"
+            "AXLE: Math and Natural Sciences",
+            "LE: MNS-Math and Natural Sciences"
         ],
         "meeting_days": [
             "MWF"
@@ -159888,7 +159893,7 @@
         "notes": "open to EdD Cohort; others by permission.\n         \n            \n            Meeting Dates: January 30/31; February 27/28; and March 27/28.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -169248,7 +169253,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -181046,7 +181051,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -181172,7 +181177,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -182086,7 +182091,7 @@
         "notes": "The combined enrollment capacity of MATH 4201 and MATH 6201 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -184776,7 +184781,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "22",
+        "wl_occupied": "21",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -185215,7 +185220,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Tapp, Melissa",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -186044,7 +186049,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "20",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -186530,7 +186535,7 @@
         "notes": "Open to Edd cohort; others by permission 2. Meeting dates: Jan 9,10; March 13-14; April 10-11",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -194923,6 +194928,7 @@
             "CORE: A-Written & Creative Expression",
             "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for European Studies",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -194960,7 +194966,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "130",
-        "enrolled": "50",
+        "enrolled": "53",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -200000,7 +200006,7 @@
         "notes": "The combined enrollment capacity of MATH 4301 and MATH 6301 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -203999,7 +204005,7 @@
         "notes": "Third-year ELP and HELP majors only. Meets on 01/09/2026, 01/10/2026, and 04/17/2026",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "5",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -215808,7 +215814,7 @@
         "notes": "Open to EdD Cohort; All others by permission only.\n         \n            \n            Meeting dates: January 9/10; March 13/14; and April 10/11.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "12",
+        "enrolled": "14",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -216428,7 +216434,7 @@
         "notes": "open to Edd cohort; others by permission\n         \n            \n            Meeting dates: Jan 30, 31; Feb 27,28; March 27,28",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -216483,7 +216489,7 @@
         "notes": "Class meets January 9/10; February 13/14; March 13/14. EdD students in HELP only.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "8",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
