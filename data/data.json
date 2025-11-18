@@ -39549,7 +39549,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -145785,7 +145785,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "63",
+        "enrolled": "64",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
