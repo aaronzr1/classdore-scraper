@@ -7528,9 +7528,9 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Contemporary and classical theories of law and society: rights theories, gender and the law; law and transitions to democracy; law between nations. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (HCA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -7652,7 +7652,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -7826,7 +7826,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -8022,7 +8022,7 @@
         "notes": "the combined enrollment capacity of CE 4410 and CE 5410 is 20. Although seats may appear open in a section, once the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "7",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -12893,7 +12893,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "0",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18259,7 +18259,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18498,7 +18498,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "25",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -24526,7 +24526,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -26330,6 +26330,7 @@
             "CORE: E-Ethical & Social Engagement",
             "Eligible for African American and Diaspora Studies",
             "Eligible for American Studies Major",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -26734,7 +26735,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "132",
+        "enrolled": "133",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -27968,6 +27969,7 @@
             "CORE: A-Written & Creative Expression",
             "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for American Studies Major",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -30396,7 +30398,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -33564,7 +33566,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35549,7 +35551,7 @@
         "description": "Origins and causes of the global conflict; the six years of military campaigns; politics and diplomacy of war-making; race as a factor shaping the war in Europe and Asia. Impact of technological innovations; social and economic aspects of the struggle, as well as its moral and psychological implications. [3] (INT)",
         "notes": null,
         "status": "Open",
-        "capacity": "150",
+        "capacity": "120",
         "enrolled": "117",
         "wl_capacity": "30",
         "wl_occupied": "3",
@@ -36236,7 +36238,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36318,7 +36320,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36793,7 +36795,7 @@
         "notes": "Students can enroll in any open section. This course will be taught entirely online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -37090,6 +37092,7 @@
             "AXLE: History and Culture of the United States",
             "CORE: C-Cultural & Interpretive Investigation",
             "CORE: E-Ethical & Social Engagement",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -38189,9 +38192,12 @@
         "wl_occupied": "6",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
+            "CORE: C-Cultural & Interpretive Investigation",
+            "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for American Studies Major",
             "Eligible for Film Studies",
             "Eligible for Gender and Sexuality Studies",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -40362,7 +40368,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "27",
-        "enrolled": "15",
+        "enrolled": "21",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -43157,6 +43163,7 @@
             "CORE: A-Written & Creative Expression",
             "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for American Studies Major",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -44185,7 +44192,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "130",
+        "enrolled": "131",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -44584,7 +44591,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "130",
+        "enrolled": "131",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -45032,7 +45039,10 @@
         "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
+            "CORE: C-Cultural & Interpretive Investigation",
+            "CORE: E-Ethical & Social Engagement",
             "Eligible for Medicine Health and Society",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -45228,7 +45238,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "130",
+        "enrolled": "131",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -45512,7 +45522,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "130",
+        "enrolled": "131",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -46279,7 +46289,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "135",
+        "enrolled": "136",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -47624,7 +47634,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "130",
+        "enrolled": "131",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -48238,7 +48248,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -48355,7 +48365,7 @@
         "notes": "Class is 100% online.",
         "status": "Open",
         "capacity": "425",
-        "enrolled": "56",
+        "enrolled": "57",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -49061,6 +49071,7 @@
         "wl_capacity": "100",
         "wl_occupied": "2",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -49344,6 +49355,7 @@
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -49588,6 +49600,7 @@
         "wl_capacity": "50",
         "wl_occupied": "2",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -49873,6 +49886,7 @@
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -50074,6 +50088,7 @@
         "wl_capacity": "100",
         "wl_occupied": "8",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -50314,6 +50329,7 @@
         "wl_capacity": "50",
         "wl_occupied": "2",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -50519,6 +50535,7 @@
         "wl_capacity": "50",
         "wl_occupied": "4",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -50765,6 +50782,7 @@
         "wl_capacity": "50",
         "wl_occupied": "2",
         "attributes": [
+            "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
         ],
         "meeting_days": [
@@ -51378,7 +51396,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for students with a home department at Peabody through initial enrollment period",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -52138,7 +52156,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Alston, Hailey",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -54773,11 +54791,11 @@
         "requirements": "Not open to students who have completed MHS 3890-06 offered spring 2021, or MHS 3890-03 offered fall 2020 without permission (Anti-Req)",
         "description": "Public health and health care delivery systems. Evolving social and economic climates that shape health. Topics include health care access, cost, quality, and health disparities; trends in health care industries; the global COVID-19 pandemic; and comparative health systems. Not open to students who have completed MHS 3890-06 offered spring 2021, or MHS 3890-03 offered fall 2020. [3] (US)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "20",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -70644,7 +70662,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -70803,7 +70821,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -71159,7 +71177,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -74712,6 +74730,7 @@
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
             "Eligible for Climate Studies",
+            "LE: MNS-Math and Natural Sciences",
             "LE: SBS-Social and Behavioral Sciences",
             "Next Steps Eligible"
         ],
@@ -74792,7 +74811,9 @@
         "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "3",
-        "attributes": null,
+        "attributes": [
+            "CORE: LA-World Language through 2nd Semester"
+        ],
         "meeting_days": [
             "TR"
         ],
@@ -74876,6 +74897,7 @@
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
             "Eligible for Climate Studies",
+            "LE: MNS-Math and Natural Sciences",
             "LE: SBS-Social and Behavioral Sciences",
             "Next Steps Eligible"
         ],
@@ -74956,7 +74978,9 @@
         "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
-        "attributes": null,
+        "attributes": [
+            "CORE: LA-World Language through 2nd Semester"
+        ],
         "meeting_days": [
             "MW"
         ],
@@ -75070,7 +75094,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "35",
         "wl_occupied": "5",
         "attributes": [
@@ -80417,7 +80441,7 @@
         "notes": "This section is for FNP students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx.\n         \n            \n            Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Jackson, Heather",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -81406,7 +81430,8 @@
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
-            "AXLE: Humanities and the Creative Arts"
+            "AXLE: Humanities and the Creative Arts",
+            "CORE: LA-World Language through 2nd Semester"
         ],
         "meeting_days": [
             "TR"
@@ -83920,7 +83945,8 @@
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
-            "AXLE: International Cultures"
+            "AXLE: International Cultures",
+            "CORE: LA-World Language through 2nd Semester"
         ],
         "meeting_days": [
             "TR"
@@ -86377,7 +86403,7 @@
         "notes": "This graduate-level seminar introduces students to computational biology from both a methodological and problem-driven perspective. We will examine how computational models and algorithms can be designed to address biological questions, spanning topics from data representation to simulation, benchmarking, and method development. Beyond learning how to analyze biological data, students will be encouraged to think critically about problem formulation and software implementation. The course will center on reading and discussing published papers from leading journals and conferences, using them as case studies to reflect on these steps in practice.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -92426,7 +92452,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor - Young, Jill",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -94803,6 +94829,8 @@
         "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
+            "CORE: B-Systemic & Structural Reasoning",
+            "CORE: E-Ethical & Social Engagement",
             "Eligible for Undergraduate Business Minor",
             "Eligible for Public Policy Studies",
             "LE: SBS-Social and Behavioral Sciences",
@@ -94994,12 +95022,12 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "CMA 2500W or THTR 2311W as a prerequisite",
+        "requirements": "Prerequisite: CMA 2500W",
         "description": "Story structure, character development, and dialogue. Prerequisite: 2500W. [3] (HCA)",
         "notes": "Prerequisite: CMA 2500W or THTR 2311W",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -97534,7 +97562,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Medicine Health and Society",
@@ -102915,6 +102943,7 @@
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: Humanities and the Creative Arts",
+            "CORE: LA-World Language through 2nd Semester",
             "Eligible for European Studies",
             "Eligible for Latin American Studies"
         ],
@@ -103949,7 +103978,7 @@
         "notes": "Individual Learning Agreement required.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "0",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -104780,7 +104809,10 @@
         "wl_occupied": "4",
         "attributes": [
             "AXLE: 2000-level and above W course",
-            "AXLE: Perspectives"
+            "AXLE: Perspectives",
+            "CORE: A-Written & Creative Expression",
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "R"
@@ -107296,9 +107328,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "16",
+        "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -107458,6 +107490,7 @@
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
+            "CORE: LA-World Language through 2nd Semester",
             "Eligible for Latin American Studies",
             "Eligible for Latino/Latina Studies",
             "Eligible for Medicine Health and Society",
@@ -113722,9 +113755,9 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Governmental institutions and political processes in the People's Republic of China with emphasis upon the interaction of traditional and revolutionary elements. Some attention to Taiwan since 1950 and to the overseas Chinese as parts of the Chinese political universe. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (INT)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -114080,7 +114113,7 @@
         "notes": "Class will meet in EBL 238.",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -114541,7 +114574,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -114746,7 +114779,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -115390,6 +115423,7 @@
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: Social and Behavioral Sciences",
+            "CORE: LA-World Language through 2nd Semester",
             "Eligible for Latin American Studies",
             "Eligible for Latino/Latina Studies"
         ],
@@ -115506,7 +115540,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -116569,7 +116603,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -116734,7 +116768,7 @@
         "notes": "EdD only. Must enroll in all three ELP 9500 sections.\n         \n            \n            Class meets 1/30/26 4-8PM and 1/31/26 8AM-6PM",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "5",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -116977,7 +117011,7 @@
         "notes": "EdD only. Must enroll in all three ELP 9500 sections.\n         \n            \n            Class meets 02/27/26 4-8PM and 02/28/26 8AM-5PM",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "5",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -117258,7 +117292,7 @@
         "notes": "EdD only. Must enroll in all three ELP 9500 sections.\n         \n            \n            Class meets 03/13/26 4-8PM and 03/14/26 8AM-6PM",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "5",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -119448,7 +119482,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120165,7 +120199,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "29",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120524,40 +120558,16 @@
         "requirements": "",
         "description": "Experiences of trauma, loss, and crises often bring people into counseling, and these experiences often overlap and intersect. This course will provide students with the knowledge and skills to assess behavioral, physiological, and emotional reactions to trauma, loss, and crises, to intervene using empirically supported interventions, and to engage in culturally, developmentally, and ethically attuned ways.  [3]",
         "notes": "Open to HDC students only. Meeting dates are: Feb. 20-21; March 20-21; April 10-11",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "25",
         "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "F",
-            "S",
-            "F",
-            "S",
-            "F",
-            "S"
-        ],
-        "meeting_times": [
-            "04:00p - 09:00p",
-            "08:00a - 06:00p",
-            "04:00p - 09:00p",
-            "08:00a - 06:00p",
-            "04:00p - 09:00p",
-            "08:00a - 06:00p"
-        ],
-        "meeting_dates": [
-            "2/20/26-2/20/26",
-            "2/21/26-2/21/26",
-            "3/20/26-3/20/26",
-            "3/21/26-3/21/26",
-            "4/10/26-4/10/26",
-            "4/11/26-4/11/26"
-        ],
-        "instructors": [
-            "Damiano, Alex",
-            "Johnson, Shantell A. (Secondary)"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -121344,7 +121354,12 @@
         "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "0",
-        "attributes": null,
+        "attributes": [
+            "AXLE: History and Culture of the United States",
+            "CORE: A-Written & Creative Expression",
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts"
+        ],
         "meeting_days": [
             "TR"
         ],
@@ -122090,6 +122105,7 @@
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
             "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -122293,7 +122309,8 @@
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
-            "CORE: C-Cultural & Interpretive Investigation"
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "TR"
@@ -122490,7 +122507,8 @@
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
-            "CORE: C-Cultural & Interpretive Investigation"
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "TR"
@@ -122690,7 +122708,8 @@
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
-            "CORE: C-Cultural & Interpretive Investigation"
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "TR"
@@ -122890,7 +122909,8 @@
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
-            "CORE: C-Cultural & Interpretive Investigation"
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "TR"
@@ -123096,7 +123116,8 @@
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
-            "CORE: C-Cultural & Interpretive Investigation"
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "TR"
@@ -123925,6 +123946,7 @@
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
+            "CORE: LA-World Language through 2nd Semester",
             "Additional fees associated with travel/accomodatn",
             "Immersion: Experiential",
             "Next Steps Eligible",
@@ -124708,7 +124730,7 @@
         "notes": "The combined enrollment capacity of CE 4430 and CE 5430 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "7",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -126073,7 +126095,7 @@
         "notes": "The combined enrollment capacity of PSY-GS 8450 and PSY-PC 7500-02 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -127135,7 +127157,7 @@
         "notes": "The behavior and physiological development of infants reflect a complex interaction between evolutionary history and genetics, prenatal environmental influences, and early postnatal experience. An overview of each of these topics is provided through classroom discussions and reading assignments focusing on recent empirical studies and major theoretical issues. Prerequisite: PSY-PC 1250\n         \n            \n            Fifteen seats reserved for Peabody students through the initial enrollment period.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -128674,6 +128696,7 @@
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
+            "CORE: LA-World Language through 2nd Semester",
             "Eligible for Undergraduate Business Minor",
             "Eligible for European Studies",
             "Eligible for Latin American Studies",
@@ -129159,7 +129182,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "An historical overview of the different religious traditions in Islam, their basis in the Qur'an and life of the Prophet, their proliferation in the medieval period, and their response to the challenge of modernity. Topics include sunni and shi'i Islam, evolution of law and theology, sufism and political philosophy. Islam in Africa, India, Spain, and southeast Asia as well as the Middle East. [3] (HCA)",
+        "description": "An historical overview of the different religious traditions in Islam, their basis in the Qur'an and life of the Prophet, their proliferation in the medieval period, and their response to the challenge of modernity. Topics include sunni and shi'i Islam, evolution of law and theology, sufism and political philosophy. Islam in Africa, India, Spain, and southeast Asia as well as the Middle East. [3] (HCA) (CORE: C, E)",
         "notes": "Instructor: Brittany Landorf",
         "status": "Open",
         "capacity": "25",
@@ -129168,6 +129191,8 @@
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
+            "CORE: C-Cultural & Interpretive Investigation",
+            "CORE: E-Ethical & Social Engagement",
             "Eligible for Asian Studies",
             "Eligible for Islamic Studies",
             "Next Steps Eligible"
@@ -129775,7 +129800,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130366,7 +130391,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130488,7 +130513,8 @@
         "wl_capacity": "12",
         "wl_occupied": "9",
         "attributes": [
-            "AXLE: Social and Behavioral Sciences"
+            "AXLE: Social and Behavioral Sciences",
+            "Eligible for Undergraduate Business Minor"
         ],
         "meeting_days": [
             "TR"
@@ -132441,7 +132467,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -132571,7 +132597,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "90",
-        "enrolled": "65",
+        "enrolled": "66",
         "wl_capacity": "35",
         "wl_occupied": "0",
         "attributes": [
@@ -132741,11 +132767,11 @@
         "requirements": "",
         "description": "This course offers students the opportunity to explore entrepreneurship through acquisition (ETA) of existing businesses with established products or services. The course serves as a practical guide to identifying, evaluating, acquiring, and ultimately leading a business as an entrepreneur. Students will explore the full lifecycle of ETA, culminating in a mock search simulation that applies the frameworks and tools discussed in class. [2]",
         "notes": "Instructor - George Malone",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "55",
-        "enrolled": "53",
+        "enrolled": "55",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -132905,7 +132931,7 @@
         "notes": "This section is for 1st-Year SLP students.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -133763,6 +133789,7 @@
             "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for African American and Diaspora Studies",
             "Eligible for American Studies Major",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -136395,7 +136422,7 @@
         "notes": "Weekend dates to be announced.\n         \n            \n            Open initially to IEPM students; others by permission of instructor.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -136957,7 +136984,7 @@
         "notes": "This section is for FNP students only.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138007,7 +138034,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138172,7 +138199,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -140443,6 +140470,7 @@
             "CORE: E-Ethical & Social Engagement",
             "Eligible for African American and Diaspora Studies",
             "Eligible for Anthroplogy",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -140726,7 +140754,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -141257,7 +141285,8 @@
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
-            "AXLE: Humanities and the Creative Arts"
+            "AXLE: Humanities and the Creative Arts",
+            "CORE: LA-World Language through 2nd Semester"
         ],
         "meeting_days": [
             "TR"
@@ -141475,7 +141504,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Hur, Heuijung"
+            "Jang, Seok Bae"
         ],
         "date_added": null
     },
@@ -141500,7 +141529,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "0",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -141701,7 +141730,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -143715,7 +143744,7 @@
         "notes": "The combined enrollment capacity of PSY 3785 and PSY 8551 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -144331,7 +144360,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -144623,7 +144652,7 @@
         "notes": "The combined enrollment capacity of CE 4420 and CE 5420 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "7",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -145510,8 +145539,11 @@
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: History and Culture of the United States",
+            "CORE: A-Written & Creative Expression",
+            "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for American Studies Major",
             "Eligible for Religious Studies",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -146069,7 +146101,7 @@
         "notes": "Instructor: Baik, Juhun",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "4",
         "attributes": [
@@ -146315,7 +146347,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -152106,9 +152138,9 @@
         "requirements": "Prerequisite: BSCI 2101.",
         "description": "(Formerly listed as 3101; previously listed as MHS 3102, NURS 3102) Continuation of 2101. Structure and function of the human organism. Integration of the gross anatomical structures and organ systems with microscopic structure, physiological function, and homeostatic mechanisms. Clinical relevance of selected topics. Not open to students who have completed BSCI 3101, NURS 3102 or MHS 3102. Prerequisite: 2101. [4] (MNS)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -154250,7 +154282,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Jang, Seok Bae"
+            "Hur, Heuijung"
         ],
         "date_added": null
     },
@@ -154408,7 +154440,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Jang, Seok Bae"
+            "Hur, Heuijung"
         ],
         "date_added": null
     },
@@ -156278,7 +156310,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -159856,7 +159888,7 @@
         "notes": "open to EdD Cohort; others by permission.\n         \n            \n            Meeting Dates: January 30/31; February 27/28; and March 27/28.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "3",
+        "enrolled": "17",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -160994,6 +161026,7 @@
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
+            "CORE: LA-World Language through 2nd Semester",
             "Eligible for European Studies",
             "Eligible for Film Studies",
             "Eligible for Latin American Studies"
@@ -161435,7 +161468,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -162332,7 +162365,7 @@
         "notes": "SPED 8810 is only for Professional students",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "3",
         "wl_occupied": "0",
         "attributes": null,
@@ -162371,7 +162404,7 @@
         "notes": "SPED 8810 is only for Professional students",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -164628,8 +164661,11 @@
         "wl_occupied": "6",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
+            "CORE: C-Cultural & Interpretive Investigation",
+            "CORE: E-Ethical & Social Engagement",
             "Eligible for American Studies Major",
             "Eligible for Communication of Science and Tech",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -173265,7 +173301,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -181010,7 +181046,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "21",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -181136,7 +181172,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -183410,7 +183446,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -183533,7 +183569,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -184740,7 +184776,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "23",
+        "wl_occupied": "22",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -185179,7 +185215,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Tapp, Melissa",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -186008,7 +186044,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -186168,7 +186204,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -186328,7 +186364,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "15",
         "wl_occupied": "6",
         "attributes": [
@@ -186409,11 +186445,11 @@
         "requirements": "",
         "description": "A study of the uses of language, definition, informal fallacies, the theory of the syllogism, the basic operations of modern symbolic logic, and selected issues in inductive logic and scientific method. Emphasis is placed on the ambiguities and pitfalls of ordinary usage and on techniques for translating ordinary arguments into formal logic. [3] (MNS) (CORE B, D) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -186494,7 +186530,7 @@
         "notes": "Open to Edd cohort; others by permission 2. Meeting dates: Jan 9,10; March 13-14; April 10-11",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "3",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -188042,7 +188078,8 @@
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
-            "AXLE: International Cultures"
+            "AXLE: International Cultures",
+            "CORE: LA-World Language through 2nd Semester"
         ],
         "meeting_days": [
             "TR"
@@ -190708,7 +190745,8 @@
             "AXLE: International Cultures",
             "CORE: A-Written & Creative Expression",
             "CORE: C-Cultural & Interpretive Investigation",
-            "Eligible for Anthroplogy"
+            "Eligible for Anthroplogy",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "MWF"
@@ -193027,7 +193065,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -193185,7 +193223,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -194580,7 +194618,7 @@
         "description": "Representations of World War II and the fight against Nazi Germany in Hollywood and other cinemas, contemporary video games, television, and installation art. How current modes of warfare and the global war on terror have changed the conventions of depicting war. Taught in English. [3] (HCA)",
         "notes": "The combined enrollment capacity of CMA 1200 and GER 1442 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "25",
+        "capacity": "26",
         "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "7",
@@ -194922,7 +194960,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "130",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -195047,7 +195085,7 @@
         "notes": "Course open to sophomores, juniors and seniors.",
         "status": "Wait list",
         "capacity": "28",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -203231,7 +203269,7 @@
         "notes": "Email Prof. Paul Stob for approval, paul.stob@vanderbilt.edu. Priority will be given to CAL majors or students intending to major in CAL.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -203833,7 +203871,7 @@
         "notes": "Third-year ELP and HELP majors only. Meets on 01/09/2026, 01/10/26, and 04/17/2026",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "2",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -203961,7 +203999,7 @@
         "notes": "Third-year ELP and HELP majors only. Meets on 01/09/2026, 01/10/2026, and 04/17/2026",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "1",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -204008,7 +204046,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -205501,7 +205539,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -207688,6 +207726,7 @@
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: Humanities and the Creative Arts",
+            "CORE: LA-World Language through 2nd Semester",
             "Eligible for European Studies",
             "Eligible for Latin American Studies"
         ],
@@ -209832,7 +209871,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -212293,7 +212332,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -212506,6 +212545,7 @@
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: Perspectives",
+            "CORE: LA-World Language through 2nd Semester",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -213258,10 +213298,10 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "Role of religion in climate change and as response to planetary catastrophe. Religious and literary texts. Historical, philosophical, and anthropological work. [3] (P)",
-        "notes": null,
+        "notes": "The combined enrollment capacity of RLST 2473 and REL 5477 is 24. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -215605,7 +215645,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -215729,7 +215769,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -215768,7 +215808,7 @@
         "notes": "Open to EdD Cohort; All others by permission only.\n         \n            \n            Meeting dates: January 9/10; March 13/14; and April 10/11.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "4",
+        "enrolled": "12",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -216063,7 +216103,7 @@
         "notes": "The combined enrollment capacity of EES 1510 and 1515 is 105. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "105",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "50",
         "wl_occupied": "23",
         "attributes": [
@@ -216388,7 +216428,7 @@
         "notes": "open to Edd cohort; others by permission\n         \n            \n            Meeting dates: Jan 30, 31; Feb 27,28; March 27,28",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "6",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -216443,7 +216483,7 @@
         "notes": "Class meets January 9/10; February 13/14; March 13/14. EdD students in HELP only.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "6",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -217904,7 +217944,7 @@
         "capacity": "50",
         "enrolled": "52",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Communication of Science and Tech",
@@ -218332,7 +218372,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -218769,7 +218809,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": null,
@@ -219503,7 +219543,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -220988,7 +221028,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
