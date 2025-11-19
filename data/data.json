@@ -18251,7 +18251,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18490,7 +18490,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -23352,6 +23352,7 @@
             "AXLE: History and Culture of the United States",
             "Eligible for American Studies Major",
             "Eligible for Law, History, and Society",
+            "Eligible for Minor in Legal Studies",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -35624,7 +35625,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. Serves as repeat credit for MGRL 3333, section 02 in Spring 2021. [3] (SBS) (CORE E) (LE SBS)",
+        "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. [3] (SBS) (CORE E) (LE SBS)",
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
@@ -35753,7 +35754,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. Serves as repeat credit for MGRL 3333, section 02 in Spring 2021. [3] (SBS) (CORE E) (LE SBS)",
+        "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. [3] (SBS) (CORE E) (LE SBS)",
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
@@ -35882,7 +35883,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. Serves as repeat credit for MGRL 3333, section 02 in Spring 2021. [3] (SBS) (CORE E) (LE SBS)",
+        "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. [3] (SBS) (CORE E) (LE SBS)",
         "notes": null,
         "status": "Open",
         "capacity": "32",
@@ -36700,27 +36701,19 @@
         "requirements": "",
         "description": "The structure of and changes in the U.S. military during the war. Strategic and tactical dilemmas. Development of Iraqi political institutions. American foreign policy making. Serves as repeat credit for PSCI 3272W.  Serves as repeat credit for PSCI 3894, section 01, in Spring 2023. [3] (US)",
         "notes": null,
-        "status": "Open",
-        "capacity": "20",
-        "enrolled": "16",
+        "status": "Cancelled Section",
+        "capacity": "16",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Carroll, Katherine B."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -38678,9 +38671,9 @@
         "requirements": "",
         "description": "Visual arts, social change, and black social movements. Aesthetics, value, and social impact of art and social change efforts. Role of the arts in shaping collective black identity and historical memory of national and global social movements. [3] (INT) (CORE A) (LE HFA)",
         "notes": "Students will engage directly with national and global guest artists and visit local museums and galleries to experience how Black visual and literary art ignite social movements and shape collective memory. The course counts toward all Areas of Study in the AADS Major and Minor.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -48357,7 +48350,7 @@
         "notes": "Class is 100% online.",
         "status": "Open",
         "capacity": "425",
-        "enrolled": "73",
+        "enrolled": "74",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -50606,8 +50599,8 @@
         "requirements": "",
         "description": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development. [3]",
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for Peabody students through the initial enrollment period.",
-        "status": "Open",
-        "capacity": "35",
+        "status": "Wait list",
+        "capacity": "25",
         "enrolled": "27",
         "wl_capacity": "15",
         "wl_occupied": "2",
@@ -50893,7 +50886,7 @@
         "description": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development. [3]",
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats are reserved for Peabody majors through the initial enrollment period.",
         "status": "Open",
-        "capacity": "35",
+        "capacity": "25",
         "enrolled": "12",
         "wl_capacity": "15",
         "wl_occupied": "0",
@@ -51104,7 +51097,7 @@
         "description": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development. [3]",
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats are reserved for Peabody majors through the initial enrollment period.",
         "status": "Open",
-        "capacity": "35",
+        "capacity": "25",
         "enrolled": "20",
         "wl_capacity": "30",
         "wl_occupied": "0",
@@ -65180,7 +65173,7 @@
         "description": "Perspectives from history, psychology, politics, gender, and religion. Fairy tale adaptations by Pushkin, Tolstoy, Stravinsky, Nabokov, Bulgakov, and others. Knowledge of Russian is not required. [3] (INT) (CORE B, C) (LE HFA)",
         "notes": "Artistic, musical, and cinematic representations of supernatural beings and scenes. Russian ancient beliefs and ritual practices from pre-Christian Slavic paganism and Christianity. Four main conceptual approaches to fairy tale analysis.",
         "status": "Wait list",
-        "capacity": "25",
+        "capacity": "15",
         "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "4",
@@ -80434,7 +80427,7 @@
         "notes": "This section is for FNP students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx.\n         \n            \n            Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Jackson, Heather",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "39",
+        "enrolled": "41",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -93842,7 +93835,7 @@
         "notes": "Students enrolled in MATH 2501-01 must also register for either MATH 2501-02 or MATH 2501-03",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -93963,7 +93956,7 @@
         "notes": "Students enrolled in MATH 2501-01 must also register for either MATH 2501-02 or MATH 2501-03",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -103853,7 +103846,7 @@
         "description": "Variable credit, 1-3 each semester. [1-3]",
         "notes": "This hands-on course offers a deep dive into the best practices for engaging in the critical early stages of the innovation and design thinking processes. Students will learn to analyze problem contexts in ways that make design solutions more likely to be adopted by learning how to observe users, ask the right questions, and develop and articulate insights that lead to better solutions. This class is a foundational and practical design process course for anyone considering future work in design, including User Experience (UX), Interaction Design (UI), Human-Centered Research and Design (HCR/HCD), technological innovation (R&D), or early-stage entrepreneurial activities.",
         "status": "Open",
-        "capacity": "20",
+        "capacity": "24",
         "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
@@ -109804,7 +109797,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Asian and Asian American social movements in transnational, comparative-historical, and intersectional contexts. [3] (HCA)",
+        "description": "Asian and Asian American social movements in transnational, comparative-historical, and intersectional contexts. [3] (HCA) (CORE B, E) (LE: HFA)",
         "notes": "The combined enrollment capacity of ASAM 2107 and ASAM 5107 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
@@ -139156,7 +139149,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Open",
         "capacity": "6",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -176533,7 +176526,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: History and Culture of the United States",
@@ -181035,7 +181028,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -185204,7 +185197,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Tapp, Melissa",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191891,7 +191884,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "220",
-        "enrolled": "167",
+        "enrolled": "166",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -193132,7 +193125,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "0",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -194950,7 +194943,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "130",
-        "enrolled": "69",
+        "enrolled": "70",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -195537,7 +195530,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Open",
         "capacity": "6",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -213575,9 +213568,9 @@
         "requirements": "RUSS 2202 is a pre-requisite to this course.",
         "description": "Cinema, media arts, visual culture, and media history of Russian-speaking cultures from pre-digital to the digital age. May be repeated for credit if there is no duplication in topic. Prerequisite: 2202. [3] (HCA) (CORE LA)",
         "notes": "This course uses films and television series to examine important cultural and social topics, including ethics and values, human relationships and emotions, Russian cultures and communities, and the cultural nuances of humor. New linguistic material is introduced through authentic, realworld examples, helping students naturally incorporate new phrases and patterns into their speech. The course is designed to develop and sustain advanced-level Russian skills in narration, argumentation, and writing through engaging, diverse, and contemporary cultural content.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "12",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -213585,18 +213578,10 @@
             "AXLE: Humanities and the Creative Arts",
             "CORE: LA-World Language through 2nd Semester"
         ],
-        "meeting_days": [
-            "WF"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Khabibulina, Albina"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -220468,7 +220453,7 @@
         "capacity": "30",
         "enrolled": "27",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -222712,7 +222697,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Science fiction and speculative fiction by Jewish writers in cultural context. Aliens, robots, and secret identities; time travel; utopia and political critique; questions of Jewish identity. [3] (HCA)",
+        "description": "Science fiction and speculative fiction by Jewish writers in cultural context. Aliens, robots, and secret identities; time travel; utopia and political critique; questions of Jewish identity. [3] (HCA) (CORE A, C) (LE: HFA)",
         "notes": null,
         "status": "Open",
         "capacity": "17",
