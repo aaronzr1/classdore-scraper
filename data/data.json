@@ -1676,9 +1676,9 @@
         "notes": "The combined enrollment capacity of MATH 3120 and MATH 5120 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -2559,9 +2559,9 @@
         "notes": "The combined enrollment capacity of BSCI 3271-01 and BSCI 5271-01 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "10",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "23",
+        "wl_occupied": "21",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -18251,7 +18251,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "45",
+        "enrolled": "46",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18490,7 +18490,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -39547,7 +39547,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -48357,7 +48357,7 @@
         "notes": "Class is 100% online.",
         "status": "Open",
         "capacity": "425",
-        "enrolled": "72",
+        "enrolled": "73",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -49630,7 +49630,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -80434,7 +80434,7 @@
         "notes": "This section is for FNP students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx.\n         \n            \n            Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Jackson, Heather",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -115494,7 +115494,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -150850,7 +150850,7 @@
         "notes": "This course counts towards both GSS 3304 and ENGL 8304",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -181035,7 +181035,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -185204,7 +185204,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Tapp, Melissa",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -192043,9 +192043,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies"
@@ -194950,7 +194950,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "130",
-        "enrolled": "68",
+        "enrolled": "69",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -204391,7 +204391,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "95",
+        "enrolled": "94",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -219611,9 +219611,9 @@
         "notes": "For HDC Majors Only",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "M"
