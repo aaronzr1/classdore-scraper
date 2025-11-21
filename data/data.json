@@ -121826,7 +121826,7 @@
         "capacity": "12",
         "enrolled": "13",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -121979,11 +121979,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "12",
         "enrolled": "13",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -204066,7 +204066,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "45",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
