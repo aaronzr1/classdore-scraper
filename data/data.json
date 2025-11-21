@@ -112598,7 +112598,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "85",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -117133,7 +117133,7 @@
         "notes": "The combined enrollment capacity of CBIO 8345, MP&B 8345, NURO 8345, and PHAR 8345 is 65. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            No credit for studens who presented this language as an admissions requirement (that is two years in high school).",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
