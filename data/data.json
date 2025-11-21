@@ -14910,7 +14910,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -40315,7 +40315,7 @@
         "capacity": "13",
         "enrolled": "13",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -46461,7 +46461,7 @@
         "notes": "MBA Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -65336,7 +65336,7 @@
         "notes": "The course may be applied to the concentrations in Mediterranean and Near Eastern Studies and Global Christianities and Interreligious Encounter. The enrollment capacity of RLST 4593 and DIV 5468 is 12. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -99768,7 +99768,7 @@
         "notes": "The combined enrollment capacity for PSY-PC 3650 and PSY-PC 7500 is 20. Although seats may appear to be open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Instructor permission required.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -101105,9 +101105,9 @@
         "notes": "This course will cover an introduction to Python in bioinformatics, Linux, and ACCRE/Slurm (computing clouds). Topics for computational genomics include different high-throughput DNA sequencing technologies, dynamic programming, whole genome sequencing analysis, genome assembly, haplotype phasing, and structural variant detection.\n         \n            \n            The combined enrollment capacity of BME 3890 and BME 8901 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -135496,9 +135496,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -144688,7 +144688,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "49",
+        "enrolled": "47",
         "wl_capacity": "0",
         "wl_occupied": "8",
         "attributes": [
@@ -144930,7 +144930,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "0",
         "wl_occupied": "4",
         "attributes": [
@@ -200022,7 +200022,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "15",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Communication of Science and Tech",
@@ -204066,7 +204066,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "45",
-        "enrolled": "25",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -207746,7 +207746,7 @@
         "notes": "MMark Only",
         "status": "Wait list",
         "capacity": "38",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -211547,9 +211547,9 @@
         "notes": "The combined enrollment capacity of CHEM 4720/5720 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "57",
+        "enrolled": "60",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Neuroscience"
