@@ -35628,7 +35628,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "9",
         "attributes": [
@@ -40315,7 +40315,7 @@
         "capacity": "13",
         "enrolled": "13",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -84370,7 +84370,7 @@
         "notes": "This course covers several classical multivariate statistical topics: principal component analysis, rotation, canonical correlations, multidimensional scaling, correspondence analysis, hierarchical clustering. Matrix algebra and basics about multivariate data will be taught at the beginning. The course has both theoretical and applied components. R will be used as the primary computing tool. Prerequisite: PSY-GS 8861 or equivalent [3]\n         \n            \n            During the initial open enrollment period only, all seats are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -221046,7 +221046,7 @@
         "notes": "This course explores the memories and aftereffects of the nuclear bombings that have long haunted the contemporary world. Central to our discussion is what happened in Hiroshima and Nagasaki in August 1945, but we will also go beyond narrow regional and national foci. We will explore the political process that led to the development and deployment of the atomic bomb, the lasting environmental damage caused by the weapon\u00bfs production process, the survivors\u00bf efforts to understand and represent their near-death experiences, the cultural images of nuclear war (and future thermonuclear war), and the nuclear testing at Bikini Atoll (Operation Crossroads). Students will be introduced to the basic skills and methods of historical analysis and to major debates in the field. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
