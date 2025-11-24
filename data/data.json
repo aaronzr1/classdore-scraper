@@ -4758,7 +4758,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "0",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -4960,7 +4960,7 @@
         "notes": "1. MAcc & MBA Students Only 2. No JD/MSF Students",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "21",
+        "enrolled": "63",
         "wl_capacity": "13",
         "wl_occupied": "13",
         "attributes": null,
@@ -12212,7 +12212,7 @@
         "notes": "MAcc students only.",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "0",
+        "enrolled": "42",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -22157,7 +22157,7 @@
         "notes": "The combined enrollment capacity of SCED 2330-01 and BSCI 1400-01 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "14",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -36230,7 +36230,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "25",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -46273,7 +46273,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "146",
+        "enrolled": "147",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -51341,7 +51341,7 @@
         "notes": "MAcc students only.",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "0",
+        "enrolled": "42",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -52386,7 +52386,7 @@
         "notes": "MBA only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -54451,7 +54451,7 @@
         "notes": "MAccA & MBA students only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "2",
+        "enrolled": "33",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -55930,7 +55930,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "22",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -58838,9 +58838,9 @@
         "notes": "This course is not eligible for the chemistry major; it is eligible for the chemistry minor.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "31",
+        "enrolled": "35",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -70881,7 +70881,7 @@
         "notes": "Must have permission of the Director of Honors. Registration must be completed through the Neuroscience Program Office. See instructions at https://as.vanderbilt.edu/neuroscience/the-honorsprogram/",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -80630,7 +80630,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -99686,7 +99686,7 @@
         "requirements": "",
         "description": "Topics vary. May be repeated for credit more than once if there is no duplication in topic. Students may enroll in more than one section of this course each semester. [3] (No AXLE credit)",
         "notes": "Infodemics-Misinformation and Health Inequalities. This course exams the public health and social implications of what the WHO identified as infodemics, too much information including false or misleading information in digital and physical environments that can cause confusion, mistrust, and risk-taking behaviors that can lead not only to misunderstandings but health inequalities and even death.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "25",
         "enrolled": "0",
         "wl_capacity": "12",
@@ -99694,18 +99694,10 @@
         "attributes": [
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "01:15p - 02:30p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Harvey, T.S."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -109789,6 +109781,8 @@
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
+            "CORE: B-Systemic & Structural Reasoning",
+            "CORE: E-Ethical & Social Engagement",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -116562,9 +116556,9 @@
         "requirements": "NURS 8212 as prereq, NURS 8214 as coreq, and MN degree",
         "description": "This course is the second in a series on the professional nursing role. The didactic course is designed to foster learner examination of best practices for application of ethical, legal, leadership, and health care informatics principles in the promotion of quality and safety in professional nursing practice. The role of the nurse in evidence-based practice and research will be explored.  Learners will appraise evidence, examine ethical dilemmas surrounding implementation, and develop solutions to health and systems problems.  Application of the relationships among, theory, evidence, and practice will cultivate learners' spirit of inquiry and advocacy for promoting quality and safety in professional nursing practice. Prerequisite: 8212. Pre/corequisite: 8214. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -118768,7 +118762,7 @@
         "notes": "MAcc students only.",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "0",
+        "enrolled": "42",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120404,7 +120398,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -131790,9 +131784,9 @@
         "requirements": "",
         "description": "This interdisciplinary graduate seminar explores the connection between epistemologies, modes of engagement, and qualitative research methodologies through readings, discussions, and workshops. Students will learn about a variety of engaged research approaches (including community-based participatory research, research as ceremony, research justice, and citizen science) and experiment with methods (such as interviews, discourse analysis, documentary video, and collective coding), examining the challenges and opportunities that \"critical methodologies\" present. To construct new ways of thinking about methods, we will also examine histories of Western knowledge production and how research became institutionalized. \"The term, 'research,'\" scholar Linda Tuhiwai Smith writes, \"is probably one of the dirtiest words\" in the indigenous vocabulary. Some research approaches - from cartography to taxonomizing flora and fauna to measuring the bodies of racialized Others - have been (and continue to be) integral to imperial and colonial projects. Throughout the course, we will reflect on these legacies, the ethical issues they pose for social scientists today, and our positionality as researchers. What might a decolonization of research entail? How might research be used for healing, transformation, and mobilization? The class will function as a workshop space for students to advance and reflect on their own research projects. [3]",
         "notes": null,
-        "status": "Closed",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -134195,26 +134189,18 @@
         "requirements": "",
         "description": "For students who need to improve their writing. Emphasis on writing skills, with some analysis of modern nonfiction writing. [3] (No AXLE credit)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Research Writing and Rhetoric",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "15",
-        "enrolled": "2",
+        "enrolled": "0",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "MWF"
-        ],
-        "meeting_times": [
-            "11:15a - 12:05p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Rahmati, Payam"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -140708,7 +140694,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "14",
         "attributes": [
@@ -144695,16 +144681,16 @@
             "Ops & Analytics Concentration"
         ],
         "meeting_days": [
-            "MW"
+            "TR"
         ],
         "meeting_times": [
-            "02:30p - 04:00p"
+            "04:15p - 05:45p"
         ],
         "meeting_dates": [
             "1/5/26-2/20/26"
         ],
         "instructors": [
-            "LeBlanc, Larry J."
+            "Wilkerson, Cherrie"
         ],
         "date_added": null
     },
@@ -144946,7 +144932,7 @@
             "1/5/26-2/20/26"
         ],
         "instructors": [
-            "LeBlanc, Larry J."
+            "Wilkerson, Cherrie"
         ],
         "date_added": null
     },
@@ -166439,7 +166425,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "22",
+        "enrolled": "24",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -166637,7 +166623,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "48",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": null,
@@ -168740,7 +168726,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "4",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -204066,7 +204052,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "45",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -212988,9 +212974,9 @@
         "requirements": "",
         "description": "Artificial Intelligence (AI) is a transformational technology in the digital age. This course provides an overview of AI and its role in business transformation from a managerial perspective. The course aims to improve understanding of AI, discuss its business applications across sectors, explore ways to harness the competitive advantage it offers for individuals and organizations, and consider the legal and ethical challenges associated with deploying AI in management. This is not a course to become \"data scientists\" or even to become \"AI software engineer\". Instead, the goal is to equip you with skills and practical frameworks to work with data scientists and technical experts, improve your ability to communicate business needs, analyze the results you receive, and deliver applications that increases productivity and profitability. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "40",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": null,
@@ -216200,7 +216186,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "0",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -219477,7 +219463,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -222666,6 +222652,8 @@
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
+            "CORE: A-Written & Creative Expression",
+            "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for Film Studies",
             "Eligible for Religious Studies",
             "Next Steps Eligible"
