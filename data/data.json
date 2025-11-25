@@ -16659,7 +16659,7 @@
         "notes": "ISL Students Only",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108996,7 +108996,7 @@
         "notes": "ISL Students Only\n         \n            \n            Instructor: Michael Neel",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -109783,6 +109783,7 @@
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
             "CORE: E-Ethical & Social Engagement",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -182886,7 +182887,7 @@
         "notes": "Open to ISL Students Only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -222656,6 +222657,7 @@
             "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for Film Studies",
             "Eligible for Religious Studies",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
