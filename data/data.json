@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "21",
+        "wl_occupied": "19",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11081,7 +11081,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "39",
+        "wl_occupied": "37",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "19",
+        "wl_occupied": "17",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11393,7 +11393,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -11508,9 +11508,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "17",
+        "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "24",
+        "wl_occupied": "16",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -107550,7 +107550,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Da Silva Pinto Jorge, Maria L."
         ],
         "date_added": null
     },
@@ -113143,7 +113143,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "44",
-        "enrolled": "44",
+        "enrolled": "43",
         "wl_capacity": "12",
         "wl_occupied": "9",
         "attributes": [
@@ -137966,7 +137966,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
