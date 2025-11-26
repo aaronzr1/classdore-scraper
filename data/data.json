@@ -155927,10 +155927,18 @@
             "CORE: E-Ethical & Social Engagement",
             "LE: HFA-Humanities and Fine Arts"
         ],
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "TBA"
+        ],
+        "meeting_times": [
+            "TBA"
+        ],
+        "meeting_dates": [
+            "1/5/26-4/20/26"
+        ],
+        "instructors": [
+            "Staff (Secondary)"
+        ],
         "date_added": null
     },
     {
@@ -173423,7 +173431,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
