@@ -39135,7 +39135,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "47",
+        "enrolled": "46",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -63905,9 +63905,9 @@
         "notes": "The combined enrollment capacity of MATH 3710 and MATH 5710 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
