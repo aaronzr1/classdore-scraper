@@ -111363,7 +111363,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "4",
         "attributes": [
@@ -152985,7 +152985,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Scientific Computing"
         ],
@@ -166384,7 +166384,7 @@
         "notes": "Fundamental principles governing the formation, transport, and control of air pollutants in industrial and environmental systems are studied through advanced engineering analysis and design. This course provides a strong foundation for engineers who will develop solutions for industrial air pollution prevention, design and optimize air pollution control devices and systems, and evaluate control technology performance. Students will apply advanced engineering principles including reaction kinetics, transport phenomena, and thermodynamics to analyze pollutant formation mechanisms and design control strategies. The course covers major air pollution control technologies such as particulate removal systems (cyclones, baghouses, electrostatic precipitators), gas-phase pollutant control (scrubbers, adsorbers, thermal and catalytic oxidizers), and emerging technologies for greenhouse gas capture. Students will work in groups to identify and design a solution for a case study of their choice with a digital product that they can include in a portfolio as evidence of their learning.\n         \n            \n            The combined enrollment capacity of CHBE 3890 and CHBE 5890 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -201206,9 +201206,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "13",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
