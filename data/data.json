@@ -4013,7 +4013,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -201206,7 +201206,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "15",
         "wl_occupied": "13",
         "attributes": [
