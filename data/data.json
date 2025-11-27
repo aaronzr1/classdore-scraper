@@ -74552,7 +74552,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -92593,7 +92593,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -95250,7 +95250,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -131042,7 +131042,7 @@
         "notes": "The combined enrollment capacity of ECON 3350 and ECON 5350 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -131952,7 +131952,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "9",
         "attributes": [
@@ -156044,7 +156044,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
