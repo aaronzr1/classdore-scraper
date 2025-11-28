@@ -41421,7 +41421,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Declared Data Science minors will be given priority to register. Students who have not declared the minor will be eligible to register for remaining spots during the all undergraduates registration period.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "100",
         "wl_occupied": "1",
         "attributes": [
@@ -54980,7 +54980,7 @@
         "capacity": "30",
         "enrolled": "27",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -75199,7 +75199,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "34",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -101136,7 +101136,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -101730,7 +101730,7 @@
         "notes": "How can we effectively communicate science? We can know the basics, but we need to be able to respond to, connect with, and bring our audience along for the journey. Students will learn the basics of improv comedy through play, deep dive into the literature around this field, talk with experts, and then apply this knowledge to creating their own science communication \"brand\" in a final project.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -131738,7 +131738,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -177530,7 +177530,7 @@
         "notes": "The combined enrollment capacity of CS 4260, ECE 4260, CS 5260, and ECE 5260 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -191581,9 +191581,9 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "27",
+        "wl_occupied": "26",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -206346,7 +206346,7 @@
         "requirements": "This course requires ECE 2112 as Corequisite.",
         "description": "Experiments in electrical theory, circuits, and components, including linear circuit theorems, operational amplifiers, comparators, oscillators, multivibrators, data converters, diode circuits, transistors as digital switches, sensors and transducers, data transmission circuits, and first-order filters. Corequisite: ECE 2112. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "5",
@@ -212596,7 +212596,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -214779,7 +214779,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -214906,7 +214906,7 @@
         "notes": "The combined enrollment capacity of ECON 3110 and ECON 5240 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
