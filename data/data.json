@@ -105313,11 +105313,11 @@
         "requirements": "This course is open only to Bachelor of Music or Bachelor of Music Arts students.",
         "description": "Harmonization of melodies, improvisation of small musical forms, transposition in all keys with cadences and modulations, four-part score reading. Prerequisite: MUKH 1132. Strongly recommended: C- or above in 1132. Not open to students who have completed MUKH 2133 or 2134. [1] Koutsoukos.",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -213473,7 +213473,7 @@
         "capacity": "40",
         "enrolled": "41",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
