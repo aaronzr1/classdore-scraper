@@ -102200,7 +102200,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -133772,7 +133772,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -134026,7 +134026,7 @@
         "capacity": "135",
         "enrolled": "135",
         "wl_capacity": "30",
-        "wl_occupied": "24",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -134470,7 +134470,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134876,7 +134876,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -139340,7 +139340,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -147488,7 +147488,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -200173,7 +200173,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
