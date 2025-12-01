@@ -5236,7 +5236,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -41421,7 +41421,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Declared Data Science minors will be given priority to register. Students who have not declared the minor will be eligible to register for remaining spots during the all undergraduates registration period.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "100",
         "wl_occupied": "1",
         "attributes": [
@@ -42244,7 +42244,7 @@
         "capacity": "60",
         "enrolled": "27",
         "wl_capacity": "100",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -114445,9 +114445,9 @@
         "requirements": "Prerequisite: MATH 1100, MATH 1200, or MATH 1300. Not open to students who have earned credit for ECON 1510.",
         "description": "The use of quantitative data in understanding economic phenomena. Probability, sampling, inference, and regression analysis. Not open to students who have earned credit for 1510. Total credit for this course and 1510 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: Math 1100, 1200, or 1300. [3] (SBS) (CORE D) (LE SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -127028,7 +127028,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -131952,7 +131952,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -138008,7 +138008,7 @@
         "notes": "The combined enrollment capacity of BSCI 3240 and BSCI 5240 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -161401,7 +161401,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -177776,7 +177776,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "16",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178520,7 +178520,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178942,7 +178942,7 @@
         "capacity": "90",
         "enrolled": "90",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -194632,7 +194632,7 @@
         "notes": "Enrollment limited to MSF and second year MBA students only.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "48",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -218766,7 +218766,7 @@
         "notes": "Students must also register for section 21 for discussion. Lab requirement waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -218809,7 +218809,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -219293,7 +219293,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
