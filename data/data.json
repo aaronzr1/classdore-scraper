@@ -11393,7 +11393,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "18",
+        "wl_occupied": "19",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -35459,7 +35459,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "11",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -36571,7 +36571,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "146",
+        "enrolled": "147",
         "wl_capacity": "25",
         "wl_occupied": "5",
         "attributes": [
@@ -36658,7 +36658,7 @@
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "23",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38085,7 +38085,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -38839,9 +38839,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -38882,9 +38882,9 @@
         "requirements": "",
         "description": "Social, administrative, religious, and mili- tary reforms. Common themes in art, architecture, and literature; changes in national identity in the transition from Republic to Empire. Basic familiarity with Roman history is expected. [3] (HCA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -54607,7 +54607,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -65418,7 +65418,7 @@
         "capacity": "8",
         "enrolled": "6",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -69967,7 +69967,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "114",
+        "enrolled": "113",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -83133,7 +83133,7 @@
         "notes": "[Formerly SPED 2050]",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -93756,7 +93756,7 @@
         "notes": "The combined enrollment capacity of CS 3251, ECE 3251, and CS 5251 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "15",
         "wl_occupied": "4",
         "attributes": null,
@@ -94809,7 +94809,7 @@
         "notes": "Open to majors in Soc, CSET, Clim Studies, and PPS; minors in Environmental and Sustainability Studies; and minors in Soc.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -104783,7 +104783,7 @@
         "capacity": "11",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Perspectives",
@@ -120902,7 +120902,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -128846,7 +128846,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts"
@@ -131656,9 +131656,9 @@
         "requirements": "Prerequisite: CHEM 1601L. Corequisite: CHEM 1602. Not open to students who have earned credit for CHEM 1020L without permission.",
         "description": "Laboratory to accompany 1602. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1602. Not open to students who have earned credit for CHEM 1020L without permission.  Serves as repeat credit for CHEM 1020L. Prerequisite: 1601L. Corequisite: 1602. [1] (No AXLE credit)",
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": null,
@@ -133772,7 +133772,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -134876,7 +134876,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -138371,7 +138371,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -140393,7 +140393,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -142416,7 +142416,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -160041,7 +160041,7 @@
         "notes": "How social, cultural, political, and economic forces shape health, disease, and medicine. Community health, climate activism, indigenous rights, and the geopolitics of knowledge production. Eligible for MHS concentration areas B, D, and electives.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -160083,7 +160083,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -168685,7 +168685,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "73",
+        "enrolled": "74",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -175195,9 +175195,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -175736,9 +175736,9 @@
         "requirements": "",
         "description": "Game theory is a discipline that offers a systematic way of analyzing problems of strategic behavior in interactive situations. This course develops basic concepts from game theory and applies them to business strategy. Some of the concepts to be considered include (1) decision tree analysis; (2) looking forward and reasoning backward; (3) anticipating the moves of the rival; (4) inducing cooperation; (5) strategic use of commitments, threats, promises, and credibility; (6) preemptive moves and deterrence; and (7) creating and using one's reputation strategically. The strategic significance of these concepts will be demonstrated through business case studies. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -175818,7 +175818,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -176547,11 +176547,11 @@
         "requirements": "Prerequisite: NSC 1400 and BSCI 1510.",
         "description": "(Formerly listed as NSC 3235 prior to Fall 2025) Cellular and molecular neuropathology of cortical dysfunction resulting from affective disorders, drug addiction, neurodegenerative disease, and stroke. Prerequisite: NSC 1400 (or 2201 prior to Fall 2025) and BSCI 1510. [3] (MNS) (CORE B) (LE MNS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -179320,7 +179320,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -190663,7 +190663,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -193109,7 +193109,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -194133,7 +194133,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -196082,7 +196082,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for African American and Diaspora Studies",
@@ -196697,7 +196697,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "89",
+        "enrolled": "90",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -201044,9 +201044,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -202503,7 +202503,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -205905,7 +205905,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -206026,7 +206026,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -212596,7 +212596,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -213633,7 +213633,7 @@
         "notes": "The combined enrollment capacity of BSCI 3270-01 and BSCI 5270-01 is 45. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -213677,7 +213677,7 @@
         "notes": "The combined enrollment capacity of BSCI 2201-01 and BSCI 5201-01 is 140. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "83",
+        "enrolled": "82",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -213760,7 +213760,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
