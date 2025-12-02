@@ -11391,9 +11391,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -16007,7 +16007,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -35884,7 +35884,7 @@
         "requirements": "",
         "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. [3] (SBS) (CORE E) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "32",
         "enrolled": "31",
         "wl_capacity": "12",
@@ -36571,7 +36571,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "149",
+        "enrolled": "150",
         "wl_capacity": "25",
         "wl_occupied": "4",
         "attributes": [
@@ -37024,9 +37024,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -38173,7 +38173,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -39457,7 +39457,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Open",
         "capacity": "48",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -42608,9 +42608,9 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. This course will count in Domain 2: Organizational/Group.\n         \n            \n            This course will count in Domain 2: Organizational/Group",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -47738,7 +47738,7 @@
         "notes": "Class open only to those with Sophomore status or higher",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -62569,9 +62569,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Climate Studies",
@@ -76857,7 +76857,7 @@
         "notes": "Not open to first-year students. Seats are initially reserved for H&OD majors and a limited number of HOD minors.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -106190,9 +106190,9 @@
         "requirements": "Prerequisite: MGT 6381",
         "description": "This course equips students with essential tools and techniques to leverage data for informed managerial decision-making. From fundamental predictive modeling using regression and classification models to advanced methodologies (e.g., shrinkage models, ensemble methods), students gain a comprehensive understanding of analyzing both numerical and categorical data - a critical skill in today's data-rich business environment. Through practical, industry-relevant applications and in-class exercises, students acquire hands-on experience to analyze data effectively, extract useful information, and derive actionable insights that yield organizational success. Prerequisite: MGT 6381. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "48",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -106233,7 +106233,7 @@
         "notes": "Not open to FR or SO. This course will count in Domain 1.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -113127,9 +113127,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "44",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -127367,7 +127367,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -132518,7 +132518,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "90",
-        "enrolled": "69",
+        "enrolled": "70",
         "wl_capacity": "35",
         "wl_occupied": "0",
         "attributes": [
@@ -133876,7 +133876,7 @@
         "capacity": "70",
         "enrolled": "20",
         "wl_capacity": "75",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -134002,7 +134002,7 @@
         "capacity": "135",
         "enrolled": "135",
         "wl_capacity": "30",
-        "wl_occupied": "26",
+        "wl_occupied": "27",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -134567,7 +134567,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -135337,7 +135337,7 @@
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -138347,7 +138347,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -141516,7 +141516,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "54",
+        "enrolled": "53",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -165218,7 +165218,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -166475,9 +166475,9 @@
         "requirements": "",
         "description": "What makes some organizations more innovative than others? In this course, students will learn how to improve an organization's innovation capabilities. Major themes include how to foster innovation within the firm, how to commercialize innovative ideas through new products and services, how to protect innovation from competitors, and how to overcome common barriers to innovation. Students will also improve their own innovation abilities through a project in which they pitch a new product or service. Note that while we will discuss examples of technical innovation, this is not a tech course; rather, this course is about how to create an effective strategy for innovation in a wide range of organizations. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "48",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": null,
@@ -168137,7 +168137,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -186097,7 +186097,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -188376,11 +188376,11 @@
         "requirements": "Prerequisite: ECON 1010, 1020, and either MATH 1201 or 1301. Not open to students who have earned credit for ECON 3020.",
         "description": "Contemporary models of national income, employment, interest rates, price level, and economic growth. Decisions underlying consumption and investment behavior, as well as the effect of government policies. Not open to students who have earned credit for 3020. Total credit for this course and 3020 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1010, 1020, and either MATH 1201 or 1301. [3] (SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197613,7 +197613,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197694,7 +197694,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -218677,11 +218677,11 @@
         "requirements": "",
         "description": "tudy of the seven chakras, or energy centers, of the body. Emphasis on aligning the chakras through gentle yoga practice (beginner level), and cultivating student well-being. Offered on a pass/fail basis. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -220676,11 +220676,11 @@
         "requirements": "ECON 1010 and 1020 are pre-requisites to this course.",
         "description": "A study of commercial banks and other intermediaries between savers and investors in the United States, including the government's role as money creator, lender, and regulator of private credit, and the effects of financial institutions on aggregate economic activity. Prerequisite: 1010 and 1020. [3] (SBS) (CORE B) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
