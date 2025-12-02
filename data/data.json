@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -17536,7 +17536,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -23922,7 +23922,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -24770,11 +24770,11 @@
         "requirements": "MGT 6639 pre-requisites",
         "description": "This course introduces students to the opportunities, challenges, and pitfalls of financing new enterprises. We will explore entrepreneurial financing decisions from a life cycle perspective. The cycle begins with identifying opportunities, moves to marshaling resources to take advantage of these opportunities and executing the business plan, and ends with harvesting the venture's success. We will discuss the various sources of capital for entrepreneurs, including angels, customers, venture capital, and strategic alliances, and analyze how different contracts affect the incentives of financiers and entrepreneurs. We will emphasize the non-financial inputs that sources of financial capital can bring to entrepreneurial ventures. Prerequisite: MGT 6331. This course is not open to first year MBA students. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -29624,11 +29624,11 @@
         "requirements": "",
         "description": "Optimal functioning in human psychology. Interdisciplinary approaches to well being, character strengths and virtues, positive emotions, and clinical implications. Not open to students who have earned credit for 1111, section 13. Total credit hours for this course and 1111, section 13, will not exceed 3 hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -32070,7 +32070,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "12",
         "attributes": [
@@ -36495,7 +36495,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36746,7 +36746,7 @@
         "capacity": "25",
         "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37898,7 +37898,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38093,7 +38093,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -41797,11 +41797,11 @@
         "requirements": "Prerequisites: CS 3251 or ECE 3251; one of MATH 2810, 2820, or 3640; one of MATH 2410, 2500, 2501, or 2600.",
         "description": "Also listed as ECE 4262. Theoretical and algorithmic foundations of supervised learning, unsupervised learning, and reinforcement learning. Linear and nonlinear regression, kernel methods, support vector machines, neural networks and deep learning methods, instance-based methods, ensemble classifiers, clustering and dimensionality reduction, value and policy iteration. Explainable AI, ethics, and data privacy. Serves as repeat credit for ECE 4262. No credit for students who have earned credit for CS 5262 or ECE 5262. Prerequisite: CS 3251 or ECE 3251; one of MATH 2810, 2820, or 3640; one of MATH 2410, 2500, 2501, or 2600. SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 4262 and CS 5262 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "11",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -50894,7 +50894,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats are reserved for Peabody majors through the initial enrollment period.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -54784,11 +54784,11 @@
         "requirements": "Not open to students who have completed MHS 3890-06 offered spring 2021, or MHS 3890-03 offered fall 2020 without permission (Anti-Req)",
         "description": "Public health and health care delivery systems. Evolving social and economic climates that shape health. Topics include health care access, cost, quality, and health disparities; trends in health care industries; the global COVID-19 pandemic; and comparative health systems. Not open to students who have completed MHS 3890-06 offered spring 2021, or MHS 3890-03 offered fall 2020. [3] (US)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "20",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -58916,9 +58916,9 @@
         "requirements": "",
         "description": "Exploration of selected topics related to the community leadership and development track of the Human and Organizational Development Program. May be repeated for credit with change of topic. [3]",
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.\n         \n            \n            The combined enrollment capacity of HODC 3650 02 and HOD 7500 03 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "20",
         "wl_occupied": "7",
         "attributes": [
@@ -83355,7 +83355,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Historical development of Jewish non-profit and philanthropic sectors globally and in USA. Survey of Jewish communal organizations, goals, functions, structures, funding models. Organizational behavior. Principles and practices of Jewish communal leadership. Contemporary issues, challenges and controversies in Jewish NFP sector. Serves as repeat credit for JS 2460. [3]",
+        "description": "Historical development of Jewish non-profit and philanthropic sectors globally and in USA. Survey of Jewish communal organizations, goals, functions, structures, funding models. Organizational behavior. Principles and practices of Jewish communal leadership. Contemporary issues, challenges and controversies in Jewish NFP sector. Serves as repeat credit for JS 2460. [3] (INT)",
         "notes": "Historical development of Jewish nonprofit and philanthropic sectors globally and in USA. Survey of Jewish communal organizations, goals, functions, structures, funding models. Organizational behavior. Principles and practices of Jewish communal leadership. Contemporary issues, challenges and controversies in Jewish NFP sector. Equivalent to JS 2460.\n         \n            \n            The combined enrollment capacity of CAL 2460 and JS 2460 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
@@ -93031,7 +93031,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -103138,7 +103138,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -109055,7 +109055,7 @@
         "notes": "Full Title: \" Indigenous Futures: Environment, Art, and Activism\" Political and environmental struggles; Indigenous relationship with the modern nation-state; colonial projects and Indigenous resistance; definitions and theoretical discussions on indigeneity and decolonization; comparative discussion with North America, Asia, Arctic, Amazonia, and Australia/New Zealand; Indigenous visions and desires for the future. (Core Capacity tags: A, C / AXLE Tags: INT)",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -109965,7 +109965,7 @@
         "notes": "There are no prerequisites for the class. All texts will be in English. This course can count towards majors and minors in Asian Studies (ASIA 3891), Asian American and Asian Diaspora Studies, English and CAL.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -115446,7 +115446,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -120372,7 +120372,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -121278,9 +121278,9 @@
         "requirements": "",
         "description": "History of the built environment of New York City from seventeenth century to the present; emphasis on 20th century. Analyzes architecture, urban planning, technologies of construction and transportation, the development of neighborhoods, urban parks with attention to class and race, immigration, economics, and local manifestations of global forces. [3] (US) (CORE A, C) (LE: HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -131341,7 +131341,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -132510,7 +132510,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "90",
-        "enrolled": "70",
+        "enrolled": "72",
         "wl_capacity": "35",
         "wl_occupied": "0",
         "attributes": [
@@ -134924,7 +134924,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "104",
+        "enrolled": "103",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": [
@@ -135329,7 +135329,7 @@
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -159931,7 +159931,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -160292,7 +160292,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "77",
-        "enrolled": "80",
+        "enrolled": "79",
         "wl_capacity": "22",
         "wl_occupied": "15",
         "attributes": [
@@ -166394,7 +166394,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -176262,11 +176262,11 @@
         "requirements": "",
         "description": "Law's relationship to gender and sexuality from the seventeenth century to the present. Legal categories of gender that have governed the household, the economy, and the political sphere. [3] (US)",
         "notes": "The combined enrollment capacity of HIST 2239 and HIST 5239 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close. Eligible for LHS and GSS.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society",
@@ -176713,7 +176713,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Environ. and Sustainability Studies",
@@ -176922,7 +176922,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "72",
+        "enrolled": "73",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -177410,9 +177410,9 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Rational decision-making in non-cooperative, multi-person games. Single play and repeated games with complete and incomplete information. Economic applications of games, such as auctions, labor-management bargaining, pricing and output decisions in oligopoly, and common property resources. Prerequisite: 3010 or 3012. [3] (SBS)",
         "notes": "The combined enrollment capacity of ECON 4260 and ECON 5260 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "33",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -188371,11 +188371,11 @@
         "requirements": "Prerequisite: ECON 1010, 1020, and either MATH 1201 or 1301. Not open to students who have earned credit for ECON 3020.",
         "description": "Contemporary models of national income, employment, interest rates, price level, and economic growth. Decisions underlying consumption and investment behavior, as well as the effect of government policies. Not open to students who have earned credit for 3020. Total credit for this course and 3020 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1010, 1020, and either MATH 1201 or 1301. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "15",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -189940,7 +189940,7 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -194801,7 +194801,7 @@
         "requirements": "",
         "description": "A course which will examine the way that the growing genres of symphony, concerto, and symphonic poem coincided with the development of the symphony orchestra as a cultural institution. Course work will include listening to repertory works by such composers as Mozart, Beethoven, Tchaikovsky, Mahler, Walker, and Ustvolskaya and discussing the biographical and societal context that surrounded them. [3] (CORE A, C)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "25",
         "enrolled": "0",
         "wl_capacity": "0",
@@ -194814,18 +194814,10 @@
             "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "01:15p - 02:30p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Platt, Russell"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -199965,9 +199957,9 @@
         "requirements": "",
         "description": "Introduction to major global health principles and practices in the developing and developed world. Perspectives of public health practitioners and critical thinking about global health challenges and solutions. [3] (P)",
         "notes": "The combined enrollment capacity of MHS 3010 and MHS 5010 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "11",
         "attributes": [
@@ -202073,7 +202065,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -212840,7 +212832,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -213045,7 +213037,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -218676,7 +218668,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -218918,9 +218910,9 @@
         "requirements": "Prerequisite: ECON 3010 or 3012. Limited to majors in economics or public policy.",
         "description": "Intensive study of three or four current problems in microeconomic policy. Repeat credit for students who have completed 4530W. Limited to majors in economics and public policy. Prerequisite: 3010 or 3012. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
