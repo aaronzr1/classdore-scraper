@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11081,7 +11081,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "34",
+        "wl_occupied": "33",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11508,9 +11508,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "28",
+        "enrolled": "30",
         "wl_capacity": "25",
-        "wl_occupied": "15",
+        "wl_occupied": "13",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -19934,17 +19934,25 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "BMIF Students",
         "description": "Selected topics in Biomedical Informatics. [3]",
-        "notes": "Combined capacity for CS 3891-05, CS 5891-05, and BMIF 6390-01 is 30. Though it may appear that there are seats available in a give section of this course, the course will be closed once 30 combined seats are filled.\n         \n            \n            Instructor approval required for students outside the biomedical informatics degree program to enroll. Please contact rischelle.jenkins@vanderbilt.edu to register",
+        "notes": "The combined enrollment capacity of CS 3891, CS 5891, and BMIF 6390 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Instructor approval required for students outside the biomedical informatics degree program to enroll. Please contact rischelle.jenkins@vanderbilt.edu to register",
         "status": "Open",
         "capacity": "10",
         "enrolled": "1",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "TR"
+        ],
+        "meeting_times": [
+            "11:00a - 12:15p"
+        ],
+        "meeting_dates": [
+            "1/5/26-4/20/26"
+        ],
+        "instructors": [
+            "Yin, Zhijun"
+        ],
         "date_added": null
     },
     {
@@ -34824,7 +34832,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35847,7 +35855,7 @@
         "notes": "This section is for MN students only\n         \n            \n            Class is 100% online.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -52745,7 +52753,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -55249,24 +55257,16 @@
         "requirements": "Prerequisite: ECE 4257.",
         "description": "Modern control design. Discrete-time analysis. Analysis and design of digital control systems. Nonlinear systems and optimum control systems. Fuzzy control systems. Two lectures and one laboratory. Prerequisite: ECE 4257. SPRING. [3]",
         "notes": "The combined enrollment capacity of ECE 4358 and ECE 5358 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Closed",
+        "status": "Cancelled Section",
         "capacity": "25",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "MWF"
-        ],
-        "meeting_times": [
-            "09:05a - 09:55a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Amat, Ashwaq"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -58134,7 +58134,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -58565,7 +58565,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -91900,7 +91900,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Barzel, Ur",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -97056,7 +97056,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120088,7 +120088,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -121985,7 +121985,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "(Also listed as CS 3891) [Variable credit: 1-3 each semester] No credit for students who have earned credit for 3891.",
-        "notes": "This course explores the frontiers of machine learning, with a special focus on large language models (LLMs) and their potential to address real-world challenges in health and well-being. Students will engage with influential, peer-reviewed research articles from machine learning and biomedical informatics, gaining a deeper understanding of how emerging methods are shaping the future of healthcare. While a variety of machine learning models will be discussed, the course is designed for students with prior experience in the field. Participants should be comfortable reading and critically evaluating research papers, writing reviews, and using standard machine learning libraries to complete course projects.\n         \n            \n            The combined enrollment capacity of CS 3891 and CS 5891 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
+        "notes": "This course explores the frontiers of machine learning, with a special focus on large language models (LLMs) and their potential to address real-world challenges in health and well-being. Students will engage with influential, peer-reviewed research articles from machine learning and biomedical informatics, gaining a deeper understanding of how emerging methods are shaping the future of healthcare. While a variety of machine learning models will be discussed, the course is designed for students with prior experience in the field. Participants should be comfortable reading and critically evaluating research papers, writing reviews, and using standard machine learning libraries to complete course projects.\n         \n            \n            The combined enrollment capacity of CS 3891, CS 5891, and BMIF 6390 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
         "enrolled": "1",
@@ -123516,24 +123516,16 @@
         "requirements": "",
         "description": "(Also listed as ECE 4358) Modern control design. Discrete-time analysis. Analysis and design of digital control systems. Nonlinear systems and optimum control systems. Fuzzy control systems. Two lectures and one laboratory. No credit for students who have earned credit for 4358. SPRING. [3]",
         "notes": "The combined enrollment capacity of ECE 4358 and ECE 5358 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Closed",
+        "status": "Cancelled Section",
         "capacity": "5",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "MWF"
-        ],
-        "meeting_times": [
-            "09:05a - 09:55a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Amat, Ashwaq"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -127727,18 +127719,10 @@
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "T"
-        ],
-        "meeting_times": [
-            "01:15p - 04:00p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Marble, Kimberly"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -143784,6 +143768,7 @@
         "meeting_days": [
             "M",
             "W",
+            "M",
             "W",
             "M",
             "M"
@@ -143793,11 +143778,13 @@
             "03:00p - 05:00p",
             "03:00p - 05:00p",
             "03:00p - 05:00p",
+            "03:00p - 05:00p",
             "03:00p - 05:00p"
         ],
         "meeting_dates": [
             "3/16/26-3/16/26",
             "3/18/26-3/18/26",
+            "3/23/26-3/23/26",
             "3/25/26-3/25/26",
             "3/30/26-3/30/26",
             "4/6/26-4/6/26"
@@ -144066,7 +144053,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -157373,7 +157360,7 @@
         "notes": "$1,532.00 music fee (30-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -174062,7 +174049,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "[Variable credit: 1-3 each semester]",
-        "notes": "This course explores the frontiers of machine learning, with a special focus on large language models (LLMs) and their potential to address real-world challenges in health and well-being. Students will engage with influential, peer-reviewed research articles from machine learning and biomedical informatics, gaining a deeper understanding of how emerging methods are shaping the future of healthcare. While a variety of machine learning models will be discussed, the course is designed for students with prior experience in the field. Participants should be comfortable reading and critically evaluating research papers, writing reviews, and using standard machine learning libraries to complete course projects. Prerequisites: CS 4262 Foundations of Machine Learning or equivalent\n         \n            \n            The combined enrollment capacity of CS 3891 and CS 5891 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
+        "notes": "This course explores the frontiers of machine learning, with a special focus on large language models (LLMs) and their potential to address real-world challenges in health and well-being. Students will engage with influential, peer-reviewed research articles from machine learning and biomedical informatics, gaining a deeper understanding of how emerging methods are shaping the future of healthcare. While a variety of machine learning models will be discussed, the course is designed for students with prior experience in the field. Participants should be comfortable reading and critically evaluating research papers, writing reviews, and using standard machine learning libraries to complete course projects. Prerequisites: CS 4262 Foundations of Machine Learning or equivalent\n         \n            \n            The combined enrollment capacity of CS 3891, CS 5891, and BMIF 6390 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
         "enrolled": "13",
@@ -191989,7 +191976,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -210588,7 +210575,7 @@
             "MW"
         ],
         "meeting_times": [
-            "03:35p - 04:25p"
+            "10:00a - 10:50a"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -212461,7 +212448,7 @@
         "notes": "Topic: Sex and Sexuality in Society",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
