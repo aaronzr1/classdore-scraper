@@ -3488,7 +3488,7 @@
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "6",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -28978,7 +28978,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
         "capacity": "7",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -56540,7 +56540,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -75073,7 +75073,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "35",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -124456,7 +124456,7 @@
         "notes": "The combined enrollment capacity of CE 4430 and CE 5430 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "23",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -127719,10 +127719,18 @@
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "T"
+        ],
+        "meeting_times": [
+            "01:15p - 04:00p"
+        ],
+        "meeting_dates": [
+            "1/5/26-4/20/26"
+        ],
+        "instructors": [
+            "Marble, Kimberly"
+        ],
         "date_added": null
     },
     {
@@ -191662,7 +191670,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -191782,7 +191790,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "220",
-        "enrolled": "168",
+        "enrolled": "169",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -191823,7 +191831,7 @@
         "notes": "Open only by permission of the Associate Dean.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -194340,7 +194348,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
