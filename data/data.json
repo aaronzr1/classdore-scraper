@@ -1481,7 +1481,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -3484,9 +3484,9 @@
         "requirements": "Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "(Previously BUS 2700) Provides an overview of operations in both service and manufacturing organizations. Process analysis, queuing, inventory management, quality management, lean operations, and optimization. Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -6717,7 +6717,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -7334,7 +7334,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -11081,7 +11081,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "32",
+        "wl_occupied": "31",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11510,7 +11510,7 @@
         "capacity": "16",
         "enrolled": "33",
         "wl_capacity": "25",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -14577,7 +14577,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Topics of special interest. May be repeated for credit more than once if there is no duplication in topic. Students may enroll in more than one section of this course each semester. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (No AXLE credit)",
-        "notes": "Instructor: Elijah Merritt\n         \n            \n            This course is an interdisciplinary exploration of human happiness. What do history, political science, economics, philosophy, and psychology have to teach us about this age-old pursuit, one made famous in 1776 by the words life, liberty, and the pursuit of happiness.\" As we approach the 250th anniversary of the Declaration of Independence, we will examine not only the ideal of happiness in the life of an individual but also what it will take for Americans to restore democratic cooperation and vitality in an age of fear, division, and pessimism.\n         \n            \n            Prerequisites waived for Spring 2026.",
+        "notes": "Prerequisites waived for Spring 2026.  An interdisciplinary exploration of human happiness. What do history, political science, economics, philosophy, and psychology have to teach us about this age-old pursuit, one made famous in 1776 by the words life, liberty, and the pursuit of happiness.\" As we approach the 250th anniversary of the Declaration of Independence, we will examine not only the ideal of happiness in the life of an individual but also what it will take for Americans to restore democratic cooperation and vitality in an age of fear, division, and pessimism.",
         "status": "Open",
         "capacity": "50",
         "enrolled": "25",
@@ -14594,7 +14594,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Zeppos, Nicholas S. (Secondary)"
+            "Merritt, Elijah F. (Secondary)"
         ],
         "date_added": null
     },
@@ -18371,7 +18371,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -32969,9 +32969,9 @@
         "requirements": "Prerequisite: Learning and Leadership in Organizations Ed.D. major.",
         "description": "This doctoral-level course is designed to build the knowledge and skills necessary to conduct and interpret program evaluation. For our purposes, program evaluation is defined as \"a systematic method for collecting, analyzing, and using data to examine the effectiveness and efficiency of programs and, as importantly, to contribute to continuous program improvement\" (CDC, 1999). A program is loosely defined as any set of related activities undertaken to achieve an intended outcome. Notably, a working knowledge of program evaluation is a key competency for today's leaders as it provides valuable tools to inform management decisions, guide process and organizational change, and help generate data relevant to solving pressing problems so that resources can be allocated most effectively. [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36448,9 +36448,9 @@
         "requirements": "",
         "description": "Origins and causes of the global conflict; the six years of military campaigns; politics and diplomacy of war-making; race as a factor shaping the war in Europe and Asia. Impact of technological innovations; social and economic aspects of the struggle, as well as its moral and psychological implications. [3] (INT)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -37896,7 +37896,7 @@
         "notes": "Students registered in this section will be appropriated into the following rooms: SC 5215",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -38134,9 +38134,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5215.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39307,7 +39307,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "85",
+        "enrolled": "83",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -39623,7 +39623,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "80",
+        "enrolled": "82",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -54088,7 +54088,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -58565,7 +58565,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -59398,7 +59398,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -65735,7 +65735,7 @@
         "notes": "MMark students only.",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -78474,7 +78474,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -81062,7 +81062,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -81922,7 +81922,7 @@
         "notes": "MMark students only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -93151,7 +93151,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -93383,7 +93383,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -97050,7 +97050,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -97635,9 +97635,9 @@
         "requirements": "Prerequisite: PSY-PC 1205 or 1207 or 1250 or PSY 1200",
         "description": "Examines the applications of psychological theories and research to teaching and learning settings. Focuses on cognitive development, problem solving and critical thinking, learning theories, motivation, social contexts, individual differences, classroom issues, and evaluation issues. Prerequisite: PSY-PC 1205/1207 or 1250 or PSY 1200. [3]",
         "notes": "Examines the applications of psychological theories and research to teaching and learning settings. Focuses on cognitive development, problem solving and critical thinking, learning theories, motivation, social contexts, individual differences, classroom issues, and evaluation issues. Prerequisite: PSY-PC 1205/1207 or 1250 or PSY 1200 Twelve seats reserved for students with a home department at Peabody through initial enrollment period\n         \n            \n            Twenty seats reserved for CST,CD,CGS students through the initial enrollment period.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -98113,7 +98113,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -98553,7 +98553,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -99468,7 +99468,7 @@
         "notes": "This course will explore Beyonc\u00e9's unprecedented rise in American culture by: (1) placing her in the historical context of American women performers from Bessie Smith to Janet Jackson, who inspire and preceded her; and (2) analyzing her iconicity, impact, and intersectional politics through contemporary cultural, racial, and feminist criticism. This course will count toward all areas of Study within the AADS major and minor.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -112202,7 +112202,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -113201,9 +113201,9 @@
         "requirements": "",
         "description": "A general introduction to clinical assessment, with a particular emphasis on children. The major purpose is to familiarize students with the theoretical issues and psychometric properties of several different methods of assessment including objective and projective personality measures, behavior checklists, behavioral observation, and clinical interviews. Required before taking practica. Prerequisite: consent of instructor. [3]",
         "notes": "Various intervention approaches with children, including parent training, behavior therapy, group therapy, psychopharmacological intervention, individual psychotherapy, cognitive behavioral intervention, psychoanalytic play therapy, and residential treatment.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "10",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -118422,7 +118422,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120082,7 +120082,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -124723,7 +124723,7 @@
         "notes": "The combined enrollment capacity of CS 2281 and ECE 2281 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -125503,7 +125503,7 @@
         "notes": "The combined enrollment capacity of CS 2281L and ECE 2281L is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": null,
@@ -131335,7 +131335,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -133161,7 +133161,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "62",
+        "enrolled": "63",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -133324,7 +133324,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -137123,7 +137123,7 @@
         "notes": "This section is for these students only: AGPCNP, WHGRNP, WHGR/AGPCNP, Nurse Midwifery, and NMW/FNP\n         \n            \n            Instructor - McCain, Manola",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -137244,7 +137244,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -137489,7 +137489,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -140648,7 +140648,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -144055,7 +144055,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -147233,7 +147233,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -148896,7 +148896,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -163204,7 +163204,7 @@
         "capacity": "16",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -168650,7 +168650,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "71",
+        "enrolled": "70",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -170907,7 +170907,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            ""
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -179360,7 +179360,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179399,9 +179399,9 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179440,7 +179440,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -184253,7 +184253,7 @@
         "notes": "Requires field trip participation; dates to be announced.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -184374,9 +184374,9 @@
         "notes": "Requires field trip participation; dates to be announced.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -188370,7 +188370,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "14",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -190221,7 +190221,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191705,7 +191705,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "43",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191979,7 +191979,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -193145,9 +193145,9 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "68",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "20",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -195173,11 +195173,11 @@
         "requirements": "HIST 1111-31 as Antirequisite",
         "description": "London from its origins as a Roman camp through its rise as a global city in the modern era. The invention of the city, religious reformation and scientific revolution, overseas trade and exploration, and the development of distinct neighborhoods.   London's transformation into the imperial metropole of a global empire, and its evolution as a media and financial center for the wider world. Serves as repeat credit for HIST 1111 section 31.  [3] (INT) (CORE: A, C)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: International Cultures",
@@ -196807,24 +196807,16 @@
         "requirements": "Prerequisite: CS 1101 or 1103 or 1104. Corequisite: BSCI 1510, PHYS 1602. Not open to students who have earned credit for BME 3100 without permission.",
         "description": "(Previously BME 2001) Quantitative physiology from the engineering point of view. Descriptive physiology of several organ systems (nervous, musculoskeletal, cardiovascular, blood). Mathematical modeling and computer simulation of organ systems and physiologic control mechanisms. No credit for students who have earned credit for BME 3100. Prerequisite: CS 1101 or 1103 or 1104. Corequisite: BSCI 1510, PHYS 1602. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "40",
-        "enrolled": "7",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Rubinov, Mikail"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -216692,7 +216684,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -218655,7 +218647,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -220698,7 +220690,7 @@
         "notes": "The combined enrollment capacity of HIST 2300 and HIST 5300 is 40. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -220744,7 +220736,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
