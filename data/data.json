@@ -7862,7 +7862,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "CE 4400 is prerequisite for this course.",
         "description": "Fundamentals of construction planning and scheduling. Application of management practices including: process planning; directing, costing; resource allocation; and controlling all aspects of construction operations and resources, from pre-construction through operation and maintenance. Use of real-world examples and project scheduling software. Prerequisite: CE 4400. SPRING. [3]",
-        "notes": "The combined enrollment capacity of CE 4410 and CE 5410 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
+        "notes": "The combined enrollment capacity of CE 4410 and CE 5410 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "13",
         "enrolled": "2",
@@ -8019,7 +8019,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "(Also listed as CE 4410) Fundamentals of construction planning and scheduling. Application of management practices including: process planning; directing, costing; resource allocation; and controlling all aspects of construction operations and resources, from pre-construction through operation and maintenance. Use of real-world examples and project scheduling software. No credit for students who have earned credit for 4410. SPRING. [3]",
-        "notes": "the combined enrollment capacity of CE 4410 and CE 5410 is 20. Although seats may appear open in a section, once the combined capacity has been reached, the course will close.",
+        "notes": "the combined enrollment capacity of CE 4410 and CE 5410 is 15. Although seats may appear open in a section, once the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "7",
         "enrolled": "3",
@@ -10801,7 +10801,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "235",
-        "enrolled": "232",
+        "enrolled": "231",
         "wl_capacity": "75",
         "wl_occupied": "1",
         "attributes": [
@@ -11079,7 +11079,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "40",
         "wl_occupied": "32",
         "attributes": null,
@@ -14580,7 +14580,7 @@
         "notes": "Instructor: Elijah Merritt\n         \n            \n            This course is an interdisciplinary exploration of human happiness. What do history, political science, economics, philosophy, and psychology have to teach us about this age-old pursuit, one made famous in 1776 by the words life, liberty, and the pursuit of happiness.\" As we approach the 250th anniversary of the Declaration of Independence, we will examine not only the ideal of happiness in the life of an individual but also what it will take for Americans to restore democratic cooperation and vitality in an age of fear, division, and pessimism.\n         \n            \n            Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -24566,7 +24566,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: AI, Robots, and Clones",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -24770,11 +24770,11 @@
         "requirements": "MGT 6639 pre-requisites",
         "description": "This course introduces students to the opportunities, challenges, and pitfalls of financing new enterprises. We will explore entrepreneurial financing decisions from a life cycle perspective. The cycle begins with identifying opportunities, moves to marshaling resources to take advantage of these opportunities and executing the business plan, and ends with harvesting the venture's success. We will discuss the various sources of capital for entrepreneurs, including angels, customers, venture capital, and strategic alliances, and analyze how different contracts affect the incentives of financiers and entrepreneurs. We will emphasize the non-financial inputs that sources of financial capital can bring to entrepreneurial ventures. Prerequisite: MGT 6331. This course is not open to first year MBA students. [2]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -25049,7 +25049,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "30",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -38136,7 +38136,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -38765,7 +38765,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -53804,7 +53804,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -65165,7 +65165,7 @@
         "notes": "Artistic, musical, and cinematic representations of supernatural beings and scenes. Russian ancient beliefs and ritual practices from pre-Christian Slavic paganism and Christianity. Four main conceptual approaches to fairy tale analysis.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "5",
         "attributes": [
@@ -65328,7 +65328,7 @@
         "notes": "The course may be applied to the concentrations in Mediterranean and Near Eastern Studies and Global Christianities and Interreligious Encounter. The enrollment capacity of RLST 4593 and DIV 5468 is 12. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -66420,24 +66420,16 @@
         "requirements": "Prerequisite: CS 1100 or 1101 or 1103 or 1104; PHYS 1602; MATH 2400.",
         "description": "Physics and engineering of image formation by different modalities used for medical applications. Concepts common to different imaging modalities and limits of physical phenomena. Mathematical concepts of image formation and analysis; techniques for recording images using ionizing radiation (including CT), ultrasound, magnetic resonance, and nuclear (including SPECT and PET). Methods of evaluating image quality. Prerequisite: PHYS 1602, MATH 2400. SPRING. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Anderson, Adam W."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -69959,7 +69951,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "111",
+        "enrolled": "112",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -82966,7 +82958,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -98121,7 +98113,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -100210,7 +100202,7 @@
         "notes": "The combined enrollment capacity of BME 3890-01 and BME 8901-06 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -100524,7 +100516,7 @@
         "notes": "This course will provide specific examples of how cognitive science can be used to inform and solve real world problems. Classroom discussions will focus on two main questions: 1) How can basic cognitive psychology research on memory, perception, attention, and decision making be used to solve real world problems? 2) How does research move from the scientific community to influencing public policy, corporate decisions, and individuals' behavior?\n         \n            \n            The combined enrollment capacity of PSY-PC 3650 and PSY-PC 7500 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -132384,7 +132376,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -132640,7 +132632,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "10",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -133952,7 +133944,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "75",
         "wl_occupied": "5",
         "attributes": [
@@ -136487,7 +136479,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -145438,7 +145430,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -153317,7 +153309,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "89",
+        "enrolled": "88",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -153922,7 +153914,7 @@
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: B-Systemic & Structural Reasoning",
@@ -161374,7 +161366,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -167512,7 +167504,7 @@
         "capacity": "18",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies"
@@ -176434,7 +176426,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: History and Culture of the United States",
@@ -177741,7 +177733,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "19",
+        "wl_occupied": "20",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178570,7 +178562,7 @@
         "capacity": "24",
         "enrolled": "17",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179286,7 +179278,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179323,9 +179315,9 @@
         "requirements": "CHEM 2212 or CHEM 2222 as pre- or co-req",
         "description": "Laboratory to accompany 2212 or 2222. One four-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 2212 or 2222. Prerequisite or corequisite: 2212 or 2222. [1] (No AXLE credit)",
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -179364,11 +179356,11 @@
         "requirements": "CHEM 2212 or CHEM 2222 as pre- or co-req",
         "description": "Laboratory to accompany 2212 or 2222. One four-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 2212 or 2222. Prerequisite or corequisite: 2212 or 2222. [1] (No AXLE credit)",
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179448,7 +179440,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -187643,7 +187635,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -191591,7 +191583,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "35",
+        "wl_occupied": "34",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -193282,7 +193274,7 @@
         "notes": "The combined enrollment capacity of BSCI 2105-01 and 5105-01 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "41",
+        "enrolled": "42",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -193813,9 +193805,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "11",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -197088,24 +197080,16 @@
         "requirements": "Prerequisite: ECE 2112. Corequisite: BME 3301 and 3400. No credit for students who have earned credit for BME 3300 or 3301 (2024 or prior).",
         "description": "Laboratory exercises to accompany BME 3301. Construction, verification, and validation of biomedical instruments, including electronic circuits for measuring and processing physiological signals, analysis of clinically relevant biosensors. No credit for students who have earned credit for BME 3300 or 3301 (2024 or prior). Prerequisite: ECE 2112. Corequisite: BME 3301 and 3400. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
-        "enrolled": "2",
+        "enrolled": "0",
         "wl_capacity": "2",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "W"
-        ],
-        "meeting_times": [
-            "01:25p - 04:15p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Del Bosque, Romina"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -197221,7 +197205,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Weeks, Abbie E."
         ],
         "date_added": null
     },
@@ -198575,7 +198559,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "16",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198700,7 +198684,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "13",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -212451,7 +212435,7 @@
         "notes": "Topic: Sex and Sexuality in Society",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -217971,7 +217955,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
@@ -218013,7 +217997,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
@@ -218055,7 +218039,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
@@ -218669,7 +218653,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "5",
         "wl_occupied": "4",
         "attributes": null,
@@ -222304,24 +222288,16 @@
         "requirements": "Prerequisite: CS 1101 or 1103 or 1104. Corequisite: BME 2301 (Previously BME 2001). No credit for students who have earned credit for BME 4900W.",
         "description": "Introductory laboratory with guided reports. Experiment topics may cover systems physiology, biomechanics, and biomaterials. Emphasis on methods, instrumentation, and equipment used in biomedical engineering. One three-hour laboratory per week. No credit for students who have earned credit for BME 4900W. Prerequisite: CS 1101 or 1103 or 1104. Corequisite: BME 2301. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
-        "enrolled": "5",
+        "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "T"
-        ],
-        "meeting_times": [
-            "02:45p - 05:35p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Lowery, Amanda R."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -222345,7 +222321,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
