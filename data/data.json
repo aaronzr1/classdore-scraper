@@ -5275,7 +5275,7 @@
         "notes": "The combined enrollment capacity of SPED 1210 and SPED 7000 is 112. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11081,7 +11081,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "31",
+        "wl_occupied": "26",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "15",
+        "wl_occupied": "13",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11393,7 +11393,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "14",
+        "wl_occupied": "11",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -11508,9 +11508,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "33",
+        "enrolled": "41",
         "wl_capacity": "25",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -35421,11 +35421,11 @@
         "requirements": "",
         "description": "Ideals and practices of deliberative democracy in the US.  Prospects for deliberation and conversation in a divided political era. [3] (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "CORE: A-Written & Creative Expression",
@@ -35554,7 +35554,7 @@
         "capacity": "121",
         "enrolled": "121",
         "wl_capacity": "30",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for American Studies Major",
@@ -37032,7 +37032,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "10",
@@ -37643,7 +37643,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
@@ -37894,7 +37894,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into the following rooms: SC 5215",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
@@ -38357,7 +38357,7 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
-            "F"
+            "T"
         ],
         "meeting_times": [
             "04:10p - 07:00p"
@@ -48197,7 +48197,7 @@
         "notes": "Students must also enroll in a Thursday discussion section, HOD 1250-10, -11, -12, -13, -14, -15, -16, or -18.\n         \n            \n            Instructor - Mundy, Meaghan E.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "97",
+        "enrolled": "98",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -48436,9 +48436,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -52513,9 +52513,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Film Studies",
@@ -54381,7 +54381,7 @@
         "notes": "To design a fall or summer capstone semester, register for HOD 4949 in spring. To design a spring capstone, register for HOD 4949 in fall. HOD 4949 is not offered in the summer. Requirements: Completed or enrolled in all HOD core classes. Note: You are permitted and required to take HOD 4949 while studying abroad if you are studying abroad the semester prior to your capstone semester.",
         "status": "Open",
         "capacity": "200",
-        "enrolled": "169",
+        "enrolled": "170",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -56936,7 +56936,7 @@
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -83946,7 +83946,7 @@
         "notes": "Registration only with permission of instructor.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -90546,24 +90546,16 @@
         "requirements": "Open to students enrolled in the online Applied Behavior Analysis certificate program.",
         "description": "Application of behavioral principles in educational settings. Presents definition and measurement of behavior, reinforcement strategies, systematic program development, basic formats for classroom instruction, and techniques for monitoring student progress. Emphasizes procedures for increasing academic and socially appropriate behavior through simulations and practice exercises. Review of research methodologies and the critical analysis of research literature in the area of applied behavior analysis are required. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
         "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "M"
-        ],
-        "meeting_times": [
-            "07:30p - 08:30p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Szabo, Tom"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -90663,24 +90655,16 @@
         "requirements": "Open to students enrolled in the online Applied Behavior Analysis certificate program.",
         "description": "Overview of basic behavioral processes. Presents information relating to human and nonhuman learning with a focus on the experimental analysis of behavior. Topics covered include environmental feedback mechanisms, schedules of reinforcement, establishing operations, multi-operant performances, discriminative stimulus control, stimulus equivalence, rule-governed behavior, behavioral pharmacology, and remembering/forgetting. The course also focuses on research methodologies and the critical analysis of research. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
         "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "W"
-        ],
-        "meeting_times": [
-            "07:30p - 08:30p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Szabo, Tom"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -94706,7 +94690,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -103660,7 +103644,7 @@
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Critical Theories of Education introduces students to a range of theoretical traditions that interrogate power, knowledge, and inequality as they relate to education. The course explores how different forms of criticality-such as critical race theory, feminist theory, postcolonial theory, critical pedagogy, and critical disability studies-emerged historically and continue to inform educational practice, research, and policy.Ultimately, the course situates critical theories of education as tools for questioning taken-for-granted assumptions, developing deeper analysis of systemic inequities, and engaging in transformative educational work. Participants will gain an introductory grounding in multiple strands of critical thought and practice, building a toolkit for applying critical frameworks in diverse educational spaces.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -112414,7 +112398,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -113694,9 +113678,9 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Governmental institutions and political processes in the People's Republic of China with emphasis upon the interaction of traditional and revolutionary elements. Some attention to Taiwan since 1950 and to the overseas Chinese as parts of the Chinese political universe. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (INT)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -114846,9 +114830,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -115102,7 +115086,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -115479,7 +115463,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -116532,9 +116516,9 @@
         "requirements": "NURS 8212 as prereq, NURS 8214 as coreq, and MN degree",
         "description": "This course is the second in a series on the professional nursing role. The didactic course is designed to foster learner examination of best practices for application of ethical, legal, leadership, and health care informatics principles in the promotion of quality and safety in professional nursing practice. The role of the nurse in evidence-based practice and research will be explored.  Learners will appraise evidence, examine ethical dilemmas surrounding implementation, and develop solutions to health and systems problems.  Application of the relationships among, theory, evidence, and practice will cultivate learners' spirit of inquiry and advocacy for promoting quality and safety in professional nursing practice. Prerequisite: 8212. Pre/corequisite: 8214. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -117064,7 +117048,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -117740,7 +117724,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -119411,9 +119395,9 @@
         "requirements": "NURS 8212, 8214, and MN degree students only",
         "description": "This course is the second in a series on health equity. Students will analyze the use of quality improvement, policy development, population health data and models of care to promote equitable health and systems outcomes. Health care economics influencing access to care will be explored. Learners will leverage clinical informatics tools to analyze health and health care needs of diverse individuals, communities, and populations. Pre/corequisites: 8212 and 8214. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -119885,7 +119869,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120444,7 +120428,7 @@
         "notes": "The combined enrollment capacity of MTED 3360 and MTED 6380 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -132547,7 +132531,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -135600,11 +135584,11 @@
         "requirements": "",
         "description": "This course offers a broad overview of the dynamic, complex, and vast world of sports business. Students will explore the economic, financial, legal, and social factors that shape the industry, from professional leagues and franchises to athletes' rights and other emerging trends. Through interactive lectures, case studies, guest speakers, and real-world simulations, you will gain insight into the diverse business operations that fuel the global sports phenomenon. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
@@ -140110,9 +140094,9 @@
         "requirements": "",
         "description": "Narrative analysis, and other humanistic, interpretative practices of relevance to medicine and health. [3] (HCA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "13",
         "attributes": [
@@ -147980,7 +147964,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -150355,7 +150339,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -157401,7 +157385,7 @@
         "requirements": "",
         "description": "The study of human society; the nature of culture and its organization. Processes of communication, socialization, mobility, population growth. Repeat credit for students who have completed 1010W or 1011. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "12",
@@ -180687,7 +180671,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -180695,7 +180679,7 @@
             "TR"
         ],
         "meeting_times": [
-            "03:00p - 04:30p"
+            "03:00p - 04:15p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -182125,7 +182109,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -191744,7 +191728,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "64",
+        "enrolled": "63",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -204095,7 +204079,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -207172,7 +207156,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -215898,7 +215882,7 @@
         "notes": "Design studio investigating the visual form, material, and distribution of language. Core skills of typographic expression-hierarchy, legibility, and reproducibility - through an understanding of the history of print and digital publication methods. Experimenting across digital technologies and analog ways of making.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -218604,11 +218588,11 @@
         "requirements": "",
         "description": "tudy of the seven chakras, or energy centers, of the body. Emphasis on aligning the chakras through gentle yoga practice (beginner level), and cultivating student well-being. Offered on a pass/fail basis. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -219341,7 +219325,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -219380,7 +219364,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
