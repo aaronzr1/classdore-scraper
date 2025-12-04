@@ -9721,7 +9721,7 @@
         "capacity": "200",
         "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "44",
+        "wl_occupied": "43",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -10801,7 +10801,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "235",
-        "enrolled": "233",
+        "enrolled": "234",
         "wl_capacity": "75",
         "wl_occupied": "1",
         "attributes": [
@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "17",
+        "wl_occupied": "15",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11081,7 +11081,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "25",
+        "wl_occupied": "23",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11508,9 +11508,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "47",
+        "enrolled": "49",
         "wl_capacity": "25",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -14987,7 +14987,7 @@
         "description": "Also listed as ECE 4278. The nature of software. The object-oriented paradigm. Software life-cycle models. Requirements, specification, design, implementation, documentation, and testing of software. Object-oriented analysis and design. Software maintenance. Serves as repeat credit for CS 4278. No credit for students who have earned credit for CS 5278 or ECE 5278. Prerequisite: CS 3251 or ECE 3251. FALL. [3]",
         "notes": "The combined enrollment capacity of CS 4278, ECE 4278, CS 5278, and ECE 5278 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "40",
+        "capacity": "45",
         "enrolled": "40",
         "wl_capacity": "35",
         "wl_occupied": "6",
@@ -15389,9 +15389,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -16084,7 +16084,7 @@
         "description": "Students work in teams to specify, design, implement, document, and test a nontrivial software project. The use of CASE (Computer Assisted Software Engineering) tools is stressed. Prerequisite: CS 4278. SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 4279 and CS 5279 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "32",
+        "capacity": "38",
         "enrolled": "33",
         "wl_capacity": "35",
         "wl_occupied": "9",
@@ -18569,7 +18569,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -23561,7 +23561,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -28656,7 +28656,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "105",
+        "enrolled": "106",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -32361,7 +32361,7 @@
         "description": "Students work in small groups on the specification, design, implementation, and testing of a sizeable AI software project. Projects (e.g., an \"intelligent\" game player) require that students address a variety of AI subject areas, notably heuristic search, uncertain reasoning, planning, knowledge representation, and learning. Class discussion highlights student progress, elaborates topics under investigation, and identifies other relevant topics (e.g., vision) that the project does not explore in depth. Prerequisite: CS 4260. SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 4269 and CS 5269 is 39. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "24",
+        "capacity": "32",
         "enrolled": "31",
         "wl_capacity": "35",
         "wl_occupied": "5",
@@ -35763,7 +35763,7 @@
         "requirements": "",
         "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. [3] (SBS) (CORE E) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "32",
         "enrolled": "31",
         "wl_capacity": "12",
@@ -36404,7 +36404,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "158",
+        "enrolled": "159",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -36579,9 +36579,9 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "148",
+        "enrolled": "147",
         "wl_capacity": "25",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -36662,11 +36662,11 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "24",
+        "wl_occupied": "25",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37896,7 +37896,7 @@
         "notes": "Students registered in this section will be appropriated into the following rooms: SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -38516,7 +38516,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38767,7 +38767,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38847,9 +38847,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -39942,9 +39942,9 @@
         "requirements": "",
         "description": "Selected critical approaches to literature. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -40440,7 +40440,7 @@
         "notes": "[Formerly SPED 3800]",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -42778,7 +42778,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -46281,7 +46281,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "175",
-        "enrolled": "151",
+        "enrolled": "152",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -51388,7 +51388,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for students with a home department at Peabody through initial enrollment period",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "64",
+        "enrolled": "62",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -53273,9 +53273,9 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: African American Modernism",
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -54534,7 +54534,7 @@
         "description": "Students work in small groups on the specification, design, implementation, and testing of a sizeable machine learning or deep learning project. Projects can be either application- or algorithm-oriented. Prerequisites: CS 4262, CS 4267, or ECE 4363. No credit for students who have earned credit for CS 5359. SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 4359 and CS 5359 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "25",
+        "capacity": "30",
         "enrolled": "25",
         "wl_capacity": "12",
         "wl_occupied": "7",
@@ -56166,7 +56166,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -56460,7 +56460,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -56934,7 +56934,7 @@
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -57372,7 +57372,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "24",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -64535,7 +64535,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -67229,11 +67229,11 @@
         "requirements": "Prerequisite: H&OD first or second majors and Sophomore, Junior, or Senior Registration Group.",
         "description": "The course provides a general overview of social, economic, and other environmental factors impacting the world of work and helps students in understanding how organizations are responding to this changing landscape. The course also enables students to critically engage this context by developing competencies and skills which will be applicable in a diversity of settings. [3]",
         "notes": "Seats initially reserved for HOD SO, JR, and SR Majors and Minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -72866,7 +72866,7 @@
         "notes": "The combined enrollment capacity of ECE 4284-01 and ECE 5284-01 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -80174,7 +80174,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -93715,7 +93715,7 @@
         "description": "Also listed as ECE 3251. High quality development and reuse of architectural patterns, design patterns, and software components. Theoretical and practical aspects of developing, documenting, testing, and applying reusable class libraries and object-oriented frameworks using object-oriented and component-based programming languages and tools. Serves as repeat credit for ECE 3251. No credit for students who have earned credit for CS 5251. Prerequisite: CS 2201 or ECE 2201. FALL, SPRING [3]",
         "notes": "The combined enrollment capacity of CS 3251, ECE 3251, and CS 5251 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "40",
+        "capacity": "45",
         "enrolled": "40",
         "wl_capacity": "15",
         "wl_occupied": "3",
@@ -98850,7 +98850,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -105150,7 +105150,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "8",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -107973,7 +107973,7 @@
         "notes": "Full Title: Exploring South Africa: History, Economy, Health This is a travel embedded course. Students travel to South Africa during spring break. Application required. https://redcap.link/dmwol03b",
         "status": "Wait list",
         "capacity": "14",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "3",
         "wl_occupied": "0",
         "attributes": [
@@ -109280,7 +109280,7 @@
         "notes": "The combined enrollment capacity of ARTS 1500 and ARTS 2500 is 12. although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "10",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "12",
         "wl_occupied": "9",
         "attributes": [
@@ -117046,7 +117046,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -119867,7 +119867,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -125836,8 +125836,8 @@
         "requirements": "Prerequisite: CS 3251 and (CS 2231 or CS 2281 or ECE 2281 or CS 2123 or ECE 2123).",
         "description": "Resource allocation and control functions of operating systems. Scheduling of processes and processors. Concurrent processes and primitives for their synchronization. Use of parallel processes in designing operating system subsystems. Methods of implementing parallel processes on conventional computers. Virtual memory, paging, protection of shared and non-shared information. Structures of data files in secondary storage. Security issues. Case studies. Prerequisite: CS3251; CS 2231 or CS/ECE 2123 or CS/ECE 2281. FALL, SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
-        "capacity": "30",
+        "status": "Wait list",
+        "capacity": "35",
         "enrolled": "29",
         "wl_capacity": "15",
         "wl_occupied": "1",
@@ -126073,7 +126073,7 @@
         "description": "Resource allocation and control functions of operating systems. Scheduling of processes and processors. Concurrent processes and primitives for their synchronization. Use of parallel processes in designing operating system subsystems. Methods of implementing parallel processes on conventional computers. Virtual memory, paging, protection of shared and non-shared information. Structures of data files in secondary storage. Security issues. Case studies. Prerequisite: CS3251; CS 2231 or CS/ECE 2123 or CS/ECE 2281. FALL, SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "30",
+        "capacity": "35",
         "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "1",
@@ -126267,8 +126267,8 @@
         "requirements": "Prerequisite: CS 3251 and (CS 2231 or CS 2281 or ECE 2281 or CS 2123 or ECE 2123).",
         "description": "Resource allocation and control functions of operating systems. Scheduling of processes and processors. Concurrent processes and primitives for their synchronization. Use of parallel processes in designing operating system subsystems. Methods of implementing parallel processes on conventional computers. Virtual memory, paging, protection of shared and non-shared information. Structures of data files in secondary storage. Security issues. Case studies. Prerequisite: CS3251; CS 2231 or CS/ECE 2123 or CS/ECE 2281. FALL, SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
-        "capacity": "30",
+        "status": "Wait list",
+        "capacity": "35",
         "enrolled": "27",
         "wl_capacity": "15",
         "wl_occupied": "1",
@@ -129123,7 +129123,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "25",
         "wl_occupied": "21",
         "attributes": [
@@ -129291,7 +129291,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -130005,7 +130005,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -130202,7 +130202,7 @@
         "notes": "Class will meet in 6 Magnolia 019 on March 23rd.",
         "status": "Open",
         "capacity": "31",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -136261,7 +136261,7 @@
         "notes": "Class will meet in Med Research Building IV, Room 11455.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138030,7 +138030,7 @@
         "notes": "The combined enrollment capacity of NURO 8326 and CANB 8326 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138429,7 +138429,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "41",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -147713,7 +147713,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -152926,7 +152926,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Scientific Computing"
         ],
@@ -158449,7 +158449,8 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Behague, Dominique P."
+            "Behague, Dominique P.",
+            "Moncayo, Abelardo C."
         ],
         "date_added": null
     },
@@ -161551,7 +161552,8 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Behague, Dominique P."
+            "Behague, Dominique P.",
+            "Moncayo, Abelardo C."
         ],
         "date_added": null
     },
@@ -164856,7 +164858,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "5",
         "attributes": [
@@ -168988,9 +168990,9 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -169110,9 +169112,9 @@
         "requirements": "",
         "description": "Close study and criticism of poems. The nature of poetry, and the process of literary explication. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Poetry and the Oppressed",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": [
@@ -170496,7 +170498,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -170867,7 +170869,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -170990,7 +170992,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171277,7 +171279,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171769,7 +171771,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172673,7 +172675,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172712,11 +172714,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173538,7 +173540,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173702,7 +173704,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173823,7 +173825,7 @@
         "notes": "This course will introduce theoretical and practical aspects of quantum computing.  The first part of the course will discuss the history of the field through the current state of the art. We will then cover the mathematical and physical principles of quantum computing and will rigorously examine some of the most famous algorithms in the field. The second part of the course will be hands-on, where we leverage Python and Qiskit to build real programs for quantum computers. The course may conclude with student presentations about recent research papers or student-led projects. Comfort with Python is necessary for this course. Prerequisites: CS3250; linear algebra; differential equations.\n         \n            \n            The combined enrollment capacity of CS 3891 and CS 5891 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -173989,7 +173991,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -176853,7 +176855,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -177302,7 +177304,7 @@
         "description": "Also listed as ECE 4260. Principles and programming techniques of artificial intelligence. Strategies for searching, representation of knowledge and automatic deduction, learning, and adaptive systems. Survey of applications. Serves as repeat credit for ECE 4260. No credit for students who have earned credit for CS 5260 or ECE 5260. Prerequisite: CS 3250; CS 3251 or ECE 3251; MATH 2810 or 2820 or 3640. FALL. [3]",
         "notes": "The combined enrollment capacity of CS 4260, ECE 4260, CS 5260, and ECE 5260 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "25",
+        "capacity": "35",
         "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "12",
@@ -177878,7 +177880,7 @@
         "capacity": "100",
         "enrolled": "104",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179083,7 +179085,7 @@
         "capacity": "24",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179378,7 +179380,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -184950,7 +184952,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -187604,7 +187606,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "29",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": null,
@@ -188418,11 +188420,11 @@
         "requirements": "Prerequisite: ECON 1010, 1020, and either MATH 1201 or 1301. Not open to students who have earned credit for ECON 3020.",
         "description": "Contemporary models of national income, employment, interest rates, price level, and economic growth. Decisions underlying consumption and investment behavior, as well as the effect of government policies. Not open to students who have earned credit for 3020. Total credit for this course and 3020 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1010, 1020, and either MATH 1201 or 1301. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "15",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -188630,7 +188632,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -189345,7 +189347,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -190889,7 +190891,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -193311,7 +193313,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "20",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -197451,7 +197453,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -203643,24 +203645,16 @@
         "requirements": "",
         "description": "Creation, production, and reception of cultural products such as music, film, and novels, drawing on the sociology of culture, economic sociology, and organizational sociology. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "35",
-        "enrolled": "6",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "01:15p - 02:30p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Frenette, Alexandre"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -204568,7 +204562,7 @@
         "notes": "The combined enrollment capacity of EDUC 3730 and EDUC 6520 is 18. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -207968,7 +207962,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -212800,7 +212794,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -216632,9 +216626,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -219805,11 +219799,11 @@
         "requirements": "Prerequisite: ECON 1020. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2100) Emphasis on mandated corporate disclosure. Economic concepts that guide the development and use of accounting conventions as well as the institutional context that disciplines producers and users. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 1600. Prerequisite: ECON 1020. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
