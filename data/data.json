@@ -7826,7 +7826,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "16",
+        "wl_occupied": "17",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -18090,7 +18090,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -21804,9 +21804,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -23803,7 +23803,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36495,7 +36495,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -37161,7 +37161,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -37280,9 +37280,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -39942,9 +39942,9 @@
         "requirements": "",
         "description": "Selected critical approaches to literature. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -40360,7 +40360,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "27",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -48357,7 +48357,7 @@
         "notes": "Class is 100% online.",
         "status": "Open",
         "capacity": "425",
-        "enrolled": "133",
+        "enrolled": "134",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -50278,7 +50278,7 @@
         "notes": "[Formerly SPED 3600]",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -53273,7 +53273,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: African American Modernism",
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -54086,7 +54086,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -59396,7 +59396,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -66063,7 +66063,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -69949,7 +69949,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "112",
+        "enrolled": "113",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -70629,7 +70629,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -70788,7 +70788,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -107213,7 +107213,7 @@
         "notes": "Full title: \"Religion and Film in India\" - Cinema has often been compared to religion, creating its own worlds and mythologies, its own divinities, its own spaces of congregation. The parallel of religion and cinema could be taken even further in India, where actors and actresses have been deified, and where religious themes (such as reincarnation, miraculous intervention, and martyrdom) often underlie public secular entertainment. This course will use the prevalence of religion in Indian cinema to introduce students to key themes in Indian religion, as well as to the diversity of religions (such as Hindu, Islamic, and Christian traditions) and religious practice in India. Each week students will watch a feature film in conversation with a primary or secondary text about religious life in India. In the seminar we will explore the connections between the text and the film, and students will have regular writing assignments to develop their understanding of Indian religions, and their thoughts about the relations between religion, culture, and mass media. (Core capacity tags: A, C / AXLE tags: INT)",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -112065,7 +112065,7 @@
         "notes": "The combined enrollment capacity of EDUC 3310 and EDUC 6310 is 25.  Although seats may appear open in a section, if the combined capacity has been reached, the course will close\n         \n            \n            Weekly course sessions will be held at John Early Museum Magnet Middle School.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -118404,7 +118404,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130282,7 +130282,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130869,24 +130869,16 @@
         "requirements": "",
         "description": "[0]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
         "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "M"
-        ],
-        "meeting_times": [
-            "03:00p - 03:50p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Gresalfi, Melissa S."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -134902,7 +134894,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "99",
+        "enrolled": "98",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": [
@@ -136862,7 +136854,7 @@
         "notes": "This section is for FNP students only.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -148086,7 +148078,7 @@
         "notes": "The combined enrollment capacity of SCED 3400 and SCED 7400 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -170301,7 +170293,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171162,7 +171154,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171777,7 +171769,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172474,7 +172466,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172724,7 +172716,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173091,7 +173083,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173546,7 +173538,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174855,7 +174847,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -176286,7 +176278,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -177071,7 +177063,7 @@
         "dates": "1/5/26 - 4/13/26",
         "requirements": "",
         "description": "This simulation provides a realistic bridge between academic legal education and the practical demands of law firm employment, by immersing students in the reality of law firm practice. Students will be assigned to either litigation or transactional practice groups, mirroring the structure of modern law firms. Throughout the course, students will receive weekly assignments requiring legal research and the drafting of various documents including client memoranda, court filings, and transactional documents. Students will develop critical practice skills by managing multiple cases and project loads simultaneously, collaborating with their classmates, and adhering to deadlines. The course also emphasizes the importance of current awareness and business research as essential components of effective legal practice. Students will be expected to monitor relevant legal developments in their practice areas and incorporate this knowledge into their work. Pass/Fail. Enrollment limited. [1]",
-        "notes": "Limited Enrollment",
+        "notes": "Limited Enrollment\n         \n            \n            This course meets for the first seven weeks of the semester.",
         "status": "Wait list",
         "capacity": "14",
         "enrolled": "14",
@@ -177090,7 +177082,8 @@
             "1/5/26-4/13/26"
         ],
         "instructors": [
-            "Pavuluri, Emily M."
+            "Pavuluri, Emily M.",
+            "Turner, Thomas K."
         ],
         "date_added": null
     },
@@ -179995,7 +179988,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -184842,7 +184835,7 @@
         "capacity": "25",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -185903,7 +185896,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187611,7 +187604,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "32",
+        "enrolled": "29",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": null,
@@ -191266,7 +191259,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -192883,24 +192876,16 @@
         "requirements": "CE 3205 is prerequisite for this course",
         "description": "Design and behavior of two-way slab systems. Yield line theory. Shear and torsion analysis and design. Serviceability requirements and control of deflections of reinforced concrete systems. Prestressed concrete. Prerequisite: CE 3205. SPRING. [3]",
         "notes": "The combined enrollment capacity of CE 4210 and CE 5210 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "11:00a - 12:15p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Byers, Curtis D."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -192961,24 +192946,16 @@
         "requirements": "",
         "description": "(Also listed as CE 4210) Design and behavior of two-way slab systems. Yield line theory. Shear and torsion analysis and design. Serviceability requirements and control of deflections of reinforced concrete systems. Prestressed concrete. No credit for students who have earned credit for 4210. SPRING. [3]",
         "notes": "The combined enrollment capacity of CE 4210 and CE 5210 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "5",
         "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "11:00a - 12:15p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Byers, Curtis D."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -194812,7 +194789,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "130",
-        "enrolled": "102",
+        "enrolled": "103",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -195518,7 +195495,7 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "36",
         "wl_occupied": "0",
         "attributes": [
@@ -195645,7 +195622,7 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -200123,9 +200100,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -200837,7 +200814,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200954,9 +200931,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -202056,7 +202033,7 @@
         "dates": "1/5/26 - 4/13/26",
         "requirements": "",
         "description": "Offered as part of the VAILL course concentration. This course offers an in-depth exploration of the evolving landscape of legal research, focusing on the integration and application of artificial intelligence (AI) and data science in legal research tools. Students will engage with the latest AI-driven legal research technologies, examining their design, use cases, functionalities, and implications for legal practice and jurisprudence. The course focuses heavily on hands on practice with emerging tech tools, enabling students to critically assess and proficiently use AI tools for legal research. Emphasis will be placed on ethical considerations, accuracy, and the impact of AI on traditional legal research methodologies. Through a mix of lectures, in class exercise and a capstone research project, students will gain a comprehensive understanding of the current and future state of AI in legal research. Enrollment limited. Pass/Fail. [1]",
-        "notes": "Class meets first seven weeks of the semester.",
+        "notes": "Class meets first ten weeks of the semester.",
         "status": "Wait list",
         "capacity": "20",
         "enrolled": "20",
@@ -203509,7 +203486,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "18",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -215674,7 +215651,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -218181,7 +218158,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -220705,11 +220682,11 @@
         "requirements": "",
         "description": "Introduction to the \"historian's craft.\" Reconstructing the past using primary documents such as diaries, letters, memoirs, and declassified government papers. Methods of historical research and reasoning through individual projects. Offered on a graded basis only. [3] (SBS)",
         "notes": "This course teaches students how to work with primary sources related to the Holocaust, whether official documents or private diaries, letters, correspondences, and interviews. By working through these sources, we will piece together the history of the Holocaust in novel ways. This class is not intended for first year students.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
