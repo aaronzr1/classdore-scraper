@@ -2481,7 +2481,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -3323,7 +3323,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -3728,9 +3728,9 @@
         "notes": "The combined enrollment capacity of ECE 4377 and ECE 5377 is 44. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "44",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11081,7 +11081,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "25",
+        "wl_occupied": "24",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11196,7 +11196,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": null,
@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11391,9 +11391,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -20541,7 +20541,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -21446,9 +21446,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -23353,7 +23353,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -27961,7 +27961,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -28126,7 +28126,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -28167,7 +28167,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "130",
-        "enrolled": "130",
+        "enrolled": "129",
         "wl_capacity": "50",
         "wl_occupied": "37",
         "attributes": [
@@ -28373,7 +28373,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "22",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -28656,7 +28656,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "104",
+        "enrolled": "106",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -29097,7 +29097,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -29224,7 +29224,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -30591,9 +30591,9 @@
         "requirements": "",
         "description": "Cultural analysis of drag performance and histories of drag practice in ancient Greece, Elizabethan and Restoration England, Japan's Edo period, British and American stages 17th-21st centuries. Serves as repeat credit for THTR 2260. [3] (P) (CORE C) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -34832,7 +34832,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35381,7 +35381,7 @@
         "notes": "The combined enrollment capacity of ARTS 1600, ARTS 2600 and ARTS 3600 is 12. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "9",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -36404,7 +36404,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "157",
+        "enrolled": "158",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -36664,7 +36664,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Closed",
         "capacity": "160",
-        "enrolled": "160",
+        "enrolled": "159",
         "wl_capacity": "25",
         "wl_occupied": "25",
         "attributes": [
@@ -37770,7 +37770,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Alston, Hailey",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -37848,7 +37848,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -42252,7 +42252,7 @@
         "capacity": "60",
         "enrolled": "28",
         "wl_capacity": "100",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -42778,7 +42778,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -45028,7 +45028,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -45636,7 +45636,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -51304,7 +51304,7 @@
         "notes": "The combined enrolment capacity of PORT 2203 and PORT 5303 is 18. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -54745,7 +54745,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -57890,9 +57890,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "15",
+        "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "8",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: A-Written & Creative Expression",
@@ -65165,7 +65165,7 @@
         "capacity": "15",
         "enrolled": "24",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -70116,7 +70116,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -75577,7 +75577,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -81351,7 +81351,7 @@
         "capacity": "35",
         "enrolled": "34",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -91876,7 +91876,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Barzel, Ur",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -92037,9 +92037,9 @@
         "requirements": "Prerequisite: Learning and Leadership in Organizations Ed.D. major.",
         "description": "This course is an exploration of the ethics of leadership and learning conceived as the practice of responding fully and defensibly to the existential question, \"How shall I live?\" in the context of organizational goals and constraints and in recognition of power-laden roles within those institutions. We link experience, value, motivation and action to philosophical ideas to ensure that our leadership decisions account for all the elements of our moral/ethical lives. [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -94439,11 +94439,11 @@
         "requirements": "NSC 1400 as pre-req",
         "description": "Role of GABA in neural function/dysfunction.  GABA receptor structure and function in disorders such as epilepsy, addiction, and anxiety. How primary literature informs our current understanding of inhibition in the nervous system. No credit for students who completed NSC 3891 section 01 offered spring 2021 or spring 2022, or section 03 offered fall 2019.  Prerequisite:  2201. [3] (MNS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -95448,7 +95448,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -105470,7 +105470,7 @@
         "notes": "Full title: \"Italy and Asia: Deconstructing Representations of Asia in Italian and European Culture\" - Since the Middle-Ages, Italy enjoys intense social, political, and commercial exchanges with Asia. For centuries, Italian merchants and explorers travel along terrestrial and maritime trade routes, which connect the city-states of the peninsula with the Near and Far East. In the tales of Genoese and Venetian adventurers, Persia, India, Indonesia, China, Korea, and Japan appear as lands of opulence, wonder, and magic, regardless of the innumerable dangers of the long journey. The emergence of Portugal, Holland, and England as global colonial empires during the Modern era do not decrease established relationships between Italy and Asia. Rather, Italian inventors, diplomats, and missionaries become even more influential as cultural ambassadors, who are often able to create a synthesis between European and Asian cultures in politics, religion, science, and art. This tradition continues in the present. The works of several contemporary Italian writers, artists, and filmmakers demonstrate a constant, reciprocal fascination between Italy and Asia, which this course will investigate, challenge, and deconstruct. Based on intense interdisciplinarity between the verbal and the visual domains, we will put into conversation several disciplines, including history, art history, literary history, economy, geopolitics, and film studies. (Core capacity tags: A, C / AXLE tags: INT)",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108381,9 +108381,9 @@
         "notes": "The combined enrollment capacity of MHS 3890-03 and MHS 6500-01 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -108790,7 +108790,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -111816,7 +111816,7 @@
         "capacity": "25",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -133548,7 +133548,7 @@
         "capacity": "70",
         "enrolled": "57",
         "wl_capacity": "75",
-        "wl_occupied": "39",
+        "wl_occupied": "38",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -134494,7 +134494,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Speculative Realities",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -135145,7 +135145,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135426,7 +135426,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -139805,7 +139805,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -140953,7 +140953,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -144611,7 +144611,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "0",
         "wl_occupied": "7",
         "attributes": [
@@ -147515,7 +147515,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -149276,11 +149276,11 @@
         "requirements": "Not open to HOD or HOS majors, or to students who have earned credit for HOD 2100 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2400) Accomplishing goals by effectively working for, with, and through others. The units of analysis explored are individuals, teams, and organizations. Not open to HOD or HOS majors, or to students who have earned credit for HOD 2100 without permission, as students will forfeit credit hours. Serves as repeat credit for HOD 2100. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -151103,7 +151103,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "6",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -153090,7 +153090,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "49",
+        "enrolled": "48",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -159907,7 +159907,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -164782,7 +164782,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -165348,7 +165348,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -176574,7 +176574,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -177388,7 +177388,7 @@
         "notes": "The combined enrollment capacity of ECON 4260 and ECON 5260 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -181283,7 +181283,7 @@
         "notes": "Students will be distributed to SC 5215",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -181408,7 +181408,7 @@
         "notes": "Roster will be distributed to SC 5215.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -182228,9 +182228,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -182470,7 +182470,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Alston, Hailey",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191523,7 +191523,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "26",
+        "wl_occupied": "27",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191565,7 +191565,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "34",
+        "wl_occupied": "35",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191607,7 +191607,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "46",
+        "wl_occupied": "47",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -193129,7 +193129,7 @@
         "capacity": "68",
         "enrolled": "72",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -193419,9 +193419,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193625,7 +193625,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -195651,7 +195651,7 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -195692,7 +195692,7 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -197480,7 +197480,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197559,9 +197559,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197802,7 +197802,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -201483,7 +201483,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -201644,11 +201644,11 @@
         "requirements": "",
         "description": "Diverse narratives and themes in influential short stories and novels; fiction's role in cultural and personal identity; techniques for analysis. Each section will have a specific theme-see English Departmental Course Descriptions. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: The Art of World-Building",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -212493,7 +212493,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -215918,7 +215918,7 @@
         "notes": "The combined enrollment capacity of EES 1510 and 1515 is 105. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "105",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "50",
         "wl_occupied": "21",
         "attributes": [
@@ -220000,9 +220000,9 @@
         "notes": "Prerequisite is waived for Spring 2026.",
         "status": "Open",
         "capacity": "11",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -222526,7 +222526,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
