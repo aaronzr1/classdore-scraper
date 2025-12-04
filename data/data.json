@@ -5470,7 +5470,7 @@
         "notes": "Explore how neural populations in the brain generate internal states that shape perception, thought, and behavior. Using primary literature and The Inside Out Brain book, topics include neural oscillations, sleep, active perception, replay, state space representations, and internal models in an unpredictable world.\n         \n            \n            The combined enrollment capacity of PSY 4744 and PSY 8744 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -7826,7 +7826,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -10564,7 +10564,7 @@
         "capacity": "215",
         "enrolled": "216",
         "wl_capacity": "150",
-        "wl_occupied": "95",
+        "wl_occupied": "94",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -10801,7 +10801,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "235",
-        "enrolled": "232",
+        "enrolled": "233",
         "wl_capacity": "75",
         "wl_occupied": "1",
         "attributes": [
@@ -10964,7 +10964,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "15",
+        "wl_occupied": "16",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -21448,7 +21448,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -23353,9 +23353,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "6",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for American Studies Major",
@@ -26408,7 +26408,7 @@
         "notes": "The combined enrollment capacity of BSCI 2250-01 and BSCI 5250-01 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -26697,7 +26697,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "22",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -28167,9 +28167,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "130",
-        "enrolled": "129",
+        "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "37",
+        "wl_occupied": "36",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -28208,9 +28208,9 @@
         "requirements": "",
         "description": "The role of the actor in the theatre with emphasis on artistic self-expression through improvisation and development of performance skills. Available on a graded basis only. [3] (HCA) (CORE A)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "14",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -28656,7 +28656,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "106",
+        "enrolled": "105",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -34983,7 +34983,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35141,7 +35141,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Nebel, Cynthia",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35182,7 +35182,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "25",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor",
@@ -36579,7 +36579,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "149",
+        "enrolled": "148",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -36662,11 +36662,11 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "160",
-        "enrolled": "159",
+        "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "25",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37643,11 +37643,11 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38635,9 +38635,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5215.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -40853,7 +40853,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -46159,7 +46159,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Communication of Science and Tech",
@@ -63049,7 +63049,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -69791,7 +69791,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -75144,7 +75144,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -91363,7 +91363,7 @@
         "notes": "The combined enrolment capacity of PORT 3302 and PORT 5302 is 16. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -95210,7 +95210,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -119939,7 +119939,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -127054,7 +127054,7 @@
         "notes": "The behavior and physiological development of infants reflect a complex interaction between evolutionary history and genetics, prenatal environmental influences, and early postnatal experience. An overview of each of these topics is provided through classroom discussions and reading assignments focusing on recent empirical studies and major theoretical issues. Prerequisite: PSY-PC 1250\n         \n            \n            Fifteen seats reserved for Peabody students through the initial enrollment period.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -131446,7 +131446,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -132529,7 +132529,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -134900,7 +134900,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "100",
+        "enrolled": "99",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": [
@@ -135062,7 +135062,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "84",
+        "enrolled": "85",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": [
@@ -140092,9 +140092,9 @@
         "requirements": "",
         "description": "Narrative analysis, and other humanistic, interpretative practices of relevance to medicine and health. [3] (HCA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "13",
         "attributes": [
@@ -151659,7 +151659,7 @@
         "notes": "The combined enrollment capacity of BSCI 4101-01 and BSCI 6101-01 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "44",
+        "enrolled": "43",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -152330,7 +152330,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -153090,7 +153090,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -156890,7 +156890,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -160446,11 +160446,11 @@
         "requirements": "",
         "description": "An introduction to the basic problems of philosophy based upon readings in the works of selected leading philosophers. Repeat credit for students who have completed 1002. [3] (HCA) (LE HFA)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -186310,9 +186310,9 @@
         "requirements": "",
         "description": "A study of the uses of language, definition, informal fallacies, the theory of the syllogism, the basic operations of modern symbolic logic, and selected issues in inductive logic and scientific method. Emphasis is placed on the ambiguities and pitfalls of ordinary usage and on techniques for translating ordinary arguments into formal logic. [3] (MNS) (CORE B, D) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -187617,7 +187617,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": null,
@@ -193502,7 +193502,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -195524,9 +195524,9 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "36",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195651,9 +195651,9 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -197480,7 +197480,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197561,7 +197561,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -202821,7 +202821,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -203196,7 +203196,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "15",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -203515,7 +203515,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "20",
-        "wl_occupied": "16",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -204077,7 +204077,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -204227,7 +204227,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "96",
+        "enrolled": "95",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -211550,7 +211550,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -211671,9 +211671,9 @@
         "requirements": "This course requires MGT 6371 as a Prerequisite.",
         "description": "This course builds upon the business process innovation concepts introduced in the introductory operations management course and examines material, information, and cash flows between firms within a supply chain. Topics include supply chain strategy, demand forecasting and inventory management methods for short and long lifecycle products, supply chain collaboration and coordination, and operational methods for managing supply chain risk. Prerequisite: MGT 6371. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -212493,7 +212493,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -213574,7 +213574,7 @@
         "notes": "The combined enrollment capacity of BSCI 2201-01 and BSCI 5201-01 is 140. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "81",
+        "enrolled": "82",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -213655,9 +213655,9 @@
         "requirements": "BSCI 2201 as pre- or co-req",
         "description": "One three-hour laboratory and discussion period per week. Satisfies the AXLE lab course requirement when completed with 2201. Prerequisite or corequisite: 2201. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -219673,7 +219673,7 @@
         "notes": "The combined enrollment capacity of CE 4250 and CE 5250 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -219793,9 +219793,9 @@
         "requirements": "SPAN 1100 anti-requisites",
         "description": "Designed exclusively for students with no previous exposure to Spanish. Development of basic listening, speaking, reading, and writing skills with Spanish-speaking culture through a communicative approach. Conducted primarily in Spanish. Not open to students with previous training in Spanish. Three hours of classroom instruction. Students continuing in Spanish take 1102. No credit for students who have already completed 1100 or have earned credit for a more advanced Spanish language course. Students wishing to repeat this course must take 1101 for repeat credit. [3] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -220410,11 +220410,11 @@
         "requirements": "",
         "description": "Theory and practice of advocacy, community engagement, and shared authority across multiple disciplines. Navigating ethical concerns in community-engaged advocacy work. Offered on a graded basis only. [3] (P) (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -222292,7 +222292,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
