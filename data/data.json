@@ -1953,7 +1953,7 @@
         "notes": "Open only to honors students in Sociology and Environmental Sociology.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -22607,7 +22607,7 @@
         "description": "Principles and practices of big data processing and analytics. Data storage databases and data modeling techniques, data processing and querying, data analytics and applications of machine learning using these systems. Prerequisite: CS 3251. SPRING. [3]",
         "notes": null,
         "status": "Wait list",
-        "capacity": "25",
+        "capacity": "33",
         "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "8",
@@ -25207,7 +25207,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -36402,9 +36402,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "160",
-        "enrolled": "159",
+        "enrolled": "160",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -36450,7 +36450,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -36579,7 +36579,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "147",
+        "enrolled": "146",
         "wl_capacity": "25",
         "wl_occupied": "2",
         "attributes": [
@@ -38635,9 +38635,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5215.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -38765,7 +38765,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39545,7 +39545,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": null,
@@ -75061,7 +75061,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "35",
         "wl_occupied": "1",
         "attributes": [
@@ -78909,7 +78909,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "45",
+        "enrolled": "46",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -85772,7 +85772,7 @@
         "description": "[3]",
         "notes": "The objective of this course is to give the students an understanding of how to make use of machine learning techniques for dynamical system. For this purpose, the class covers an introduction to dynamical system theory and how to analyze feedback systems on the basis of observed data. At the end, the students will know how to benefit from data-driven approaches for the accurate modeling and control of dynamical systems. Typical applications of the approaches presented in this course include robotics and autonomous driving. To understand different concepts discussed in this course, students are expected to have strong familiarity with concepts of linear algebra, probability theory, multivariate calculus and basic machine learning.",
         "status": "Open",
-        "capacity": "24",
+        "capacity": "16",
         "enrolled": "9",
         "wl_capacity": "10",
         "wl_occupied": "0",
@@ -99450,7 +99450,7 @@
         "notes": "This course will explore Beyonc\u00e9's unprecedented rise in American culture by: (1) placing her in the historical context of American women performers from Bessie Smith to Janet Jackson, who inspire and preceded her; and (2) analyzing her iconicity, impact, and intersectional politics through contemporary cultural, racial, and feminist criticism. This course will count toward all areas of Study within the AADS major and minor.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -106778,8 +106778,8 @@
         "requirements": "",
         "description": "Computer communications. Network (Internet) architecture. Algorithms and protocol design at each layer of the network stack. Cross-layer interactions and performance analysis. Network simulation tools. Lab and programming assignments. Serves as repeat credit for ECE 5383. No credit for students who have earned credit for CS 4383 or ECE 4383. [3]",
         "notes": "The combined enrollment capacity of CS 4383 and CS 5383 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Closed",
-        "capacity": "10",
+        "status": "Open",
+        "capacity": "15",
         "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -117406,7 +117406,7 @@
         "requirements": "ENGM 4500 enrollment reqts",
         "description": "Project-based course focused on the methods for managing the design, development, and commercialization of new products. Generating product concepts, developing a prototype strategy, modeling financial returns, securing intellectual property, designing retail packaging, and performing market testing to establish an optimal price. Teams include Engineering and MBA students. Prerequisite: ENGM 2210; ENGM 3700 or CE 4400 or EECE 4950; junior standing. SPRING. [4]",
         "notes": null,
-        "status": "Open",
+        "status": "Closed",
         "capacity": "16",
         "enrolled": "8",
         "wl_capacity": "20",
@@ -131440,7 +131440,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -136665,7 +136665,7 @@
         "notes": "$2,693.00 music fee (60-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -168628,7 +168628,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "70",
+        "enrolled": "69",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -170434,7 +170434,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Grossman, Pesach Eliav B."
+            "Legg, Benjamin"
         ],
         "date_added": null
     },
@@ -172386,7 +172386,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173085,7 +173085,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -191512,7 +191512,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "27",
+        "wl_occupied": "26",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -198506,7 +198506,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "18",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198588,7 +198588,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200354,7 +200354,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -202962,7 +202962,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -204040,7 +204040,7 @@
         "notes": "This course is restricted to students with little to no previous experience in Japanese language.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -207038,7 +207038,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society"
@@ -218756,7 +218756,7 @@
         "description": "Foundational topics in designing Internet of medical things (IoMT). Systems, algorithms and commercialization. Designing to de-risk commercialization from concept to market adoption. Prerequisite: CS 3251. No credit for students who have earned credit for CS 5240. SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 4240 and CS 5240 is 40. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
-        "capacity": "30",
+        "capacity": "35",
         "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "1",
