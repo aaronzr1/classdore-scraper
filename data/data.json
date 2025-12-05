@@ -22243,7 +22243,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -28169,7 +28169,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "36",
+        "wl_occupied": "37",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -30398,7 +30398,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -39307,7 +39307,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "84",
+        "enrolled": "85",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -82763,7 +82763,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "2",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -85104,7 +85104,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -108753,7 +108753,7 @@
         "capacity": "60",
         "enrolled": "58",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -112182,7 +112182,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -112702,7 +112702,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -112866,7 +112866,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -114951,7 +114951,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -126380,7 +126380,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -126573,7 +126573,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -132179,7 +132179,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -132728,7 +132728,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -133954,7 +133954,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "135",
-        "enrolled": "135",
+        "enrolled": "134",
         "wl_capacity": "30",
         "wl_occupied": "26",
         "attributes": [
@@ -134480,7 +134480,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Speculative Realities",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -134886,7 +134886,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "98",
+        "enrolled": "97",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": [
@@ -135410,7 +135410,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "5",
         "attributes": [
@@ -148662,7 +148662,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -149065,7 +149065,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -149909,11 +149909,11 @@
         "requirements": "",
         "description": "Race and racism in the United States and their impact on democratic practices. General intellectual and cultural manifestations of the significance of race and how it influences democratic reform: racial preferences, the prison industrial complex, national security, HIV/AIDS, and elections. [3] (US) (CORE B, C) (LE HFA)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: B-Systemic & Structural Reasoning",
@@ -159423,7 +159423,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -159503,9 +159503,9 @@
         "requirements": "ITA 1102 enrollment reqts",
         "description": "Study of the language through an exploration of Italian culture. No credit for students who have earned credit for a more advanced Italian language course. Prerequisite: 1101. [3] (INT) (CORE LA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -188414,11 +188414,11 @@
         "requirements": "Prerequisite: ECON 1010, 1020, and either MATH 1201 or 1301. Not open to students who have earned credit for ECON 3020.",
         "description": "Contemporary models of national income, employment, interest rates, price level, and economic growth. Decisions underlying consumption and investment behavior, as well as the effect of government policies. Not open to students who have earned credit for 3020. Total credit for this course and 3020 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1010, 1020, and either MATH 1201 or 1301. [3] (SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -191588,7 +191588,7 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "75",
         "wl_occupied": "46",
         "attributes": [
@@ -191709,7 +191709,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "62",
+        "enrolled": "61",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -196275,7 +196275,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -205324,7 +205324,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -207864,7 +207864,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -218234,7 +218234,7 @@
         "capacity": "16",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -218312,7 +218312,7 @@
         "capacity": "4",
         "enrolled": "4",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -218710,7 +218710,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
