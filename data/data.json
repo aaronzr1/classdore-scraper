@@ -10564,7 +10564,7 @@
         "capacity": "215",
         "enrolled": "216",
         "wl_capacity": "150",
-        "wl_occupied": "94",
+        "wl_occupied": "95",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11393,7 +11393,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "9",
+        "wl_occupied": "7",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -11508,9 +11508,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "50",
+        "enrolled": "53",
         "wl_capacity": "25",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -21202,9 +21202,9 @@
         "requirements": "Pre- or co-requisite: 1502 or 1602. Not open to students who have earned credit for PHYS 1502L or 1902 without permission.",
         "description": "Laboratory to accompany Physics 1602. Satisfies the AXLE lab course requirement when completed with 1602 (strongly preferred) or 1502. Serves as repeat credit for PHYS 1502L. Not open to students who have earned credit for 1902 without permission. Credit for this course and 1902 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite: 1502 or 1602. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "3",
         "attributes": [
@@ -22243,9 +22243,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Oral Communications course",
             "AXLE: Social and Behavioral Sciences",
@@ -26322,7 +26322,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -34830,9 +34830,9 @@
         "requirements": "Prerequisite: Learning and Leadership in Organizations Ed.D. major.",
         "description": "This course is designed to help students develop the business acumen required of successful leaders across organizational settings. For this course, business acumen has two critical components. First is the strategic insight needed to understand what the organization is trying to accomplish and one's role in helping it achieve those objectives. Second is a facility with the financial and non-financial data needed to monitor and evaluate progress toward those goals. Key outcomes are developing the business acumen needed to assess and design organizational strategies; create a budget for an organizational initiative or department; and construct meaningful metrics and use them to evaluate organizational progress. [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35552,7 +35552,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "121",
-        "enrolled": "120",
+        "enrolled": "119",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -35978,7 +35978,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -43589,9 +43589,9 @@
         "requirements": "",
         "description": "Fundamental concepts in bivariate and multiple regression and correlation techniques. Emphasizes the theory and assumptions underlying OLS and logistic regression, computational procedures, and interpretation of results. Specific applications include: (1) coverage of the full range of correlation indices; (2) a range of regression strategies (e.g., reduced-form regression, path analysis, ordered and unordered step-wise inclusion); (3) statistical power; (4) regression diagnostics; (5) nonlinear regression and linearizing transformations; (6) testing interactions; and (7) conditions for causal analysis and analysis of change. [3]",
         "notes": "The combined enrollment capacity of PSY-PC 3735 and PSY 8870 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            During the initial open enrollment period only, all seats in this course are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed students.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -47824,26 +47824,16 @@
         "requirements": "",
         "description": "Fundamental aspects of biomedical sciences taught in modular format covering cells, molecules, cell-cell communication, information flow and regulation of these processes. Strong emphasis on quantitative experimental approaches analyses. [1-8]",
         "notes": "Interested non-IGP/QCB students should contact Davie Morales- Miranda- d.miranda@vanderbilt.edu. The combined enrollment capacity of CBIO-GS 8338 and IGP 8002 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close. This class will meet on MF from 1/5/2026-3/2/2026.\n         \n            \n            Please see Brightspace for room assignments.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "15",
         "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "MF"
-        ],
-        "meeting_times": [
-            "10:00a - 10:55a"
-        ],
-        "meeting_dates": [
-            "1/5/26-3/2/26"
-        ],
-        "instructors": [
-            "Chiang, Chin",
-            "Venkatesh, Madhvi J.",
-            "Richards, Stephanie (Secondary)"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -63049,7 +63039,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -71585,7 +71575,7 @@
         "notes": "The combined enrollment capacity of ECE 3892-01 and ECE 8396-01 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            the design and development of miniaturized systems for diverse biomedical applications, including medical diagnostics, drug discovery, and regenerative medicine. Fundamentals and basic principles behind the use of micro- and nanofabrication technologies, nanoscale optics, and microfluidics in biology and medicine (BioMEMS).\n         \n            \n            PHYS 1602 as prereq",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -91045,7 +91035,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -91479,7 +91469,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -91876,7 +91866,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Barzel, Ur",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -93599,7 +93589,7 @@
         "notes": "The combined enrollment capacity of CS 3251, ECE 3251, and CS 5251 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -93716,7 +93706,7 @@
         "notes": "The combined enrollment capacity of CS 3251, ECE 3251, and CS 5251 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "43",
+        "enrolled": "42",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -94769,7 +94759,7 @@
         "notes": "Open to majors in Soc, CSET, Clim Studies, and PPS; minors in Environmental and Sustainability Studies; and minors in Soc.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -102716,7 +102706,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "15",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -103114,7 +103104,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -104585,7 +104575,7 @@
         "notes": "Through a focus on the intersection of the human body and textile technology, students will design and make wearable products guided by the human-centered design process. Lecture and hands-on application includes pattern drafting for fit and movement, prototyping innovative wearable products, and exploring how fashion, product design, and emerging technologies including smart materials, sensors, and responsive systems shape the evolving relationship between humans and wearables. Special attention to sustainability and adaptive universal design solutions.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -106209,7 +106199,7 @@
         "notes": "Not open to FR or SO. This course will count in Domain 1.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -112182,9 +112172,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -121758,11 +121748,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "12",
         "enrolled": "13",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -131017,7 +131007,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "15",
+        "wl_occupied": "16",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -131182,7 +131172,7 @@
         "notes": "The combined enrollment capacity of ECE 4335 and ECE 5335 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -133870,7 +133860,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "121",
+        "enrolled": "120",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -133954,9 +133944,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "135",
-        "enrolled": "134",
+        "enrolled": "135",
         "wl_capacity": "30",
-        "wl_occupied": "26",
+        "wl_occupied": "25",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -134967,7 +134957,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "121",
+        "enrolled": "122",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -135172,7 +135162,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135410,9 +135400,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -141099,26 +141089,16 @@
         "requirements": "",
         "description": "This course is intended to give students a personal perspective on the careers of exceptional cell and developmental biology researchers. Each session will focus on Nobel Prize or Lasker Award winners in Physiology or Medicine that have impacted cell and developmental biology fields. A faculty member with training or interest ties to the researcher will present and lead a discussion on the research topic and the history of the researcher's career. In preparation for each session, the students will research the information at or linked to the award Web sites. For each session, the students will be given a key paper(s) of the winner (or the winner's acceptance speech, or biographical articles, etc. at the discretion of the faculty member). During the class-time interactions with the faculty member, the students will incorporate their perspectives on what they found interesting about the winner's history. In addition, before the joint student/faculty presentation, the designated students will give a journal club on one-two seminal papers by the Nobel winner. The rest of the class will turn in a one-page summary detailing one of the papers' importance and findings. Open to 1st year and 2nd year students. SPRING. [1] Chang.",
         "notes": "The combined enrollment capacity of CBIO-GS 8338 and IGP 8002 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Please see Brightspace for room assignments.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "MF"
-        ],
-        "meeting_times": [
-            "10:00a - 10:55a"
-        ],
-        "meeting_dates": [
-            "1/5/26-3/2/26"
-        ],
-        "instructors": [
-            "Chiang, Chin",
-            "Venkatesh, Madhvi J.",
-            "Richards, Stephanie (Secondary)"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -150078,11 +150058,11 @@
         "requirements": "",
         "description": "Processes, fundamental elements, and principles of art. Drawing, painting, printmaking, sculpture, photography, installation, and time-based art. [3] (HCA) (CORE A)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -168661,7 +168641,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -173118,9 +173098,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -183132,7 +183112,7 @@
         "notes": "The combined enrollment capacity of CS 2123 and ECE 2123 is 32. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -183257,7 +183237,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -183621,7 +183601,7 @@
         "notes": "Students must register for both lecture and lab in ECE 2123 and ECE 2123L\n         \n            \n            The combined enrollment capacity of CS 2123L and ECE 2123L is 18. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "2",
         "wl_occupied": "0",
         "attributes": null,
@@ -189545,7 +189525,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -189582,7 +189562,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -191588,9 +191568,9 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "46",
+        "wl_occupied": "45",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -194629,7 +194609,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "25",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -199238,7 +199218,7 @@
         "capacity": "36",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199320,7 +199300,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200431,7 +200411,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -201210,7 +201190,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -204186,7 +204166,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "96",
+        "enrolled": "95",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -210938,7 +210918,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -211102,7 +211082,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -212277,7 +212257,7 @@
         "notes": "Continuation of 1101 with emphasis on reading and talking about texts. No credit for students who have earned credit for a more advanced Russian language course. Prerequisite: 1101",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -214553,7 +214533,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "22",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Next Steps Eligible"
@@ -215253,7 +215233,7 @@
         "notes": "The combined enrollment capacity of MATH 3620 01 and MATH 5620 01 is 256. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -216491,7 +216471,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -216702,7 +216682,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
