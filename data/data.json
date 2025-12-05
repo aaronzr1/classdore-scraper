@@ -2559,7 +2559,7 @@
         "notes": "The combined enrollment capacity of BSCI 3271-01 and BSCI 5271-01 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -73184,7 +73184,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "11",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -89449,9 +89449,9 @@
         "requirements": "",
         "description": "Examine science and technologies exploited by supervillains to achieve world domination.  Readings and discussions will reveal how these fictional schemes have real-world correlates that pose existential threats to humanity, and students will grapple with how we can summon our inner superhero to address them. [3] (CORE D, E)",
         "notes": "Examine science and technologies exploited by supervillains to achieve world domination. Readings and discussions will reveal how these fictional schemes have real-world correlates that pose existential threats to humanity, and students will grapple with how we can summon our inner superhero to address them.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -178656,11 +178656,11 @@
         "requirements": "Prerequisite: NSC 2201",
         "description": "Properties and neural basis of working memory. Conceptual models and levels of analysis. Experimental techniques of neural signals related to cognitive functions.  Neural circuits and neurotransmitter systems. Localization in the brain; modalities; capacity; duration; evolution; development of working memory. Training, individual differences and disorders. Serves as repeat credit for NSC 3892 01 offered Spring 2024, Spring 2023, Spring 2022, Spring 2021. Prerequisite: 2201. [3] (MNS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "119951010980"
