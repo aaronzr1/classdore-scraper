@@ -8767,7 +8767,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -11081,7 +11081,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "22",
+        "wl_occupied": "21",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11276,7 +11276,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11510,7 +11510,7 @@
         "capacity": "16",
         "enrolled": "50",
         "wl_capacity": "25",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -18567,10 +18567,10 @@
         "requirements": "",
         "description": "Analysis of the competition for jobs, advancement, and income. The influence of social background, education, politics, race, sex, changes in national economy, and other factors will be considered. Theoretical and empirical analysis focusing on the United States. [3] (SBS) (LE SBS)",
         "notes": null,
-        "status": "Open",
-        "capacity": "40",
-        "enrolled": "7",
-        "wl_capacity": "12",
+        "status": "Closed",
+        "capacity": "0",
+        "enrolled": "0",
+        "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
@@ -20933,7 +20933,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -26614,7 +26614,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -27302,9 +27302,9 @@
         "requirements": "THTR 1711 or 2781 as pre-req",
         "description": "Aesthetics and processes. Development and communication of design ideas through the drawing and rendering of the costumed figure. Prerequisite: 1711 or 2781. [3] (HCA)",
         "notes": "Pre-requisite (1711 or 2781) have been waived for Spring 2026.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -39307,7 +39307,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "85",
+        "enrolled": "84",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -39623,7 +39623,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "81",
+        "enrolled": "82",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -58613,7 +58613,7 @@
             "01:00p - 05:00p"
         ],
         "meeting_dates": [
-            "3/28/26-4/3/26"
+            "3/27/26-4/3/26"
         ],
         "instructors": [
             "Burcham, Michael R."
@@ -59992,7 +59992,7 @@
         "notes": "The course may fulfill a degree requirement in ethics and society. The combined enrollment capacity of DIV 7240 and REL 7240 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -66223,7 +66223,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -74534,7 +74534,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -100184,7 +100184,7 @@
         "notes": "The combined enrollment capacity of BME 3890-01 and BME 8901-06 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -102082,7 +102082,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -105468,9 +105468,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Italy and Asia: Deconstructing Representations of Asia in Italian and European Culture\" - Since the Middle-Ages, Italy enjoys intense social, political, and commercial exchanges with Asia. For centuries, Italian merchants and explorers travel along terrestrial and maritime trade routes, which connect the city-states of the peninsula with the Near and Far East. In the tales of Genoese and Venetian adventurers, Persia, India, Indonesia, China, Korea, and Japan appear as lands of opulence, wonder, and magic, regardless of the innumerable dangers of the long journey. The emergence of Portugal, Holland, and England as global colonial empires during the Modern era do not decrease established relationships between Italy and Asia. Rather, Italian inventors, diplomats, and missionaries become even more influential as cultural ambassadors, who are often able to create a synthesis between European and Asian cultures in politics, religion, science, and art. This tradition continues in the present. The works of several contemporary Italian writers, artists, and filmmakers demonstrate a constant, reciprocal fascination between Italy and Asia, which this course will investigate, challenge, and deconstruct. Based on intense interdisciplinarity between the verbal and the visual domains, we will put into conversation several disciplines, including history, art history, literary history, economy, geopolitics, and film studies. (Core capacity tags: A, C / AXLE tags: INT)",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -107691,7 +107691,7 @@
         "notes": "Full title: \"Sacred Geographies of China\" - The built environment of traditional China is an intersection of the sacred and the secular. Residences and ritual spaces were supposedly constructed to accord with the forces of nature and the cosmos. Or were they? This seminar will examine ideas of the sacred as expressed in the forms of traditional houses, temples, monasteries, and cities in traditional China to explore the role of the built environment in the shaping of social and spiritual lives. Topics will include charms and building magic, the influence of natural landforms on the placement of temples and tombs, the garden as terrestrial residence for divinity, and the idea of the Chinese imperial city as the sacred earthly center. Beginning with the structure of the courtyard house, we will discuss ways in which space can be manipulated as a form of encoded language, as well as functioning as a type of \"agent\" in regulating human and non-human relationships. We will then explore the definitions of \"sacred\" and \"religion\" to problematize the category of \"temples\" as applied to built environments used by ritual specialists for encounters with other-worldly powers. We will ask if there is a difference between the house and the temple in the Chinese context, and if so, what is it? Finally, we will consider the form and symbolism of the imperial city in China to examine whether it fits into our definitions of a \"sacred\" or \"secular\" space. Students may seek a variance to count this section as HART 2105W in degree audit.  (Core capacity tags: A, C / AXLE tags: INT)",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -116885,7 +116885,7 @@
         "notes": "Class will meet in EBL 334.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120258,7 +120258,7 @@
         "notes": "This course is only available to students who are completing the Social Impact Design & Evaluation Grad/Prof Certificate",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -126066,7 +126066,7 @@
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": null,
@@ -132644,7 +132644,7 @@
         "notes": "Instructor - George Malone",
         "status": "Open",
         "capacity": "55",
-        "enrolled": "53",
+        "enrolled": "52",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": null,
@@ -133956,7 +133956,7 @@
         "capacity": "135",
         "enrolled": "135",
         "wl_capacity": "30",
-        "wl_occupied": "25",
+        "wl_occupied": "26",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -134277,7 +134277,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134359,7 +134359,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134967,7 +134967,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "122",
+        "enrolled": "121",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -150080,7 +150080,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "12",
         "attributes": [
@@ -153881,7 +153881,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -168661,7 +168661,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -177232,7 +177232,7 @@
             "08:00a - 12:00p"
         ],
         "meeting_dates": [
-            "3/28/26-4/3/26"
+            "3/27/26-4/3/26"
         ],
         "instructors": [
             "Owens, David A."
@@ -178872,7 +178872,7 @@
         "capacity": "90",
         "enrolled": "90",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -188708,7 +188708,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191506,7 +191506,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "25",
+        "wl_occupied": "26",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -194629,7 +194629,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "25",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -212277,7 +212277,7 @@
         "notes": "Continuation of 1101 with emphasis on reading and talking about texts. No credit for students who have earned credit for a more advanced Russian language course. Prerequisite: 1101",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -215104,7 +215104,7 @@
             "TBA"
         ],
         "meeting_dates": [
-            "1/3/26-5/2/26"
+            "1/3/26-2/7/26"
         ],
         "instructors": [
             "Bowling, Michael W."
