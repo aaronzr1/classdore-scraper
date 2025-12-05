@@ -156878,7 +156878,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -160259,7 +160259,7 @@
         "capacity": "77",
         "enrolled": "79",
         "wl_capacity": "22",
-        "wl_occupied": "13",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -164645,7 +164645,7 @@
         "capacity": "31",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -167193,7 +167193,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -212321,7 +212321,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "18",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -220670,11 +220670,11 @@
         "requirements": "",
         "description": "Introduction to the \"historian's craft.\" Reconstructing the past using primary documents such as diaries, letters, memoirs, and declassified government papers. Methods of historical research and reasoning through individual projects. Offered on a graded basis only. [3] (SBS)",
         "notes": "This course teaches students how to work with primary sources related to the Holocaust, whether official documents or private diaries, letters, correspondences, and interviews. By working through these sources, we will piece together the history of the Holocaust in novel ways. This class is not intended for first year students.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
