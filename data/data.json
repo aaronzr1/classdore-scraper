@@ -6232,7 +6232,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -6927,7 +6927,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -35638,7 +35638,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: E-Ethical & Social Engagement",
@@ -46816,7 +46816,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -66063,7 +66063,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -75306,7 +75306,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -81633,7 +81633,7 @@
         "notes": "MMark and MBA",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "41",
+        "enrolled": "42",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -94769,7 +94769,7 @@
         "notes": "Open to majors in Soc, CSET, Clim Studies, and PPS; minors in Environmental and Sustainability Studies; and minors in Soc.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -98095,7 +98095,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -129761,7 +129761,7 @@
         "notes": "Course only open to students in the Online Masters in Engineering Management program.",
         "status": "Open",
         "capacity": "17",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -132179,7 +132179,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -132218,7 +132218,7 @@
         "notes": "Course only open to students in the Online Masters in Engineering Management program.",
         "status": "Open",
         "capacity": "17",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -139713,7 +139713,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -194629,7 +194629,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "25",
-        "wl_occupied": "19",
+        "wl_occupied": "17",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -204186,7 +204186,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "95",
+        "enrolled": "96",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
