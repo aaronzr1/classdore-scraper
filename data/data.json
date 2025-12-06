@@ -566,9 +566,9 @@
         "requirements": "",
         "description": "Southeast Asia's economic rise in the 21st century in relationship to the region's past wars and environmental damage. Imperialism, rubber plantations, waste, trauma, postwar aesthetics, war technology. Course materials in English. [3] (HCA) (CORE C, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -36495,7 +36495,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -45754,7 +45754,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -56156,7 +56156,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -74126,11 +74126,11 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Topics vary. May be repeated for credit more than once if there is no duplication in topic. Students may enroll in more than one section of this course each semester. Prerequisite: 3010 or 3012. [3] (No AXLE credit)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -104388,7 +104388,7 @@
         "notes": "This course offers an immersive, hands-on experience, focusing on the use of high-performance computing in the Advanced Computing Center for Research and Education (ACCRE) and GPUs (NVIDIA RTX 2080 Ti). This one-unit course is designed for students eager to develop or advance independent AI projects, utilizing Python and PyTorch as primary tools. Although there are no prerequisites, a basic understanding of coding is expected as students will be engaging in self-directed AI projects. The course format includes weekly sessions where students will access state-of-the-art computing facilities to either bring their innovative ideas to fruition or explore and experiment with advanced AI techniques through online tutorials.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -118396,7 +118396,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -118874,7 +118874,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -121995,7 +121995,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -124033,7 +124033,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "26",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -150314,7 +150314,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -164842,7 +164842,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "5",
         "attributes": [
@@ -174016,7 +174016,7 @@
         "notes": "This course explores the frontiers of machine learning, with a special focus on large language models (LLMs) and their potential to address real-world challenges in health and well-being. Students will engage with influential, peer-reviewed research articles from machine learning and biomedical informatics, gaining a deeper understanding of how emerging methods are shaping the future of healthcare. While a variety of machine learning models will be discussed, the course is designed for students with prior experience in the field. Participants should be comfortable reading and critically evaluating research papers, writing reviews, and using standard machine learning libraries to complete course projects. Prerequisites: CS 4262 Foundations of Machine Learning or equivalent\n         \n            \n            The combined enrollment capacity of CS 3891, CS 5891, and BMIF 6390 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -176876,9 +176876,9 @@
         "requirements": "",
         "description": "Baseball as a social institution. Group dynamics; baseball as work and business. Free agency and law; race and ethnic relations. Globalization. Serves as repeat credit for students who have earned credit for 3224W. [3] (SBS) (CORE B, C) (LE SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "75",
-        "enrolled": "74",
+        "enrolled": "75",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -191894,7 +191894,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies"
@@ -204176,7 +204176,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "95",
+        "enrolled": "96",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -215746,7 +215746,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
