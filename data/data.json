@@ -75296,7 +75296,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -132099,7 +132099,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -149055,7 +149055,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -165011,7 +165011,7 @@
         "notes": "The combined enrollment capacity of ME 4280 and ME 5280 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -217917,7 +217917,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
