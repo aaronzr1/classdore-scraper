@@ -27961,7 +27961,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "45",
+        "enrolled": "46",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -28124,7 +28124,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -107613,7 +107613,7 @@
         "notes": "Full title - Materials Selection for Manufacturing & Design. The combined enrollment capacity of ME 3890-03 and ME 5890-03 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            The combined enrollment capacity of ME 3890-03 and ME 5890-03 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -131182,7 +131182,7 @@
         "notes": "The combined enrollment capacity of ECE 4335 and ECE 5335 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -140614,7 +140614,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "10",
         "attributes": [
@@ -190919,7 +190919,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -194619,7 +194619,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "25",
-        "wl_occupied": "13",
+        "wl_occupied": "12",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -217706,7 +217706,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "15",
         "attributes": [
