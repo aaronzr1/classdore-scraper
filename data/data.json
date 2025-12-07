@@ -40323,7 +40323,7 @@
         "capacity": "13",
         "enrolled": "13",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -86354,7 +86354,7 @@
         "notes": "This graduate-level seminar introduces students to computational biology from both a methodological and problem-driven perspective. We will examine how computational models and algorithms can be designed to address biological questions, spanning topics from data representation to simulation, benchmarking, and method development. Beyond learning how to analyze biological data, students will be encouraged to think critically about problem formulation and software implementation. The course will center on reading and discussing published papers from leading journals and conferences, using them as case studies to reflect on these steps in practice.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -121956,7 +121956,7 @@
         "notes": "This course explores the frontiers of machine learning, with a special focus on large language models (LLMs) and their potential to address real-world challenges in health and well-being. Students will engage with influential, peer-reviewed research articles from machine learning and biomedical informatics, gaining a deeper understanding of how emerging methods are shaping the future of healthcare. While a variety of machine learning models will be discussed, the course is designed for students with prior experience in the field. Participants should be comfortable reading and critically evaluating research papers, writing reviews, and using standard machine learning libraries to complete course projects.\n         \n            \n            The combined enrollment capacity of CS 3891, CS 5891, and BMIF 6390 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
