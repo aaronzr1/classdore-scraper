@@ -29868,7 +29868,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -39623,7 +39623,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "83",
+        "enrolled": "84",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -93521,7 +93521,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -96557,7 +96557,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -108216,7 +108216,7 @@
         "notes": "The combined enrollment capacity of BSCI 4226 and BSCI 6226 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -131508,7 +131508,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/8/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "85",
+        "enrolled": "84",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -134967,7 +134967,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "122",
+        "enrolled": "123",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -135048,7 +135048,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "83",
+        "enrolled": "82",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": [
@@ -171345,7 +171345,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -182524,7 +182524,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "40",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -213845,7 +213845,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -213929,7 +213929,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -215243,7 +215243,7 @@
         "notes": "The combined enrollment capacity of MATH 3620 01 and MATH 5620 01 is 256. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -220241,7 +220241,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
