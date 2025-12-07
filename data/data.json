@@ -3365,7 +3365,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -131590,7 +131590,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -134480,7 +134480,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Speculative Realities",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -164760,7 +164760,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
