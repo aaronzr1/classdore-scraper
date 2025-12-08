@@ -7127,7 +7127,7 @@
         "notes": "The combined enrollment capacity of PSY 3780/5780 and NURO 8347 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -10400,7 +10400,7 @@
         "notes": "The combined enrollment capacity of CHEM 4050 and 5050 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close. Parent course to CHEM 5050.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -18490,7 +18490,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "67",
+        "enrolled": "69",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -29624,11 +29624,11 @@
         "requirements": "",
         "description": "Optimal functioning in human psychology. Interdisciplinary approaches to well being, character strengths and virtues, positive emotions, and clinical implications. Not open to students who have earned credit for 1111, section 13. Total credit hours for this course and 1111, section 13, will not exceed 3 hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "14",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -36495,7 +36495,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -38477,7 +38477,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -38598,7 +38598,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "8",
         "wl_occupied": "1",
         "attributes": null,
@@ -40278,7 +40278,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -46159,7 +46159,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "12",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Communication of Science and Tech",
@@ -50067,7 +50067,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "69",
+        "enrolled": "68",
         "wl_capacity": "100",
         "wl_occupied": "6",
         "attributes": [
@@ -50514,7 +50514,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "50",
         "wl_occupied": "3",
         "attributes": [
@@ -64076,7 +64076,7 @@
         "notes": "The combined enrollment capacity of PSY 3715 and PSY 6715 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -78650,11 +78650,11 @@
         "requirements": "Antirequisites: MHS 1920, 1930, 1950, 1960, and 2110",
         "description": "Social science and humanities perspectives on the study of health and medicine. Not open to students who have earned credit for any of MHS 1920, 1930, 1950, 1960, or 2110. [3] (P)",
         "notes": "Social, Cultural, & Psychological Dimensions of Health",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -78814,7 +78814,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -80391,7 +80391,7 @@
         "notes": "This section is for FNP students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx.\n         \n            \n            Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Jackson, Heather",
         "status": "Open",
         "capacity": "125",
-        "enrolled": "54",
+        "enrolled": "56",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -80753,7 +80753,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -92302,9 +92302,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -94597,7 +94597,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -97381,7 +97381,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -104941,7 +104941,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -108785,7 +108785,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -110535,7 +110535,7 @@
         "notes": "The combined enrollment capacity of BSCI 4274 and BSCI 6274 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Closed",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": [
@@ -116308,9 +116308,9 @@
         "requirements": "",
         "description": "Addresses the impact of national and global economic developments on the business environment. The determinants of national income, inflation, interest rates, unemployment rates, business cycles, exchange rates, and foreign investment are discussed, with particular attention to the increasingly important linkages among the world's economies as well as some key institutional differences across countries. Supplementary case studies and debates provide opportunities to integrate theory with decision analysis. [2] (Limited to first year MBA students only)",
         "notes": null,
-        "status": "Closed",
+        "status": "Open",
         "capacity": "43",
-        "enrolled": "43",
+        "enrolled": "42",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -116550,7 +116550,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "43",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -118668,7 +118668,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138416,7 +138416,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "41",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -143591,7 +143591,7 @@
         "notes": "The combined enrollment capacity of PSY 3785 and PSY 8551 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -146940,7 +146940,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -147186,7 +147186,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "20",
         "wl_occupied": "6",
         "attributes": [
@@ -147447,7 +147447,7 @@
         "notes": "o\tThe goals of this seminar are to provide students with (1) an in-depth review and analysis of theory and research on the biological and psychological aspects of stress, coping, and emotion-regulation; (2) the implications of these processes for psychopathology and physical disease and illness; and (3) the status of evidence-based interventions to enhance coping and emotion regulation skills and reduce or prevent the adverse effects of stress.  We will cover theory and research on the psychological, biological, and social aspects of stress; stress reactivity; coping and emotion regulation; and psychological and health consequences of stress.  We will also examine the characteristics and efficacy of psychological interventions on psychological and physical health. As a result of this course, students should increase their skills as consumers of research on stress and coping and learn to apply these constructs to their own research in new ways.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -149051,7 +149051,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -153867,7 +153867,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -157361,7 +157361,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -160005,7 +160005,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -160163,7 +160163,7 @@
         "notes": "Course Title: AI Everywhere. Some seats reserved for HOD juniors and seniors. Though seats may appear available, some are reserved. Please put your name on the waitlist if you cannot enroll. Class meets in the LIVE Learning Innovation Incubator Room A2009 in the SONY Building (1400 18th Ave S at intersection with De Ford Bailey).This course will count in Domain 1: Individual/Interpersonal for HOD students.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -168047,7 +168047,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -168662,6 +168662,7 @@
         ],
         "instructors": [
             "Gardner, Virginia S.",
+            "Schroer, Matthew E. (Secondary)",
             "Vick, Rose M. (Secondary)"
         ],
         "date_added": null
@@ -172464,7 +172465,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Adams, Jo"
+            "Kelner, Saul J."
         ],
         "date_added": null
     },
@@ -173438,7 +173439,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -176789,7 +176790,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "95",
+        "enrolled": "94",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -177901,7 +177902,7 @@
         "notes": "The combined enrollment capacity of BSCI 4275 and BSCI 6275 is 24. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "23",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -185049,7 +185050,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Secondary Instructor - Tapp, Melissa",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "60",
+        "enrolled": "62",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191492,7 +191493,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "25",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -193537,7 +193538,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "33",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "15",
         "wl_occupied": "15",
         "attributes": null,
@@ -193616,9 +193617,9 @@
         "requirements": "Phys 1601 and Math 2300 are prerequisites for this course",
         "description": "Application of the first and second laws to energy transformation processes and properties of technologically important materials. Prerequisite: PHYS 1601, MATH 2300. FALL, SPRING, SUMMER. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "33",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -194771,7 +194772,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "130",
-        "enrolled": "109",
+        "enrolled": "111",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -195963,11 +195964,11 @@
         "requirements": "",
         "description": "How culture influences women's health, body image, self esteem. Issues include fertility control and child bearing, medical innovations to detect disease, alternative therapies, psychological well-being, sexuality, physical and sexual abuse. Impact of politics on health options for women. [3] (P)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for African American and Diaspora Studies",
@@ -200724,7 +200725,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Essin, Elizabeth C."
+            "Adams, Jo"
         ],
         "date_added": null
     },
@@ -212857,7 +212858,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -215742,7 +215743,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -218737,7 +218738,7 @@
         "notes": "The combined enrollment capacity of CS 4240 and CS 5240 is 40. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -220660,7 +220661,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -220865,7 +220866,7 @@
         "notes": "This course explores the memories and aftereffects of the nuclear bombings that have long haunted the contemporary world. Central to our discussion is what happened in Hiroshima and Nagasaki in August 1945, but we will also go beyond narrow regional and national foci. We will explore the political process that led to the development and deployment of the atomic bomb, the lasting environmental damage caused by the weapons production process, the survivors efforts to understand and represent their near-death experiences, the cultural images of nuclear war (and future thermonuclear war), and the nuclear testing at Bikini Atoll (Operation Crossroads). Students will be introduced to the basic skills and methods of historical analysis and to major debates in the field. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -220908,7 +220909,7 @@
         "notes": "In this course, we will explore how democratic forms of government have been practiced around the world from the late 18th century until the end of the 20th century. We will explore how issues like suffrage rights, emancipation, civil rights, election organization, and state forms influence how democracies work (or don't). We will also examine the influence and appeal of political parties, the groups of voters who support them, and the ways in which they try to gain support. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a pre-2000s election, political party, democratic movement, system, etc. of their choice.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -222718,7 +222719,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
