@@ -3323,7 +3323,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -3649,7 +3649,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -9721,7 +9721,7 @@
         "capacity": "200",
         "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "43",
+        "wl_occupied": "42",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -25249,7 +25249,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -29624,11 +29624,11 @@
         "requirements": "",
         "description": "Optimal functioning in human psychology. Interdisciplinary approaches to well being, character strengths and virtues, positive emotions, and clinical implications. Not open to students who have earned credit for 1111, section 13. Total credit hours for this course and 1111, section 13, will not exceed 3 hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -57880,9 +57880,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: A-Written & Creative Expression",
@@ -78821,7 +78821,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "13",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -90676,7 +90676,7 @@
         "notes": "During the initial open enrollment period only, all seats are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed.   Survival analysis for time-to-event data, emphasizing discrete-time models. Topics include survival/hazard functions, censoring, survival curves, logistic regression, model estimation and interpretation, time structure, time-varying/invariant predictors, and competing risks. Applications to social/behavioral research. Prerequisite: PSY-GS 8870 or equivalent.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -91740,9 +91740,9 @@
         "requirements": "SPAN 3290 or 3301W as prerequisite",
         "description": "Development of speaking skills through the study of Spanish and Hispanic culture, and Spanish and Spanish-American current affairs. Texts drawn from contemporary articles, short stories, TV news, documentaries, and Web materials. Different registers of spoken Spanish. The development of effective strategies for oral communication. Prerequisite: 3290 or 3301W. Students with advanced oral skills will be placed in a higher level course. [3] (INT) (CORE LA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "14",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -100379,7 +100379,7 @@
         "notes": "This course applies theory and research to understand the psychological foundations of one of the oldest forms of hatred and bias antisemitism. We will begin by briefly charting the history of antisemitism, beginning in ancient Babylon and spreading throughout the world in subsequent millennia, resulting in some of the worst inhumanities ever committed. We will then explore more contemporary manifestations of antisemitism and explore how it manifests and is embedded in cultural systems, institutions (e.g., academia), and professional organizations. The rest of the course will attempt to answer the key questions: What psychological processes make biases and hatred towards Jews so persistent across centuries, so prominent throughout the world, and on the rise? We will address these questions by delving into research on non-conscious biases, concepts of social groups, social learning, and conspiracy theories. Finally, we will attempt to use psychological research to identify ways to combat the rise of antisemitism.\n         \n            \n            The combined enrollment capacity for PSY-PC 3650-06 and PSY-PC 7500 is 15. Although seats may appear to be open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -109405,9 +109405,9 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD junior and senior majors and minors. If you are unable to enroll, please add your name to the waitlist. MHS majors and minors who are interested in this course should contact the Peabody Office of Academic Services during open enrollment if space remains. This course fulfills Domain 3: Community/Policy.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Human & Organizational Development",
@@ -112264,9 +112264,9 @@
         "requirements": "MATH 3890 01 enrollment reqts",
         "description": "Fundamental properties of integers and polynomials. Elementary properties of groups, rings, integral domains, fields, and lattices. Prerequisite: 2410, 2600, or 2501. [3] (MNS)",
         "notes": "The combined enrollment capacity of MATH 3300 and MATH 5300 is 20. Although seats may appear open, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -121758,11 +121758,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "12",
         "enrolled": "13",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -122284,9 +122284,9 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "3",
         "wl_occupied": "2",
         "attributes": null,
@@ -123955,7 +123955,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "3",
         "wl_occupied": "1",
         "attributes": null,
@@ -125832,7 +125832,7 @@
         "capacity": "35",
         "enrolled": "29",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -126066,7 +126066,7 @@
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": null,
@@ -133744,7 +133744,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "75",
         "wl_occupied": "0",
         "attributes": [
@@ -136533,7 +136533,7 @@
         "requirements": "Corequisite:HOD2100 JR/SR HOD or HOS Majors/Minors or BUS Minor",
         "description": "A comprehensive study of current theories and applied research in organizational effectiveness. Emphasis is on the principles and practices of organizational restructuring, organizational development and planned changes, systems and processes, self-managed teams, and Total Quality. Experiential learning through simulations and field work will reinforce systematic inquiry, strategic planning, and applied organizational assessment skills. Corequisite: HOD 2100. [3]",
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "20",
@@ -146859,7 +146859,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -147491,7 +147491,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -155968,7 +155968,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -176060,7 +176060,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "5",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -177369,7 +177369,7 @@
         "notes": "The combined enrollment capacity of ECON 4260 and ECON 5260 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -178071,7 +178071,7 @@
         "notes": "The combined enrollment capacity of CS 4275, ECE 4475, CS 5275, and ECE 5475 is 42. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -188240,7 +188240,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -191538,7 +191538,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "34",
+        "wl_occupied": "35",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -193376,9 +193376,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193788,11 +193788,11 @@
         "requirements": "Prerequisite: MUTH 2110",
         "description": "Study via guided improvisation, lecture, performance, and dictation: chromatic function in melody, inversion, seventh chords, tonicization and modulation, common chromatic substitutions, transposition, hearing form, notation and performance of complex rhythmic textures. Prerequisite: MUTH 2110; corequisite: MUTH 2200. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "21",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -193954,7 +193954,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -218700,7 +218700,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
