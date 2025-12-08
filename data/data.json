@@ -3649,7 +3649,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -23758,7 +23758,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -36664,7 +36664,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Closed",
         "capacity": "160",
-        "enrolled": "160",
+        "enrolled": "159",
         "wl_capacity": "25",
         "wl_occupied": "25",
         "attributes": [
@@ -37034,7 +37034,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -41879,7 +41879,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "9",
         "attributes": [
@@ -42164,7 +42164,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "Prerequisite: either CS 1100, 1101, 1103, or 1104, and either MATH 1200 or 1300.",
-        "description": "Theoretical, mathematical, and simulation models of neurons, neural networks, or brain systems. Computational approaches to analyzing and understanding data from behavior, neurophysiology, electrophysiology, or brain imaging. Simulation methods for neural models. Course taught using Python. Recommended: NSC 2201.Prerequisite: either DS 1100/CS 1100, 1101, 1103, or 1104 (or a more advanced programming course); and either MATH 1200 or 1300 (or a more advanced calculus course). No credit for students who have earned credit for NSC 6270 or PSY 6270. [3] (MNS)",
+        "description": "Theoretical, mathematical, and simulation models of neurons, neural networks, or brain systems. Computational approaches to analyzing and understanding data from behavior, neurophysiology, electrophysiology, or brain imaging. Simulation methods for neural models. Course taught using Python. Recommended: NSC 1400 (formerly 2201).Prerequisite: either DS 1100/CS 1100, 1101, 1103, or 1104 (or a more advanced programming course); and either MATH 1200 or 1300 (or a more advanced calculus course). No credit for students who have earned credit for NSC 6270 or PSY 6270. [3] (MNS)",
         "notes": "The combined enrollment capacity of NSC 3270, NSC 6270, PSY 3270, and PSY 6270 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "45",
@@ -49295,7 +49295,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -75125,7 +75125,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "18",
         "wl_occupied": "7",
         "attributes": null,
@@ -78892,7 +78892,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -117551,7 +117551,7 @@
         "notes": "The combined enrollment capacity of PSY 3780/5780 and NURO 8347 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -132094,7 +132094,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -179319,7 +179319,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "13",
+        "wl_occupied": "14",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -190699,11 +190699,11 @@
         "requirements": "",
         "description": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. Students with a 5 on AP Statistics or credits from ECON 1500, PSY 2100, or MATH 2810/2820 are strongly discouraged from taking this class. [3]",
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. [3]\n         \n            \n            Fifteen seats reserved for Peabody students during the initial enrollment period.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -197040,7 +197040,7 @@
         "notes": "Update to:  On some days the class will meet at an alternate time (7-8:30 a.m.) in order to attend VUMC grand rounds presentations. The normal class time will not be held on those days.\n         \n            \n            Class will meet in MDCN C-2209.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -202823,7 +202823,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
