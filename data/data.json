@@ -7334,7 +7334,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -8220,7 +8220,7 @@
         "capacity": "20",
         "enrolled": "22",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -15754,7 +15754,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Amazonia as focus of international curiosity and colonial exploitation for centuries. Brazil, Peru, Bolivia, Ecuador, Colombia, Venezuela, Guyana, Suriname, and French Guiana. Biodiversity of ecosystems. Indigenous communities, languages, cultures, and histories that challenge the idea of pristine forest. Serves as repeat credit for ANTH 3890 section 02 offered Fall 2024. [3] (CORE C)",
+        "description": "Amazonia as focus of international curiosity and colonial exploitation for centuries. Brazil, Peru, Bolivia, Ecuador, Colombia, Venezuela, Guyana, Suriname, and French Guiana. Biodiversity of ecosystems. Indigenous communities, languages, cultures, and histories that challenge the idea of pristine forest. Serves as repeat credit for ANTH 3890 section 02 offered Fall 2024. [3] (CORE C) (LE: SBS)",
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
@@ -40321,9 +40321,9 @@
         "notes": "The combined enrollment capacity of CS 4262 and CS 5262 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "13",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -41799,9 +41799,9 @@
         "notes": "The combined enrollment capacity of CS 4262 and CS 5262 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "11",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -42489,7 +42489,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "PSY 3270 Enrollment Req",
-        "description": "Theoretical, mathematical, and simulation models of neurons, neural networks, or brain systems. Computational approaches to analyzing and understanding data from behavior, neurophysiology, electrophysiology, or brain imaging. Simulation methods for neural models. Course taught using Python. Recommended: NSC 2201.Prerequisite: either DS 1100/CS 1100, 1101, 1103, or 1104 (or a more advanced programming course); and either MATH 1200 or 1300 (or a more advanced calculus course). [3] (MNS)",
+        "description": "Theoretical, mathematical, and simulation models of neurons, neural networks, or brain systems. Computational approaches to analyzing and understanding data from behavior, neurophysiology, electrophysiology, or brain imaging. Simulation methods for neural models. Course taught using Python. Recommended: NSC 1400 (formerly 2201).Prerequisite: either DS 1100/CS 1100, 1101, 1103, or 1104 (or a more advanced programming course); and either MATH 1200 or 1300 (or a more advanced calculus course). [3] (MNS)",
         "notes": "The combined enrollment capacity of NSC 3270, NSC 6270, PSY 3270, and PSY 6270 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close",
         "status": "Open",
         "capacity": "45",
@@ -67142,7 +67142,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -79294,7 +79294,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -80321,7 +80321,7 @@
         "notes": "Students must also register for EDUC 6551 section 2\n         \n            \n            The combined enrollment capacity of EDUC 3760-02 and EDUC 6550-02 is 22. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -101687,7 +101687,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Exploration and practice of the use of improv in communicating science.  Literature examination of improv as a performance based art form. Practice of improv through in-class games and forms.  Personal reflections on performances. Final performance is a science communication improv show to a general audience. Serves as repeat credit for CSET 3890-01 offered Spring 2025 and Spring 2024. [3]",
+        "description": "Exploration and practice of the use of improv in communicating science.  Literature examination of improv as a performance based art form. Practice of improv through in-class games and forms.  Personal reflections on performances. Final performance is a science communication improv show to a general audience. Serves as repeat credit for CSET 3890-01 offered Spring 2025 and Spring 2024. [3] (CORE: A, C) (LE: SBS)",
         "notes": "How can we effectively communicate science? We can know the basics, but we need to be able to respond to, connect with, and bring our audience along for the journey. Students will learn the basics of improv comedy through play, deep dive into the literature around this field, talk with experts, and then apply this knowledge to creating their own science communication \"brand\" in a final project.",
         "status": "Open",
         "capacity": "20",
@@ -104111,9 +104111,9 @@
         "requirements": "This course is open only to Bachelor of Music or Bachelor of Musical Arts students; prerequisite: MUKH 1130.",
         "description": "Development of basic technique, reading proficiency, elementary transposition. Diatonic harmony at the keyboard. Prerequisite: placement exam or MUKH 1130. Not open to students who have completed MUKH 2133 or 2134. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Closed",
         "capacity": "8",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -110789,7 +110789,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Technologies and techniques of filmmaking. Digital video cameras, staging and lighting, sound recording, post-production sound, and image editing. Offered on a graded basis only. [3] (HCA) (CORE A, B)",
+        "description": "Technologies and techniques of filmmaking. Digital video cameras, staging and lighting, sound recording, post-production sound, and image editing. Offered on a graded basis only. [3] (HCA) (CORE A, B) (LE: HFA)",
         "notes": "No Seniors will be allowed to register for this course.\n         \n            \n            Students who do not attend the first class will be dropped",
         "status": "Open",
         "capacity": "16",
@@ -110955,7 +110955,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Technologies and techniques of filmmaking. Digital video cameras, staging and lighting, sound recording, post-production sound, and image editing. Offered on a graded basis only. [3] (HCA) (CORE A, B)",
+        "description": "Technologies and techniques of filmmaking. Digital video cameras, staging and lighting, sound recording, post-production sound, and image editing. Offered on a graded basis only. [3] (HCA) (CORE A, B) (LE: HFA)",
         "notes": "No Seniors allowed to register for this course.\n         \n            \n            Students who do not attend the first class will be dropped",
         "status": "Open",
         "capacity": "16",
@@ -114664,7 +114664,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Psychological Sciences Course (Graduate School)"
         ],
@@ -118399,7 +118399,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -122402,7 +122402,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -123213,7 +123213,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -148467,13 +148467,13 @@
             "R"
         ],
         "meeting_times": [
-            "06:00p - 06:50p"
+            "05:00p - 05:50p"
         ],
         "meeting_dates": [
             "1/8/26-4/20/26"
         ],
         "instructors": [
-            "Unertl, Kim M."
+            "Kumah-Crystal, Yaa A."
         ],
         "date_added": null
     },
@@ -148706,13 +148706,12 @@
             "R"
         ],
         "meeting_times": [
-            "05:00p - 05:50p"
+            "06:00p - 06:50p"
         ],
         "meeting_dates": [
             "1/8/26-4/20/26"
         ],
         "instructors": [
-            "Kumah-Crystal, Yaa A.",
             "Novak, Laurie L. (Secondary)"
         ],
         "date_added": null
@@ -166120,7 +166119,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -183891,9 +183890,9 @@
         "notes": "The combined enrollment capacity of EES 1510 and 1515 is 105. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "66",
+        "enrolled": "67",
         "wl_capacity": "50",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Environ. and Sustainability Studies",
@@ -184333,9 +184332,9 @@
         "notes": "Requires field trip participation; dates to be announced.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -192108,7 +192107,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -193792,11 +193791,11 @@
         "requirements": "Prerequisite: MUTH 2110",
         "description": "Study via guided improvisation, lecture, performance, and dictation: chromatic function in melody, inversion, seventh chords, tonicization and modulation, common chromatic substitutions, transposition, hearing form, notation and performance of complex rhythmic textures. Prerequisite: MUTH 2110; corequisite: MUTH 2200. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -213571,7 +213570,7 @@
         "notes": "The combined enrollment capacity of BSCI 3270 and BSCI 5270 is 45. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -215488,8 +215487,8 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "PSY 3100 and NSC 2201 as prereqs",
-        "description": "Neurological, psychological, cultural, and evolutionary perspectives. Genetics, epidemiology, symptomatology, sex differences, and affect. Prerequisite: 3100 and NSC 2201. [3] (SBS)",
+        "requirements": "PSY 2200 & NSC 1400 as prereqs",
+        "description": "Neurological, psychological, cultural, and evolutionary perspectives. Genetics, epidemiology, symptomatology, sex differences, and affect. Prerequisite: PSY 2200 (formerly 3100)or NSC 1400 (formerly 2201). [3] (SBS)",
         "notes": null,
         "status": "Open",
         "capacity": "20",
@@ -215830,7 +215829,7 @@
         "notes": "Design studio investigating the visual form, material, and distribution of language. Core skills of typographic expression-hierarchy, legibility, and reproducibility - through an understanding of the history of print and digital publication methods. Experimenting across digital technologies and analog ways of making.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -218702,9 +218701,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
@@ -222726,7 +222725,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
