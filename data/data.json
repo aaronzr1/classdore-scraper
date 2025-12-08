@@ -108588,7 +108588,7 @@
         "notes": "Data Analytics for Health Policy - Introduction to data analytics skills for healthcare and policy professions. Hands on data visualization and statistical modeling of real-world health issues using R. Industry-relevant projects for professional portfolios. No prior experience required.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -111241,9 +111241,9 @@
         "requirements": "",
         "description": "Paradoxical attitudes towards sex, sin, and the supernatural in early modern German-speaking Europe. Religious heretics, sexual \"deviants\", and marginalized groups; witch hunts; gendered reasoning; legal procedures. [3] (INT)",
         "notes": "Full title - Sex, Sin and the Law in the Early Modern European Witch-Hunts",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "3",
         "wl_occupied": "2",
         "attributes": [
@@ -113390,7 +113390,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -218575,7 +218575,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "T"
