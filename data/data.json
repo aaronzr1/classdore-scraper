@@ -121265,7 +121265,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Worsnick, Matthew"
+            "Murphy, Kevin D."
         ],
         "date_added": null
     },
@@ -159923,7 +159923,7 @@
         "description": "May be repeated for credit if there is no duplication in topic. Students may enroll in more than one section of this course each semester. [1-3; maximum of 9 credits total for all semesters of MHS 3890] (No AXLE credit)",
         "notes": "Examine how law, politics, and activism shape AI, then design justice-oriented approaches for using data and technology to support freedom, health, and sustainability. Eligible for MHS concentration areas B, D, and electives.\n         \n            \n            The combined enrollment capacity of MHS 3890-07 and MHS 6500-07 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
-        "capacity": "35",
+        "capacity": "30",
         "enrolled": "5",
         "wl_capacity": "12",
         "wl_occupied": "0",
@@ -167124,7 +167124,7 @@
         "id": "cn9737tc1060",
         "course_dept": "DS",
         "course_code": "3851",
-        "class_section": "90",
+        "class_section": "100",
         "course_title": "Independent Study in Data Science",
         "school": "College of Connected Computing",
         "career": "Undergraduate",
@@ -170277,7 +170277,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -173313,9 +173313,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
