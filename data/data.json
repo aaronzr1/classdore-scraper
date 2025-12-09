@@ -5114,27 +5114,19 @@
         "requirements": "Prerequisite: ECON 3020 or 3022.",
         "description": "Mathematical models of overlapping generations, rational expectations, and open economies with price rigidities applied to social security, government debt, exchange rates, monetary policy, and time inconsistent optimal policy. Prerequisite: 3020 or 3022. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "18",
-        "enrolled": "5",
+        "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "02:30p - 03:45p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Huang, Kevin"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -7695,7 +7687,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -21565,7 +21557,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -27917,7 +27909,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -29097,7 +29089,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "56",
+        "enrolled": "49",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -29179,7 +29171,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -36402,9 +36394,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "160",
-        "enrolled": "159",
+        "enrolled": "160",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -37034,7 +37026,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -40481,7 +40473,7 @@
         "capacity": "30",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -40893,11 +40885,11 @@
         "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "An exploration of the creation, interpretation, implementation, and evaluation of public policy in the United States. Main emphases include key analytical/theoretical perspectives necessary for understanding the policy making process (problem Identification, agenda setting, formulation, adoption, Implementation, and evaluation), and main factors that influence policy making at the national and state levels. Particular attention is paid to the development of student analytic and writing skills. [3]",
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "30",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "12",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -42984,7 +42976,7 @@
         "notes": "Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -47058,7 +47050,7 @@
         "notes": "$2,147.00 music fee (45-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -47260,7 +47252,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "20",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "10",
         "attributes": [
@@ -56640,7 +56632,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -58663,7 +58655,7 @@
         "notes": "The combined enrollment capacity of BCB 4320 and CPBP 8320 is 31.  Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -58899,7 +58891,7 @@
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.\n         \n            \n            The combined enrollment capacity of HODC 3650 02 and HOD 7500 03 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "20",
         "wl_occupied": "6",
         "attributes": [
@@ -59537,7 +59529,7 @@
         "capacity": "22",
         "enrolled": "22",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3",
@@ -67052,7 +67044,7 @@
         "notes": "Seats are initially reserved for HOD SO, JR, and SR Majors and Minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal.",
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "20",
         "wl_occupied": "19",
         "attributes": [
@@ -95441,7 +95433,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -95675,7 +95667,7 @@
         "notes": "Class is for HOD junior and senior majors and minors. If you cannot enroll, please put your name on the waitlist.  This course will count in Domain 2: Organizational/Group.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -98175,7 +98167,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -101213,7 +101205,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -104779,28 +104771,16 @@
         "requirements": "",
         "description": "Technical elective courses of special current interest. No more than six semester hours of these courses may be credited to the student's record. Prerequisite: consent of instructor. FALL, SPRING. [1-3]",
         "notes": "Through a focus on the intersection of the human body and textile technology, students will design and make wearable products guided by the human-centered design process. Lecture and hands-on application includes pattern drafting for fit and movement, prototyping innovative wearable products, and exploring how fashion, product design, and emerging technologies including smart materials, sensors, and responsive systems shape the evolving relationship between humans and wearables. Special attention to sustainability and adaptive universal design solutions.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "T",
-            "R"
-        ],
-        "meeting_times": [
-            "01:15p - 02:30p",
-            "02:45p - 04:00p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26",
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Capps, Alexandra S.",
-            "Staff (Secondary)"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -106206,7 +106186,7 @@
         "capacity": "25",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1"
@@ -106611,7 +106591,7 @@
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.\n         \n            \n            This course provides an in-depth understanding of Geographic Information Systems (GIS) and its application in addressing complex social, environmental, and economic challenges. Students will gain practical skills in spatial data analysis, visualization, and geospatial technologies, exploring how GIS can be leveraged to drive social impact. By examining case studies and engaging in hands-on projects, students will learn how GIS can be used to inform policies and interventions in fields like urban planning, public health, environmental justice, and humanitarian efforts.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -109398,9 +109378,9 @@
         "requirements": "JR/SR HOD or HOS Majors/Minors",
         "description": "This course focuses on the study of value systems of diverse groups, as well as variables related to gender, age, lifestyle, religion, social class, race, geography, and developmental state, and how these relate to health status and health service needs. This course provides students with a basic knowledge and understanding of diversity so that they may be more effective in serving the needs of all people.  [3]",
         "notes": "Not open to FR or SO. Seats are reserved for HOD junior and senior majors and minors. If you are unable to enroll, please add your name to the waitlist. MHS majors and minors who are interested in this course should contact the Peabody Office of Academic Services during open enrollment if space remains. This course fulfills Domain 3: Community/Policy.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -109566,7 +109546,7 @@
         "capacity": "30",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -111236,9 +111216,9 @@
         "requirements": "",
         "description": "Paradoxical attitudes towards sex, sin, and the supernatural in early modern German-speaking Europe. Religious heretics, sexual \"deviants\", and marginalized groups; witch hunts; gendered reasoning; legal procedures. [3] (INT)",
         "notes": "Full title - Sex, Sin and the Law in the Early Modern European Witch-Hunts",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "3",
         "wl_occupied": "2",
         "attributes": [
@@ -111279,7 +111259,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -111320,7 +111300,7 @@
         "capacity": "25",
         "enrolled": "29",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -121331,7 +121311,7 @@
         "capacity": "5",
         "enrolled": "5",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -121526,7 +121506,7 @@
         "capacity": "10",
         "enrolled": "10",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -133613,7 +133593,7 @@
         "capacity": "70",
         "enrolled": "50",
         "wl_capacity": "75",
-        "wl_occupied": "25",
+        "wl_occupied": "26",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -136290,7 +136270,7 @@
         "notes": "Weekend dates to be announced.\n         \n            \n            Open initially to IEPM students; others by permission of instructor.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -138101,7 +138081,7 @@
         "notes": "$2,693.00 music fee (60-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138419,7 +138399,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "41",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -138459,7 +138439,7 @@
         "requirements": "JR/SR HOD or HOS Majors/Minors",
         "description": "Throughout history, humans have shaped the environment to provide food, shelter, energy, profit, and social power. As climate change advances, our relationship to nature is more complex than ever before. On the one hand, societies have an unprecedented capacity to reconfigure the environment through processes that range from genetic manipulation to geo-engineering. On the other hand, the unequal distribution of environmental problems across races, classes, genders, and nations is intensifying and demands critical interrogation. From farmer suicides in India to protests over hydraulic fracturing (\"fracking\") and oil pipelines in North America, social movements are demanding more democratic control over land and natural resources. In this course, we will explore environmental justice in theory and practice. Drawing on geography, anthropology, history, and critical race studies, we will examine the following questions: What is nature? Who defines and controls it? Why do environmental inequalities arise and how are they maintained? How are groups resisting and organizing around environmental and climate justice concerns? [3]",
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. This course will count in Domain 3: Community/Policy.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "20",
@@ -145306,7 +145286,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "35",
         "wl_occupied": "2",
         "attributes": [
@@ -160127,7 +160107,7 @@
         "capacity": "22",
         "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "HOD Domain 1"
         ],
@@ -160166,7 +160146,7 @@
         "notes": "Course Title: AI Everywhere. Some seats reserved for HOD juniors and seniors. Though seats may appear available, some are reserved. Please put your name on the waitlist if you cannot enroll. Class meets in the LIVE Learning Innovation Incubator Room A2009 in the SONY Building (1400 18th Ave S at intersection with De Ford Bailey).This course will count in Domain 1: Individual/Interpersonal for HOD students.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -174176,7 +174156,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -177905,7 +177885,7 @@
         "notes": "The combined enrollment capacity of BSCI 4275 and BSCI 6275 is 24. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "23",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -183845,7 +183825,7 @@
         "notes": "'Students should visit http://blair.vanderbilt.edu/vuchoral for audition procedures. Chorale is open only to students who have participated in wither MUSE 1020 or 2120 in a previous semester.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "1",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -184614,7 +184594,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "22",
+        "wl_occupied": "21",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -188034,7 +188014,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191286,7 +191266,7 @@
         "notes": "The combined enrollment capacity of HONS 1830W, PSCI 3150, and PSCH 1837 is 16. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -193911,7 +193891,7 @@
         "notes": "BCB 2200L is required as a co-requisite",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -193991,7 +193971,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "18",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": null,
@@ -196631,7 +196611,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -197437,7 +197417,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -198449,7 +198429,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -200381,7 +200361,7 @@
         "capacity": "25",
         "enrolled": "23",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Asian Studies",
             "Human & Organizational Development"
@@ -200882,7 +200862,7 @@
         "capacity": "16",
         "enrolled": "11",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -201079,7 +201059,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "15",
         "wl_occupied": "12",
         "attributes": [
@@ -206119,7 +206099,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -206158,7 +206138,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "61",
         "wl_capacity": "10",
         "wl_occupied": "10",
         "attributes": null,
