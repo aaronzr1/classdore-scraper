@@ -15114,9 +15114,9 @@
         "notes": "The combined enrollment capacity of PHIL 3910 and PHIL 5910 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            History of Philosophy: Iris Murdoch and Twentieth-Century Philosophy is an intensive survey of the philosophical works of Iris Murdoch in conversation with leading figures of 20th-century philosophy, including Sartre, Adorno, Moore, Weil, and others. Undergraduates who want to enroll in PHIL 3910 (the undergrad version of Murdoch and 20th Cen Phil) must meet a prerequisite of having already taken six credits in philosophy.",
         "status": "Wait list",
         "capacity": "4",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "8",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -36495,7 +36495,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -47421,9 +47421,9 @@
         "notes": "Immerse yourself in French and Francophone cultures through films, series, newspapers, and fun podcasts on current events. Enhance your speaking skills while discussing a variety of engaging topics, from cinema and media to contemporary cultural issues. Perfect for those who want to deepen their fluency and explore the richness of the French-speaking world. Counts towards French major and minor.",
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "9",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: Perspectives",
@@ -54198,9 +54198,9 @@
         "notes": "The combined enrollment capacity for PSY-PC 2550-02 and PSY-PC 5120-02 is 35.  Although seats may appear to be open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -76873,7 +76873,7 @@
         "notes": "Not open to first-year students. Seats are reserved for H&OD majors and minors until open enrollment.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -114405,9 +114405,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -114700,7 +114700,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -120683,7 +120683,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -133532,7 +133532,7 @@
         "capacity": "70",
         "enrolled": "57",
         "wl_capacity": "75",
-        "wl_occupied": "38",
+        "wl_occupied": "37",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133613,7 +133613,7 @@
         "capacity": "70",
         "enrolled": "50",
         "wl_capacity": "75",
-        "wl_occupied": "26",
+        "wl_occupied": "25",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -137979,7 +137979,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for American Studies Major",
@@ -171341,11 +171341,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173313,7 +173313,7 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "5",
@@ -200046,7 +200046,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
