@@ -3486,7 +3486,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "4",
         "attributes": [
@@ -3645,9 +3645,9 @@
         "requirements": "Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "(Previously BUS 2700) Provides an overview of operations in both service and manufacturing organizations. Process analysis, queuing, inventory management, quality management, lean operations, and optimization. Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -5306,7 +5306,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -10433,7 +10433,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -26689,7 +26689,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "22",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -28200,9 +28200,9 @@
         "requirements": "",
         "description": "The role of the actor in the theatre with emphasis on artistic self-expression through improvisation and development of performance skills. Available on a graded basis only. [3] (HCA) (CORE A)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "14",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -35757,7 +35757,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -36978,7 +36978,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -37069,7 +37069,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "150",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -39299,7 +39299,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "84",
+        "enrolled": "85",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -39734,7 +39734,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -40471,7 +40471,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -40722,7 +40722,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -41133,7 +41133,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -41339,9 +41339,9 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41668,7 +41668,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -45020,7 +45020,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -45440,7 +45440,7 @@
             "1/5/26-4/13/26"
         ],
         "instructors": [
-            "Ricks, Phillip M."
+            "Ricks, Morgan"
         ],
         "date_added": null
     },
@@ -46461,7 +46461,7 @@
         "notes": "MBA Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -48179,7 +48179,7 @@
         "notes": "Students must also enroll in a Thursday discussion section, HOD 1250-10, -11, -12, -13, -14, -15, -16, or -18.\n         \n            \n            Instructor - Mundy, Meaghan E.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "99",
+        "enrolled": "98",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -49409,9 +49409,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "14",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -51371,7 +51371,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for students with a home department at Peabody through initial enrollment period",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "63",
+        "enrolled": "62",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -52377,7 +52377,7 @@
         "notes": "MBA only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -52775,7 +52775,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -54354,7 +54354,7 @@
         "notes": "To design a fall or summer capstone semester, register for HOD 4949 in spring. To design a spring capstone, register for HOD 4949 in fall. HOD 4949 is not offered in the summer. Requirements: Completed or enrolled in all HOD core classes. Note: You are permitted and required to take HOD 4949 while studying abroad if you are studying abroad the semester prior to your capstone semester.",
         "status": "Open",
         "capacity": "200",
-        "enrolled": "177",
+        "enrolled": "178",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -55617,7 +55617,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -55863,7 +55863,7 @@
         "notes": "This class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -56630,7 +56630,7 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "5",
         "attributes": [
@@ -57146,7 +57146,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "19",
+        "wl_occupied": "18",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -60050,7 +60050,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "14",
+        "wl_occupied": "15",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -65501,9 +65501,9 @@
         "requirements": "Enrollment restricted to Master of Marketing students.",
         "description": "A business thrives or withers as a function of the health and success of its brands. This course will give students the tools to develop and execute effective brand strategies in the aim of building and maintaining strong brands that endure over time, and that can withstand competitive threats. Emphasis will be given to category management, and students will learn how to develop and position product lines, when (and when not) to pursue brand extensions, and the principles of creating, preserving, and leveraging brand equity. Prerequisite: MGT 6361. [2]",
         "notes": "MMark students only.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "38",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -65708,7 +65708,7 @@
         "notes": "MMark students only.",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -67046,7 +67046,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -74667,7 +74667,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -76266,7 +76266,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76465,7 +76465,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76586,7 +76586,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76822,7 +76822,7 @@
         "notes": "Not open to first-year students. Seats are initially reserved for H&OD majors and a limited number of HOD minors.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -81205,7 +81205,7 @@
         "capacity": "35",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -82012,7 +82012,7 @@
         "notes": "MMark students only.",
         "status": "Closed",
         "capacity": "38",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": null,
@@ -83919,7 +83919,7 @@
         "notes": "Registration only with permission of instructor.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -84754,7 +84754,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "80",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -85748,7 +85748,7 @@
         "notes": "The objective of this course is to give the students an understanding of how to make use of machine learning techniques for dynamical system. For this purpose, the class covers an introduction to dynamical system theory and how to analyze feedback systems on the basis of observed data. At the end, the students will know how to benefit from data-driven approaches for the accurate modeling and control of dynamical systems. Typical applications of the approaches presented in this course include robotics and autonomous driving. To understand different concepts discussed in this course, students are expected to have strong familiarity with concepts of linear algebra, probability theory, multivariate calculus and basic machine learning.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -91272,7 +91272,7 @@
             "1/5/26-4/13/26"
         ],
         "instructors": [
-            "Ricks, Phillip M."
+            "Ricks, Morgan"
         ],
         "date_added": null
     },
@@ -92688,7 +92688,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -94715,7 +94715,7 @@
         "notes": "The combined enrollment capacity of CHEM 3600 and CHEM 5600 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -95667,7 +95667,7 @@
         "notes": "Class is for HOD junior and senior majors and minors. If you cannot enroll, please put your name on the waitlist.  This course will count in Domain 2: Organizational/Group.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -98080,7 +98080,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -100604,7 +100604,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -102467,7 +102467,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -104689,7 +104689,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "8",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "3",
         "wl_occupied": "0",
         "attributes": null,
@@ -105010,7 +105010,7 @@
         "capacity": "8",
         "enrolled": "8",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -107788,7 +107788,7 @@
         "notes": "Full Title: Can Nature Save Humanity Our planet stands at a tipping point, challenged by accelerating environmental and health crises that demand creative, science-driven solutions. Amid the Anthropocene, learners explore nature as both healer and innovator through forests, crops, and nature-based medicines using inquiry and creativity to uncover how biodiversity and sustainability renew Earths resilience and nurture the human spirit. (Core capacity tags: B, D / AXLE tags: MNS)",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -109874,7 +109874,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "19",
+        "wl_occupied": "17",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -110038,7 +110038,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -110597,7 +110597,7 @@
         "capacity": "18",
         "enrolled": "17",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -111952,7 +111952,7 @@
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -114927,9 +114927,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -125808,7 +125808,7 @@
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -130372,7 +130372,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -130995,7 +130995,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -131201,7 +131201,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -131566,7 +131566,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": null,
@@ -131731,7 +131731,7 @@
         "notes": "This course is not open to non-CMA seniors. Students are required to attend one weekly film screening, Tuesdays at 6:00PM in Buttrick 103",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "4",
         "attributes": [
@@ -134337,7 +134337,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -139047,9 +139047,9 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Wait list",
         "capacity": "45",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "30",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -139369,7 +139369,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -139607,7 +139607,7 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -145816,7 +145816,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -147430,7 +147430,7 @@
         "notes": "o\tThe goals of this seminar are to provide students with (1) an in-depth review and analysis of theory and research on the biological and psychological aspects of stress, coping, and emotion-regulation; (2) the implications of these processes for psychopathology and physical disease and illness; and (3) the status of evidence-based interventions to enhance coping and emotion regulation skills and reduce or prevent the adverse effects of stress.  We will cover theory and research on the psychological, biological, and social aspects of stress; stress reactivity; coping and emotion regulation; and psychological and health consequences of stress.  We will also examine the characteristics and efficacy of psychological interventions on psychological and physical health. As a result of this course, students should increase their skills as consumers of research on stress and coping and learn to apply these constructs to their own research in new ways.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "17",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -153935,7 +153935,7 @@
         "notes": "Students who enroll in PHIL 1005-01 are required to enroll in a PHIL 1005 discussion section. 02-09",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "117",
+        "enrolled": "118",
         "wl_capacity": "25",
         "wl_occupied": "2",
         "attributes": [
@@ -157342,7 +157342,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -160107,7 +160107,7 @@
         "capacity": "22",
         "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "HOD Domain 1"
         ],
@@ -167283,7 +167283,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -169122,9 +169122,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must also enroll in a Wednesday discussion section, HOD 1250-02, -03, -04, -05, -06, -07, -08, or -17.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "100",
-        "enrolled": "99",
+        "enrolled": "100",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -169204,9 +169204,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must be enrolled in HOD 1250 01.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -170460,9 +170460,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -171858,7 +171858,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172637,7 +172637,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -176602,7 +176602,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -177510,7 +177510,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -184594,7 +184594,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "22",
+        "wl_occupied": "23",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -191432,7 +191432,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -191474,7 +191474,7 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "100",
         "wl_occupied": "24",
         "attributes": [
@@ -193437,7 +193437,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -194054,7 +194054,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -195951,7 +195951,7 @@
         "capacity": "20",
         "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for African American and Diaspora Studies",
@@ -196566,7 +196566,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "92",
+        "enrolled": "91",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -197496,7 +197496,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "18",
         "wl_occupied": "8",
         "attributes": [
@@ -201061,7 +201061,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -201260,7 +201260,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -202476,7 +202476,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -203171,11 +203171,11 @@
         "requirements": "Prerequisite: ECON 1010 and 1020.",
         "description": "Intercollegiate and professional sports leagues. Competitive balance, player labor markets, and owner capital markets. Theories of league expansion, rival leagues, franchise relocation, and sports venue finance. Comparisons of international sports leagues. Offered on a graded basis only. Prerequisite: 1010 and 1020. [3] (SBS) (CORE C) (LE SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -207319,7 +207319,7 @@
         "notes": "Instructor - Buriss, Sarah",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "48",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -207637,7 +207637,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -221445,7 +221445,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -222379,9 +222379,9 @@
         "requirements": "",
         "description": "Introduction to the art of writing poetry. [3] (HCA) (CORE A) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
