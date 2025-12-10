@@ -20925,7 +20925,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -21196,7 +21196,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "3",
         "attributes": [
@@ -31067,7 +31067,7 @@
         "notes": "Please contact professor Mario Avila at mario.avila@vanderbilt.edu if you have any questions.",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -45991,7 +45991,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -59332,7 +59332,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -80429,7 +80429,7 @@
         "notes": "Please contact professor Mario Avila at mario.avila@vanderbilt.edu if you have any questions.",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -80667,7 +80667,7 @@
         "notes": "If you are a student outside of Owen and are interested in enrolling in MGT 6552, please contact professor Mario Avila at mario.avila@vanderbilt.edu.",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -105940,7 +105940,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2"
@@ -122488,7 +122488,7 @@
         "notes": "Instructor - Che Guan\n         \n            \n            This course is an extension of DS 5899 Leveraging NLP for Asset Management course, though it is not a pre-requisite. This course will focus on research on reinforcement learning, reasoning, and hardware architecture.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -125837,7 +125837,7 @@
         "notes": "Full Topic: Historical and Contemporary Aspects of Racial and Ethnic Health Disparities",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -138029,7 +138029,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -167984,17 +167984,25 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "GER 3851, 3852 enroll reqts",
         "description": "Designed for majors and qualified undergraduates. Projects are carried out under the supervision of a member of the department. All projects must be approved by the department. May be repeated for a total of 6 credits over a four-semester period in 3851 and 3852 combined if there is no duplication in topic, but students may earn only up to 3 credits per semester of enrollment. [1-3; maximum of 6 credits total for four semesters of GER 3851 and 3852] (No AXLE credit)",
-        "notes": null,
+        "notes": "Furman 121A",
         "status": "Open",
         "capacity": "5",
         "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "T"
+        ],
+        "meeting_times": [
+            "02:45p - 04:00p"
+        ],
+        "meeting_dates": [
+            "1/5/26-4/20/26"
+        ],
+        "instructors": [
+            "Zeller, Christoph M."
+        ],
         "date_added": null
     },
     {
@@ -173205,7 +173213,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -184584,7 +184592,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "23",
+        "wl_occupied": "24",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -187677,27 +187685,16 @@
         "requirements": "IGP/QCB - 1st Year",
         "description": "Fundamental aspects of biomedical sciences taught in modular format covering cells, molecules, cell-cell communication, information flow and regulation of these processes. Strong emphasis on quantitative experimental approaches analyses. [1-8]",
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "115",
         "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "MF"
-        ],
-        "meeting_times": [
-            "09:00a - 09:55a"
-        ],
-        "meeting_dates": [
-            "3/6/26-4/27/26"
-        ],
-        "instructors": [
-            "Bratton, Benjamin P.",
-            "Venkatesh, Madhvi J.",
-            "Lacy, Borden (Secondary)",
-            "Richards, Stephanie (Secondary)"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -190675,7 +190672,7 @@
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. [3]\n         \n            \n            Fifteen seats reserved for Peabody students during the initial enrollment period.",
         "status": "Closed",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "20",
         "attributes": [
@@ -193633,7 +193630,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -201953,7 +201950,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -204164,6 +204161,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
+            "Moore, Stephanie N.",
             "Plate, Lars"
         ],
         "date_added": null
@@ -204286,6 +204284,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
+            "Moore, Stephanie N.",
             "Plate, Lars"
         ],
         "date_added": null
@@ -212371,7 +212370,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -216539,7 +216538,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -222692,7 +222691,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
