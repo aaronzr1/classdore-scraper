@@ -328,7 +328,7 @@
         "notes": "Course orientation is during DNP intensive week. Students will receive a detailed schedule prior to intensive week.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "51",
+        "enrolled": "52",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -1717,7 +1717,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -3363,7 +3363,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -3843,9 +3843,9 @@
         "requirements": "",
         "description": "This lecture course will provide students an introduction to modern microscopy and its biological applications. Topics will include diverse methods of light and electron microscopy, the basic principles of each method, details of specific instrumentation, historical background, advantages and restrictions, as well as applicability to various model systems and organisms. Sample preparation, technical hurdles, tricks of live imaging, micro- and nanomanipulation, quantitative image analysis and other issues will be addressed. The course will also include a tour of microscopy facilities available at Vanderbilt. SPRING. [1] Burnette",
         "notes": "The combined enrollment capacity of IGP 8002 06 and CBIO-GS 8313 is 150. although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Please see Brightspace for room assignments.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "4",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -4962,7 +4962,7 @@
         "capacity": "0",
         "enrolled": "64",
         "wl_capacity": "13",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -7687,7 +7687,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -14650,7 +14650,7 @@
         "notes": "For students enrolled in the master of divinity degree program, this course in Church history is a degree requirement. Students in the master of theological studies degree program may elect to apply the course to the history requirement.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -16611,7 +16611,7 @@
         "notes": "This section is for PMC students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18082,7 +18082,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "62",
+        "enrolled": "63",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -19615,7 +19615,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "3",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -22641,7 +22641,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -25041,7 +25041,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -28693,7 +28693,7 @@
         "capacity": "35",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -28970,7 +28970,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
         "capacity": "7",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "3",
         "attributes": [
@@ -29129,7 +29129,7 @@
         "notes": "The combined enrollment capacity of MATH 3640 and MATH 5640 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "6",
         "attributes": [
@@ -29574,7 +29574,7 @@
         "notes": "This class is designed for students who have taken FREN 1101 or equivalent. Tenses of the present and the past timeframes will be studied. Class progressively taught in French. If you still have doubts or questions about the level required for this class, please contact the French language program director at alexis.finet@vanderbilt.edu.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "9",
         "wl_occupied": "3",
         "attributes": [
@@ -35171,7 +35171,7 @@
         "description": "Linear methods for regression and classification, bias-variance tradeoff, and basis expansions and regularization. Kernel methods, support vector machines, dimension reduction, and clustering algorithms. Serves as repeat credit for MATH 3890-01 in Fall 2017. Prerequisite: one of 2810, 2820, or 3641; and one of 2410, 2501, or 2600. [3] (MNS)",
         "notes": "The combined enrollment capacity of MATH 3670 and MATH 5670 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
-        "capacity": "20",
+        "capacity": "25",
         "enrolled": "20",
         "wl_capacity": "25",
         "wl_occupied": "17",
@@ -40599,9 +40599,9 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41503,7 +41503,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -41791,7 +41791,7 @@
         "notes": "The combined enrollment capacity of CS 4262 and CS 5262 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "11",
         "wl_occupied": "9",
         "attributes": [
@@ -43903,7 +43903,7 @@
         "capacity": "5",
         "enrolled": "5",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -51048,7 +51048,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -51088,7 +51088,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats are reserved for Peabody majors through the initial enrollment period.",
         "status": "Open",
         "capacity": "26",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -52775,7 +52775,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -54881,7 +54881,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3860- research-internship/",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -55420,7 +55420,7 @@
         "notes": "1 credit hour",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -58655,7 +58655,7 @@
         "notes": "The combined enrollment capacity of BCB 4320 and CPBP 8320 is 31.  Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -64510,7 +64510,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -65501,9 +65501,9 @@
         "requirements": "Enrollment restricted to Master of Marketing students.",
         "description": "A business thrives or withers as a function of the health and success of its brands. This course will give students the tools to develop and execute effective brand strategies in the aim of building and maintaining strong brands that endure over time, and that can withstand competitive threats. Emphasis will be given to category management, and students will learn how to develop and position product lines, when (and when not) to pursue brand extensions, and the principles of creating, preserving, and leveraging brand equity. Prerequisite: MGT 6361. [2]",
         "notes": "MMark students only.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "38",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -68094,7 +68094,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -68666,7 +68666,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Morton, Brian F. (Secondary)"
         ],
         "date_added": null
     },
@@ -68826,7 +68826,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Morton, Brian F. (Secondary)"
         ],
         "date_added": null
     },
@@ -69146,7 +69146,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Kalita, Jayashree (Secondary)"
         ],
         "date_added": null
     },
@@ -69306,7 +69306,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Kalita, Jayashree (Secondary)"
         ],
         "date_added": null
     },
@@ -70173,7 +70173,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -76106,7 +76106,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -76822,7 +76822,7 @@
         "notes": "Not open to first-year students. Seats are initially reserved for H&OD majors and a limited number of HOD minors.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -80587,7 +80587,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -81608,7 +81608,7 @@
         "notes": "MMark and MBA",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "43",
+        "enrolled": "45",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -81854,7 +81854,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -81895,7 +81895,7 @@
         "notes": "MMark students only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -83917,7 +83917,7 @@
         "notes": "Registration only with permission of instructor.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -84075,7 +84075,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "26",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -91220,10 +91220,10 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
-            "TBA"
+            "W"
         ],
         "meeting_times": [
-            "07:30p - 09:00p"
+            "05:30p - 07:00p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -93182,7 +93182,7 @@
         "notes": "Course orientation is during DNP intensive week. Students will receive a detailed schedule prior to intensive week.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -95115,7 +95115,7 @@
         "notes": "This course in Biblical studies is required in both master of divinity degree and Master of Theological Studies degree programs; students with prior course work in New Testament studies may consult with their academic advisors and petition to waive the introductory course and enroll in an upper-level course in New Testament. The prerequisite for Divinity 6600 is successful completion of Divinity 6500, Hebrew Bible, or a departmentally approved equivalent.",
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -98078,7 +98078,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -102282,7 +102282,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Wang, Joanne"
+            "Cooper, Lynne"
         ],
         "date_added": null
     },
@@ -103978,7 +103978,7 @@
         "notes": "This hands-on, project-based course takes students through the full Design Thinking process using the IBM Enterprise Design Thinking framework. Working in interdisciplinary teams, students tackle a real-world industry challenge from empathy to implementation, developing skills in research, ideation, prototyping, and testing. By the end of the semester, students earn the IBM Enterprise Design Thinking Certificate and gain practical experience applying human-centered design methods to complex problems, preparing them for innovation-focused roles in any field.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -105940,7 +105940,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2"
@@ -110278,7 +110278,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Borissov, Gregory (Secondary)"
         ],
         "date_added": null
     },
@@ -110603,7 +110603,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Borissov, Gregory (Secondary)"
         ],
         "date_added": null
     },
@@ -114183,7 +114183,7 @@
             "2/24/26-4/20/26"
         ],
         "instructors": [
-            "Helmke, Anna T."
+            "Haslag, Peter H."
         ],
         "date_added": null
     },
@@ -114478,7 +114478,7 @@
             "2/24/26-4/20/26"
         ],
         "instructors": [
-            "Bollen, Nicolas P."
+            "Helmke, Anna T."
         ],
         "date_added": null
     },
@@ -114715,7 +114715,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -114732,7 +114732,7 @@
             "2/24/26-4/20/26"
         ],
         "instructors": [
-            "Haslag, Peter H."
+            "Bollen, Nicolas P."
         ],
         "date_added": null
     },
@@ -114917,9 +114917,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -115050,7 +115050,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "20",
         "wl_occupied": "11",
         "attributes": [
@@ -118364,7 +118364,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -119552,7 +119552,7 @@
         "notes": "Undergraduate students must obtain the approval of the instructor and the DGS in the Math Department to enroll in this class.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -126034,7 +126034,7 @@
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": null,
@@ -128755,7 +128755,9 @@
         "wl_occupied": "3",
         "attributes": [
             "AXLE: 1000-level W course",
-            "AXLE: Humanities and the Creative Arts"
+            "AXLE: Humanities and the Creative Arts",
+            "CORE: A-Written & Creative Expression",
+            "CORE: C-Cultural & Interpretive Investigation"
         ],
         "meeting_days": [
             "MWF"
@@ -128961,7 +128963,9 @@
         "wl_occupied": "2",
         "attributes": [
             "AXLE: 1000-level W course",
-            "AXLE: Humanities and the Creative Arts"
+            "AXLE: Humanities and the Creative Arts",
+            "CORE: A-Written & Creative Expression",
+            "CORE: C-Cultural & Interpretive Investigation"
         ],
         "meeting_days": [
             "MWF"
@@ -129171,7 +129175,9 @@
         "wl_occupied": "2",
         "attributes": [
             "AXLE: 1000-level W course",
-            "AXLE: Humanities and the Creative Arts"
+            "AXLE: Humanities and the Creative Arts",
+            "CORE: A-Written & Creative Expression",
+            "CORE: C-Cultural & Interpretive Investigation"
         ],
         "meeting_days": [
             "MWF"
@@ -133315,7 +133321,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Kendzior, Christine N."
+            "Peck, Daniel"
         ],
         "date_added": null
     },
@@ -133395,7 +133401,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Kendzior, Christine N."
+            "Peck, Daniel"
         ],
         "date_added": null
     },
@@ -133475,7 +133481,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Kendzior, Christine N."
+            "Peck, Daniel"
         ],
         "date_added": null
     },
@@ -133670,7 +133676,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -133880,7 +133886,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "75",
         "wl_occupied": "5",
         "attributes": [
@@ -133966,7 +133972,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134407,7 +134413,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "18",
         "wl_occupied": "1",
         "attributes": [
@@ -135499,7 +135505,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -136814,7 +136820,7 @@
         "notes": "This section is for FNP students only.",
         "status": "Open",
         "capacity": "42",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -137990,7 +137996,7 @@
         "notes": "The combined enrollment capacity of NURO 8326 and CANB 8326 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138673,7 +138679,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -147159,7 +147165,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "6",
         "attributes": [
@@ -155487,7 +155493,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "50",
         "wl_occupied": "2",
         "attributes": [
@@ -155896,7 +155902,7 @@
         "notes": "The maximum enrollment is limited to 18 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "18",
         "wl_occupied": "2",
         "attributes": [
@@ -157332,7 +157338,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -160216,7 +160222,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "77",
-        "enrolled": "79",
+        "enrolled": "78",
         "wl_capacity": "22",
         "wl_occupied": "14",
         "attributes": [
@@ -166319,7 +166325,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -167273,7 +167279,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -167910,7 +167916,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -168063,9 +168069,9 @@
         "requirements": "Students must have completed the first year of the MBA program to register.",
         "description": "This course is designed to provide an opportunity for students to improve their analytical thinking skills in the context of solving managerial problems. Topics include definition of managerial problems; comparison of intuitive and rational decision making processes; evaluation of evidence supporting managerial decisions; understanding and evaluation of the structure, content, and quality of arguments supporting managerial decisions; making more accurate predictions using Bayesian thinking. This class is graded pass/fail and is designed for MBA second year students only. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -175508,7 +175514,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "8",
         "wl_occupied": "7",
         "attributes": [
@@ -175551,7 +175557,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "56",
+        "enrolled": "55",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -177508,7 +177514,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -180314,7 +180320,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Salinas, Fabian"
         ],
         "date_added": null
     },
@@ -185860,7 +185866,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -190543,7 +190549,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -191090,7 +191096,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for American Studies Major",
@@ -194168,7 +194174,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -194742,7 +194748,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "130",
-        "enrolled": "112",
+        "enrolled": "113",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -195448,7 +195454,7 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "36",
         "wl_occupied": "0",
         "attributes": [
@@ -195464,7 +195470,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Laan, Jacob"
         ],
         "date_added": null
     },
@@ -195614,9 +195620,9 @@
         "requirements": "Not open to students who have earned credit for MATH 1100 or 1300 without permission.",
         "description": "A first semester calculus course covering differential calculus in the context of optimization and other applications to the social sciences.  Review of functions and trigonometry. Exponential and logarithmic functions, inverse functions. Limits and asymptotic behavior, differentiation, rules of differentiation, related rates, maximum and minimum values, curve sketching. Not open to students who have earned credit for MATH 1100 or 1300 without permission. Total credit for this course and MATH 1100 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (MNS)",
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -195712,7 +195718,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Lim, Jun Hwi"
         ],
         "date_added": null
     },
@@ -195998,7 +196004,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            ""
+            "Sousa, Madi"
         ],
         "date_added": null
     },
@@ -197564,9 +197570,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "18",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -198024,7 +198030,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Thornburgh, Darrion (Secondary)"
         ],
         "date_added": null
     },
@@ -198145,7 +198151,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Thornburgh, Darrion (Secondary)"
         ],
         "date_added": null
     },
@@ -198309,7 +198315,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Mihaila, Maria (Secondary)"
         ],
         "date_added": null
     },
@@ -198391,7 +198397,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Mihaila, Maria (Secondary)"
         ],
         "date_added": null
     },
@@ -198555,7 +198561,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Yi, Mohao (Secondary)"
         ],
         "date_added": null
     },
@@ -198598,7 +198604,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Yi, Mohao (Secondary)"
         ],
         "date_added": null
     },
@@ -198801,7 +198807,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Dahle, Kristina N. (Secondary)"
         ],
         "date_added": null
     },
@@ -198883,7 +198889,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Dahle, Kristina N. (Secondary)"
         ],
         "date_added": null
     },
@@ -199008,7 +199014,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Wang, Yanyu (Secondary)"
         ],
         "date_added": null
     },
@@ -199090,7 +199096,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Wang, Yanyu"
         ],
         "date_added": null
     },
@@ -199293,7 +199299,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Relles, Denali D. (Secondary)"
         ],
         "date_added": null
     },
@@ -199375,7 +199381,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Relles, Denali D. (Secondary)"
         ],
         "date_added": null
     },
@@ -199500,7 +199506,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Shaw, Colby T. (Secondary)"
         ],
         "date_added": null
     },
@@ -199582,7 +199588,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Shaw, Colby T. (Secondary)"
         ],
         "date_added": null
     },
@@ -207626,7 +207632,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -213409,7 +213415,7 @@
         "notes": "Requires consent from the DUS for BCB major",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -213696,7 +213702,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -219795,7 +219801,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -219836,7 +219842,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -220672,9 +220678,9 @@
         "requirements": "",
         "description": "Introduction to the \"historian's craft.\" Reconstructing the past using primary documents such as diaries, letters, memoirs, and declassified government papers. Methods of historical research and reasoning through individual projects. Offered on a graded basis only. [3] (SBS)",
         "notes": "We're told the United States is the most religiously diverse nation in the world, possessing a dizzying array of religious beliefs and behavior. How have people (including nonbelievers) experienced this religious multiplicity? How are these religious differences negotiated socially, culturally, politically, and legally? This seminar explores these questions historically. Readings in the first half of the semester will include religious history, historiography, and historical methods. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
