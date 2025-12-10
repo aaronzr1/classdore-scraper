@@ -2396,9 +2396,9 @@
         "requirements": "",
         "description": "Animation with computers. Traditional and experimental animations; interactive web-based projects. [3] (HCA)",
         "notes": "Animation with computers. Traditional and experimental animation; interactive web-based projects. [3] (HCA)",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -18804,11 +18804,11 @@
         "requirements": "",
         "description": "This course introduces students to statutes and agency decisions and the central role they play in modern government. The course covers the nature of statutes and agency regulations, how they are generated, and how they are interpreted.[3]",
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "T",
@@ -25439,9 +25439,9 @@
         "requirements": "",
         "description": "Introduction to drawing: visual problems related to observation, idea formation, composition, media, and various forms of expression. Figure and landscape may be included. [3] (HCA) (CORE A, B)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -35413,11 +35413,11 @@
         "requirements": "",
         "description": "Ideals and practices of deliberative democracy in the US.  Prospects for deliberation and conversation in a divided political era. [3] (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "CORE: A-Written & Creative Expression",
@@ -35546,7 +35546,7 @@
         "capacity": "121",
         "enrolled": "121",
         "wl_capacity": "30",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for American Studies Major",
@@ -35847,7 +35847,7 @@
         "notes": "This section is for MN students only\n         \n            \n            Class is 100% online.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36528,7 +36528,7 @@
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for American Studies Major",
@@ -49042,7 +49042,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "100",
         "wl_occupied": "1",
         "attributes": [
@@ -49857,7 +49857,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -50061,7 +50061,7 @@
         "capacity": "75",
         "enrolled": "70",
         "wl_capacity": "100",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -50755,7 +50755,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "50",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -58107,7 +58107,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -58538,7 +58538,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -82258,7 +82258,7 @@
         "notes": "MMark Student Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -83341,8 +83341,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Joskowicz, Ari",
-            "Kelner, Saul J."
+            "Joskowicz, Ari"
         ],
         "date_added": null
     },
@@ -83503,8 +83502,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Joskowicz, Ari",
-            "Kelner, Saul J."
+            "Joskowicz, Ari"
         ],
         "date_added": null
     },
@@ -84119,7 +84117,7 @@
         "notes": "Prerequisite: PSY-GS 8861 or equivalent [3]. During the initial open enrollment period only, all seats are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed.\n         \n            \n            During the initial open enrollment period only, all seats are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -97017,7 +97015,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -100876,7 +100874,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Closed",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": null,
@@ -107664,9 +107662,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Sacred Geographies of China\" - The built environment of traditional China is an intersection of the sacred and the secular. Residences and ritual spaces were supposedly constructed to accord with the forces of nature and the cosmos. Or were they? This seminar will examine ideas of the sacred as expressed in the forms of traditional houses, temples, monasteries, and cities in traditional China to explore the role of the built environment in the shaping of social and spiritual lives. Topics will include charms and building magic, the influence of natural landforms on the placement of temples and tombs, the garden as terrestrial residence for divinity, and the idea of the Chinese imperial city as the sacred earthly center. Beginning with the structure of the courtyard house, we will discuss ways in which space can be manipulated as a form of encoded language, as well as functioning as a type of \"agent\" in regulating human and non-human relationships. We will then explore the definitions of \"sacred\" and \"religion\" to problematize the category of \"temples\" as applied to built environments used by ritual specialists for encounters with other-worldly powers. We will ask if there is a difference between the house and the temple in the Chinese context, and if so, what is it? Finally, we will consider the form and symbolism of the imperial city in China to examine whether it fits into our definitions of a \"sacred\" or \"secular\" space. Students may seek a variance to count this section as HART 2105W in degree audit.  (Core capacity tags: A, C / AXLE tags: INT)",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "15",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -107675,18 +107673,10 @@
             "CORE: C-Cultural & Interpretive Investigation",
             "Eligible for History of Art"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Miller, Tracy G."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -109753,7 +109743,7 @@
         "notes": "The combined enrollment capacity of HOD 6300 and HOD 8400 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -113801,7 +113791,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "18",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120034,7 +120024,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -143991,7 +143981,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -152691,7 +152681,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "51",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -159821,7 +159811,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "13",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -187446,7 +187436,7 @@
         "notes": "Instructor: Bairam Khan",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -187570,7 +187560,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": null,
@@ -191914,7 +191904,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -198525,7 +198515,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Benton, Deon"
         ],
         "date_added": null
     },
@@ -202082,7 +202072,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -202680,7 +202670,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -209314,7 +209304,7 @@
         "notes": "Registration must be completed through the Neuroscience Program Office. See instructions at as.vanderbilt.edu/neuroscience/3861-3862-undergraduate-research",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -209392,7 +209382,7 @@
         "notes": "Registration must be completed through the Neuroscience Program Office. See instructions at as.vanderbilt.edu/neuroscience/3861-3862-undergraduate-research",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -210328,7 +210318,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -210449,10 +210439,10 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "JAPN 1102 enrollment reqts",
         "description": "No credit for students who have earned credit for a more advanced Japanese language course. Prerequisite: 1012 or 1101. [4] (INT) (CORE LA)",
-        "notes": null,
+        "notes": "Room 501 Central Library",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "1",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
