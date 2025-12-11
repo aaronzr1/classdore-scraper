@@ -27953,7 +27953,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -105441,9 +105441,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Italy and Asia: Deconstructing Representations of Asia in Italian and European Culture\" - Since the Middle-Ages, Italy enjoys intense social, political, and commercial exchanges with Asia. For centuries, Italian merchants and explorers travel along terrestrial and maritime trade routes, which connect the city-states of the peninsula with the Near and Far East. In the tales of Genoese and Venetian adventurers, Persia, India, Indonesia, China, Korea, and Japan appear as lands of opulence, wonder, and magic, regardless of the innumerable dangers of the long journey. The emergence of Portugal, Holland, and England as global colonial empires during the Modern era do not decrease established relationships between Italy and Asia. Rather, Italian inventors, diplomats, and missionaries become even more influential as cultural ambassadors, who are often able to create a synthesis between European and Asian cultures in politics, religion, science, and art. This tradition continues in the present. The works of several contemporary Italian writers, artists, and filmmakers demonstrate a constant, reciprocal fascination between Italy and Asia, which this course will investigate, challenge, and deconstruct. Based on intense interdisciplinarity between the verbal and the visual domains, we will put into conversation several disciplines, including history, art history, literary history, economy, geopolitics, and film studies. (Core capacity tags: A, C / AXLE tags: INT)",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -182504,9 +182504,9 @@
         "requirements": "A CS course or Calculus II is prerequisite for this course",
         "description": "Survey of the mathematical tools necessary for an understanding of computer science. Sets, relations, functions, basic counting techniques, permutations, combinations, graphs, recurrence relations, simple analysis of algorithms, O-notation, Boolean algebra, propositional calculus, and numeric representation. Prerequisite: A course in computer science or two semesters of calculus. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": null,
@@ -193349,7 +193349,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -193555,7 +193555,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -200685,7 +200685,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
