@@ -1834,7 +1834,7 @@
         "notes": "Junior Class",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -2111,7 +2111,7 @@
         "notes": "Class will meet in 6 Magnolia 019 on March 23rd.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "20",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -10793,7 +10793,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "235",
-        "enrolled": "233",
+        "enrolled": "234",
         "wl_capacity": "75",
         "wl_occupied": "1",
         "attributes": [
@@ -11268,7 +11268,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -21878,24 +21878,16 @@
         "requirements": "This course requires VOIC 4100 or 4200 as a pre- or co-requisite.",
         "description": "Survey of literature for solo voice from the seventeenth century to the present, with focus on traditional art songs of the great masters of the genre. Prerequisite: MUTH 2300, MUSL 2200W. Corequisite: VOIC 4100 or VOIC 4200. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "15",
         "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "11:00a - 12:15p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Burton, Dashon"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -35886,7 +35878,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -35931,7 +35923,7 @@
         "notes": "This section is for MN students only",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -43098,7 +43090,7 @@
         "notes": "M.Ed. and M.P.P. Students only. Prerequisite: LPO 7860",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -43265,7 +43257,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "23",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -58146,7 +58138,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -58733,7 +58725,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -90659,7 +90651,7 @@
         "notes": "During the initial open enrollment period only, all seats are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed.   Survival analysis for time-to-event data, emphasizing discrete-time models. Topics include survival/hazard functions, censoring, survival curves, logistic regression, model estimation and interpretation, time structure, time-varying/invariant predictors, and competing risks. Applications to social/behavioral research. Prerequisite: PSY-GS 8870 or equivalent.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -94916,7 +94908,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": null,
@@ -97015,7 +97007,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -103783,7 +103775,7 @@
         "notes": "This hands-on course offers a deep dive into the best practices for engaging in the critical early stages of the innovation and design thinking processes. Students will learn to analyze problem contexts in ways that make design solutions more likely to be adopted by learning how to observe users, ask the right questions, and develop and articulate insights that lead to better solutions. This class is a foundational and practical design process course for anyone considering future work in design, including User Experience (UX), Interaction Design (UI), Human-Centered Research and Design (HCR/HCD), technological innovation (R&D), or early-stage entrepreneurial activities.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -109536,7 +109528,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -119511,7 +119503,7 @@
         "notes": "Some seats are reserved.\n         \n            \n            The combined enrollment capacity of HOD 3890-01 and HOD 7500-05 is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "7",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -120024,7 +120016,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -122488,7 +122480,7 @@
         "notes": "Instructor - Che Guan\n         \n            \n            This course is an extension of DS 5899 Leveraging NLP for Asset Management course, though it is not a pre-requisite. This course will focus on research on reinforcement learning, reasoning, and hardware architecture.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -129774,7 +129766,7 @@
         "notes": "Open to Freshmen",
         "status": "Open",
         "capacity": "31",
-        "enrolled": "6",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -130168,7 +130160,7 @@
         "notes": "Class will meet in 6 Magnolia 019 on March 23rd.",
         "status": "Open",
         "capacity": "31",
-        "enrolled": "15",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -132271,7 +132263,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -133062,7 +133054,7 @@
         "notes": "Sophomore Class",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -133223,9 +133215,9 @@
         "requirements": "",
         "description": "This course builds upon MS-PC 2150 and 2150L. The lab is broken down into five key skill development levels: 1) leadership, 2) values and ethics, 3) personal development, 4) professional officership, and 5) various tactics, techniques, and procedures.  This class will focus on individual leadership development where the student begins to plan, organize, and lead small teams and groups in situational training exercises. Students begin to apply leadership skills at the smallest unit level. [1]",
         "notes": "Class will meet in 6 Magnolia 019 on March 23rd.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "33",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -133303,9 +133295,9 @@
         "requirements": "",
         "description": "This course explores the dynamics of leading in the complex situations of current military operations in the contemporary operating environment. It introduces the concept of culture, its components, how culture influences human behavior, the impact of culturally influenced behavior on military operations, and how to analyze and apply cultural considerations in the planning and execution of military operations. Open to ROTC Cadets only. Prerequisite: MS-PC 4150. [3]",
         "notes": "Senior Class",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "17",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -133465,7 +133457,7 @@
         "notes": "Class will meet in 6 Magnolia 019 on March 23rd.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -139933,7 +139925,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -143987,7 +143979,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -156514,7 +156506,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "11",
+        "enrolled": "15",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -166877,7 +166869,7 @@
         "notes": "Please note that, due to the nature of simulations, attendance is required from the first day of the course forward. The last day to enroll is prior to the first day of class.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -175102,7 +175094,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -175721,7 +175713,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -176604,9 +176596,9 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Causes of international inequality in the distribution of wealth. The emergence of rich and poor nations, and rich and poor people. Factors related to economic development, and their impact on income distribution. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -180384,7 +180376,7 @@
         "notes": "The combined enrollment capacity of CE 4150 and CE 5150 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": null,
@@ -183231,7 +183223,7 @@
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -185948,7 +185940,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187005,7 +186997,7 @@
             "R"
         ],
         "meeting_times": [
-            "01:15p - 04:05p"
+            "04:10p - 07:00p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -191907,7 +191899,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -193432,7 +193424,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -212079,7 +212071,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "59",
+        "enrolled": "55",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -212376,7 +212368,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -219842,7 +219834,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -222697,7 +222689,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
