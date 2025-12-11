@@ -2719,7 +2719,7 @@
         "notes": "The combined enrollment capacity of BSCI 3271 and BSCI 5271 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -7818,7 +7818,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -10956,7 +10956,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -15960,7 +15960,7 @@
         "notes": "Class Fee:  A Teacher Assessment Performance fee of $300.00 will be charged.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -28396,9 +28396,9 @@
         "requirements": "",
         "description": "U.S. domestic and international policy-making. Domestic and comparative history; ethics frameworks relevant to public policy. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -35839,7 +35839,7 @@
         "notes": "This section is for MN students only\n         \n            \n            Class is 100% online.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -41493,7 +41493,7 @@
         "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "An exploration of the creation, interpretation, implementation, and evaluation of public policy in the United States. Main emphases include key analytical/theoretical perspectives necessary for understanding the policy making process (problem Identification, agenda setting, formulation, adoption, Implementation, and evaluation), and main factors that influence policy making at the national and state levels. Particular attention is paid to the development of student analytic and writing skills. [3]",
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "30",
         "enrolled": "0",
         "wl_capacity": "12",
@@ -41503,18 +41503,10 @@
             "HOD Core",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "TBA"
-        ],
-        "meeting_times": [
-            "TBA"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Heuser, Brian L."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -47928,7 +47920,7 @@
         "notes": "Students must be enrolled in HOD 1250 01.",
         "status": "Open",
         "capacity": "14",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -52369,7 +52361,7 @@
         "notes": "MBA only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -54346,7 +54338,7 @@
         "notes": "To design a fall or summer capstone semester, register for HOD 4949 in spring. To design a spring capstone, register for HOD 4949 in fall. HOD 4949 is not offered in the summer. Requirements: Completed or enrolled in all HOD core classes. Note: You are permitted and required to take HOD 4949 while studying abroad if you are studying abroad the semester prior to your capstone semester.",
         "status": "Open",
         "capacity": "200",
-        "enrolled": "180",
+        "enrolled": "181",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -54385,7 +54377,7 @@
         "notes": "The combined enrollment capacity of HGEN 8394-01 and HGEN 8394-02 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -55107,7 +55099,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3861- directed-lab-research/",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -56133,7 +56125,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -56822,9 +56814,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "110",
-        "enrolled": "89",
+        "enrolled": "90",
         "wl_capacity": "6",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -56940,9 +56932,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "38",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -58099,7 +58091,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -58530,7 +58522,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -65495,7 +65487,7 @@
         "notes": "MMark students only.",
         "status": "Wait list",
         "capacity": "38",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -79556,10 +79548,10 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
-            "W"
+            "T"
         ],
         "meeting_times": [
-            "05:30p - 06:30p"
+            "04:30p - 05:30p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -81600,7 +81592,7 @@
         "notes": "MMark and MBA",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "45",
+        "enrolled": "46",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -81846,7 +81838,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -82250,7 +82242,7 @@
         "notes": "MMark Student Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -86329,7 +86321,7 @@
         "notes": "This graduate-level seminar introduces students to computational biology from both a methodological and problem-driven perspective. We will examine how computational models and algorithms can be designed to address biological questions, spanning topics from data representation to simulation, benchmarking, and method development. Beyond learning how to analyze biological data, students will be encouraged to think critically about problem formulation and software implementation. The course will center on reading and discussing published papers from leading journals and conferences, using them as case studies to reflect on these steps in practice.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -96699,10 +96691,10 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
-            "W"
+            "T"
         ],
         "meeting_times": [
-            "05:30p - 06:30p"
+            "04:30p - 05:30p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -97007,7 +96999,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -98070,7 +98062,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -100594,7 +100586,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -107813,9 +107805,9 @@
         "notes": "The combined enrollment capacity of ME 3890 and ME 5890 is 17. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "9",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -110213,7 +110205,7 @@
         "notes": "The combined enrollment capacity of CHBE 4500 and CHBE 5500 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -110334,7 +110326,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -112141,7 +112133,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -114790,7 +114782,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -115044,7 +115036,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -117045,7 +117037,7 @@
         "notes": "The combined enrollment capacity of CBIO 8345, MP&B 8345, NURO 8345, and PHAR 8345 is 65. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            No credit for studens who presented this language as an admissions requirement (that is two years in high school).",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -120017,7 +120009,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -123756,10 +123748,10 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
-            "W"
+            "T"
         ],
         "meeting_times": [
-            "05:30p - 06:30p"
+            "04:30p - 05:30p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -124350,10 +124342,10 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
-            "W"
+            "T"
         ],
         "meeting_times": [
-            "05:30p - 06:30p"
+            "04:30p - 05:30p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -130625,11 +130617,11 @@
         "requirements": "",
         "description": "Medical memoir as a mode of self discovery. Patient narratives as an essential act of empathy. Chronicling the body's story as an act of healing. Serves as repeat credit for MHS 3890, section 03 in Fall 2023 and Fall 2024. [3] (HCA)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "15",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts"
@@ -132146,7 +132138,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -134404,9 +134396,9 @@
         "requirements": "Pre- or co-requisite 1501 or 1601. Not open to students who have earned credit for PHYS 1501L or 1901 without permission.",
         "description": "Laboratory to accompany Physics 1501 and Physics 1601. Satisfies the AXLE lab course requirement when completed with 1501 or 1601. Serves as repeat credit for PHYS 1501L. Not open to students who have earned credit for 1901 without permission. Credit for this course and 1901 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite 1501 or 1601. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -137220,7 +137212,7 @@
         "notes": "The immune system plays a vital role to protect from pathogens and is intimately linked to a wide range of diseases. The goal of this course is to introduce the basics of immunology through discussion of principles of immunobiology and clinical immunology. Topics to be covered include principles of innate and adaptive immunity, antigen recognition and signaling, immune disease processes, discussion of clinical cases including immunodeficiencies, autoimmunity, inflammation, neuroinflammation, and tumor immunology. The class will consist of lectures followed by small group discussions of how those topics apply to basic and clinical immunology and will include discussions of current literature. Following the class, students will have the background to understand and interpret basic principles of immune function and understand how the immune system contributes to health and disease.\n         \n            \n            Class will meet in Medical Center North and Light Hall.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "6",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -140170,7 +140162,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -143980,7 +143972,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -147742,7 +147734,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -150039,9 +150031,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -153440,9 +153432,9 @@
         "requirements": "",
         "description": "Individual instruction in writing fiction. Offered on a pass/fail basis only. May be repeated for credit up to a total of three hours. [1] (No AXLE credit)",
         "notes": "See English Department Website for a more detailed course description.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "7",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -156508,7 +156500,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "14",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -159672,7 +159664,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -160349,7 +160341,7 @@
         "requirements": "",
         "description": "Subject matter and methods of public engagement. Concepts and practices related to citizenship, civil society, and social change. Offered on a graded basis only. [3] (HCA) (CORE C, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "5",
@@ -169286,7 +169278,7 @@
         "notes": "Students must be enrolled in HOD 1250 01.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -170089,9 +170081,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -174281,7 +174273,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174443,7 +174435,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -176530,9 +176522,9 @@
         "notes": "Definitions of national security with focus on US institutions and the policy process. Major philosophical traditions including realism, neo-realism, liberalism, etc. Current challenges to securing territory, allies, trade, infrastructure, etc.",
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -176598,11 +176590,11 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Causes of international inequality in the distribution of wealth. The emergence of rich and poor nations, and rich and poor people. Factors related to economic development, and their impact on income distribution. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -176771,7 +176763,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "93",
+        "enrolled": "92",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -179383,7 +179375,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -187360,7 +187352,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "48",
+        "enrolled": "57",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187488,7 +187480,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "25",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187528,7 +187520,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "20",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187607,7 +187599,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on Thursdays from 1/8/2026-4/23/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187718,7 +187710,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales- Miranda- d.miranda@vanderbilt.edu. The combined enrollment capacity of IGP 8002 06 and CBIO-GS 8313 is 150. although seats may appear open in a section, if the combined capacity has been reached the course will close. This class will meet on MF from 1/5/2026-3/2/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187798,7 +187790,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 1/5/2026-3/2/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "3",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187921,7 +187913,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales- Miranda- d.miranda@vanderbilt.edu The combined enrollment capacity of IGP 8002 08 and CPBP 8308 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close. This class will meet on MF from 1/5/2026-3/2/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "4",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188082,7 +188074,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188249,7 +188241,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 1/5/2026-3/2/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "21",
-        "enrolled": "8",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188332,7 +188324,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188415,7 +188407,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "115",
-        "enrolled": "5",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188500,7 +188492,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "5",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188542,7 +188534,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188665,7 +188657,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191463,7 +191455,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "23",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191901,7 +191893,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -193995,9 +193987,9 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150. Not open to students who have earned credit for PSCI 1111-01 without permission.",
         "description": "Critical analysis of major international and domestic factors shaping U.S. foreign relations as reflected in selected twentieth- and twenty-first-century experiences. Not open to students who have earned credit for PSCI 1111-01 without permission. Total credit for this course and PSCI 1111-01 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -194406,7 +194398,7 @@
         "requirements": "",
         "description": "Representations of World War II and the fight against Nazi Germany in Hollywood and other cinemas, contemporary video games, television, and installation art. How current modes of warfare and the global war on terror have changed the conventions of depicting war. Taught in English. [3] (HCA)",
         "notes": "The combined enrollment capacity of CMA 1200 and GER 1442 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "26",
         "enrolled": "25",
         "wl_capacity": "20",
@@ -201247,7 +201239,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -203481,7 +203473,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -204515,7 +204507,7 @@
         "notes": "The combined enrollment capacity of EDUC 3730 and EDUC 6520 is 18. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -207308,7 +207300,7 @@
         "notes": "Instructor - Buriss, Sarah",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -207626,7 +207618,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -209264,7 +209256,7 @@
         "notes": "Registration must be completed through the Neuroscience Program Office. See instructions at as.vanderbilt.edu/neuroscience/3860-intro-to-research",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -209303,7 +209295,7 @@
         "notes": "Registration must be completed through the Neuroscience Program Office. See instructions at as.vanderbilt.edu/neuroscience/3861-3862-undergraduate-research",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -209420,7 +209412,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -209459,7 +209451,7 @@
         "notes": "Registration must be completed through the Neuroscience Program Office. See instructions at as.vanderbilt.edu/neuroscience/3861-3862-undergraduate-research",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -210358,7 +210350,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -211747,7 +211739,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -212073,7 +212065,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "50",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -213448,7 +213440,7 @@
         "notes": "The combined enrollment capacity of BSCI 3270-01 and BSCI 5270-01 is 45. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -216661,7 +216653,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -216700,7 +216692,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -218542,7 +218534,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": null,
@@ -219238,7 +219230,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -219277,7 +219269,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
