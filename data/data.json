@@ -3405,9 +3405,9 @@
         "notes": "The combined enrollment capacity of CMA 3773 and ITA 3640 is 18. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "10",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -6224,7 +6224,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "56",
+        "enrolled": "57",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -6385,7 +6385,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -8798,7 +8798,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -8876,7 +8876,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -22352,7 +22352,7 @@
         "notes": "Course only open to students in the Online Masters in Engineering Management program.",
         "status": "Open",
         "capacity": "17",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -33230,7 +33230,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Observation, participation, and teaching in graduate intern centers and/or schools. Post baccalaureate equivalent of student teaching. May be repeated to provide experiences at different levels. [1-3]",
+        "description": "Observation, participation, and teaching in graduate intern centers and/or schools. Post baccalaureate equivalent of student teaching. May be repeated to provide experiences at different levels. [0-3]",
         "notes": "Students must also register for ENED 7973, MTED 7973, SCED 7973, or SSED 7973\n         \n            \n            The combined enrollment capacity of EDML 7972 and EDUC 7972 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            This course has a $300 course fee.",
         "status": "Open",
         "capacity": "45",
@@ -33427,7 +33427,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Observation, participation, and teaching in graduate intern centers and/or schools. Post baccalaureate equivalent of student teaching. May be repeated to provide experiences at different levels. [1-3]",
+        "description": "Observation, participation, and teaching in graduate intern centers and/or schools. Post baccalaureate equivalent of student teaching. May be repeated to provide experiences at different levels. [0-3]",
         "notes": "This course is for Job Embedded students only.  Students must also register for ENED 7973, MTED 7973, SCED 7973, or SSED 7973.",
         "status": "Open",
         "capacity": "30",
@@ -38373,7 +38373,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5206.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
@@ -63860,7 +63860,7 @@
         "requirements": "Prequisite: MATH 2410, MATH 2600, or MATH 2501.",
         "description": "Zero-sum games and the Minimax Theorem. General-sum games and existence of Nash equilibria. Extensive games with incomplete and imperfect information and construction of normal forms. Repeated games and repetition with discounting. Cooperative games, Shapley's Theorem, and Nash bargaining. Construction and verification of strategies. Prerequisite: 2410, 2600, or 2501. [3] (MNS)",
         "notes": "The combined enrollment capacity of MATH 3710 and MATH 5710 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
@@ -94906,11 +94906,11 @@
         "requirements": "",
         "description": "Principles of Tai Chi applied to musical performance. The practice and understanding of anatomical movement, with emphasis on prevention of injury. Offered on a pass/fail basis. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -95187,7 +95187,7 @@
         "capacity": "36",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
@@ -112823,7 +112823,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -113635,7 +113635,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -117688,7 +117688,8 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Ancker, Jessica S."
+            "Ancker, Jessica S.",
+            "Unertl, Kim M."
         ],
         "date_added": null
     },
@@ -121955,7 +121956,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -122081,7 +122082,7 @@
         "notes": "Application of cloud computing, different service models, techniques for resource virtualization, programming models, management, mobile cloud computing, recent advances, and hands-on experimentation. Prerequisites: CS 3891-01 and CS 4287 or equivalent or by instructor approval with prior cloud computing experience.   The combined enrollment capacity of CS 3892 and CS 5892 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close\n         \n            \n            The combined enrollment capacity of CS 3892 and CS 5892 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -125439,9 +125440,9 @@
         "notes": "The combined enrollment capacity of CS 2281L and ECE 2281L is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -130626,7 +130627,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "15",
         "wl_occupied": "15",
         "attributes": [
@@ -132263,9 +132264,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -133754,7 +133755,7 @@
         "capacity": "70",
         "enrolled": "13",
         "wl_capacity": "75",
-        "wl_occupied": "27",
+        "wl_occupied": "28",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -148676,6 +148677,7 @@
             "1/8/26-4/20/26"
         ],
         "instructors": [
+            "Unertl, Kim M.",
             "Novak, Laurie L. (Secondary)"
         ],
         "date_added": null
@@ -156344,7 +156346,7 @@
         "notes": "This class is designed for students with high school experience in French (placement test score between 260 and 349). It starts from zero but progresses twice as fast as a regular lower-level language course. Tenses of the present and the past timeframes will be studied. Prior experience with French strongly recommended. Class mostly taught in French. If you still have doubts or questions about the level required for this class, please contact the French language program director at alexis.finet@vanderbilt.edu.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "9",
         "wl_occupied": "0",
         "attributes": [
@@ -165295,7 +165297,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -175711,7 +175713,7 @@
         "requirements": "",
         "description": "Game theory is a discipline that offers a systematic way of analyzing problems of strategic behavior in interactive situations. This course develops basic concepts from game theory and applies them to business strategy. Some of the concepts to be considered include (1) decision tree analysis; (2) looking forward and reasoning backward; (3) anticipating the moves of the rival; (4) inducing cooperation; (5) strategic use of commitments, threats, promises, and credibility; (6) preemptive moves and deterrence; and (7) creating and using one's reputation strategically. The strategic significance of these concepts will be demonstrated through business case studies. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "50",
         "enrolled": "49",
         "wl_capacity": "5",
@@ -177672,7 +177674,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "20",
+        "wl_occupied": "21",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178416,7 +178418,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -180376,9 +180378,9 @@
         "notes": "The combined enrollment capacity of CE 4150 and CE 5150 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -183819,9 +183821,9 @@
         "requirements": "",
         "description": "Open by audition to all Vanderbilt students, this select 36-40 voice choral ensemble performs music in a variety of styles. At least two formal concerts each semester. [1] Biddlecombe.",
         "notes": "'Students should visit http://blair.vanderbilt.edu/vuchoral for audition procedures. Chorale is open only to students who have participated in wither MUSE 1020 or 2120 in a previous semester.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -186259,7 +186261,7 @@
         "requirements": "",
         "description": "A study of the uses of language, definition, informal fallacies, the theory of the syllogism, the basic operations of modern symbolic logic, and selected issues in inductive logic and scientific method. Emphasis is placed on the ambiguities and pitfalls of ordinary usage and on techniques for translating ordinary arguments into formal logic. [3] (MNS) (CORE B, D) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "15",
@@ -191503,7 +191505,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "33",
+        "wl_occupied": "34",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -195123,7 +195125,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -195936,7 +195938,7 @@
         "capacity": "20",
         "enrolled": "23",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for African American and Diaspora Studies",
@@ -203035,7 +203037,7 @@
         "capacity": "15",
         "enrolled": "17",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: A-Written & Creative Expression",
@@ -219832,11 +219834,11 @@
         "requirements": "Prerequisite: ECON 1020. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2100) Emphasis on mandated corporate disclosure. Economic concepts that guide the development and use of accounting conventions as well as the institutional context that disciplines producers and users. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 1600. Prerequisite: ECON 1020. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
