@@ -14980,7 +14980,7 @@
         "notes": "The combined enrollment capacity of CS 4278, ECE 4278, CS 5278, and ECE 5278 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "35",
         "wl_occupied": "5",
         "attributes": null,
@@ -44282,7 +44282,7 @@
         "notes": "$2,147.00 music fee (45-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -85926,7 +85926,7 @@
         "description": "[3]",
         "notes": null,
         "status": "Open",
-        "capacity": "30",
+        "capacity": "15",
         "enrolled": "7",
         "wl_capacity": "10",
         "wl_occupied": "0",
@@ -124651,7 +124651,7 @@
         "notes": "The combined enrollment capacity of CS 2281 and ECE 2281 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -127242,7 +127242,7 @@
         "notes": "The behavior and physiological development of infants reflect a complex interaction among evolutionary history and genetics, prenatal environmental influences, and early postnatal experience. An overview of each of these topics is provided through classroom discussions and reading assignments focusing on recent empirical studies and major theoretical issues. Students will need to have knowledge of Developmental Psychology.\n         \n            \n            This course is cross-listed with PSY-PC 2500-01 and 15 seats in this section are reserved for Child Studies M.Ed. students.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -136258,15 +136258,27 @@
         ],
         "meeting_days": [
             "F",
+            "S",
+            "F",
+            "S",
+            "F",
             "S"
         ],
         "meeting_times": [
             "04:30p - 08:30p",
+            "08:30a - 06:30p",
+            "04:30p - 08:30p",
+            "08:30a - 06:30p",
+            "04:30p - 08:30p",
             "08:30a - 06:30p"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26",
-            "1/5/26-4/20/26"
+            "2/6/26-2/6/26",
+            "2/7/26-2/7/26",
+            "3/27/26-3/27/26",
+            "3/28/26-3/28/26",
+            "4/24/26-4/24/26",
+            "4/25/26-4/25/26"
         ],
         "instructors": [
             "Heuser, Brian L."
@@ -153027,7 +153039,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -213687,7 +213699,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -216441,7 +216453,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
