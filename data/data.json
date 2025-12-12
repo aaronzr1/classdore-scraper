@@ -2396,9 +2396,9 @@
         "requirements": "",
         "description": "Animation with computers. Traditional and experimental animations; interactive web-based projects. [3] (HCA)",
         "notes": "Animation with computers. Traditional and experimental animation; interactive web-based projects. [3] (HCA)",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -4962,7 +4962,7 @@
         "capacity": "0",
         "enrolled": "64",
         "wl_capacity": "13",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -6224,7 +6224,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -6919,7 +6919,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -7687,7 +7687,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -11073,7 +11073,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "20",
+        "wl_occupied": "21",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11502,7 +11502,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "25",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -14810,7 +14810,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -15999,7 +15999,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -23703,7 +23703,7 @@
         "notes": "Course Fee: A Teacher Performance Assessment Fee of $300.00 will be charged. Must also register for EDUC 7972\n         \n            \n            The combined enrollment capacity of SSED 4963, SSED 7973, ENED 4963 and ENED 7973 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -25431,9 +25431,9 @@
         "requirements": "",
         "description": "Introduction to drawing: visual problems related to observation, idea formation, composition, media, and various forms of expression. Figure and landscape may be included. [3] (HCA) (CORE A, B)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -25477,7 +25477,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35878,7 +35878,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -36343,7 +36343,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -41287,27 +41287,19 @@
         "requirements": "",
         "description": "Impact of immigrant scientists on scientific and technological developments in the United States. Professional, political, religious, and economic aspects of immigration and immigrant scientists. Strategies to increase the positive impact of immigrant scientists in today's globalized, competitive, and complex world. [3] (US)",
         "notes": "Impact of immigrant scientists on scientific and technological developments in the United States. Professional, political, religious, and economic aspects of immigration and immigrant scientists. Strategies to increase the positive impact of immigrant scientists in today's globalized, competitive, and complex world.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "15",
-        "enrolled": "5",
+        "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "01:15p - 02:30p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Danilovic, Dusan"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -49068,7 +49060,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -57130,7 +57122,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -58366,7 +58358,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -59069,7 +59061,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "JR/SR HOD or HOS Majors/Minors",
+        "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "Exploration of special issues related to the health and human services track of the Human and Organizational Development Program. May be repeated for credit with change of topic. [3]",
         "notes": "Full Course Title: Alcohol, Drugs & Emerging Adulthood. Not open to FR. This course will count in Domain 1: Individual/Interpersonal",
         "status": "Open",
@@ -59268,7 +59260,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "JR/SR HOD or HOS Majors/Minors",
+        "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "Exploration of special issues related to the health and human services track of the Human and Organizational Development Program. May be repeated for credit with change of topic. [3]",
         "notes": "Full course title: Human Development and Prevention Science. Not open to FR. The combined enrollment capacity of HODH 3650-02 and HOD 7120 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close. This course will count in Domain 1: Individual/Interpersonal",
         "status": "Open",
@@ -59506,7 +59498,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "JR/SR HOD or HOS Majors/Minors",
+        "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "Exploration of special issues related to the health and human services track of the Human and Organizational Development Program. May be repeated for credit with change of topic. [3]",
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy.",
         "status": "Wait list",
@@ -59747,7 +59739,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "JR/SR HOD or HOS Majors/Minors",
+        "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "Exploration of special issues related to the health and human services track of the Human and Organizational Development Program. May be repeated for credit with change of topic. [3]",
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy.",
         "status": "Wait list",
@@ -60027,7 +60019,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "JR/SR HOD or HOS Majors/Minors",
+        "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "Exploration of special issues related to the health and human services track of the Human and Organizational Development Program. May be repeated for credit with change of topic. [3]",
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group.",
         "status": "Wait list",
@@ -75534,9 +75526,9 @@
         "requirements": "",
         "description": "Fundamentals of design, prototyping, and entrepreneurship for all disciplines. Practical aspects of modeling and 3D printing functional parts. Machine elements and metrology to facilitate the design process. Operation of 3D printers and other CNC machines through CAM, slicers, and G-code. Leveraging AI to produce lighter, stronger, and more compact models (generative design). Students print their own prototypes and iterate on their designs. FALL, SPRING. [3].",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -79807,7 +79799,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Cinema and Media Arts",
@@ -93804,7 +93796,7 @@
         "notes": "The combined enrollment capacity of CS 3251, ECE 3251, and CS 5251 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -93843,7 +93835,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -101461,7 +101453,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "42",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -106494,7 +106486,7 @@
         "notes": "The combined enrollment capacity of CS 4383 and CS 5383 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -106736,7 +106728,7 @@
         "notes": "The combined enrollment capacity of CS 4383 and CS 5383 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -110323,27 +110315,19 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, PSCI 1101, or PSCI 1102.",
         "description": "Political relations between governments in East Asia; role of East Asia in the world. Theories applied to contemporary issues. Economic interdependence, security challenges, and China as a global power. Military alliances, nuclear weapons, territorial disputes, and prospects for armed conflict. Prerequisite or corequisite: 1100, 1101, or 1102. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "40",
-        "enrolled": "9",
+        "enrolled": "0",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "02:45p - 04:00p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Benson, Brett V."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -110949,7 +110933,7 @@
         "notes": "The combined enrollment capacity of BSCI 2250-01 and BSCI 5250-01 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "3",
         "wl_occupied": "0",
         "attributes": null,
@@ -112648,7 +112632,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "9",
         "attributes": [
@@ -113849,7 +113833,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "Prerequisite: HOD 2700 or PSCI 1100 JR/SR HOD or HOS Majors/Minors",
+        "requirements": "Prerequisite: HOD 2700 or PSCI 1100 SO/JR/SR HOD or HOS Majors/Minors",
         "description": "The course explores contemporary social, philosophical, and political dimensions of education policy, including issues related to civic engagement, equity and school organization, and the ecology of schooling. Course readings and discussions will involve fundamental questions about the relationship between schools and society: What is the purpose of American public education? How do policy values, including equity and excellence, social justice and accountability, shape education policy? How is education policy related to social and economic outcomes and opportunities? Prerequisite: HOD 2700 or PSCI 1100. [3]",
         "notes": "ot open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
@@ -114444,7 +114428,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -130700,7 +130684,7 @@
         "notes": "Introduction to Applied Artificial Intelligence in Engineering. AI principles, methods, and tools with an engineering focus. Application of AI for Internet of Things (IoT), robotics, smart grids, signal processing, and predictive maintenance. The combined enrollment capacity of ECE 3892 and ECE 8396 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\"",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -142385,7 +142369,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -143691,7 +143675,7 @@
         "notes": "Instructor approval required for students outside the biomedical informatics degree program to enroll. Please contact rischelle.jenkins@vanderbilt.edu to register",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -144678,7 +144662,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -148624,7 +148608,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -148825,7 +148809,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -159385,7 +159369,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -159465,9 +159449,9 @@
         "requirements": "ITA 1102 enrollment reqts",
         "description": "Study of the language through an exploration of Italian culture. No credit for students who have earned credit for a more advanced Italian language course. Prerequisite: 1101. [3] (INT) (CORE LA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -160763,7 +160747,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "Prerequisites: HOD 1300, HOD 2100, and HOD 2500. This class will only be open to junior and senior Human and Organizational Development majors (first and second majors), Human and Organizational Studies, and Human and Organizational Development minors.",
+        "requirements": "Prereqs: HOD 1300, HOD 2100, & HOD 2500. This class will only be open to sophomore, junior and senior Human and Organizational Development majors (first & second majors), Human and Organizational Studies, and Human and Organizational Development minors.",
         "description": "Topic: Philanthropy & Social Problem Solving. This course provides an opportunity to engage in the practice of philanthropy, while learning about charitable giving/fundraising, social problem-solving, and the non-profit sector. The semester will be divided into four sections: I. Problem identification; II. Approaches to change; III. Evaluating organizational effectiveness/impact and fit with theories of change; and IV. Decision making. Prerequisites: students must have taken courses in group processes (HOD 1300 or equivalent), organizations (HOD 2100 or equivalent), and systematic inquiry/research methods (HOD 2500 or equivalent), so that they are prepared to work in teams and to analyze both social problems and the organizations that aim to deal with them. [3]",
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.\n         \n            \n            For a waiver of the prerequisites listed in the course description, please contact the instructor Professor Kimberly Bess at kimberly.d.bess@vanderbilt.edu",
         "status": "Wait list",
@@ -168070,7 +168054,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -168319,7 +168303,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -186483,7 +186467,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -188210,7 +188194,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -189855,7 +189839,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "Prerequisite: HOD 2700 or PSCI 1100 JR/SR HOD or HOS Majors/Minors",
+        "requirements": "Prerequisite: HOD 2700 or PSCI 1100 SO/JR/SR HOD or HOS Majors/Minors",
         "description": "How should the government choose among options to address the country's education problems? The main goal of this course is to introduce students to the concepts, methods, and tools useful in performing policy analysis in general, and to give students practice applying the policy analysis methods to real-world educational policy issues including school vouchers, using measures of teacher value-added, financing higher education, and the importance of resources for schooling and student achievement. Prerequisite: HOD 2700 or PSCI 1100. [3]",
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
@@ -191669,7 +191653,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -194000,7 +193984,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -194409,11 +194393,11 @@
         "requirements": "",
         "description": "Representations of World War II and the fight against Nazi Germany in Hollywood and other cinemas, contemporary video games, television, and installation art. How current modes of warfare and the global war on terror have changed the conventions of depicting war. Taught in English. [3] (HCA)",
         "notes": "The combined enrollment capacity of CMA 1200 and GER 1442 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "26",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies",
@@ -196001,7 +195985,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Sousa, Madi"
+            "Relles, Denali D."
         ],
         "date_added": null
     },
@@ -198558,7 +198542,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Yi, Mohao (Secondary)"
+            "Sousa, Madi (Secondary)"
         ],
         "date_added": null
     },
@@ -198601,7 +198585,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Yi, Mohao (Secondary)"
+            "Sousa, Madi (Secondary)"
         ],
         "date_added": null
     },
@@ -199296,7 +199280,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Relles, Denali D. (Secondary)"
+            "Yi, Mohao (Secondary)"
         ],
         "date_added": null
     },
@@ -199378,7 +199362,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Relles, Denali D. (Secondary)"
+            "Yi, Mohao (Secondary)"
         ],
         "date_added": null
     },
@@ -200141,26 +200125,18 @@
         "requirements": "Not open to students who earned credit for any of PSCI 2270, PSCI 2310, or PSCI 2321. Prerequisite or Corequisite: PSCI 2300 or DSCI 1000.",
         "description": "Methodology for quantitative empirical political science; research design and interpretation, statistical inference, R programming; locating, accessing, and wrangling data. Not open to students who earned credit for any of PSCI 2270, PSCI 2310, or PSCI 2321.  Prerequisite or Corequisite: PSCI 2300 or DSCI 1000. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "40",
-        "enrolled": "3",
+        "enrolled": "0",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "McMurry, Nina K."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -200344,7 +200320,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "JR/SR HOD or HOS Majors/Minors",
+        "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "This course focuses on an in-depth analysis of current developments in education and schooling in the vast and diverse Asia-Pacific Region. Students will examine perspectives from educational researchers, policy makers and practitioners on the major issues, concerns and prospects regarding educational developments in the region. [3]",
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
@@ -201049,7 +201025,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "15",
         "wl_occupied": "7",
         "attributes": [
@@ -202466,7 +202442,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -212074,9 +212050,9 @@
         "requirements": "",
         "description": "Significant patterns and trends in twentieth-and twenty-first-century world politics: modes of conducting relations among nations, instruments for promoting national and supranational interests, and controls over international disputes. Emphasis upon episodes throwing light on the causes of war and the conditions of peace. [3] (SBS) (CORE B) (LE SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "100",
-        "enrolled": "38",
+        "enrolled": "0",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -212086,18 +212062,10 @@
             "LE: SBS-Social and Behavioral Sciences",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Benson, Brett V."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -213817,7 +213785,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -213943,7 +213911,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -219150,7 +219118,7 @@
         "notes": "The combined enrollment capacity of BME 7425 and PHYS 8124 is 17. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "17",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -219280,7 +219248,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
