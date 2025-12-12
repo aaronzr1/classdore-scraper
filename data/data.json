@@ -9873,7 +9873,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "73",
+        "enrolled": "74",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -11268,7 +11268,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11385,7 +11385,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -29852,7 +29852,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -78511,7 +78511,7 @@
         "capacity": "30",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -84059,7 +84059,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "26",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -95177,7 +95177,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -114445,7 +114445,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114901,9 +114901,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -117866,7 +117866,7 @@
         "capacity": "85",
         "enrolled": "82",
         "wl_capacity": "20",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -118070,7 +118070,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -127517,7 +127517,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -136847,7 +136847,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -138258,9 +138258,9 @@
         "requirements": "",
         "description": "Health care organizations are gathering and capturing data on every aspect of patient care. Although this offers a great opportunity to design evidence-based business and clinical processes, the volume of data as well as the inherent variability necessitates applying advanced analytical skills. In this course students learn how to use advanced analytical skills to help influence operational and strategic decision making in health care delivery organizations. Specifically, student learning will focus on the use of operations research, statistical and operations management concepts in providing a contextual basis for proposing a solution approach; novel application of standard methodological techniques of operations research and statistics for developing the solution; use of decision analytic and decision making under uncertainty framework for implementing and monitoring the outcomes. The emphasis in this course will be on learning by doing. Students will conceptualize implementable solutions to problems using different real datasets and learn to apply different analytical solution methodologies. The final project will involve students using real-time data to propose solutions to a problem currently facing a healthcare organization. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -144788,7 +144788,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "54",
+        "enrolled": "53",
         "wl_capacity": "0",
         "wl_occupied": "4",
         "attributes": [
@@ -171561,7 +171561,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -175705,9 +175705,9 @@
         "requirements": "",
         "description": "Game theory is a discipline that offers a systematic way of analyzing problems of strategic behavior in interactive situations. This course develops basic concepts from game theory and applies them to business strategy. Some of the concepts to be considered include (1) decision tree analysis; (2) looking forward and reasoning backward; (3) anticipating the moves of the rival; (4) inducing cooperation; (5) strategic use of commitments, threats, promises, and credibility; (6) preemptive moves and deterrence; and (7) creating and using one's reputation strategically. The strategic significance of these concepts will be demonstrated through business case studies. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -176524,7 +176524,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -177666,7 +177666,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "21",
+        "wl_occupied": "22",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -177787,9 +177787,9 @@
         "requirements": "",
         "description": "Time's effects on people and societies. Culturally constituted temporalities; notions of embodiment and alterity. Study of social change; process of innovation through invention and adaptation. Othering non-Western societies as traditional and unchanging. [3] (HCA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -178410,7 +178410,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "12",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179987,7 +179987,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "16",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180120,7 +180120,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -196224,7 +196224,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -212065,7 +212065,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -212700,7 +212700,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -219022,7 +219022,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -219061,7 +219061,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -219746,7 +219746,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -219867,11 +219867,11 @@
         "requirements": "Prerequisite: ECON 1020. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2100) Emphasis on mandated corporate disclosure. Economic concepts that guide the development and use of accounting conventions as well as the institutional context that disciplines producers and users. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 1600. Prerequisite: ECON 1020. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
