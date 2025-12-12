@@ -6224,9 +6224,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "56",
+        "enrolled": "57",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Econ/Hist Interdisciplinary",
@@ -22028,9 +22028,9 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -25431,9 +25431,9 @@
         "requirements": "",
         "description": "Introduction to drawing: visual problems related to observation, idea formation, composition, media, and various forms of expression. Figure and landscape may be included. [3] (HCA) (CORE A, B)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -28357,7 +28357,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "26",
+        "wl_occupied": "25",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -35839,7 +35839,7 @@
         "notes": "This section is for MN students only\n         \n            \n            Class is 100% online.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35878,7 +35878,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -40593,7 +40593,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -45004,7 +45004,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -54741,11 +54741,11 @@
         "requirements": "Not open to students who have completed MHS 3890-06 offered spring 2021, or MHS 3890-03 offered fall 2020 without permission (Anti-Req)",
         "description": "Public health and health care delivery systems. Evolving social and economic climates that shape health. Topics include health care access, cost, quality, and health disparities; trends in health care industries; the global COVID-19 pandemic; and comparative health systems. Not open to students who have completed MHS 3890-06 offered spring 2021, or MHS 3890-03 offered fall 2020. [3] (US)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "20",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -58130,7 +58130,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -58522,7 +58522,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -70075,7 +70075,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -94822,7 +94822,7 @@
         "notes": "The combined enrollment capacity of CHEM 3600 and CHEM 5600 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -96999,7 +96999,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -100860,7 +100860,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "R",
@@ -106892,7 +106892,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -108576,7 +108576,7 @@
         "notes": "The combined enrollment capacity of BSCI 3252 and BSCI 5252 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -109890,7 +109890,7 @@
         "notes": "There are no prerequisites for the class. All texts will be in English. This course can count towards majors and minors in Asian Studies (ASIA 3891), Asian American and Asian Diaspora Studies, English and CAL.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -113054,7 +113054,7 @@
         "capacity": "44",
         "enrolled": "44",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -114150,7 +114150,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114443,9 +114443,9 @@
         "requirements": "Prerequisite: BUS 1100 or 2100, ECON 1020, and one of BME 2400, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. Not open to students who have earned credit for FNEC 2700 without permission.",
         "description": "(Previously BUS 2300) Emphasis on asset valuation. Stock and bond valuation, capital budgeting, cost of capital, market efficiency, and company valuation. Not open to students who have earned credit for FNEC 2700 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 2700. Prerequisite: BUS 1100 (Previously BUS 2100), ECON 1020, and one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114901,7 +114901,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "1",
         "attributes": [
@@ -115490,11 +115490,11 @@
         "requirements": "",
         "description": "This course addresses the unique entrepreneurial experience of conceiving, evaluating, creating, managing, and potentially selling a business. The goal is to provide a comprehensive background with practical application of important concepts applicable to entrepreneurial environment. In addition to creative aspects, key business areas of finance, accounting, marketing and management will be addressed from an entrepreneurial perspective. The course relies on classroom discussion, participation, guest speakers, and case analysis. Students will need to draw upon their business education and experience, and apply it to the task of launching a new venture. Students are expected to interact with the business community and actively participate in classroom discussions and exercises. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -115963,7 +115963,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -117079,7 +117079,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -119024,7 +119024,7 @@
         "capacity": "85",
         "enrolled": "85",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -120009,7 +120009,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -123202,7 +123202,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -129074,7 +129074,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -129642,7 +129642,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130351,9 +130351,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -131623,7 +131623,7 @@
         "requirements": "",
         "description": "Stylistic tendencies and narrative strategies, genres, and theoretical approaches. Live-action cinema, animation, experimental cinema, television, and computer-generated moving images. [3] (HCA) (CORE B, C) (LE HFA)",
         "notes": "This course is not open to non-CMA seniors. Students are required to attend one weekly film screening, Mondays at 5:30PM in Buttrick 103.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
@@ -132097,7 +132097,7 @@
         "notes": "Open to LOP, HEA, EP MPP, and IEPM students initially and all others by permission.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -135131,7 +135131,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135490,7 +135490,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -137535,7 +137535,7 @@
         "notes": "Elemental Cinema: Water & Air. Modern science has largely questioned the ancient theory of the four elements. And yet, nothing seems more urgent today than to rethink our relationship to water, air, earth, and fire to navigate the climate emergencies of our present. In this seminar, we study films that feature oceans, rivers, rain, fog, clouds, air, or the atmosphere as central protagonists in their narrative or audiovisual design from popular action films to arthouse features, science fiction movies to demanding essay films. We explore the way these films represent water as a vibrant condition of human and nonhuman existence and agency; engage with the work of contemporary artists who approach water as an active collaborator in their artistic practice; and reflect on the planetary importance of water, probing possible kinships between elemental media and today's media of filmmaking, sound recording, and digital storage.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -138904,11 +138904,11 @@
         "requirements": "ME 2220 and ME 3224 are prerequisites for this course",
         "description": "Steady-state and transient heat transfer by conduction, forced and free convection and radiation, including heat transfer by boiling and condensing vapors. Application is made to practical design problems. Prerequisite: ME 2220, ME 3224. SPRING. [3]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "32",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -139028,7 +139028,7 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "30",
         "wl_occupied": "2",
         "attributes": [
@@ -139750,7 +139750,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -139833,9 +139833,9 @@
         "requirements": "Not open to students who have earned credit for MATH 1200, 1201, or 1300 without permission.",
         "description": "A basic course in the rudiments of analytic geometry and differential and integral calculus with emphasis on applications. Designed for students who do not plan further study in calculus. Not open to students who have earned credit for MATH 1200, 1201, or 1300 without permission. Total credit for this course and MATH 1200 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours; Total credit for this course and MATH 1201 will not exceed 6 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [4] (MNS)",
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -143972,7 +143972,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -146414,7 +146414,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -146577,7 +146577,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -150636,7 +150636,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "71",
-        "enrolled": "68",
+        "enrolled": "66",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -150679,7 +150679,7 @@
         "notes": "This course counts towards both GSS 3304 and ENGL 8304",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -151041,7 +151041,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -151236,9 +151236,9 @@
         "requirements": "Corequisite: ASTR 1010",
         "description": "Motion of the celestial sphere and apparent and real motions of celestial bodies as viewed from inside the Milky Way. Observations of meteor showers, comets, and artificial satellites. Telescopic observations of astronomical objects. Stellar spectra. Laboratory ordinarily accompanied by 1010 or 3000. Satisfies the AXLE lab course requirement when completed with 1010 or 3000. Satisfies College Core Inquiry Lab when completed with 1010. [1] (No AXLE credit) (CORE: LB)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "21",
-        "enrolled": "21",
+        "enrolled": "19",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -156500,7 +156500,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "16",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -160634,7 +160634,7 @@
         "notes": "The combined enrollment capacity of ENED 3350 and ENED 6360 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Initially opened to Teaching and Learning first majors, then Peabody students, then other undergraduates.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -167345,7 +167345,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -170081,11 +170081,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -170450,9 +170450,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -171725,7 +171725,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171971,7 +171971,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172053,7 +172053,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173412,7 +173412,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173494,7 +173494,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -175084,7 +175084,7 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "5",
@@ -177748,7 +177748,7 @@
         "capacity": "100",
         "enrolled": "107",
         "wl_capacity": "25",
-        "wl_occupied": "23",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178789,7 +178789,7 @@
         "capacity": "24",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -180612,7 +180612,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -182050,7 +182050,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -182294,7 +182294,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -191497,7 +191497,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "34",
+        "wl_occupied": "33",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191539,7 +191539,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "45",
+        "wl_occupied": "44",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191893,7 +191893,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx\n         \n            \n            Class start date: 1/9/2026",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191976,7 +191976,7 @@
         "notes": "The combined enrollment capacity of PHIL 1103 and PSCI 1103 is 120. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -196058,7 +196058,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -200297,7 +200297,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200755,11 +200755,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -207064,7 +207064,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -212065,7 +212065,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "47",
+        "enrolled": "42",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -215331,7 +215331,7 @@
         "notes": "The combined enrollment capacity of MATH 3620 02 and MATH 5620 02 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -215830,7 +215830,7 @@
         "capacity": "105",
         "enrolled": "40",
         "wl_capacity": "50",
-        "wl_occupied": "21",
+        "wl_occupied": "20",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -218532,11 +218532,11 @@
         "requirements": "",
         "description": "tudy of the seven chakras, or energy centers, of the body. Emphasis on aligning the chakras through gentle yoga practice (beginner level), and cultivating student well-being. Offered on a pass/fail basis. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -219869,7 +219869,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
