@@ -7366,7 +7366,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -9711,7 +9711,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "200",
-        "enrolled": "200",
+        "enrolled": "199",
         "wl_capacity": "50",
         "wl_occupied": "38",
         "attributes": [
@@ -12914,9 +12914,9 @@
         "requirements": "",
         "description": "The European project, its institutional structure, and political dynamics. European Parliament, Commission, Council, Court of Justice. Elections, parties, policies, and governance. Discussion of the legislative process, democracy and illiberalism, border politics, defense mechanisms, environmentalism, economics, memory culture, and education. [3] (INT) (CORE B, C) (LE HFA)",
         "notes": "This course is designed for students who want to understand the European Union's political framework and current political issues. At its core, the course provides a history of the European integration process and a detailed overview of the EU's institutions, unraveling the complexities of its electoral processes and the distinct roles of its legislative, executive and judicial branches. Particular emphasis is placed on the challenges to European democracy posed by the rise of authoritarianism, populism, and extremism, exposing both the strengths and weaknesses of the EU's political system. This in-depth exploration extends to a wide range of topics, including the EUs impact on border management, immigration policy, economic strategies, defense policies (including its response to the war in Ukraine) and the achievements of its welfare system. By the end of the course, students will have gained insights into some of the EU's most pressing political debates. This knowledge empowers them as informed global citizens, and enables them to contribute meaningfully to political, social, and economic discourses.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -14810,7 +14810,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -19929,7 +19929,7 @@
         "notes": "The combined enrollment capacity of CS 3891, CS 5891, and BMIF 6390 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Instructor approval required for students outside the biomedical informatics degree program to enroll. Please contact rischelle.jenkins@vanderbilt.edu to register",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -34816,7 +34816,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Closed",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35536,7 +35536,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "121",
-        "enrolled": "120",
+        "enrolled": "119",
         "wl_capacity": "30",
         "wl_occupied": "5",
         "attributes": [
@@ -36432,9 +36432,9 @@
         "requirements": "",
         "description": "Origins and causes of the global conflict; the six years of military campaigns; politics and diplomacy of war-making; race as a factor shaping the war in Europe and Asia. Impact of technological innovations; social and economic aspects of the struggle, as well as its moral and psychological implications. [3] (INT)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -50035,9 +50035,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "69",
+        "enrolled": "70",
         "wl_capacity": "100",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -50729,9 +50729,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "50",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -56885,9 +56885,9 @@
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -70892,7 +70892,7 @@
         "notes": "The combined enrollment capacity of PHIL 3910 and PHIL 5910 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "11",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -75766,9 +75766,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -95640,7 +95640,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -106321,7 +106321,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -112632,9 +112632,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -112912,7 +112912,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -120201,16 +120201,16 @@
             "Human & Organizational Development"
         ],
         "meeting_days": [
-            "F"
+            "R"
         ],
         "meeting_times": [
-            "09:05a - 12:00p"
+            "01:15p - 04:05p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Suiter, Sarah V."
+            "Murry, Velma M."
         ],
         "date_added": null
     },
@@ -124635,7 +124635,7 @@
         "notes": "The combined enrollment capacity of CS 2281 and ECE 2281 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -124830,7 +124830,7 @@
         "notes": "The combined enrollment capacity of CS 2281 and ECE 2281 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -138255,7 +138255,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -160752,7 +160752,7 @@
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.\n         \n            \n            For a waiver of the prerequisites listed in the course description, please contact the instructor Professor Kimberly Bess at kimberly.d.bess@vanderbilt.edu",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "4",
         "attributes": [
@@ -175700,9 +175700,9 @@
         "requirements": "",
         "description": "Game theory is a discipline that offers a systematic way of analyzing problems of strategic behavior in interactive situations. This course develops basic concepts from game theory and applies them to business strategy. Some of the concepts to be considered include (1) decision tree analysis; (2) looking forward and reasoning backward; (3) anticipating the moves of the rival; (4) inducing cooperation; (5) strategic use of commitments, threats, promises, and credibility; (6) preemptive moves and deterrence; and (7) creating and using one's reputation strategically. The strategic significance of these concepts will be demonstrated through business case studies. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -175782,7 +175782,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -191406,7 +191406,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -201025,9 +201025,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -201226,7 +201226,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -217813,9 +217813,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
