@@ -52917,7 +52917,7 @@
         "notes": "The combined enrollment capacity of CHEM 3120 and CHEM 5120 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "8",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -93410,7 +93410,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -94545,7 +94545,6 @@
         ],
         "instructors": [
             "Launius, Meghan",
-            "Harris, Jill W. (Secondary)",
             "Lord, Mary M. (Secondary)"
         ],
         "date_added": null
@@ -98897,7 +98896,7 @@
         "notes": "Introduces analytical proteomics methods and approaches through lectures, directed readings, and group and individual data analysis exercises. Topics include (a) mass spectrometry instrumentation, (b) mass spectrometry approaches to protein and peptide analysis, (c) protein and peptide preparation and separation methods, (d) bioinformatics tools for identification of proteins from mass spectrometry data, (e) quantitative proteomics methods, (f) applications of proteomics in common experimental designs in biochemistry and cell biology, (g) applications to clinical studies. SPRING. [2]. Schey",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -196224,7 +196223,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -212065,7 +212064,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
