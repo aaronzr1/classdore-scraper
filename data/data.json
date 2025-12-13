@@ -24111,9 +24111,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Immersion: Exp. or Culm. (Instructor guidance)"
         ],
@@ -42218,7 +42218,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Declared Data Science minors will be given priority to register. Students who have not declared the minor will be eligible to register for remaining spots during the all undergraduates registration period.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "100",
         "wl_occupied": "1",
         "attributes": [
@@ -81300,7 +81300,7 @@
         "notes": "The combined enrollment capacity for PSY-PC 2550-02 and PSY-PC 5120-02 is 35. Although seats may appear to be open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Examines theory, research, and other literature pertinent to the development and education of adolescents (ages 12-19). Specific topics include: cognitive and social development; issues in identity, intimacy, autonomy, and sexuality; family-adolescent relationships; peer relationships; school achievement and organization; choices and decision making related to work.\n         \n            \n            Twelve seats reserved for students with a home department at Peabody through initial enrollment period",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -108442,7 +108442,7 @@
         "notes": "Full title: \"Physics and Public Policy\" The purpose of this course is to provide an introduction to aspects of physics that are relevant to public policy. The goal is for students to develop a sufficient background in these topics to make intelligent decisions as informed citizens and leaders. Students will also develop a facility with order of magnitude scientific estimates and simple statistics relevant to political issues. Topics covered include energy, thermodynamics and heat, light and radiation, nuclear weapons, the space program, and government funding for science. Available for credit as PHYS 1020 (Core capacity tags: B, D / AXLE tags: MNS)",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -121538,7 +121538,7 @@
         "requirements": "This course requires MUTH 2100 as a prerequisite, with a grade of B- or higher.",
         "description": "Principles of harmonic progression in the context of music from the common practice period. Includes figured bass realization, harmonization, analysis, composition, contrapuntal idioms, modulation. B- or above in MUTH 2100 is required. Prerequisite: MUTH 2100; corequisite: MUTH 2220. [3]",
         "notes": "Instructor - Rose, Michael D",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "10",
@@ -131606,9 +131606,9 @@
         "requirements": "",
         "description": "Stylistic tendencies and narrative strategies, genres, and theoretical approaches. Live-action cinema, animation, experimental cinema, television, and computer-generated moving images. [3] (HCA) (CORE B, C) (LE HFA)",
         "notes": "This course is not open to non-CMA seniors. Students are required to attend one weekly film screening, Mondays at 5:30PM in Buttrick 103.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -193742,11 +193742,11 @@
         "requirements": "Prerequisite: MUTH 2110",
         "description": "Study via guided improvisation, lecture, performance, and dictation: chromatic function in melody, inversion, seventh chords, tonicization and modulation, common chromatic substitutions, transposition, hearing form, notation and performance of complex rhythmic textures. Prerequisite: MUTH 2110; corequisite: MUTH 2200. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "21",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -194155,7 +194155,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
