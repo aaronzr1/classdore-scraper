@@ -9873,7 +9873,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "73",
+        "enrolled": "74",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -40545,9 +40545,9 @@
         "requirements": "",
         "description": "Religious worldviews connected to moral traditions. Epistemological and ethical systems and their relationship to gender and patriarchy. Social construction of gender; violence against women; feminism; and difference. [3] (P) (CORE E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -114254,7 +114254,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -133686,7 +133686,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "75",
         "wl_occupied": "0",
         "attributes": [
@@ -150674,7 +150674,7 @@
         "notes": "This course counts towards both GSS 3304 and ENGL 8304",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -172501,7 +172501,7 @@
         "capacity": "15",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -211327,7 +211327,7 @@
         "capacity": "50",
         "enrolled": "59",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Neuroscience"
@@ -213259,7 +213259,7 @@
         "capacity": "42",
         "enrolled": "42",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
