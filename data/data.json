@@ -42419,7 +42419,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -102243,7 +102243,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -133555,7 +133555,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "75",
         "wl_occupied": "27",
         "attributes": [
@@ -134022,7 +134022,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134668,7 +134668,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -134746,9 +134746,9 @@
         "requirements": "Pre- or co-requisite 1501 or 1601. Not open to students who have earned credit for PHYS 1501L or 1901 without permission.",
         "description": "Laboratory to accompany Physics 1501 and Physics 1601. Satisfies the AXLE lab course requirement when completed with 1501 or 1601. Serves as repeat credit for PHYS 1501L. Not open to students who have earned credit for 1901 without permission. Credit for this course and 1901 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite 1501 or 1601. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -138702,7 +138702,7 @@
         "notes": "The combined enrollment capacity of ENGM 3700-02 and ENGM 5700-02 is 35. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -152668,7 +152668,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "50",
+        "enrolled": "51",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
