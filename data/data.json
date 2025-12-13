@@ -28481,7 +28481,7 @@
         "capacity": "14",
         "enrolled": "14",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -30816,9 +30816,9 @@
         "requirements": "",
         "description": "Before delving into the many controversies in the disability field, this course first addresses such fundamentals as different models of intellectual and developmental disabilities (IDD's; e.g., medical and social models, neurodiversity), the history of the field, and the strengths and challenges of people with specific etiologies of IDD (e.g., environmental, autism spectrum disorder, genetic syndromes). The seminar then focuses on a range of pressing concerns for people with IDD (e.g., disparities in healthcare, advances in prenatal genetic testing, needs of families, and inequities in the penal system). In doing so, the seminar intersects with divergent perspectives from medicine, genetics, law, social justice, psychology, education, public opinion and social policies. [3]",
         "notes": "The combined enrollment capacity for PSY-PC 2260 and PSY-PC 6260 is 20. Although seats may appear to be open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "10",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -110888,7 +110888,7 @@
         "notes": "No Seniors allowed to register for this course.\n         \n            \n            Students who do not attend the first class will be dropped",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -131608,7 +131608,7 @@
         "notes": "This course is not open to non-CMA seniors. Students are required to attend one weekly film screening, Mondays at 5:30PM in Buttrick 103.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -145629,7 +145629,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "61",
+        "enrolled": "60",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -191406,7 +191406,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -213869,7 +213869,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
