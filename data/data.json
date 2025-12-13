@@ -9591,7 +9591,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -10197,7 +10197,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "80",
-        "enrolled": "82",
+        "enrolled": "81",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -12914,9 +12914,9 @@
         "requirements": "",
         "description": "The European project, its institutional structure, and political dynamics. European Parliament, Commission, Council, Court of Justice. Elections, parties, policies, and governance. Discussion of the legislative process, democracy and illiberalism, border politics, defense mechanisms, environmentalism, economics, memory culture, and education. [3] (INT) (CORE B, C) (LE HFA)",
         "notes": "This course is designed for students who want to understand the European Union's political framework and current political issues. At its core, the course provides a history of the European integration process and a detailed overview of the EU's institutions, unraveling the complexities of its electoral processes and the distinct roles of its legislative, executive and judicial branches. Particular emphasis is placed on the challenges to European democracy posed by the rise of authoritarianism, populism, and extremism, exposing both the strengths and weaknesses of the EU's political system. This in-depth exploration extends to a wide range of topics, including the EUs impact on border management, immigration policy, economic strategies, defense policies (including its response to the war in Ukraine) and the achievements of its welfare system. By the end of the course, students will have gained insights into some of the EU's most pressing political debates. This knowledge empowers them as informed global citizens, and enables them to contribute meaningfully to political, social, and economic discourses.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -21438,7 +21438,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "3",
         "attributes": [
@@ -26148,7 +26148,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -28110,7 +28110,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -42952,7 +42952,7 @@
         "notes": "Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -57843,7 +57843,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: A-Written & Creative Expression",
@@ -62190,7 +62190,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -70067,7 +70067,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -92502,7 +92502,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -111014,7 +111014,7 @@
         "capacity": "25",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -134909,7 +134909,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "124",
+        "enrolled": "122",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -135473,7 +135473,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135714,7 +135714,7 @@
         "notes": "Required for NROTC",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -140322,9 +140322,9 @@
         "requirements": "",
         "description": "Narrative analysis, and other humanistic, interpretative practices of relevance to medicine and health. [3] (HCA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -160336,9 +160336,9 @@
         "requirements": "",
         "description": "Subject matter and methods of public engagement. Concepts and practices related to citizenship, civil society, and social change. Offered on a graded basis only. [3] (HCA) (CORE C, E) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -191073,9 +191073,9 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Analysis of major issues and debates in American economic history. Prerequisite: 3010 or 3012. [3] (US)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -197713,7 +197713,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -205944,7 +205944,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -210464,7 +210464,7 @@
         "notes": "The combined enrollment capacity of EUS 2220 and GER 2555 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            The course traces the fraught relationship between religion and politics from the Reformation to the present, exploring the lasting presence of Christianity in the West. We ask how a pluralistic, a \"world without God\" even, became thinkable, and to what extent secular concepts emerged not in opposition to, but out of Judeo- Christian thought. Central themes include the separation of church and state, the definition of the secular, and debates on political authority, persecution, toleration, criticism of religion, atheism, and civil religion. The course concludes with modern appropriations of religion in mass politics, the role of faith in totalitarian regimes, Islam, and the decline of Christianity in contemporary Europe.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -218476,7 +218476,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -218511,11 +218511,11 @@
         "requirements": "",
         "description": "tudy of the seven chakras, or energy centers, of the body. Emphasis on aligning the chakras through gentle yoga practice (beginner level), and cultivating student well-being. Offered on a pass/fail basis. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -220014,9 +220014,9 @@
         "requirements": "",
         "description": "Modern knowledge of Extrasolar planets (exoplanets), discovery methods, benchmark exoplanets and exoplanetary systems. Characterization of exoplanet demographics, composition and atmospheres. Exoplanet science as driven by a revolution in the obtainable precision of traditional astronomical measurements, which have in turn been enabled by new technologies and algorithms. Exoplanets with potential for liquid surface water in our Galaxy. [3] (MNS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -220604,7 +220604,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
