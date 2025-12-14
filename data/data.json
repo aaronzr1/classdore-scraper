@@ -6224,7 +6224,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -53550,7 +53550,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -53913,7 +53913,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -113364,7 +113364,7 @@
         "capacity": "20",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -122135,7 +122135,7 @@
         "notes": "Only open to B. Mus/B. Mus. Arts students until open enrollment begins.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -122733,11 +122733,11 @@
         "requirements": "This course is open only to declared Bachelor of Music or Bachelor of Music Arts majors and minors.",
         "description": "An overview of music in the Western art tradition, including its basic historical periods, styles, genres and disciplines. Tangible applications of historical, analytical, and cultural thinking to musical performance. Guided discussion, varied writing assignments, and presentations. Prerequisite: Open to B.Mus. and B.Mus.Arts students, declared music minors/second majors, or with demonstrated musical literacy and permission of instructor. SPRING. [3] (CORE A, C) Musicology faculty. (CORE A, C)",
         "notes": "Only open to B. Mus/B. Mus. Arts students until open enrollment begins.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -139304,7 +139304,7 @@
         "capacity": "10",
         "enrolled": "12",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Open only to Seniors"
         ],
@@ -151432,7 +151432,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -190657,11 +190657,11 @@
         "requirements": "",
         "description": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. Students with a 5 on AP Statistics or credits from ECON 1500, PSY 2100, or MATH 2810/2820 are strongly discouraged from taking this class. [3]",
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. [3]\n         \n            \n            Fifteen seats reserved for Peabody students during the initial enrollment period.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "19",
+        "wl_occupied": "20",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
