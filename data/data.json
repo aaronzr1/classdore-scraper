@@ -24111,7 +24111,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -111997,7 +111997,7 @@
         "notes": "The combined enrollment capacity of EDUC 3310 and EDUC 6310 is 25.  Although seats may appear open in a section, if the combined capacity has been reached, the course will close\n         \n            \n            Weekly course sessions will be held at John Early Museum Magnet Middle School.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
