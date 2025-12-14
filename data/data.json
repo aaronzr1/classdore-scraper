@@ -47146,7 +47146,7 @@
         "notes": "The combined enrollment capacity of MATH 2610 and MATH 5610 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "23",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -93082,7 +93082,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -93201,9 +93201,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -104309,7 +104309,7 @@
         "notes": "The combined enrollment capacity of CS 4277, ECE 4277, and CS 5277 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -106728,7 +106728,7 @@
         "notes": "The combined enrollment capacity of CS 4383 and CS 5383 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -111343,7 +111343,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -134909,7 +134909,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "122",
+        "enrolled": "121",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -201929,7 +201929,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -212293,7 +212293,7 @@
         "requirements": "",
         "description": "Social change, conflict, and inequality in modern societies. Basic sociological concepts and methods as they apply to social issues and policy. Focus varies by section. Repeat credit for students who have completed 1020W. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": "Topic: Sex and Sexuality in Society",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "12",
