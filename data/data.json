@@ -3363,7 +3363,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -29566,7 +29566,7 @@
         "notes": "This class is designed for students who have taken FREN 1101 or equivalent. Tenses of the present and the past timeframes will be studied. Class progressively taught in French. If you still have doubts or questions about the level required for this class, please contact the French language program director at alexis.finet@vanderbilt.edu.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "9",
         "wl_occupied": "2",
         "attributes": [
@@ -29852,7 +29852,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -35878,7 +35878,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -38252,7 +38252,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -38373,9 +38373,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5206.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -39724,9 +39724,9 @@
         "requirements": "",
         "description": "From the nineteenth century to the present. Legal and societal implications of marriage. Marginalization of the single person. Different gendered stereotypes of the uncoupled adult, including the bachelor and the spinster. Non-normative forms of kinship and relationships. Primarily United States with global perspectives. Scholarly and pop-cultural texts. [3] (P)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -39768,7 +39768,7 @@
         "notes": "Availability of seats in this class is pending. Updates likely in November.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -74245,7 +74245,7 @@
         "notes": "This course examines several key inflection points in American political, intellectual, cultural history. The class explores (1) the events that created the context for essential public actions; (2) which historical factors, including the disposition of the public and the personalities of the leaders involved, led to the moments outcome; and, where appropriate, (3) how succeeding generations came to view these moments and, in some cases, to use them as precedents to inform thinking about contemporary problems.\n         \n            \n            Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -109759,7 +109759,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -118094,7 +118094,7 @@
         "notes": "The combined enrollment capacity of ENVE 4610 and ENVE 5610 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -134299,7 +134299,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "5",
         "attributes": [
@@ -134990,7 +134990,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "78",
+        "enrolled": "77",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": [
@@ -135071,7 +135071,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "9",
         "attributes": [
@@ -139023,7 +139023,7 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "44",
+        "enrolled": "43",
         "wl_capacity": "30",
         "wl_occupied": "2",
         "attributes": [
@@ -139828,9 +139828,9 @@
         "requirements": "Not open to students who have earned credit for MATH 1200, 1201, or 1300 without permission.",
         "description": "A basic course in the rudiments of analytic geometry and differential and integral calculus with emphasis on applications. Designed for students who do not plan further study in calculus. Not open to students who have earned credit for MATH 1200, 1201, or 1300 without permission. Total credit for this course and MATH 1200 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours; Total credit for this course and MATH 1201 will not exceed 6 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [4] (MNS)",
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -140322,9 +140322,9 @@
         "requirements": "",
         "description": "Narrative analysis, and other humanistic, interpretative practices of relevance to medicine and health. [3] (HCA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -141414,7 +141414,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "53",
+        "enrolled": "54",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -152064,7 +152064,7 @@
         "notes": "$2,147.00 music fee (45-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -152144,7 +152144,7 @@
         "notes": "$2,693.00 music fee (60-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -195433,9 +195433,9 @@
         "requirements": "Not open to students who have earned credit for MATH 1100 or 1300 without permission.",
         "description": "A first semester calculus course covering differential calculus in the context of optimization and other applications to the social sciences.  Review of functions and trigonometry. Exponential and logarithmic functions, inverse functions. Limits and asymptotic behavior, differentiation, rules of differentiation, related rates, maximum and minimum values, curve sketching. Not open to students who have earned credit for MATH 1100 or 1300 without permission. Total credit for this course and MATH 1100 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (MNS)",
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "36",
         "wl_occupied": "0",
         "attributes": [
@@ -195601,9 +195601,9 @@
         "requirements": "Not open to students who have earned credit for MATH 1100 or 1300 without permission.",
         "description": "A first semester calculus course covering differential calculus in the context of optimization and other applications to the social sciences.  Review of functions and trigonometry. Exponential and logarithmic functions, inverse functions. Limits and asymptotic behavior, differentiation, rules of differentiation, related rates, maximum and minimum values, curve sketching. Not open to students who have earned credit for MATH 1100 or 1300 without permission. Total credit for this course and MATH 1100 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (MNS)",
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -195685,7 +195685,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "36",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195845,7 +195845,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -199915,7 +199915,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -200531,7 +200531,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -220179,9 +220179,9 @@
         "requirements": "Prerequisite: MATH 2300.",
         "description": "Fundamental concepts in probability and statistical inference. Counting methods, discrete and continuous random variables, and their associated distributions. Sampling distributions, point estimation, confidence intervals, and hypothesis testing. Applications of probability and statistics to risk, reliability, and resilience of engineering systems. Prerequisite: MATH 2300. SPRING. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
