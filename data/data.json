@@ -6224,7 +6224,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -6626,7 +6626,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -9711,7 +9711,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "200",
-        "enrolled": "200",
+        "enrolled": "199",
         "wl_capacity": "50",
         "wl_occupied": "36",
         "attributes": [
@@ -20529,9 +20529,9 @@
         "requirements": "Pre- or co-requisite: 1502 or 1602. Not open to students who have earned credit for PHYS 1502L or 1902 without permission.",
         "description": "Laboratory to accompany Physics 1602. Satisfies the AXLE lab course requirement when completed with 1602 (strongly preferred) or 1502. Serves as repeat credit for PHYS 1502L. Not open to students who have earned credit for 1902 without permission. Credit for this course and 1902 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite: 1502 or 1602. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "6",
         "attributes": [
@@ -21194,11 +21194,11 @@
         "requirements": "Pre- or co-requisite: 1502 or 1602. Not open to students who have earned credit for PHYS 1502L or 1902 without permission.",
         "description": "Laboratory to accompany Physics 1602. Satisfies the AXLE lab course requirement when completed with 1602 (strongly preferred) or 1502. Serves as repeat credit for PHYS 1502L. Not open to students who have earned credit for 1902 without permission. Credit for this course and 1902 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite: 1502 or 1602. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -22268,9 +22268,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -26306,7 +26306,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -29123,7 +29123,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -35409,7 +35409,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "CORE: A-Written & Creative Expression",
@@ -48153,9 +48153,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must also enroll in a Thursday discussion section, HOD 1250-10, -11, -12, -13, -14, -15, -16, or -18.\n         \n            \n            Instructor - Mundy, Meaghan E.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "100",
-        "enrolled": "99",
+        "enrolled": "100",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -49385,9 +49385,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "14",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -50567,7 +50567,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for Peabody students through the initial enrollment period.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -74245,7 +74245,7 @@
         "notes": "This course examines several key inflection points in American political, intellectual, cultural history. The class explores (1) the events that created the context for essential public actions; (2) which historical factors, including the disposition of the public and the personalities of the leaders involved, led to the moments outcome; and, where appropriate, (3) how succeeding generations came to view these moments and, in some cases, to use them as precedents to inform thinking about contemporary problems.\n         \n            \n            Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -78782,7 +78782,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -94279,7 +94279,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Communication of Science and Tech"
@@ -94729,7 +94729,7 @@
         "capacity": "40",
         "enrolled": "38",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -97463,9 +97463,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Medicine Health and Society",
@@ -100851,7 +100851,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "R",
@@ -102559,7 +102559,7 @@
         "notes": "Full title - Disaster Rhetoric: Managing Scientific Crises. This course examines the power and pitfalls of rhetoric in the management of scientific crises. From environmental disasters and technological failures to medical controversies, students will analyze how governments, corporations, and other institutions respond to high-stakes events through crisis communication. Using case studies such as oil spills, nuclear accidents, public health emergencies, and product recalls, students will explore how narratives are constructed, trust is negotiated, and accountability is framed.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -103602,7 +103602,7 @@
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Critical Theories of Education introduces students to a range of theoretical traditions that interrogate power, knowledge, and inequality as they relate to education. The course explores how different forms of criticality-such as critical race theory, feminist theory, postcolonial theory, critical pedagogy, and critical disability studies-emerged historically and continue to inform educational practice, research, and policy.Ultimately, the course situates critical theories of education as tools for questioning taken-for-granted assumptions, developing deeper analysis of systemic inequities, and engaging in transformative educational work. Participants will gain an introductory grounding in multiple strands of critical thought and practice, building a toolkit for applying critical frameworks in diverse educational spaces.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -114133,7 +114133,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114763,7 +114763,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "20",
         "wl_occupied": "6",
         "attributes": [
@@ -115017,9 +115017,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -130256,7 +130256,7 @@
         "notes": "The combined enrollment capacity of ECE 3892-01 and ECE 8396-01 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            the design and development of miniaturized systems for diverse biomedical applications, including medical diagnostics, drug discovery, and regenerative medicine. Fundamentals and basic principles behind the use of micro- and nanofabrication technologies, nanoscale optics, and microfluidics in biology and medicine (BioMEMS).",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -131697,7 +131697,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -133234,7 +133234,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -133314,7 +133314,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -145342,7 +145342,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -146451,7 +146451,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -149011,7 +149011,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -151432,9 +151432,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -153224,7 +153224,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "90",
+        "enrolled": "91",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -155924,7 +155924,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -160629,7 +160629,7 @@
         "notes": "The combined enrollment capacity of ENED 3350 and ENED 6360 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Initially opened to Teaching and Learning first majors, then Peabody students, then other undergraduates.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -164675,7 +164675,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -176758,7 +176758,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "93",
+        "enrolled": "92",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -179245,7 +179245,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -181096,7 +181096,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section\n         \n            \n            Required to register for lecture, discussion, and 2222L",
         "status": "Open",
         "capacity": "48",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -181221,7 +181221,7 @@
         "notes": "Students will be distributed to SC 5215",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -182045,7 +182045,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -186250,7 +186250,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -191971,7 +191971,7 @@
         "notes": "The combined enrollment capacity of PHIL 1103 and PSCI 1103 is 120. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -197472,7 +197472,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197634,7 +197634,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -202604,7 +202604,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -203695,7 +203695,7 @@
         "notes": "The combined enrollment capacity of SPED 1210 and SPED 7000 is 112. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "63",
+        "enrolled": "64",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -220809,7 +220809,7 @@
         "notes": "This course explores the memories and aftereffects of the nuclear bombings that have long haunted the contemporary world. Central to our discussion is what happened in Hiroshima and Nagasaki in August 1945, but we will also go beyond narrow regional and national foci. We will explore the political process that led to the development and deployment of the atomic bomb, the lasting environmental damage caused by the weapons production process, the survivors efforts to understand and represent their near-death experiences, the cultural images of nuclear war (and future thermonuclear war), and the nuclear testing at Bikini Atoll (Operation Crossroads). Students will be introduced to the basic skills and methods of historical analysis and to major debates in the field. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
