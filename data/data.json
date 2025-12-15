@@ -10080,7 +10080,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "20",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Medicine Health and Society"
         ],
@@ -35536,7 +35536,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "121",
-        "enrolled": "120",
+        "enrolled": "119",
         "wl_capacity": "30",
         "wl_occupied": "5",
         "attributes": [
@@ -35962,7 +35962,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -51747,7 +51747,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -53550,7 +53550,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -69900,7 +69900,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "113",
+        "enrolled": "114",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -104270,7 +104270,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "8",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "3",
         "wl_occupied": "0",
         "attributes": null,
@@ -104979,9 +104979,9 @@
         "requirements": "This course is open only to Bachelor of Music or Bachelor of Music Arts students.",
         "description": "Development of basic technique, reading proficiency, elementary transposition. Diatonic harmony at the keyboard. Prerequisite: placement test or MUKH 1131. Not open to students who have completed MUKH 2133 or 2134. [1] Koutsoukos",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "8",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "3",
         "wl_occupied": "0",
         "attributes": null,
@@ -122335,7 +122335,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
