@@ -10795,7 +10795,7 @@
         "capacity": "235",
         "enrolled": "235",
         "wl_capacity": "75",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -22229,7 +22229,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Oral Communications course",
             "AXLE: Social and Behavioral Sciences",
@@ -28192,7 +28192,7 @@
         "requirements": "",
         "description": "The role of the actor in the theatre with emphasis on artistic self-expression through improvisation and development of performance skills. Available on a graded basis only. [3] (HCA) (CORE A)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "14",
         "enrolled": "13",
         "wl_capacity": "12",
@@ -40547,7 +40547,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -41127,7 +41127,7 @@
         "capacity": "30",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -50565,9 +50565,9 @@
         "requirements": "",
         "description": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development. [3]",
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for Peabody students through the initial enrollment period.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -51347,7 +51347,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for students with a home department at Peabody through initial enrollment period",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "66",
+        "enrolled": "67",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -53751,7 +53751,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: African American Modernism",
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -63647,7 +63647,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -74245,7 +74245,7 @@
         "notes": "This course examines several key inflection points in American political, intellectual, cultural history. The class explores (1) the events that created the context for essential public actions; (2) which historical factors, including the disposition of the public and the personalities of the leaders involved, led to the moments outcome; and, where appropriate, (3) how succeeding generations came to view these moments and, in some cases, to use them as precedents to inform thinking about contemporary problems.\n         \n            \n            Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -78782,7 +78782,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -104348,7 +104348,7 @@
         "notes": "This course offers an immersive, hands-on experience, focusing on the use of high-performance computing in the Advanced Computing Center for Research and Education (ACCRE) and GPUs (NVIDIA RTX 2080 Ti). This one-unit course is designed for students eager to develop or advance independent AI projects, utilizing Python and PyTorch as primary tools. Although there are no prerequisites, a basic understanding of coding is expected as students will be engaging in self-directed AI projects. The course format includes weekly sessions where students will access state-of-the-art computing facilities to either bring their innovative ideas to fruition or explore and experiment with advanced AI techniques through online tutorials.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -114924,9 +114924,9 @@
         "requirements": "Prerequisite: MATH 1100, MATH 1200, or MATH 1300. Not open to students who have earned credit for ECON 1510.",
         "description": "The use of quantitative data in understanding economic phenomena. Probability, sampling, inference, and regression analysis. Not open to students who have earned credit for 1510. Total credit for this course and 1510 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: Math 1100, 1200, or 1300. [3] (SBS) (CORE D) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -119867,7 +119867,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -126197,7 +126197,7 @@
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": null,
@@ -131824,9 +131824,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -132414,7 +132414,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "90",
-        "enrolled": "75",
+        "enrolled": "74",
         "wl_capacity": "35",
         "wl_occupied": "0",
         "attributes": [
@@ -133071,7 +133071,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -133154,7 +133154,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -133898,7 +133898,7 @@
         "capacity": "135",
         "enrolled": "136",
         "wl_capacity": "30",
-        "wl_occupied": "23",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -134420,7 +134420,7 @@
         "requirements": "",
         "description": "For students who need to improve their writing. Emphasis on writing skills, with some analysis of modern nonfiction writing. [3] (No AXLE credit)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Speculative Realities",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "15",
@@ -134586,9 +134586,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134990,7 +134990,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "78",
+        "enrolled": "77",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": [
@@ -141690,9 +141690,9 @@
         "requirements": "",
         "description": "A general survey of music in the world of commerce. Systems of the contemporary music business, with special emphasis on the recording industry. Music business professionals as guest lecturers. FALL, SPRING. [3] Porter.",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -160424,11 +160424,11 @@
         "requirements": "",
         "description": "An introduction to the basic problems of philosophy based upon readings in the works of selected leading philosophers. Repeat credit for students who have completed 1002. [3] (HCA) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -164589,7 +164589,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "31",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -173573,7 +173573,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "25",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -176630,9 +176630,9 @@
         "requirements": "EES 1080 anti-requisite",
         "description": "The science of the atmosphere: principles of weather and climate; the atmosphere as part of the Earth system; weather forecasting; hurricanes, tornadoes, and severe storms; human impacts, such as air pollution and climate change. [3] (MNS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "55",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "25",
         "wl_occupied": "2",
         "attributes": [
@@ -176758,7 +176758,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "92",
+        "enrolled": "93",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -177829,7 +177829,7 @@
         "capacity": "100",
         "enrolled": "102",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -177911,7 +177911,7 @@
         "notes": "Students registered for lecture 05 must also register for section 21 or 24 of discussion.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -178321,7 +178321,7 @@
         "notes": "Students registered for lecture sec 05 should register for sec 21 or 25 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -179034,7 +179034,7 @@
         "capacity": "24",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179204,9 +179204,9 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179284,9 +179284,9 @@
         "requirements": "CHEM 2212 or CHEM 2222 as pre- or co-req",
         "description": "Laboratory to accompany 2212 or 2222. One four-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 2212 or 2222. Prerequisite or corequisite: 2212 or 2222. [1] (No AXLE credit)",
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "72",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "15",
         "wl_occupied": "12",
         "attributes": [
@@ -187555,7 +187555,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": null,
@@ -190657,11 +190657,11 @@
         "requirements": "",
         "description": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. Students with a 5 on AP Statistics or credits from ECON 1500, PSY 2100, or MATH 2810/2820 are strongly discouraged from taking this class. [3]",
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. [3]\n         \n            \n            Fifteen seats reserved for Peabody students during the initial enrollment period.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -190699,11 +190699,11 @@
         "requirements": "",
         "description": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. Students with a 5 on AP Statistics or credits from ECON 1500, PSY 2100, or MATH 2810/2820 are strongly discouraged from taking this class. [3]",
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra.\n         \n            \n            Fifteen seats reserved for Peabody students during initial enrollment period.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -191325,7 +191325,7 @@
         "capacity": "30",
         "enrolled": "28",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Psychology",
             "Next Steps Eligible"
@@ -201713,9 +201713,9 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: The Art of World-Building",
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -204122,7 +204122,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "95",
+        "enrolled": "96",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -212295,7 +212295,7 @@
         "notes": "Topic: Sex and Sexuality in Society",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -215183,7 +215183,7 @@
         "notes": "The combined enrollment capacity of MATH 3620 01 and MATH 5620 01 is 256. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -215809,7 +215809,7 @@
         "capacity": "105",
         "enrolled": "40",
         "wl_capacity": "50",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -218552,7 +218552,7 @@
         "notes": "Students must also register for section 21 for discussion. Lab requirement waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "5",
         "attributes": [
@@ -218595,7 +218595,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "5",
         "attributes": [
