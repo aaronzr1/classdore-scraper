@@ -2274,9 +2274,9 @@
         "requirements": "",
         "description": "History, theory, and practice of performance. Vocal studies and conceptual music, personal narrative, performance as a response to the cult-of-celebrity, body art, and performance with new technologies. Collaborative and solo performance projects. [3] (HCA) (CORE A) (LE HFA)",
         "notes": "Relationship between body and clay through performance and material practice. Students create ceramic objects, instruments, and works in relation to the clay/body that engage ritual, gesture, sound, and movement. Through the study of historical and contemporary practices, they investigate how making becomes a performative act. The course culminates in collective performances in public settings.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "12",
-        "enrolled": "3",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -2285,18 +2285,10 @@
             "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "12:45p - 03:35p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Filsoofi, Raheleh"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -18808,7 +18800,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "T",
@@ -25477,7 +25469,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -27412,7 +27404,7 @@
         "notes": "This class has a mezzanine option if grad students want to take it.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -35878,7 +35870,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -38165,7 +38157,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -40097,7 +40089,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -41769,7 +41761,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "11",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -41847,7 +41839,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -45967,7 +45959,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "2",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -53835,7 +53827,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "15",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -59265,7 +59257,7 @@
         "notes": "Full course title: Human Development and Prevention Science. Not open to FR. The combined enrollment capacity of HODH 3650-02 and HOD 7120 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close. This course will count in Domain 1: Individual/Interpersonal",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -59503,7 +59495,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy.",
         "status": "Wait list",
         "capacity": "22",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "20",
         "wl_occupied": "4",
         "attributes": [
@@ -65359,7 +65351,7 @@
         "capacity": "8",
         "enrolled": "7",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -78739,7 +78731,7 @@
         "notes": "Bodies, Politics & Care",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "10",
         "attributes": [
@@ -95642,7 +95634,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "HOD Domain 2",
             "Next Steps Eligible"
@@ -99408,7 +99400,7 @@
         "notes": "This course will explore Beyonc\u00e9's unprecedented rise in American culture by: (1) placing her in the historical context of American women performers from Bessie Smith to Janet Jackson, who inspire and preceded her; and (2) analyzing her iconicity, impact, and intersectional politics through contemporary cultural, racial, and feminist criticism. This course will count toward all areas of Study within the AADS major and minor.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "44",
+        "enrolled": "43",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -101015,7 +101007,7 @@
         "notes": "This course will cover an introduction to Python in bioinformatics, Linux, and ACCRE/Slurm (computing clouds). Topics for computational genomics include different high-throughput DNA sequencing technologies, dynamic programming, whole genome sequencing analysis, genome assembly, haplotype phasing, and structural variant detection.\n         \n            \n            The combined enrollment capacity of BME 3890 and BME 8901 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -101453,7 +101445,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "42",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -109015,7 +109007,7 @@
         "notes": "Not open to Seniors\n         \n            \n            If you cannot enroll, please put your name on the waitlist.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -111616,7 +111608,7 @@
         "term_season": "Spring",
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
-        "requirements": "BSCI 4890/6890 26S Req",
+        "requirements": "",
         "description": "Topics vary; students are expected to have completed one or more intermediate courses in Biological Sciences (prerequisites will vary by topic). May be taken more than once if there is no duplication in topic; students may enroll in more than one section each semester.  [3] (MNS)",
         "notes": "The combined enrollment capacity of BSCI 4890-01 and BSCI 6890-01 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Prerequisites: Must have completed a minimum of one of the following prerequisites: Introduction to Cell Biology (BSCI 2201), Principles of Genetics (BSCI 2210), Cellular Neurobiology (BSCI 3252), Neurobiology of Behavior (BSCI 3254), Molecules of the Brain (BSCI 3256), OR any NSC course 2000 or higher (excluding research courses).",
         "status": "Open",
@@ -113364,7 +113356,7 @@
         "capacity": "20",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -115436,7 +115428,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -117304,7 +117296,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "42",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120702,7 +120694,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -122455,7 +122447,7 @@
         "notes": "Instructor - Che Guan\n         \n            \n            This course is an extension of DS 5899 Leveraging NLP for Asset Management course, though it is not a pre-requisite. This course will focus on research on reinforcement learning, reasoning, and hardware architecture.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -134626,7 +134618,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -135791,7 +135783,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -139543,7 +139535,7 @@
         "notes": "The combined enrollment capacity of ENVE 4305 and ENVE 5305 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -145261,7 +145253,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "35",
         "wl_occupied": "2",
         "attributes": [
@@ -145909,7 +145901,7 @@
         "notes": "Instructor: Baik, Juhun",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -146155,7 +146147,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -146404,9 +146396,9 @@
         "requirements": "Not open to students who have earned credit for MATH 2400 or 2610 without permission. Prerequisite: 2300, 2310, or 2501.",
         "description": "Linear first-order differential equations, applications, higher order linear differential equations, complementary and particular solutions, applications, Laplace transform methods, series solutions, numerical techniques. Not open to students who have earned credit for MATH 2400 or 2610 without permission. Total credit for this course and MATH 2400 will not exceed 4 credit hours; total credit for this course and MATH 2610 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 2300, 2310, or 2501. [3] (MNS) (CORE B) (LE MNS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -155636,7 +155628,7 @@
         "description": "Laboratory to accompany 1010 or 1020. Corequisite: 1010 or 1020. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1010 or 1020. Satisfies CORE Inquiry Lab when completed with 1010. [1] (No AXLE credit) (CORE: LB)",
         "notes": "This lab section is currently listed but closed. It will only be opened if sufficient TA staffing becomes available.",
         "status": "Wait list",
-        "capacity": "0",
+        "capacity": "18",
         "enrolled": "0",
         "wl_capacity": "18",
         "wl_occupied": "3",
@@ -156201,7 +156193,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -166071,7 +166063,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -173199,7 +173191,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -175537,7 +175529,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -181681,9 +181673,9 @@
         "requirements": "CMST 1500 is a pre-requisite to this course.",
         "description": "Theory and practice of communication in relation to businesses and organizations with application to leadership, values and ethics, strategic communication theory, and organizational conflict. Prerequisite: 1500. [3] (HCA) (CORE A) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -191489,7 +191481,7 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "75",
         "wl_occupied": "34",
         "attributes": [
@@ -191533,7 +191525,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "44",
+        "wl_occupied": "43",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -201928,7 +201920,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -202321,7 +202313,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -212250,7 +212242,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "18",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -212340,7 +212332,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -214605,9 +214597,9 @@
         "requirements": "",
         "description": "Continuity and change in ancient Greek and Roman warfare 800 B.C. to A.D. 120. Social, political, and religious aspects of war. Effects of war, imperialism, and militarism on internal and external populations. [3] (INT)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -220390,7 +220382,7 @@
         "notes": "The combined enrollment capacity of EES 4300 and EES 5300 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
