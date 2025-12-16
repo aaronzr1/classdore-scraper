@@ -5030,7 +5030,7 @@
         "notes": "The Cognitive Science of Learning and Development Research Forum serves as a venue for delivering and hosting research presentations relevant to cognitive science, learning and development hosted by graduate students and faculty within the Psychological Sciences program, as well as researchers from other departments and Universities. May be repeated for credit. This is a 1 credit year-long course. Students register for 0 credit hours in the Fall and 1 credit hour in the Spring.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -9911,9 +9911,9 @@
         "notes": "An in-depth exploration of research and theories explaining how cognitive processes affect human functioning in modern society. We will explore basic processes such as attention, memory, language, problem solving, and action as they occur in a wide range of meaningful contexts including education, society and politics, psychopathology, the arts, and emerging technologies. Prerequisite: PSY-PC 1205/1207, or 2250 or PSY 1200.",
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Psychology",
             "Next Steps Eligible"
@@ -21430,9 +21430,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -22996,11 +22996,11 @@
         "requirements": "",
         "description": "(Previously BUS 2600) Success in business is driven by providing goods and services that consumers need and want. This course covers how to achieve such success through analyses of companies, customers, and competitors, and making the right decisions regarding what products to offer, and how to price, promote, and distribute them. Course content spans a wide variety of settings including consumer goods, hi-tech, and service firms, and puts a particular emphasis on digital marketing opportunities and the evolving role of social media. Not open to students who have earned credit for MGRL 1200 without permission, as students will forfeit credit hours. Serves as repeat credit for MGRL 1200. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -23244,7 +23244,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -27280,7 +27280,7 @@
         "notes": "Pre-requisite (1711 or 2781) have been waived for Spring 2026.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -28143,9 +28143,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "130",
-        "enrolled": "129",
+        "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "39",
+        "wl_occupied": "38",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -28632,7 +28632,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "111",
+        "enrolled": "110",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -46580,7 +46580,7 @@
         "notes": "Course orientation is during DNP intensive week. Students will receive a detailed schedule prior to intensive week. Class is 100% online.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -49500,15 +49500,15 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
-            "F"
+            "R"
         ],
         "meeting_times": [
-            "10:10a - 11:00a"
+            "11:00a - 12:15p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -51739,7 +51739,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "41",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -52462,11 +52462,11 @@
         "requirements": "",
         "description": "Historical contexts, production techniques, visual style, narrative forms, and interpretive analyses of feature-length Japanese animated films by auteur directors from the 1980s to the present, featuring Hayao Miyazaki and three others on a rotating basis from among Satoshi Kon, Mamoru Oshii, Mamoru Hosoda, Makoto Shinkai, Hideaki Anno, and Isao Takahata. [3] (INT)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "13",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Film Studies",
@@ -56879,7 +56879,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -59076,7 +59076,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Finch, Andrew J."
         ],
         "date_added": null
     },
@@ -75002,9 +75002,9 @@
         "requirements": "",
         "description": "Introduction to descriptive and inferential statistics using computational and resampling approaches from data science. Probability, measurement, random variables, distributions, central tendency, variability, confidence intervals, measures of uncertainty, estimation, prediction, hypothesis testing and inference, replicability, power, effect size, t-tests, correlation, univariate ANOVA, and simple linear regression. Examples from wide range of disciplines. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "35",
         "wl_occupied": "1",
         "attributes": [
@@ -103401,7 +103401,7 @@
             "F"
         ],
         "meeting_times": [
-            "01:10p - 02:40p",
+            "04:30p - 09:00p",
             "04:30p - 09:00p",
             "04:30p - 09:00p",
             "04:30p - 09:00p"
@@ -106354,7 +106354,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. This course provides an in-depth look at the interrelationships between community, learning, identity, and context. We will examine the historical, political, social, theoretical, cultural, and educational influences that shape schooling for all students. We will be studying and theorizing about place, space, language, ethnicity, race, and culture across diverse settings (e.g., schools, households, communities) from an asset rather than a subtractive or deficit approach. The major goal of this course will be to learn how such influences affect students' educational experiences, instruction, and school-wide decisions. This course will count in Domain 2: Organizational/Group.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -109751,7 +109751,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -113312,9 +113312,9 @@
         "notes": "Instructor - Kamaal Malak",
         "status": "Wait list",
         "capacity": "26",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -115184,7 +115184,7 @@
             "F"
         ],
         "meeting_times": [
-            "01:10p - 02:40p",
+            "04:30p - 09:00p",
             "04:30p - 09:00p",
             "04:30p - 09:00p",
             "04:30p - 09:00p"
@@ -115428,7 +115428,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -120735,7 +120735,7 @@
         "notes": "Course orientation is during DNP intensive week. Students will receive a detailed schedule prior to intensive week.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130593,9 +130593,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "15",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts"
@@ -134536,7 +134536,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -134618,7 +134618,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -135101,9 +135101,9 @@
         "requirements": "Pre- or co-requisite: 1502 or 1602. Not open to students who have earned credit for PHYS 1502L or 1902 without permission.",
         "description": "Laboratory to accompany Physics 1602. Satisfies the AXLE lab course requirement when completed with 1602 (strongly preferred) or 1502. Serves as repeat credit for PHYS 1502L. Not open to students who have earned credit for 1902 without permission. Credit for this course and 1902 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite: 1502 or 1602. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "10",
         "attributes": [
@@ -135220,11 +135220,11 @@
         "requirements": "Pre- or co-requisite: 1502 or 1602. Not open to students who have earned credit for PHYS 1502L or 1902 without permission.",
         "description": "Laboratory to accompany Physics 1602. Satisfies the AXLE lab course requirement when completed with 1602 (strongly preferred) or 1502. Serves as repeat credit for PHYS 1502L. Not open to students who have earned credit for 1902 without permission. Credit for this course and 1902 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite: 1502 or 1602. [1] (No AXLE credit) (CORE: LB)",
         "notes": "This lab section is currently listed but closed. It will only be opened if sufficient TA staffing becomes available.",
-        "status": "Wait list",
-        "capacity": "0",
-        "enrolled": "0",
+        "status": "Open",
+        "capacity": "36",
+        "enrolled": "2",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135232,7 +135232,7 @@
             "T"
         ],
         "meeting_times": [
-            "08:00a - 10:45a"
+            "09:30a - 12:15p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -137922,9 +137922,9 @@
         "requirements": "",
         "description": "Impact of mass-mediated communication on U.S. electoral politics. Pragmatic and ethical influences on the dissemination of information to voters during campaigns. [3] (HCA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "21",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -140557,9 +140557,9 @@
         "requirements": "",
         "description": "Narrative analysis, and other humanistic, interpretative practices of relevance to medicine and health. [3] (HCA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "10",
         "attributes": [
@@ -145899,9 +145899,9 @@
         "requirements": "Not open to students who have earned credit for MATH 2400 or 2610 without permission. Prerequisite: 2300, 2310, or 2501.",
         "description": "Linear first-order differential equations, applications, higher order linear differential equations, complementary and particular solutions, applications, Laplace transform methods, series solutions, numerical techniques. Not open to students who have earned credit for MATH 2400 or 2610 without permission. Total credit for this course and MATH 2400 will not exceed 4 credit hours; total credit for this course and MATH 2610 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 2300, 2310, or 2501. [3] (MNS) (CORE B) (LE MNS)",
         "notes": "Instructor: Baik, Juhun",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -146143,11 +146143,11 @@
         "requirements": "Not open to students who have earned credit for MATH 2400 or 2610 without permission. Prerequisite: 2300, 2310, or 2501.",
         "description": "Linear first-order differential equations, applications, higher order linear differential equations, complementary and particular solutions, applications, Laplace transform methods, series solutions, numerical techniques. Not open to students who have earned credit for MATH 2400 or 2610 without permission. Total credit for this course and MATH 2400 will not exceed 4 credit hours; total credit for this course and MATH 2610 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 2300, 2310, or 2501. [3] (MNS) (CORE B) (LE MNS)",
         "notes": "Instructor: Baik, Juhun",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -153014,7 +153014,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -173314,7 +173314,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "2",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -175734,7 +175734,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -176344,7 +176344,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: History and Culture of the United States",
@@ -179195,9 +179195,9 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179318,7 +179318,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "70",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -184570,7 +184570,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "23",
+        "wl_occupied": "22",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -185679,7 +185679,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "13",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -187338,7 +187338,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188561,7 +188561,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -190521,7 +190521,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -192336,10 +192336,33 @@
         "wl_capacity": "20",
         "wl_occupied": "6",
         "attributes": null,
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "T",
+            "W",
+            "R",
+            "F",
+            "S",
+            "S"
+        ],
+        "meeting_times": [
+            "07:05p - 09:05p",
+            "07:05p - 09:05p",
+            "07:05p - 09:05p",
+            "04:30p - 07:30p",
+            "09:00a - 12:00p",
+            "01:00p - 03:00p"
+        ],
+        "meeting_dates": [
+            "3/17/26-3/17/26",
+            "3/18/26-3/18/26",
+            "3/19/26-3/19/26",
+            "3/20/26-3/20/26",
+            "3/21/26-3/21/26",
+            "3/21/26-3/21/26"
+        ],
+        "instructors": [
+            "Staff (Secondary)"
+        ],
         "date_added": null
     },
     {
@@ -199865,7 +199888,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -205413,7 +205436,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -212158,7 +212181,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -213248,9 +213271,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "42",
-        "enrolled": "41",
+        "enrolled": "42",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
