@@ -27693,7 +27693,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -37705,7 +37705,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38246,7 +38246,7 @@
         "capacity": "25",
         "enrolled": "22",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -74042,7 +74042,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -118601,7 +118601,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "28",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -129373,24 +129373,16 @@
         "requirements": "",
         "description": "Explores special issues or topics related to Special Education. May be repeated for credit with change of topic. [0-3]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "10",
         "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "W"
-        ],
-        "meeting_times": [
-            "10:10a - 01:00p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Martinez, Jeannette"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -131775,7 +131767,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "LE: HFA-Humanities and Fine Arts"
@@ -133887,7 +133879,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "135",
-        "enrolled": "135",
+        "enrolled": "134",
         "wl_capacity": "30",
         "wl_occupied": "24",
         "attributes": [
@@ -134208,7 +134200,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "9",
         "attributes": [
@@ -134536,7 +134528,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -134618,7 +134610,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -145333,7 +145325,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -152659,7 +152651,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "53",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -153215,7 +153207,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "90",
+        "enrolled": "91",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -153818,7 +153810,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -187331,7 +187323,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "65",
+        "enrolled": "64",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -190514,7 +190506,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -215684,9 +215676,9 @@
         "requirements": "MSN, CRT, or DNP students only",
         "description": "This course is the third in a series on health equity. Based on analysis of social and structural influences on health, learners will advocate for equitable health and systems outcomes. Students will use principles of emergency preparedness, global and planetary health, and complex population health needs to inform advocacy for health and wellness. Prerequisite: 8224 Corequisite: 8222. [2]",
         "notes": "This section is for MSN, PMC and DNP students only. Students can self-enroll in any open section.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -220049,7 +220041,7 @@
         "notes": "The combined enrollment capacity of IGP 8002 11 and BCHM 8300 is 150. although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
