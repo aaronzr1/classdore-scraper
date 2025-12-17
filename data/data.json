@@ -3637,11 +3637,11 @@
         "requirements": "Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "(Previously BUS 2700) Provides an overview of operations in both service and manufacturing organizations. Process analysis, queuing, inventory management, quality management, lean operations, and optimization. Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -6701,7 +6701,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -15740,9 +15740,9 @@
         "requirements": "",
         "description": "Amazonia as focus of international curiosity and colonial exploitation for centuries. Brazil, Peru, Bolivia, Ecuador, Colombia, Venezuela, Guyana, Suriname, and French Guiana. Biodiversity of ecosystems. Indigenous communities, languages, cultures, and histories that challenge the idea of pristine forest. Serves as repeat credit for ANTH 3890 section 02 offered Fall 2024. [3] (CORE C) (LE: SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -37053,7 +37053,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "150",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -54235,7 +54235,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "Analysis of a range of texts in social, political, and aesthetic contexts. Interdisciplinary study of cultural forms as diverse as poetry, advertisement, and film. [3] (HCA) (CORE A, C) (LE HFA)",
-        "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Good Girls Gone Bad\n         \n            \n            Instructor: Nat Rivkin",
+        "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Good Girls Gone Bad",
         "status": "Closed",
         "capacity": "16",
         "enrolled": "16",
@@ -54258,7 +54258,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Rivkin, Nat"
         ],
         "date_added": null
     },
@@ -67377,7 +67377,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -105538,7 +105538,7 @@
         "notes": "Full course title: Alternative Forms of Work and Organizations. This course explores the theory and practice of alternative and emerging forms of work and organization, such as network-based collaboration, branding, and worker cooperatives. Forms of work and organization stemming from creative and knowledge-intensive industries will be of particular interest. Across the alternative and emerging forms, readings, lectures, and activities will consider the implications of work and organization for personal identity, societal values, and community and democracy. This course will count in Domain 2: Organizational/Group   The combined enrollment capacity of HOD 3890-01 and HOD 7500-05 is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.   Not open to FR.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -106149,7 +106149,7 @@
         "notes": "Not open to FR. This course will count in Domain 1.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -106228,9 +106228,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"What is a \"Cult\"?: Cults and New Religious Movements\" - An examination of the emergence, beliefs, and practices of new religious movements often labeled \"cults.\" We will also learn the broader cultural reactions to these groups and their representation in the media. Topics covered include Mormonism, Jonestown, the Satanic Temple, and UFO Religions. We will discuss race, gender, sexuality, violence, and surveillance. (Core capacity tags: A, C / AXLE tags: HCA)",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -110149,7 +110149,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -112563,7 +112563,7 @@
             "02:00p - 04:00p"
         ],
         "meeting_dates": [
-            "1/5/26-4/29/26"
+            "1/7/26-4/29/26"
         ],
         "instructors": [
             "Griffith, Kevin"
@@ -119590,7 +119590,7 @@
         "notes": "Course only open to students in the Online Masters in Computer Science program.",
         "status": "Open",
         "capacity": "19",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -132574,7 +132574,7 @@
         "dates": "1/5/26 - 2/20/26",
         "requirements": "",
         "description": "This course offers students the opportunity to explore entrepreneurship through acquisition (ETA) of existing businesses with established products or services. The course serves as a practical guide to identifying, evaluating, acquiring, and ultimately leading a business as an entrepreneur. Students will explore the full lifecycle of ETA, culminating in a mock search simulation that applies the frameworks and tools discussed in class. [2]",
-        "notes": "Instructor - George Malone",
+        "notes": null,
         "status": "Open",
         "capacity": "55",
         "enrolled": "51",
@@ -132591,7 +132591,7 @@
             "1/5/26-2/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Malone, George E."
         ],
         "date_added": null
     },
@@ -132661,7 +132661,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -167204,7 +167204,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -170796,7 +170796,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
-        "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.\n         \n            \n            Instructor - Wilch, Clara",
+        "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
@@ -170817,7 +170817,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Wilch, Clara"
         ],
         "date_added": null
     },
@@ -179431,7 +179431,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -187433,7 +187433,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Khan, Bairam"
         ],
         "date_added": null
     },
@@ -192321,7 +192321,7 @@
         "dates": "1/5/26 - 4/13/26",
         "requirements": "",
         "description": "Can the law really be used as a tool for social change? How do individual cases become lightning rods for wider impact? What role can and should lawyers play in disrupting the very system they participate in? This course will explore how strategic litigation can be used to maximize social impact and move us towards the ideal of \"equal justice under law.\" Students will learn about historic examples of strategic and creative advocacy that have come to shape the modern legal landscape, and will learn the power of \"objecting anyway,\" even when faced with a problem to which there is no obvious legal solution. Students will then apply what they have learned through a final presentation or paper in which they will: (1) identify a legal practice or issue that needs reform, ideally one they have personally observed through past internship/clinical work and one that impacts more than one client or case; (2) consider the various barriers that have precluded the resolution of this problem through traditional litigation; and (3) craft a legal argument challenging the practice or issue through strategic and creative advocacy. Enrollment limited. Pass/Fail. [1]",
-        "notes": "Instructor - Strout, Michaela",
+        "notes": null,
         "status": "Wait list",
         "capacity": "20",
         "enrolled": "20",
@@ -192353,6 +192353,7 @@
             "3/21/26-3/21/26"
         ],
         "instructors": [
+            "Strout, Michaela R.",
             "Staff (Secondary)"
         ],
         "date_added": null
@@ -200006,7 +200007,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
