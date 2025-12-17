@@ -2191,7 +2191,7 @@
         "notes": "The combined enrollment capacity of ARTS 1700 and ARTS 2700 is 12. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "11",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -10787,7 +10787,7 @@
         "capacity": "235",
         "enrolled": "235",
         "wl_capacity": "75",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -14642,7 +14642,7 @@
         "notes": "For students enrolled in the master of divinity degree program, this course in Church history is a degree requirement. Students in the master of theological studies degree program may elect to apply the course to the history requirement.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -40583,7 +40583,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -40873,7 +40873,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41035,7 +41035,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41313,9 +41313,9 @@
         "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "An exploration of the creation, interpretation, implementation, and evaluation of public policy in the United States. Main emphases include key analytical/theoretical perspectives necessary for understanding the policy making process (problem Identification, agenda setting, formulation, adoption, Implementation, and evaluation), and main factors that influence policy making at the national and state levels. Particular attention is paid to the development of student analytic and writing skills. [3]",
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -59935,7 +59935,7 @@
         "notes": "The course may fulfill a degree requirement in ethics and society. The combined enrollment capacity of DIV 7240 and REL 7240 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -78612,7 +78612,7 @@
         "notes": "Social, Cultural, & Psychological Dimensions of Health",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "15",
         "wl_occupied": "8",
         "attributes": [
@@ -85043,7 +85043,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "11",
         "attributes": [
@@ -101046,7 +101046,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -105907,7 +105907,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2"
@@ -111650,11 +111650,11 @@
         "requirements": "",
         "description": "Theory and practice in speaking before an audience. Problems of preparation, content, organization, language, and delivery are treated. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -118999,7 +118999,7 @@
         "capacity": "85",
         "enrolled": "85",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -146974,7 +146974,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -153014,7 +153014,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -160114,7 +160114,7 @@
         "notes": "Course Title: AI Everywhere. Some seats reserved for HOD juniors and seniors. Though seats may appear available, some are reserved. Please put your name on the waitlist if you cannot enroll. Class meets in the LIVE Learning Innovation Incubator Room A2009 in the SONY Building (1400 18th Ave S at intersection with De Ford Bailey).This course will count in Domain 1: Individual/Interpersonal for HOD students.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -175529,7 +175529,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -191441,7 +191441,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "26",
+        "wl_occupied": "27",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -196026,7 +196026,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -196109,7 +196109,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -199401,7 +199401,7 @@
         "notes": "The course may be applied to the concentrations in Mediterranean and Near Eastern Studies and to Global Christianities and Interreligious Encounter. Students in the master of theological studies degree program may elect to enroll in the course to fulfill the requirement in Church history.\n         \n            \n            The enrollment capacity of CLAS 3380, REL 6706 and DIV 6706 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -217863,7 +217863,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
