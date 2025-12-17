@@ -10546,9 +10546,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "215",
-        "enrolled": "216",
+        "enrolled": "217",
         "wl_capacity": "150",
-        "wl_occupied": "96",
+        "wl_occupied": "95",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -10787,7 +10787,7 @@
         "capacity": "235",
         "enrolled": "235",
         "wl_capacity": "75",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -13195,7 +13195,7 @@
         "notes": "This course continues to guide students in the development of intermediate German linguistic and cultural proficiency through practice in listening, speaking, reading, and writing, and discussions of German culture. Emphasis is placed on developing communicative skills, reading short texts, writing essays. Topics of discussion include the geography and culture of Germany, Austria, and Switzerland, German-language literature, and current events. The course includes a comprehensive review of German grammar and prepares students for upper-level courses in German. Prerequisite: GER 2201 or equivalent.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -16264,7 +16264,7 @@
         "notes": "The class will convene on the following Saturdays: January 10, January 24, February 7, February 21, March 21, April 4, and April 18. (The spring holidays begin on March 7 and conclude on March 14.)\n         \n            \n            The course may be applied to the concentrations in Chaplaincy, in Religion and Gender Studies, in Religion and the Arts, and in Black Religion and Culture Studies as well as to the certificate programs in the Kelly Miller Smith Institute in Black Church Studies, in the Carpenter Program in Religion Gender, and Sexuality, and in Religion and the Arts in Contemporary Culture.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -22584,7 +22584,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "33",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -25707,7 +25707,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -36380,7 +36380,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "158",
+        "enrolled": "159",
         "wl_capacity": "25",
         "wl_occupied": "4",
         "attributes": [
@@ -36638,11 +36638,11 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "24",
+        "wl_occupied": "25",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37985,9 +37985,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students will be distributed to SC 5208",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -38114,7 +38114,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39599,7 +39599,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "83",
+        "enrolled": "84",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -40430,7 +40430,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Cutting, Laura E."
         ],
         "date_added": null
     },
@@ -52466,7 +52466,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Film Studies",
@@ -80117,7 +80117,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -95529,7 +95529,8 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Dudek, Martha S."
+            "Dudek, Martha S.",
+            "McGovern, Elizabeth"
         ],
         "date_added": null
     },
@@ -98047,7 +98048,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M",
@@ -102748,7 +102749,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -106598,7 +106599,7 @@
         "notes": "Full title: \"How to Find a Life of Meaning In A World of Likes and Retweets\" - Our internet-organized world promises us endless freedom:  access to information, goods and, supposedly, happiness.  Our social networks promise us friendship, support and contact.  But we're feeling (as people attest and studies confirm) more trapped, more devoid of agency and purpose, more lonely, unfocused and isolated, and, perhaps worst, more confused about truth and unmoored from any sense of meaning and guiding values.  \"Finding a Life of Meaning in a World of Likes and Retweets\" will help you situate these problems not just in our own moment but also historically and then will turn to literature as-in Kenneth Burke's resonant characterization-\"equipment for living.\"  By reading about others searching for meaning, we'll experiment with and enhance our own self-worth and integrity.  We'll explore our own belief and values as we read about others finding and developing theirs.  We'll cultivate a self-understanding that doesn't depend on what others think about us but keeps us aligned with our core values.  We will advance our own answers to the questions life asks of, and the demands it make on us.  In so doing we will strengthen our personal congruence and self-esteem through learning and practice.  We'll develop and exercise social trust and responsibility in our classroom community to create a setting where we can hazard and share our noble experiments of living in truth, and in finding and experiencing meaning! (Core capacity tags: A, E / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -111452,7 +111453,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -113312,7 +113313,7 @@
         "notes": "Instructor - Kamaal Malak",
         "status": "Wait list",
         "capacity": "26",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -118205,7 +118206,7 @@
         "capacity": "10",
         "enrolled": "1",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -118576,7 +118577,8 @@
             "1/14/26-4/20/26"
         ],
         "instructors": [
-            "Dudek, Martha S."
+            "Dudek, Martha S.",
+            "McGovern, Elizabeth"
         ],
         "date_added": null
     },
@@ -120146,7 +120148,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: C-Cultural & Interpretive Investigation",
             "CORE: E-Ethical & Social Engagement"
@@ -134446,7 +134448,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -134528,7 +134530,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -140140,7 +140142,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -160410,7 +160412,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "8",
         "attributes": [
@@ -164565,7 +164567,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "31",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -165099,7 +165101,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -167197,7 +167199,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -168318,7 +168320,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -178051,7 +178053,7 @@
         "notes": "Students registered for lecture sec 01 must also register for sec 22, 23, or 24 for discussion.",
         "status": "Wait list",
         "capacity": "27",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "5",
         "attributes": [
@@ -178133,7 +178135,7 @@
         "notes": "Students registered for lecture sec 01 must also register for sec 22, 23, or 24 for discussion.",
         "status": "Open",
         "capacity": "27",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -190506,7 +190508,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "45",
+        "enrolled": "47",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -196733,7 +196735,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -209781,7 +209783,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -219193,7 +219195,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -220285,7 +220287,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": [
