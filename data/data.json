@@ -34373,7 +34373,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": null,
         "meeting_days": [
             "MT"
@@ -36380,7 +36380,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "159",
+        "enrolled": "158",
         "wl_capacity": "25",
         "wl_occupied": "4",
         "attributes": [
@@ -38112,7 +38112,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39033,7 +39033,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -39076,7 +39076,7 @@
         "notes": "Students in this discussion will be distributed into SC 5215",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -69892,7 +69892,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "112",
+        "enrolled": "113",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -112947,7 +112947,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -131363,7 +131363,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/8/2026",
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -133803,7 +133803,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "120",
+        "enrolled": "121",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -134737,9 +134737,9 @@
         "requirements": "Pre- or co-requisite 1501 or 1601. Not open to students who have earned credit for PHYS 1501L or 1901 without permission.",
         "description": "Laboratory to accompany Physics 1501 and Physics 1601. Satisfies the AXLE lab course requirement when completed with 1501 or 1601. Serves as repeat credit for PHYS 1501L. Not open to students who have earned credit for 1901 without permission. Credit for this course and 1901 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite 1501 or 1601. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
