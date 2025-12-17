@@ -142119,9 +142119,9 @@
         "requirements": "",
         "description": "An accurate kinesthetic sense of the structure and movement of the body through hands-on and verbal instruction in body mapping and the principles developed by F. M. Alexander. Emphasis on ordinary daily activities. Offered on a pass/fail basis only. FALL, SPRING. [1] Ahner.",
         "notes": null,
-        "status": "Open",
+        "status": "Closed",
         "capacity": "6",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -164334,26 +164334,18 @@
         "requirements": "Prerequisite: either ARTS 1810, 1820, 1830, or 1840",
         "description": "Contemporary art practices with emerging technologies; sophisticated projects that integrate multiple digital platforms such as artificial intelligence, data visualization or sonification, extended reality, and/or brain-computer interfaces; the creation of technically ambitious works that engage with current theoretical discourses in the latest digital art. Prerequisite: either ARTS 1810, 1820, 1830, or 1840. [3] (HCA)",
         "notes": "Contemporary art practices with emerging technologies; sophisticated projects that integrate multiple digital platforms such as artificial intelligence, data visualization or sonification, extended reality, and/or brain-computer interfaces; the creation of technically ambitious works that engage with current theoretical discourses in the latest digital art. Prerequisite: either art 1810, 1820, 1830, or 1840 {3} (HCA)",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "3",
-        "enrolled": "2",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "12:45p - 03:35p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Kang, Haein"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -191441,7 +191433,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "27",
+        "wl_occupied": "28",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191962,7 +191954,7 @@
         "notes": "The combined enrollment capacity of PHIL 1103 and PSCI 1103 is 120. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -204220,7 +204212,7 @@
         "requirements": "",
         "description": "Art-making through computer programming. Creating visual artworks using code. Through hands-on exercises and contemporary art examples, students develop digital literacy while exploring new forms of artistic expression. No prior programming experience required. [3] (HCA)",
         "notes": "Creating visual artworks using code. Through hands-on-exercises and contemporary art examples, students developing digital literacy while exploring new forms of artistic expression. No prior programming experience required. [3] (HCA).",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "9",
         "enrolled": "0",
         "wl_capacity": "0",
@@ -204228,18 +204220,10 @@
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "12:45p - 03:45p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Kang, Haein"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -218807,7 +218791,7 @@
         "notes": "The combined enrollment capacity of EDUC 3750 and EDUC 6530 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
