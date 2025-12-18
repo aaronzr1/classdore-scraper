@@ -10668,7 +10668,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "40",
         "wl_occupied": "3",
         "attributes": null,
@@ -11180,7 +11180,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": null,
@@ -11494,7 +11494,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "25",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -12589,7 +12589,7 @@
         "notes": "The combined enrollment capacity of CHIN 2202 and CHIN 5202 is 16. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -12794,7 +12794,7 @@
         "notes": "The combined enrollment capacity of CHIN 2202 and CHIN 5202 is 16. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "8",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -36382,7 +36382,7 @@
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37502,7 +37502,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -57315,7 +57315,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "22",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -147176,7 +147176,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -149196,7 +149196,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "6",
         "wl_occupied": "4",
         "attributes": [
@@ -191470,7 +191470,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "32",
+        "wl_occupied": "33",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -193415,7 +193415,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -218538,7 +218538,7 @@
         "notes": "Students must also register for section 21 for discussion. Lab requirement waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "6",
         "attributes": [
@@ -218581,7 +218581,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "6",
         "attributes": [
@@ -219752,7 +219752,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
