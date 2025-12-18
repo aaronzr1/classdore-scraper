@@ -21391,7 +21391,7 @@
         "capacity": "25",
         "enrolled": "22",
         "wl_capacity": "10",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -23118,11 +23118,11 @@
         "requirements": "",
         "description": "Closure of the Atlantic slave trade in eighteenth and nineteenth-century Britain and the United States. State formation, the birth of modern human rights discourse, and ideas about compassionate capitalism. [3] (INT)",
         "notes": "Satisfies EHIST and LHS",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for African American and Diaspora Studies",
@@ -23374,7 +23374,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -29115,7 +29115,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -37987,7 +37987,7 @@
         "notes": "Students will be distributed to SC 5208",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -38244,7 +38244,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -120102,11 +120102,11 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Urban growth, development of suburbs, location of firms, housing markets, transportation, property taxes, and local government services. Offered on a graded basis only. Prerequisite: 3010 or 3012. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -120148,7 +120148,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: C-Cultural & Interpretive Investigation",
             "CORE: E-Ethical & Social Engagement"
@@ -132356,7 +132356,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "6",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -176161,11 +176161,11 @@
         "requirements": "",
         "description": "Law's relationship to gender and sexuality from the seventeenth century to the present. Legal categories of gender that have governed the household, the economy, and the political sphere. [3] (US)",
         "notes": "The combined enrollment capacity of HIST 2239 and HIST 5239 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close. Eligible for LHS and GSS.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society",
@@ -191631,7 +191631,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -206964,7 +206964,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society"
@@ -220501,7 +220501,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
