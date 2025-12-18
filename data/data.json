@@ -1834,7 +1834,7 @@
         "notes": "Junior Class",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -2031,7 +2031,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -9865,7 +9865,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "73",
+        "enrolled": "72",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -39720,7 +39720,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -51739,7 +51739,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "41",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -57114,7 +57114,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "20",
+        "wl_occupied": "21",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -82860,7 +82860,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "1",
         "wl_occupied": "0",
         "attributes": null,
@@ -83099,7 +83099,7 @@
         "capacity": "60",
         "enrolled": "54",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -83532,11 +83532,11 @@
         "requirements": "Corequisite: MATH 2300",
         "description": "Techniques associated with engineering measurements, curve fitting, presentation, and analysis of data. Corequisite: MATH 2300. SPRING. [2]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "2",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -106397,7 +106397,7 @@
         "notes": "Full title: \" Russian Science Fiction\" - This course explores Russian science fiction across literature, art, and film, with occasional forays into other media such as video games, featuring works by Protazanov, the Strugatsky Brothers, and Tarkovsky. (Core capacity tags: A, C / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108684,7 +108684,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": null,
@@ -110881,7 +110881,7 @@
         "notes": "No Seniors allowed to register for this course.\n         \n            \n            Students who do not attend the first class will be dropped",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -115222,7 +115222,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -123296,11 +123296,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -131682,7 +131682,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -131811,7 +131811,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -132222,9 +132222,9 @@
         "requirements": "",
         "description": "Historical, cultural, and social contexts of sexual diversity, discrimination, and sexual violence. Understanding the centrality of sexuality to identity; challenging harmful modes of sexual expression; developing critical awareness of sex and sexuality. [3] (P) (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -133540,7 +133540,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "49",
+        "enrolled": "48",
         "wl_capacity": "75",
         "wl_occupied": "27",
         "attributes": [
@@ -133755,9 +133755,9 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "75",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -135099,7 +135099,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135458,7 +135458,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -138360,7 +138360,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "41",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -152653,7 +152653,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "53",
+        "enrolled": "52",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -152848,9 +152848,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Scientific Computing"
         ],
@@ -153812,7 +153812,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -178591,9 +178591,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "119951010980"
@@ -179184,7 +179184,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -186228,7 +186228,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -191470,7 +191470,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "32",
+        "wl_occupied": "33",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -195971,9 +195971,9 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "36",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -196012,7 +196012,7 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "4",
         "attributes": [
@@ -196097,7 +196097,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -200367,9 +200367,9 @@
         "requirements": "Prerequisite: SPAN 2203 or a departmental Spanish placement exam score of 460 or higher.",
         "description": "Development of abilities in composition tasks related to expository writing. Focus on rhetorical techniques for organizing information, vocabulary abilities, and emphasis on collaborative work. Students write several short papers and a final long paper. Intended for students who have earned credit for 2202, or 2203 (prior to Fall 2021), or 2204, or have a departmental Spanish placement exam score of 460 or higher. [3] (INT) (CORE LA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -201029,7 +201029,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -203970,9 +203970,9 @@
         "requirements": "Antireq: JAPN 1102 or above",
         "description": "Japan's vibrant culture, society, and language. Aspects of Japanese culture, expectations, history, business etiquette and social protocols. Japan as destination for global travelers. Essential survival language skills. This course is restricted to students with little to no previous experience in Japanese language and who have not taken JAPN 1102 or above. [3] (INT)",
         "notes": "This course is restricted to students with little to no previous experience in Japanese language.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -204166,11 +204166,11 @@
         "requirements": "Antireq: JAPN 1102 or above",
         "description": "Japan's vibrant culture, society, and language. Aspects of Japanese culture, expectations, history, business etiquette and social protocols. Japan as destination for global travelers. Essential survival language skills. This course is restricted to students with little to no previous experience in Japanese language and who have not taken JAPN 1102 or above. [3] (INT)",
         "notes": "This course is restricted to students with little to no previous experience in Japanese language.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -214475,7 +214475,7 @@
         "notes": "An introduction to the cognitive studies major. Readings, lectures, and discussions are focused on thinking and understanding, especially as related to the brain, immediate context, and culture. These topics are considered from a variety of perspectives, including those taken from philosophy; literature; cognitive, social, and developmental psychology; sociology; psychiatry; and cultural anthropology.\n         \n            \n            2. Five seats reserved for transfer students and freshmen through the initial enrollment period. 3. Fifteen seats reserved for primary majors in Psychology and Human Development through the initial enrollment period.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "22",
         "wl_occupied": "1",
         "attributes": [
@@ -220330,9 +220330,9 @@
         "requirements": "",
         "description": "Theory and practice of advocacy, community engagement, and shared authority across multiple disciplines. Navigating ethical concerns in community-engaged advocacy work. Offered on a graded basis only. [3] (P) (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
