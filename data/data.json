@@ -1678,7 +1678,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -3399,7 +3399,7 @@
         "capacity": "18",
         "enrolled": "15",
         "wl_capacity": "10",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -34806,8 +34806,8 @@
         "requirements": "Prerequisite: Learning and Leadership in Organizations Ed.D. major. Pre- or Co-requisite: LLO 8110",
         "description": "This course is designed to help students develop the business acumen required of successful leaders across organizational settings. For this course, business acumen has two critical components. First is the strategic insight needed to understand what the organization is trying to accomplish and one's role in helping it achieve those objectives. Second is a facility with the financial and non-financial data needed to monitor and evaluate progress toward those goals. Key outcomes are developing the business acumen needed to assess and design organizational strategies; create a budget for an organizational initiative or department; and construct meaningful metrics and use them to evaluate organizational progress. [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
-        "status": "Closed",
-        "capacity": "18",
+        "status": "Open",
+        "capacity": "19",
         "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -75835,11 +75835,11 @@
         "requirements": "Soph/Jr/Sr Group",
         "description": "Instruction and practice in written and oral communication. Emphasis is on organization and presentation of information to a specific audience for a specific purpose. Course includes writing and editing reports of various lengths, preparing and using visual aids, and presenting oral reports. Prerequisite: Sophomore standing. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -91815,7 +91815,7 @@
         "description": "A great deal of the theory and research on leadership has relied on the \"industrial\" model of leadership in which the primary outcome of interest is some measure of organizational performance. In this type of leadership theory, goals are unambiguous and the means to achieve them are uncontested and clear. In the context of modern, knowledge- and service-based organizations, this model is at best deficient and at worst the basis for serious negative, unintended consequences. Although we can learn from this leadership research, it tends to underplay the importance of values and ethics as well as the social and institutional context in which leadership takes place. The focus in this class is on leadership in organizations, where other, external values, goals and expectations stand alongside (or above) simple organizational performance. We will cover a number of important theories, but we will do so with an interest in developing leadership capabilities in our selves and others. As a result, we will move back and forth between theory and practice, and include opportunities for self-reflection and skill development. Prerequisite: Leadership and Learning in Organizations Ed.D. major [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Barzel, Ur",
         "status": "Open",
-        "capacity": "17",
+        "capacity": "19",
         "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -106148,9 +106148,9 @@
         "requirements": "H&OD/H&OS MAMI & SO JR SR",
         "description": "Exploration of special issues on topics related to human and organizational development. May be repeated for credit with change of topic. [3]",
         "notes": "Not open to FR. This course will count in Domain 1.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -111090,7 +111090,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -111336,7 +111336,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -113792,7 +113792,7 @@
         "capacity": "28",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -116365,7 +116365,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -129219,7 +129219,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -156072,7 +156072,7 @@
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "18",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -174608,11 +174608,11 @@
         "requirements": "NSC 1400 as pre-req",
         "description": "May be repeated for credit more than once if there is no duplication in topic. Students may enroll in more than one section of this course each semester. Prerequisite: NSC 1400 (formerly 2201). [3] (MNS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -193748,9 +193748,9 @@
         "requirements": "Prerequisite: MUTH 2110",
         "description": "Study via guided improvisation, lecture, performance, and dictation: chromatic function in melody, inversion, seventh chords, tonicization and modulation, common chromatic substitutions, transposition, hearing form, notation and performance of complex rhythmic textures. Prerequisite: MUTH 2110; corequisite: MUTH 2200. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "21",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": null,
@@ -196546,7 +196546,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "91",
+        "enrolled": "92",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -207434,7 +207434,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -219708,7 +219708,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -220284,7 +220284,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "4",
         "attributes": [
