@@ -2152,7 +2152,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -4005,7 +4005,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "51",
+        "enrolled": "54",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -19763,7 +19763,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -23496,7 +23496,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -25705,7 +25705,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -36471,7 +36471,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "9",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36601,7 +36601,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -44559,10 +44559,10 @@
         "instructors": [
             "Kirby, Brittany N.",
             "Launius, Meghan",
-            "Curtis, Amanda (Secondary)",
             "Harris, Jill W. (Secondary)",
             "Hunt, Jennifer D. (Secondary)",
             "Robinson-Nichols, Sylvia (Secondary)",
+            "Schoen, Ellen (Secondary)",
             "Stone, Erica L. (Secondary)"
         ],
         "date_added": null
@@ -55097,7 +55097,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Benson, Amanda R."
         ],
         "date_added": null
     },
@@ -70747,7 +70747,9 @@
         "instructors": [
             "Kirby, Brittany N.",
             "Launius, Meghan",
-            "Lord, Mary M. (Secondary)"
+            "Lord, Mary M. (Secondary)",
+            "Riehl, Kyli K. (Secondary)",
+            "Talbert, Deanna (Secondary)"
         ],
         "date_added": null
     },
@@ -82855,8 +82857,8 @@
         "requirements": "Corequisite: MATH 2300",
         "description": "Techniques associated with engineering measurements, curve fitting, presentation, and analysis of data. Corequisite: MATH 2300. SPRING. [2]",
         "notes": null,
-        "status": "Open",
-        "capacity": "10",
+        "status": "Wait list",
+        "capacity": "9",
         "enrolled": "9",
         "wl_capacity": "1",
         "wl_occupied": "0",
@@ -83094,9 +83096,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -83249,8 +83251,8 @@
         "description": "Techniques associated with engineering measurements, curve fitting, presentation, and analysis of data. Corequisite: MATH 2300. SPRING. [2]",
         "notes": null,
         "status": "Wait list",
-        "capacity": "10",
-        "enrolled": "10",
+        "capacity": "11",
+        "enrolled": "11",
         "wl_capacity": "1",
         "wl_occupied": "0",
         "attributes": null,
@@ -83533,7 +83535,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "2",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -93071,7 +93073,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -106597,7 +106599,7 @@
         "notes": "Full title: \"How to Find a Life of Meaning In A World of Likes and Retweets\" - Our internet-organized world promises us endless freedom:  access to information, goods and, supposedly, happiness.  Our social networks promise us friendship, support and contact.  But we're feeling (as people attest and studies confirm) more trapped, more devoid of agency and purpose, more lonely, unfocused and isolated, and, perhaps worst, more confused about truth and unmoored from any sense of meaning and guiding values.  \"Finding a Life of Meaning in a World of Likes and Retweets\" will help you situate these problems not just in our own moment but also historically and then will turn to literature as-in Kenneth Burke's resonant characterization-\"equipment for living.\"  By reading about others searching for meaning, we'll experiment with and enhance our own self-worth and integrity.  We'll explore our own belief and values as we read about others finding and developing theirs.  We'll cultivate a self-understanding that doesn't depend on what others think about us but keeps us aligned with our core values.  We will advance our own answers to the questions life asks of, and the demands it make on us.  In so doing we will strengthen our personal congruence and self-esteem through learning and practice.  We'll develop and exercise social trust and responsibility in our classroom community to create a setting where we can hazard and share our noble experiments of living in truth, and in finding and experiencing meaning! (Core capacity tags: A, E / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108680,8 +108682,8 @@
         "requirements": "Corequisite: MATH 2300",
         "description": "Techniques associated with engineering measurements, curve fitting, presentation, and analysis of data. Corequisite: MATH 2300. SPRING. [2]",
         "notes": null,
-        "status": "Open",
-        "capacity": "60",
+        "status": "Wait list",
+        "capacity": "59",
         "enrolled": "59",
         "wl_capacity": "5",
         "wl_occupied": "2",
@@ -118602,7 +118604,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "28",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -129820,7 +129822,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Friedman, Katherine L."
         ],
         "date_added": null
     },
@@ -161108,7 +161110,7 @@
         "notes": "Open to HDC students only.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -166285,7 +166287,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -205578,24 +205580,16 @@
         "requirements": "Prerequisite or corequisite: BSCI 2118 or 2218.",
         "description": "(Formerly offered as 2218L) Laboratory to accompany 2118. One three-hour laboratory per week. Pre- or co-requisite: BSCI 2118 or 2218. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "12",
-        "enrolled": "3",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "W"
-        ],
-        "meeting_times": [
-            "01:20p - 04:10p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Benson, Amanda R."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -207845,7 +207839,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -211850,7 +211844,7 @@
         "notes": "The combined enrollment capacity of CS, 4375L, ECE 4375L, and ECE 5375L is 12. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -211930,7 +211924,7 @@
         "notes": "The combined enrollment capacity of CS, 4375L, ECE 4375L, and ECE 5375L is 12. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -212757,7 +212751,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "3",
         "attributes": null,
@@ -215959,7 +215953,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -218502,7 +218496,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "5",
         "wl_occupied": "4",
         "attributes": null,
