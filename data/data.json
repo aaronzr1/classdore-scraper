@@ -14802,7 +14802,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -27893,7 +27893,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "44",
+        "enrolled": "43",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -37824,7 +37824,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -40537,9 +40537,9 @@
         "requirements": "",
         "description": "Religious worldviews connected to moral traditions. Epistemological and ethical systems and their relationship to gender and patriarchy. Social construction of gender; violence against women; feminism; and difference. [3] (P) (CORE E) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -46580,7 +46580,7 @@
         "notes": "Course orientation is during DNP intensive week. Students will receive a detailed schedule prior to intensive week. Class is 100% online.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -57313,7 +57313,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "26",
         "wl_occupied": "23",
         "attributes": [
@@ -58861,7 +58861,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3",
@@ -76429,11 +76429,11 @@
         "requirements": "",
         "description": "Organizations are comprised of individuals with diverse interests functioning within rapidly changing, complex environments, often with limited resources. Accordingly, understanding organizations requires multiple perspectives and approaches to problem-solving. Students in the course will learn to apply organizational theories to specific challenges in order to generate potential solutions that promote organizational health. HOD 2100 can substitute for BUS 1400 in the business minor. Serves as repeat credit for BUS 1400. [3]",
         "notes": "Not open to first-year students. Seats are reserved for HOD majors and minors until open enrollment.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "31",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -79791,7 +79791,7 @@
         "capacity": "20",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Cinema and Media Arts",
@@ -95637,6 +95637,7 @@
         "wl_capacity": "20",
         "wl_occupied": "5",
         "attributes": [
+            "Human & Organizational Development",
             "HOD Domain 2",
             "Next Steps Eligible"
         ],
@@ -104061,9 +104062,9 @@
         "requirements": "This course is open only to Bachelor of Music or Bachelor of Musical Arts students; prerequisite: MUKH 1130.",
         "description": "Development of basic technique, reading proficiency, elementary transposition. Diatonic harmony at the keyboard. Prerequisite: placement exam or MUKH 1130. Not open to students who have completed MUKH 2133 or 2134. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Open",
         "capacity": "8",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -109338,7 +109339,7 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD junior and senior majors and minors. If you are unable to enroll, please add your name to the waitlist. MHS majors and minors who are interested in this course should contact the Peabody Office of Academic Services during open enrollment if space remains. This course fulfills Domain 3: Community/Policy.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -113836,6 +113837,7 @@
         "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
+            "HOD Domain 3",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -119514,7 +119516,7 @@
         "notes": "Undergraduate students must obtain the approval of the instructor and the DGS in the Math Department to enroll in this class.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -120737,7 +120739,7 @@
         "notes": "Course orientation is during DNP intensive week. Students will receive a detailed schedule prior to intensive week.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -121611,7 +121613,7 @@
         "notes": "Course orientation is during DNP intensive week. Students will receive a detailed schedule prior to intensive week.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -121726,11 +121728,11 @@
         "requirements": "This course requires MUTH 2100 as a prerequisite, with a grade of B- or higher.",
         "description": "Principles of harmonic progression in the context of music from the common practice period. Includes figured bass realization, harmonization, analysis, composition, contrapuntal idioms, modulation. B- or above in MUTH 2100 is required. Prerequisite: MUTH 2100; corequisite: MUTH 2220. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "24",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -130899,7 +130901,7 @@
         "notes": "The combined enrollment capacity of ECON 3350 and ECON 5350 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -136143,7 +136145,8 @@
         "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
-            "Human & Organizational Development"
+            "Human & Organizational Development",
+            "HOD Domain 2"
         ],
         "meeting_days": [
             "MW"
@@ -136479,7 +136482,8 @@
         "wl_occupied": "7",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
-            "Human & Organizational Development"
+            "Human & Organizational Development",
+            "HOD Domain 2"
         ],
         "meeting_days": [
             "MW"
@@ -138402,7 +138406,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -170058,7 +170062,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173789,9 +173793,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -187325,7 +187329,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "67",
+        "enrolled": "68",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187453,7 +187457,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187493,7 +187497,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187572,7 +187576,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on Thursdays from 1/8/2026-4/23/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187763,7 +187767,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 1/5/2026-3/2/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -189826,7 +189830,8 @@
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
-            "Human & Organizational Development"
+            "Human & Organizational Development",
+            "HOD Domain 3"
         ],
         "meeting_days": [
             "MW"
@@ -193744,11 +193749,11 @@
         "requirements": "Prerequisite: MUTH 2110",
         "description": "Study via guided improvisation, lecture, performance, and dictation: chromatic function in melody, inversion, seventh chords, tonicization and modulation, common chromatic substitutions, transposition, hearing form, notation and performance of complex rhythmic textures. Prerequisite: MUTH 2110; corequisite: MUTH 2200. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -194945,7 +194950,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "Next Steps Eligible"
@@ -195927,7 +195932,7 @@
         "capacity": "20",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for African American and Diaspora Studies",
@@ -200332,7 +200337,8 @@
         "wl_occupied": "2",
         "attributes": [
             "Eligible for Asian Studies",
-            "Human & Organizational Development"
+            "Human & Organizational Development",
+            "HOD Domain 3"
         ],
         "meeting_days": [
             "TR"
@@ -200535,7 +200541,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200656,9 +200662,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -200744,11 +200750,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -214686,7 +214692,7 @@
         "notes": "The combined enrollment capacity of ECON 3110 and ECON 5240 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -219791,11 +219797,11 @@
         "requirements": "Prerequisite: ECON 1020. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2100) Emphasis on mandated corporate disclosure. Economic concepts that guide the development and use of accounting conventions as well as the institutional context that disciplines producers and users. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 1600. Prerequisite: ECON 1020. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
