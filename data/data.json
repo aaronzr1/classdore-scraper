@@ -15538,7 +15538,7 @@
         "notes": "Enrollment only by permission of instructor",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -21309,7 +21309,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -41117,7 +41117,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -41634,9 +41634,9 @@
         "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "An exploration of the creation, interpretation, implementation, and evaluation of public policy in the United States. Main emphases include key analytical/theoretical perspectives necessary for understanding the policy making process (problem Identification, agenda setting, formulation, adoption, Implementation, and evaluation), and main factors that influence policy making at the national and state levels. Particular attention is paid to the development of student analytic and writing skills. [3]",
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -70747,10 +70747,7 @@
         "instructors": [
             "Kirby, Brittany N.",
             "Launius, Meghan",
-            "Hall, Courtney (Secondary)",
-            "Lord, Mary M. (Secondary)",
-            "Parker, Jennifer (Secondary)",
-            "Valverde Vides, Manola A. (Secondary)"
+            "Lord, Mary M. (Secondary)"
         ],
         "date_added": null
     },
@@ -102935,7 +102932,7 @@
         "course_dept": "DF",
         "course_code": "3890",
         "class_section": "01",
-        "course_title": "Special Topics",
+        "course_title": "Special Topics - Subtractive Manufacturing",
         "school": "School of Engineering",
         "career": "Undergraduate",
         "class_type": "Lecture",
@@ -200291,7 +200288,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
