@@ -2189,9 +2189,9 @@
         "requirements": "",
         "description": "Video as an art form. Group and individual productions. Viewing and discussion. Project analysis and critique. Relationship to such traditional media as photography and film. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "The combined enrollment capacity of ARTS 1700 and ARTS 2700 is 12. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "11",
-        "enrolled": "6",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -2202,18 +2202,10 @@
             "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "09:10a - 12:00p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Warren, John R."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -16521,7 +16513,7 @@
         "notes": "This section is for MSN students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -16687,7 +16679,7 @@
         "notes": "This seminar will explore the history of rights in the modern world, broadly considered, by focusing on themes such as the invention of human rights in the eighteenth century; the creation of modern citizenship rights; civil rights campaigns in France and the United States; and human rights as a contemporary movement in international law in Europe and elsewhere. We will examine various claims that historians have put forward about the history of rights in law and society in both national and transnational contexts. Shared readings for the first half of the semester will provide shared vocabulary and set of historiographical debates that all students can draw on in their capstone research papers. In the second half of the semester, students will then write (and re-write) a polished, properly cited 20-25-page paper, participate in peer reviews, and present their research to the class conference-style at the end of the semester.\n         \n            \n            Satisfies LHS",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -22219,7 +22211,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -34806,9 +34798,9 @@
         "requirements": "Prerequisite: Learning and Leadership in Organizations Ed.D. major. Pre- or Co-requisite: LLO 8110",
         "description": "This course is designed to help students develop the business acumen required of successful leaders across organizational settings. For this course, business acumen has two critical components. First is the strategic insight needed to understand what the organization is trying to accomplish and one's role in helping it achieve those objectives. Second is a facility with the financial and non-financial data needed to monitor and evaluate progress toward those goals. Key outcomes are developing the business acumen needed to assess and design organizational strategies; create a budget for an organizational initiative or department; and construct meaningful metrics and use them to evaluate organizational progress. [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "19",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36380,7 +36372,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Wait list",
         "capacity": "160",
-        "enrolled": "160",
+        "enrolled": "159",
         "wl_capacity": "25",
         "wl_occupied": "4",
         "attributes": [
@@ -38104,7 +38096,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -38236,7 +38228,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -38603,9 +38595,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5215.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39275,7 +39267,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "84",
+        "enrolled": "85",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -39591,7 +39583,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "81",
+        "enrolled": "80",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -51008,7 +51000,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -51247,7 +51239,7 @@
         "notes": "The combined enrolment capacity of PORT 2203 and PORT 5303 is 18. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -56790,7 +56782,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "110",
-        "enrolled": "89",
+        "enrolled": "90",
         "wl_capacity": "6",
         "wl_occupied": "1",
         "attributes": null,
@@ -59692,7 +59684,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -69888,7 +69880,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "112",
+        "enrolled": "111",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -78847,7 +78839,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -91812,7 +91804,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Barzel, Ur",
         "status": "Open",
         "capacity": "19",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -108185,7 +108177,7 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Black Visual Artists and Social Transformation\" - This course will focus on a select group of African American visuals artist that helped transform the cultural and political landscape of the United States. Particular attention will be paid to how these artists process art and social change in their respective historical moments. Students will be encouraged not only to engage these artists as creatives with ethical merits, but they will also have the opportunity to create art in the course and get a hands-on opportunity to appreciate the cultural and historical stakes of artistic production. (Core capacity tags: A, C / AXLE tags: P)",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "30",
         "enrolled": "0",
         "wl_capacity": "0",
@@ -108195,18 +108187,10 @@
             "CORE: A-Written & Creative Expression",
             "CORE: C-Cultural & Interpretive Investigation"
         ],
-        "meeting_days": [
-            "MWF"
-        ],
-        "meeting_times": [
-            "11:15a - 12:05p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Ikard, David"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -114123,7 +114107,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114670,7 +114654,7 @@
         "requirements": "Prerequisite: BUS 1100 or 2100, ECON 1020, and one of BME 2400, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. Not open to students who have earned credit for FNEC 2700 without permission.",
         "description": "(Previously BUS 2300) Emphasis on asset valuation. Stock and bond valuation, capital budgeting, cost of capital, market efficiency, and company valuation. Not open to students who have earned credit for FNEC 2700 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 2700. Prerequisite: BUS 1100 (Previously BUS 2100), ECON 1020, and one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "6",
@@ -118605,7 +118589,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "28",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120420,7 +120404,7 @@
         "notes": "The combined enrollment capacity of EECE 3235 and 5235 is 35.  Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -120820,7 +120804,7 @@
         "notes": "The combined enrollment capacity of ECE 3235L and 5235L is 12. Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "2",
         "wl_occupied": "1",
         "attributes": null,
@@ -121652,7 +121636,7 @@
         "notes": "This course will introduce theoretical and practical aspects of quantum computing. The first part of the course will discuss the history of the field through the current state of the art. We will then cover the mathematical and physical principles of quantum computing and will rigorously examine some of the most famous algorithms in the field. The second part of the course will be hands-on, where we leverage Python and Qiskit to build real programs for quantum computers. The course may conclude with student presentations about recent research papers or student-led projects. Comfort with Python is necessary for this course.\n         \n            \n            The combined enrollment capacity of CS 3891 and CS 5891 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -126229,24 +126213,16 @@
         "requirements": "",
         "description": "May be repeated for credit more than once if there is no duplication in topic. Students may enroll in more than one section of this course each semester. [1-3]",
         "notes": "The combined enrollment capacity of MHS 3890-07 and MHS 6500-07 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "30",
         "enrolled": "0",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "T"
-        ],
-        "meeting_times": [
-            "02:45p - 05:15p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Stark, Laura J."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -127495,7 +127471,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -131517,7 +131493,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "70",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": null,
@@ -137234,9 +137210,9 @@
         "requirements": "Corequisite: NURS 6013 and PNPPNURMS4, PNPPNURCRT, PNPANURMS4, or PNPANURCRT",
         "description": "This one (1) credit graduate-level core laboratory course prepares advanced practice registered nurse (APRN) students to apply advanced communication and health assessment techniques across the lifespan. Through laboratory practice and simulations, students will develop knowledge and skills required to elicit a history, perform a physical examination, use therapeutic communication, and demonstrate professional behaviors. This course builds upon foundational health assessment knowledge and skills to develop advanced level competencies aligned with APRN specialties. Pre/corequisite: 6013, admission to specialty and graduate level standing. [1]",
         "notes": "This section is for PNP-Primary and PNP-Acute Care students only.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -143717,7 +143693,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "27",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -145328,9 +145304,9 @@
         "requirements": "",
         "description": "From the late 19th Century to the present. Vaudeville, Tin Pan Alley, the development of the stage musical, and the Brill Building. Folk, rock, pop, and country. Contributions of Jewish songwriters to American music. [3] (US) (CORE A, C) (LE: HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "17",
-        "enrolled": "4",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -145343,18 +145319,10 @@
             "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "MWF"
-        ],
-        "meeting_times": [
-            "12:20p - 01:10p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Klass, Judith A."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -153296,7 +153264,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -156811,7 +156779,7 @@
         "requirements": "",
         "description": "Late-colonial and postcolonial literature, film, and popular culture. Works from Angola, Mozambique, Cabo Verde, Guinea-Bissau, and African migrant communities in Portugal. Imperialism, migration, national identity, and race. Language of instruction will be English and all works assigned will have an English translation. Students in the Portuguese minor or Spanish and Portuguese major should complete written assignments in Portuguese and are encouraged to read works in the original Portuguese. [3] (P)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "15",
         "enrolled": "0",
         "wl_capacity": "10",
@@ -156820,18 +156788,10 @@
             "AXLE: Perspectives",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "MWF"
-        ],
-        "meeting_times": [
-            "11:15a - 12:05p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Legg, Benjamin"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -159868,27 +159828,19 @@
         "requirements": "MHS 3890 anti-requisites",
         "description": "May be repeated for credit if there is no duplication in topic. Students may enroll in more than one section of this course each semester. [1-3; maximum of 9 credits total for all semesters of MHS 3890] (No AXLE credit)",
         "notes": "Examine how law, politics, and activism shape AI, then design justice-oriented approaches for using data and technology to support freedom, health, and sustainability. Eligible for MHS concentration areas B, D, and electives.\n         \n            \n            The combined enrollment capacity of MHS 3890-07 and MHS 6500-07 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
             "CORE: B-Systemic & Structural Reasoning",
             "CORE: D-Data Literacy & Computational Thinking"
         ],
-        "meeting_days": [
-            "T"
-        ],
-        "meeting_times": [
-            "02:45p - 05:15p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Stark, Laura J."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -168557,7 +168509,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "66",
+        "enrolled": "67",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -173302,7 +173254,7 @@
         "requirements": "ARTS 3891 anti-requisite",
         "description": "May be repeated for a total of 9 credits if there is no duplication in topic.  Students may enroll in more than one section of this course per semester. [3; maximum of 9 credits total for all semesters of ARTS 3891] (HCA)",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "12",
         "enrolled": "0",
         "wl_capacity": "0",
@@ -173310,18 +173262,10 @@
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "09:10a - 12:00p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Turner, Vadis"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -173755,7 +173699,7 @@
         "notes": "This course will introduce theoretical and practical aspects of quantum computing.  The first part of the course will discuss the history of the field through the current state of the art. We will then cover the mathematical and physical principles of quantum computing and will rigorously examine some of the most famous algorithms in the field. The second part of the course will be hands-on, where we leverage Python and Qiskit to build real programs for quantum computers. The course may conclude with student presentations about recent research papers or student-led projects. Comfort with Python is necessary for this course. Prerequisites: CS3250; linear algebra; differential equations.\n         \n            \n            The combined enrollment capacity of CS 3891 and CS 5891 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -175842,7 +175786,7 @@
         "description": "A practical introduction to shaping public opinion and knowledge through popular news media. Study contemporary forms of journalism and their persuasive techniques and craft compelling, accurate narratives that engage a broad audience. [3] (AXLE: HCA) (CORE A, B) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
-        "capacity": "16",
+        "capacity": "14",
         "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "2",
@@ -176739,7 +176683,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "88",
+        "enrolled": "87",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -184560,7 +184504,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "22",
+        "wl_occupied": "23",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -188173,9 +188117,9 @@
         "requirements": "Prerequisite: ECON 1010, 1020, and either MATH 1201 or 1301. Not open to students who have earned credit for ECON 3020.",
         "description": "Contemporary models of national income, employment, interest rates, price level, and economic growth. Decisions underlying consumption and investment behavior, as well as the effect of government policies. Not open to students who have earned credit for 3020. Total credit for this course and 3020 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1010, 1020, and either MATH 1201 or 1301. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -190271,7 +190215,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -204975,7 +204919,7 @@
         "notes": "Meeting Dates: February 6-7, March 20-21, and April 10-11",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -205774,7 +205718,7 @@
         "notes": "This section is for MSN students only. Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -213323,7 +213267,7 @@
         "requirements": "ARTS 1700 as pre-requisite",
         "description": "Viewing, discussion, analysis and critiques. Relationship to photography, film, and performance. Group and individual productions. Prerequisite: 1700. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "The combined enrollment capacity of ARTS 1700 and ARTS 2700 is 12. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "3",
         "enrolled": "0",
         "wl_capacity": "0",
@@ -213336,18 +213280,10 @@
             "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "09:10a - 12:00p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Warren, John R."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -215716,7 +215652,7 @@
         "requirements": "Arts 1505 OR 1515 as Prereq",
         "description": "A design studio focused on the collaborative creation of real-world projects. Students gain experience taking a project from concept to implementation. Orientation to working in a design studio context. Prerequisite: ARTS 1505 or ARTS 1515. [3] (HCA)",
         "notes": "A design studio focused on collaborative creation of real-world projects. Students gain experience taking a project from concept to implementation. Orientation to working in a design studio context",
-        "status": "Wait list",
+        "status": "Cancelled Section",
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "12",
@@ -215724,18 +215660,10 @@
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "12:45p - 03:35p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Dunham, Sarah L."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
