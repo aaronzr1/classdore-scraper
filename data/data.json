@@ -10779,7 +10779,7 @@
         "capacity": "235",
         "enrolled": "234",
         "wl_capacity": "75",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -11057,7 +11057,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "20",
+        "wl_occupied": "21",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -23234,11 +23234,11 @@
         "requirements": "",
         "description": "(Previously BUS 2600) Success in business is driven by providing goods and services that consumers need and want. This course covers how to achieve such success through analyses of companies, customers, and competitors, and making the right decisions regarding what products to offer, and how to price, promote, and distribute them. Course content spans a wide variety of settings including consumer goods, hi-tech, and service firms, and puts a particular emphasis on digital marketing opportunities and the evolving role of social media. Not open to students who have earned credit for MGRL 1200 without permission, as students will forfeit credit hours. Serves as repeat credit for MGRL 1200. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -24978,7 +24978,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -31767,7 +31767,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -36370,7 +36370,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "160",
         "enrolled": "159",
         "wl_capacity": "25",
@@ -39700,27 +39700,19 @@
         "requirements": "",
         "description": "From the nineteenth century to the present. Legal and societal implications of marriage. Marginalization of the single person. Different gendered stereotypes of the uncoupled adult, including the bachelor and the spinster. Non-normative forms of kinship and relationships. Primarily United States with global perspectives. Scholarly and pop-cultural texts. [3] (P)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Cancelled Section",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "0",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
         ],
-        "meeting_days": [
-            "MWF"
-        ],
-        "meeting_times": [
-            "10:10a - 11:00a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Navarro, Kristen M."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -49239,7 +49231,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -67002,7 +66994,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -80540,26 +80532,18 @@
         "requirements": "",
         "description": "Strategy & Operations Consulting is a hands-on introduction to management consulting. The course is designed for students interested in consulting as a career, or those who simply want to sharpen their skills in solving complex problems. The course is modeled after the TEAM FOCUS, problem-solving process utilized by McKinsey & Co. After experiencing a case-based introduction to the framework, students will be coached through a real consulting assignment during the Mod. The learning objectives for the course include: 1. To solve a strategic business issue for a real client, 2. Learn the hypothesis-driven problem solving framework and process, and 3. Practice and enhance team building skills. The instructor will act in a capacity similar to a senior partner in a strategy consulting firm by helping guide teams through the overall process and providing feedback along the way. The final week of class teams will present their recommendations to their clients. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "50",
-        "enrolled": "38",
+        "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
             "Strategy Concentration"
         ],
-        "meeting_days": [
-            "MW"
-        ],
-        "meeting_times": [
-            "08:00a - 09:30a"
-        ],
-        "meeting_dates": [
-            "1/5/26-2/20/26"
-        ],
-        "instructors": [
-            "Tillinger, Mark A."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -92800,7 +92784,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -101434,7 +101418,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "42",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -108414,7 +108398,7 @@
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Physics and Public Policy\" The purpose of this course is to provide an introduction to aspects of physics that are relevant to public policy. The goal is for students to develop a sufficient background in these topics to make intelligent decisions as informed citizens and leaders. Students will also develop a facility with order of magnitude scientific estimates and simple statistics relevant to political issues. Topics covered include energy, thermodynamics and heat, light and radiation, nuclear weapons, the space program, and government funding for science. Available for credit as PHYS 1020 (Core capacity tags: B, D / AXLE tags: MNS)",
         "status": "Open",
-        "capacity": "100",
+        "capacity": "67",
         "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -109691,7 +109675,7 @@
         "notes": "The combined enrollment capacity of HOD 6300 and HOD 8400 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -112842,9 +112826,9 @@
         "requirements": "",
         "description": "(Also listed as ME 4259) Theory of vibrating systems and application to problems related to mechanical design. Topics include single degree of freedom systems subject to free, forced, and transient vibrations; systems with several degrees of freedom, methods of vibration suppression and isolation, and critical speed phenomena. No credit for students who have earned credit for 4259. [3]",
         "notes": "The combined enrollment capacity of ME 4259 and ME 5259 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "5",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -114654,7 +114638,7 @@
         "requirements": "Prerequisite: BUS 1100 or 2100, ECON 1020, and one of BME 2400, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. Not open to students who have earned credit for FNEC 2700 without permission.",
         "description": "(Previously BUS 2300) Emphasis on asset valuation. Stock and bond valuation, capital budgeting, cost of capital, market efficiency, and company valuation. Not open to students who have earned credit for FNEC 2700 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 2700. Prerequisite: BUS 1100 (Previously BUS 2100), ECON 1020, and one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "6",
@@ -121163,7 +121147,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -122244,10 +122228,18 @@
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "TBA"
+        ],
+        "meeting_times": [
+            "TBA"
+        ],
+        "meeting_dates": [
+            "1/5/26-4/20/26"
+        ],
+        "instructors": [
+            "Staff (Secondary)"
+        ],
         "date_added": null
     },
     {
@@ -132633,7 +132625,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -133944,7 +133936,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -134100,7 +134092,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -135473,11 +135465,11 @@
         "requirements": "",
         "description": "This course offers a broad overview of the dynamic, complex, and vast world of sports business. Students will explore the economic, financial, legal, and social factors that shape the industry, from professional leagues and franchises to athletes' rights and other emerging trends. Through interactive lectures, case studies, guest speakers, and real-world simulations, you will gain insight into the diverse business operations that fuel the global sports phenomenon. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
@@ -135755,7 +135747,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -136887,7 +136879,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -137172,7 +137164,7 @@
         "notes": "The immune system plays a vital role to protect from pathogens and is intimately linked to a wide range of diseases. The goal of this course is to introduce the basics of immunology through discussion of principles of immunobiology and clinical immunology. Topics to be covered include principles of innate and adaptive immunity, antigen recognition and signaling, immune disease processes, discussion of clinical cases including immunodeficiencies, autoimmunity, inflammation, neuroinflammation, and tumor immunology. The class will consist of lectures followed by small group discussions of how those topics apply to basic and clinical immunology and will include discussions of current literature. Following the class, students will have the background to understand and interpret basic principles of immune function and understand how the immune system contributes to health and disease.\n         \n            \n            Class will meet in Medical Center North and Light Hall.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -138060,7 +138052,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -142269,7 +142261,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Navarro, Kristen M."
+            "Covington, Elizabeth R."
         ],
         "date_added": null
     },
@@ -153180,7 +153172,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "90",
+        "enrolled": "89",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -168236,7 +168228,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -187272,7 +187264,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "68",
+        "enrolled": "69",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187400,7 +187392,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "41",
+        "enrolled": "42",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187440,7 +187432,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales Miranda - d.miranda@vanderbilt.edu\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -187710,7 +187702,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 1/5/2026-3/2/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188244,7 +188236,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -188412,7 +188404,7 @@
         "notes": "Interested non-IGP/QCB students should contact Davie Morales - Miranda- d.miranda@vanderbilt.edu. This class will meet on MF from 3/6/2026-4/27/2026\n         \n            \n            Please see Brightspace for room assignments.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -196084,7 +196076,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -205242,11 +205234,11 @@
         "requirements": "",
         "description": "Migration, migrants, and the nature and making of borders, from inner cities to international and national borders. International migration and global capitalism. Border conflicts, nationalism, and territories. [3] (INT)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: International Cultures",
@@ -212276,7 +212268,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -215069,9 +215061,9 @@
         "requirements": "",
         "description": "(Also listed as ENVE 4620) Acquisition and interpretation of environmental data. Principles of chemical measurement, sample collection and sample program design; laboratory safety and good laboratory practices; analytical instrumentation and methods; quality assurance and quality control; and statistical interpretation of data. Hands-on experience through demonstrations featuring state-of-the-art analytical instrumentation. No credit for students who have earned credit for 4620. SPRING. [3]",
         "notes": "The combined enrollment capacity of ENVE 4620 and ENVE 5620 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "5",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -218551,9 +218543,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
@@ -219677,11 +219669,11 @@
         "requirements": "Prerequisite: ECON 1020. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2100) Emphasis on mandated corporate disclosure. Economic concepts that guide the development and use of accounting conventions as well as the institutional context that disciplines producers and users. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 1600. Prerequisite: ECON 1020. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
