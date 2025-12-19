@@ -3553,7 +3553,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -27388,7 +27388,7 @@
         "notes": "This class has a mezzanine option if grad students want to take it.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -27677,7 +27677,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "27",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -40509,7 +40509,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: E-Ethical & Social Engagement",
@@ -42706,7 +42706,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -54290,7 +54290,7 @@
         "notes": "To design a fall or summer capstone semester, register for HOD 4949 in spring. To design a spring capstone, register for HOD 4949 in fall. HOD 4949 is not offered in the summer. Requirements: Completed or enrolled in all HOD core classes. Note: You are permitted and required to take HOD 4949 while studying abroad if you are studying abroad the semester prior to your capstone semester.",
         "status": "Open",
         "capacity": "200",
-        "enrolled": "182",
+        "enrolled": "181",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -81531,7 +81531,7 @@
         "notes": "MMark and MBA",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -86260,7 +86260,7 @@
         "notes": "This graduate-level seminar introduces students to computational biology from both a methodological and problem-driven perspective. We will examine how computational models and algorithms can be designed to address biological questions, spanning topics from data representation to simulation, benchmarking, and method development. Beyond learning how to analyze biological data, students will be encouraged to think critically about problem formulation and software implementation. The course will center on reading and discussing published papers from leading journals and conferences, using them as case studies to reflect on these steps in practice.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -89345,9 +89345,9 @@
         "requirements": "",
         "description": "Examine science and technologies exploited by supervillains to achieve world domination.  Readings and discussions will reveal how these fictional schemes have real-world correlates that pose existential threats to humanity, and students will grapple with how we can summon our inner superhero to address them. [3] (CORE D, E)",
         "notes": "Examine science and technologies exploited by supervillains to achieve world domination. Readings and discussions will reveal how these fictional schemes have real-world correlates that pose existential threats to humanity, and students will grapple with how we can summon our inner superhero to address them.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -166296,7 +166296,7 @@
         "capacity": "48",
         "enrolled": "48",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -168486,7 +168486,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -170726,7 +170726,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -173713,9 +173713,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -177397,7 +177397,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -200756,7 +200756,7 @@
         "capacity": "16",
         "enrolled": "11",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "TR"
