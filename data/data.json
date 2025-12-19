@@ -9705,7 +9705,7 @@
         "capacity": "200",
         "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "34",
+        "wl_occupied": "33",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -10785,7 +10785,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "235",
-        "enrolled": "235",
+        "enrolled": "234",
         "wl_capacity": "75",
         "wl_occupied": "2",
         "attributes": [
@@ -36382,7 +36382,7 @@
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -36882,7 +36882,7 @@
         "capacity": "25",
         "enrolled": "14",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39760,7 +39760,7 @@
         "notes": "Availability of seats in this class is pending. Updates likely in November.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -42782,7 +42782,7 @@
         "notes": "This course will cover etiology, assessment, and treatment of psychological disorders (e.g., depression, anxiety, disruptive behavior disorders, autism spectrum disorders) emerging in childhood and adolescence. We will examine the development and treatment of psychopathology from an integrative perspective, including biological, cognitive, behavioral, cultural, and environmental perspectives, and explore current issues and challenges in the field Prerequisites: One course from PSY-PC 1205, 1207, 1250, or PSY 1200.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -91653,7 +91653,7 @@
         "notes": "Course only open to students in the Online Masters in Computer Science program. This course is a thorough exploration of the science of digital forensics. This course will include topics in OS forensics, mobile forensics, network forensics, forensic science theory, legal issues, etc. Standards and best practices in forensic science, such as NIST standards, will be covered. Numerous hands-on labs will be included that require application of theory, development of forensic arguments, and production of forensic papers.",
         "status": "Open",
         "capacity": "19",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -121178,7 +121178,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -153902,7 +153902,7 @@
         "capacity": "120",
         "enrolled": "116",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -160618,7 +160618,7 @@
         "notes": "The combined enrollment capacity of ENED 3350 and ENED 6360 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Initially opened to Teaching and Learning first majors, then Peabody students, then other undergraduates.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -178808,7 +178808,7 @@
         "capacity": "90",
         "enrolled": "90",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -191635,7 +191635,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -222398,7 +222398,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
