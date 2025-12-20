@@ -26282,7 +26282,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -28616,7 +28616,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "111",
+        "enrolled": "112",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -30950,9 +30950,9 @@
         "requirements": "",
         "description": "In this course, students will learn how to effectively communicate data insights to stakeholders through written, verbal, and visual means. The course integrates two key skills: communicating with data and data visualization. Students will explore different storytelling techniques and learn how to design effective visualizations that are both aesthetically pleasing and informative. By the end of the course, students will have the skills they need to become effective data storytellers and communicators, able to craft compelling narratives that convey complex data insights in a way that is both informative and engaging for a wide range of audiences. SPRING [3] Dorff",
         "notes": null,
-        "status": "Closed",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35981,11 +35981,11 @@
         "requirements": "Corequisite: Chem 1601L. Not open to students who have earned credit for CHEM 1010 without permission.",
         "description": "General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1010 without permission. Serves as repeat credit for 1010. Corequisite: 1601L. [3] (MNS) (CORE B) (LE MNS)",
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -48559,7 +48559,7 @@
         "notes": "The interdependence of cosmological theories and religious teachings from the eighth century BCE to the end of the seventeenth century. Examines scientific works and religious texts, including those of Aristotle, Thomas Aquinas, Copernicus, Luther, Galileo, and Newton.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -52432,7 +52432,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "15",
         "wl_occupied": "10",
         "attributes": [
@@ -56610,7 +56610,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -76995,7 +76995,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -78737,7 +78737,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -104652,7 +104652,7 @@
         "capacity": "11",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Perspectives",
@@ -105174,7 +105174,7 @@
         "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -109493,7 +109493,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -112423,7 +112423,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "85",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -112937,7 +112937,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -113779,7 +113779,7 @@
         "notes": "ot open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -122291,7 +122291,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -126809,7 +126809,7 @@
         "notes": "Seminar that examines the interdisciplinary intersection between cognitive neuroscience investigations of the development of brain structure and function and studies of cognitive development relevant to education. Topics including the emerging theoretical and empirical contribution of neuroscience approaches to understanding the typical and atypical development of domain specific academic skills such as reading and mathematics, as well as the neural basis of domain general processes crucial for educational success such as working memory, motivation, attention, and social cognition. [3]",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -160000,7 +160000,7 @@
         "notes": "Course Title: AI Everywhere. Some seats reserved for HOD juniors and seniors. Though seats may appear available, some are reserved. Please put your name on the waitlist if you cannot enroll. Class meets in the LIVE Learning Innovation Incubator Room A2009 in the SONY Building (1400 18th Ave S at intersection with De Ford Bailey).This course will count in Domain 1: Individual/Interpersonal for HOD students.",
         "status": "Wait list",
         "capacity": "22",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -168486,7 +168486,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "66",
+        "enrolled": "65",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -178435,7 +178435,7 @@
         "capacity": "5",
         "enrolled": "0",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -186067,9 +186067,9 @@
         "requirements": "",
         "description": "A study of the uses of language, definition, informal fallacies, the theory of the syllogism, the basic operations of modern symbolic logic, and selected issues in inductive logic and scientific method. Emphasis is placed on the ambiguities and pitfalls of ordinary usage and on techniques for translating ordinary arguments into formal logic. [3] (MNS) (CORE B, D) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -191517,7 +191517,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "43",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191556,7 +191556,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -191597,7 +191597,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "220",
-        "enrolled": "171",
+        "enrolled": "172",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -193835,7 +193835,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -196146,7 +196146,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -214763,7 +214763,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
