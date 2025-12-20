@@ -39300,7 +39300,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -45562,9 +45562,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -65070,7 +65070,7 @@
         "notes": "Artistic, musical, and cinematic representations of supernatural beings and scenes. Russian ancient beliefs and ritual practices from pre-Christian Slavic paganism and Christianity. Four main conceptual approaches to fairy tale analysis.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "10",
         "wl_occupied": "4",
         "attributes": [
@@ -71974,7 +71974,7 @@
         "notes": "Generative AI Engineering Applications. Introduction to Generative AI, with focus on models, training methodologies, and real-world engineering applications. Theoretical analysis and hands-on labs for challenges in electrical and computer engineering, including synthetic signal generation, defect simulation, data augmentation for low-sample tasks, and digital twin enhancement. Prerequisite: CS 1100 or CS 1101 or CS 1104; ECE/CS 2123/L or ECE/CS 2281/L or ME 2171 or BME 2900W or DS 3100. The combined enrollment capacity of ECE 3892 and ECE 8396 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -131766,7 +131766,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -133752,7 +133752,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "122",
+        "enrolled": "121",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -134114,7 +134114,7 @@
         "requirements": "",
         "description": "For students who need to improve their writing. Emphasis on writing skills, with some analysis of modern nonfiction writing. [3] (No AXLE credit)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Now You See Me: The Mark of the Writer",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "15",
@@ -134686,9 +134686,9 @@
         "requirements": "Pre- or co-requisite 1501 or 1601. Not open to students who have earned credit for PHYS 1501L or 1901 without permission.",
         "description": "Laboratory to accompany Physics 1501 and Physics 1601. Satisfies the AXLE lab course requirement when completed with 1501 or 1601. Serves as repeat credit for PHYS 1501L. Not open to students who have earned credit for 1901 without permission. Credit for this course and 1901 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite 1501 or 1601. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -195360,11 +195360,11 @@
         "requirements": "Not open to students who have earned credit for MATH 1100 or 1300 without permission.",
         "description": "A first semester calculus course covering differential calculus in the context of optimization and other applications to the social sciences.  Review of functions and trigonometry. Exponential and logarithmic functions, inverse functions. Limits and asymptotic behavior, differentiation, rules of differentiation, related rates, maximum and minimum values, curve sketching. Not open to students who have earned credit for MATH 1100 or 1300 without permission. Total credit for this course and MATH 1100 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (MNS)",
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "36",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195528,11 +195528,11 @@
         "requirements": "Not open to students who have earned credit for MATH 1100 or 1300 without permission.",
         "description": "A first semester calculus course covering differential calculus in the context of optimization and other applications to the social sciences.  Review of functions and trigonometry. Exponential and logarithmic functions, inverse functions. Limits and asymptotic behavior, differentiation, rules of differentiation, related rates, maximum and minimum values, curve sketching. Not open to students who have earned credit for MATH 1100 or 1300 without permission. Total credit for this course and MATH 1100 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (MNS)",
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -201479,7 +201479,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -205979,7 +205979,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
