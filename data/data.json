@@ -24087,9 +24087,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Immersion: Exp. or Culm. (Instructor guidance)"
         ],
@@ -40218,9 +40218,9 @@
         "requirements": "",
         "description": "Interconnections among the exploitation of nature, the oppression of women, and the abuse of resources that have led to the current global ecological crisis. [3] (SBS) (CORE B) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -50731,7 +50731,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -108708,9 +108708,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Pandemics in World Literature and Film\" A pandemic is a widespread epidemic. The word comes from the Greek Pandemos, meaning \"of all the people.\" COVID-19 is a pandemic disease because it has spread around the globe. It has affected virtually everybody on earth. What happens when a disease is so widespread that it makes us feel that nobody is safe, that it will contaminate everyone eventually? Does the experience make us more aware of our shared mortality? Does it make us take stock of our vulnerable condition? Does it change our perspective? Do we look differently at ourselves and at others? Does it challenge our illusions of personal invincibility and collective superiority? These are very old questions that writers the world over have addressed in literature. In this course, we will read examples from the literature of Pandemics with these questions in mind. We will explore their elaboration, in fiction, of the connection between our shared vulnerable bodies and the illusion of our personal or collective invulnerability. We will explore, again, the lessons that pandemic diseases, like COVID-19, teach us, with a view to develop a different ethical relation to our world and to others. (Core capacity tags: C, E / AXLE tags: INT)",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -133416,7 +133416,7 @@
         "capacity": "70",
         "enrolled": "57",
         "wl_capacity": "75",
-        "wl_occupied": "38",
+        "wl_occupied": "37",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -152601,7 +152601,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "53",
+        "enrolled": "54",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -192887,7 +192887,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
