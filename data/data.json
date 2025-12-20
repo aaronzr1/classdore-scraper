@@ -11057,7 +11057,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "21",
+        "wl_occupied": "20",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -76517,7 +76517,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -78737,7 +78737,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -110665,7 +110665,7 @@
         "capacity": "17",
         "enrolled": "16",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -133584,7 +133584,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -134157,7 +134157,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "8",
         "attributes": [
@@ -178684,7 +178684,7 @@
         "notes": "Students registered for lecture 03 must also register for sec 41, 42, 43, 44, or 45 of discussion.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "6",
         "attributes": [
@@ -178770,7 +178770,7 @@
         "notes": "Students registered for lecture sec 03 must also register for sec 41, 42, 43, 44, or 45 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -196467,7 +196467,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "92",
+        "enrolled": "93",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
