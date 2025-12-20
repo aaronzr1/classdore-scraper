@@ -5889,7 +5889,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Medicine Health and Society",
@@ -37029,7 +37029,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "150",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -109452,7 +109452,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -114282,9 +114282,9 @@
         "requirements": "Prerequisite: MATH 1100, MATH 1200, or MATH 1300. Not open to students who have earned credit for ECON 1510.",
         "description": "The use of quantitative data in understanding economic phenomena. Probability, sampling, inference, and regression analysis. Not open to students who have earned credit for 1510. Total credit for this course and 1510 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: Math 1100, 1200, or 1300. [3] (SBS) (CORE D) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -138966,7 +138966,7 @@
         "capacity": "45",
         "enrolled": "44",
         "wl_capacity": "30",
-        "wl_occupied": "3",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -139286,7 +139286,7 @@
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -139773,7 +139773,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -153845,7 +153845,7 @@
         "notes": "Students who enroll in PHIL 1005-01 are required to enroll in a PHIL 1005 discussion section. 02-09",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "117",
+        "enrolled": "118",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -157041,7 +157041,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -190602,11 +190602,11 @@
         "requirements": "",
         "description": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. Students with a 5 on AP Statistics or credits from ECON 1500, PSY 2100, or MATH 2810/2820 are strongly discouraged from taking this class. [3]",
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra.\n         \n            \n            Fifteen seats reserved for Peabody students during initial enrollment period.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "19",
+        "wl_occupied": "20",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -195612,7 +195612,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "36",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195772,7 +195772,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -207710,11 +207710,11 @@
         "requirements": "",
         "description": "The study of human society; the nature of culture and its organization. Processes of communication, socialization, mobility, population growth. Repeat credit for students who have completed 1010W or 1011. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
