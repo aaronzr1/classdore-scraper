@@ -39886,9 +39886,9 @@
         "requirements": "",
         "description": "Selected critical approaches to literature. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -48978,7 +48978,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "69",
+        "enrolled": "68",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -49791,9 +49791,9 @@
         "requirements": "Prerequisites: One of: CS 1100, DS 1100, CS 1101 or CS 1104. One of: DS 2100, BME 2400, BSCI 3270, CE 3300, ECON 1500 or 1510, MATH 2810 or 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "Obtaining, manipulating, processing, cleaning, wrangling, visualizing, and analyzing data; effectively communicating results from data analyses. Imputation, multiple linear and logistic regression, regularization, dimensionality reduction, maximum likelihood, model selection, general linear model. Ethics, privacy, and security in data science. Statistical computing for data science in R. Prerequisites: One of: CS 1100, 1101, or 1104. One of: DS 2100, BME 2400, BSCI 3270, CE 3300, ECON 1500, ECON 1510, MATH 2810, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [4]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -49995,7 +49995,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "100",
         "wl_occupied": "5",
         "attributes": [
@@ -50236,7 +50236,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "50",
         "wl_occupied": "2",
         "attributes": [
@@ -52989,7 +52989,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Neuro-Culture",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -59982,7 +59982,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "21",
+        "wl_occupied": "22",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -106435,7 +106435,7 @@
         "notes": "The combined enrollment capacity of CS 4383 and CS 5383 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -106910,7 +106910,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -114622,9 +114622,9 @@
         "requirements": "Prerequisite: BUS 1100 or 2100, ECON 1020, and one of BME 2400, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. Not open to students who have earned credit for FNEC 2700 without permission.",
         "description": "(Previously BUS 2300) Emphasis on asset valuation. Stock and bond valuation, capital budgeting, cost of capital, market efficiency, and company valuation. Not open to students who have earned credit for FNEC 2700 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 2700. Prerequisite: BUS 1100 (Previously BUS 2100), ECON 1020, and one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -117397,9 +117397,9 @@
         "requirements": "",
         "description": "Theories and empirical evidence concerning inequality, poverty, and discrimination, and their relationship to economic growth. Evaluation of anti-poverty and anti-discrimination policies. [3]",
         "notes": "The combined enrollment capacity of ECON 3110 and ECON 5240 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "3",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -134608,9 +134608,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134688,7 +134688,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -145203,7 +145203,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "35",
         "wl_occupied": "1",
         "attributes": [
@@ -160041,7 +160041,7 @@
         "notes": "Course Title: AI Everywhere. Some seats reserved for HOD juniors and seniors. Though seats may appear available, some are reserved. Please put your name on the waitlist if you cannot enroll. Class meets in the LIVE Learning Innovation Incubator Room A2009 in the SONY Building (1400 18th Ave S at intersection with De Ford Bailey).This course will count in Domain 1: Individual/Interpersonal for HOD students.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
