@@ -29097,7 +29097,7 @@
         "notes": "The combined enrollment capacity of MATH 3640 and MATH 5640 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "8",
         "attributes": [
@@ -35142,7 +35142,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor",
@@ -102389,7 +102389,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -132177,9 +132177,9 @@
         "requirements": "",
         "description": "Historical, cultural, and social contexts of sexual diversity, discrimination, and sexual violence. Understanding the centrality of sexuality to identity; challenging harmful modes of sexual expression; developing critical awareness of sex and sexuality. [3] (P) (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -132224,7 +132224,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -166296,7 +166296,7 @@
         "capacity": "48",
         "enrolled": "48",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -174819,9 +174819,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -199969,7 +199969,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -206059,7 +206059,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -216522,7 +216522,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
