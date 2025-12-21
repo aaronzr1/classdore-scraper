@@ -42055,7 +42055,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -49223,7 +49223,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -62025,7 +62025,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -74967,7 +74967,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "35",
         "wl_occupied": "2",
         "attributes": [
@@ -93620,9 +93620,9 @@
         "requirements": "Prereq: CS 2201 or ECE 2201",
         "description": "Also listed as ECE 3251. High quality development and reuse of architectural patterns, design patterns, and software components. Theoretical and practical aspects of developing, documenting, testing, and applying reusable class libraries and object-oriented frameworks using object-oriented and component-based programming languages and tools. Serves as repeat credit for ECE 3251. No credit for students who have earned credit for CS 5251. Prerequisite: CS 2201 or ECE 2201. FALL, SPRING [3]",
         "notes": "The combined enrollment capacity of CS 3251, ECE 3251, and CS 5251 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "45",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -117794,7 +117794,7 @@
         "notes": "Not open to first-year students. Seats initially reserved for HOD majors and a limited number of HOD minors. If you cannot enroll, please put your name on the waitlist. Students must enroll for a discussion section (section 2-5).",
         "status": "Open",
         "capacity": "85",
-        "enrolled": "82",
+        "enrolled": "81",
         "wl_capacity": "20",
         "wl_occupied": "13",
         "attributes": [
@@ -117998,7 +117998,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -131764,7 +131764,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -146874,7 +146874,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -160002,7 +160002,7 @@
         "capacity": "22",
         "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "HOD Domain 1"
         ],
@@ -183233,11 +183233,11 @@
         "requirements": "Not open to students who have earned credit for ECE 2116L without permission. Corequisite: ECE 2123.",
         "description": "(Also listed as CS 2123L). Laboratory for ECE 2123. One three-hour laboratory per week. ECE 2123L is not open to students who have earned credit for ECE 2116L. Serves as repeat credit for CS 2123L. Corequisite: ECE 2123. FALL, SPRING [1].",
         "notes": "Students must register for both lecture and lab in ECE 2123 and ECE 2123L\n         \n            \n            The combined enrollment capacity of CS 2123L and ECE 2123L is 18. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "2",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -188098,7 +188098,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -216648,7 +216648,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
