@@ -24526,7 +24526,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: AI, Robots, and Clones",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -38045,7 +38045,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -51707,7 +51707,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "41",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -190976,9 +190976,9 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Analysis of major issues and debates in American economic history. Prerequisite: 3010 or 3012. [3] (US)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
