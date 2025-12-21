@@ -29057,7 +29057,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36364,7 +36364,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "158",
+        "enrolled": "157",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -37848,7 +37848,7 @@
         "notes": "Students registered in this section will be appropriated into the following rooms: SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39575,7 +39575,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "80",
+        "enrolled": "79",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -67136,11 +67136,11 @@
         "requirements": "Prerequisite: H&OD first or second majors and Sophomore, Junior, or Senior Registration Group.",
         "description": "The course provides a general overview of social, economic, and other environmental factors impacting the world of work and helps students in understanding how organizations are responding to this changing landscape. The course also enables students to critically engage this context by developing competencies and skills which will be applicable in a diversity of settings. [3]",
         "notes": "Seats initially reserved for HOD SO, JR, and SR Majors and Minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "19",
+        "wl_occupied": "20",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -106108,7 +106108,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1"
@@ -113740,7 +113740,7 @@
         "capacity": "28",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -165033,7 +165033,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -199760,7 +199760,7 @@
         "capacity": "30",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Communication of Science and Tech",
