@@ -2937,7 +2937,7 @@
         "notes": "The enrollment capacity of JS 2710 and DIV 7146 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -28616,7 +28616,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "112",
+        "enrolled": "111",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -41562,7 +41562,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -59982,7 +59982,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "22",
+        "wl_occupied": "21",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -106947,7 +106947,7 @@
         "notes": "Full title: \"From Mountains to Sea - The Intersection of Environment, Culture, and Society\" - At the roof of our planet, the Himalayan mountains and Tibetan plateau give rise to the world's most intense climate system - the Asian monsoon. The abundant monsoon rains feed seven of the world's ten largest rivers, rapidly eroding the region's high plateau and steep mountainsides. These waterways deliver immense volumes of water and sediment to the surrounding lowlands, forming fertile plains and river deltas at the coast. Agriculture and fisheries across these productive lands support more than 40% of the world's population, including four of the top 8 most-populous nations. Stretching from the highest mountain tops to largest seas, this diverse and spectacular region is truly a land of superlatives. In our class, we will learn about the region's climate, environments, and natural resources, and explore together how these settings shape and interact with the diverse cultures, religions, and politics from highland to coast. (Core capacity tags: B, E / AXLE tags: SBS)",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108550,7 +108550,7 @@
         "notes": "Full title: \"Level Up: Video Games, Culture, and Social Change\" This seminar examines how video games-a cultural force larger than movies and music-function as art, social critique, and mirrors of society, analyzing aspects ranging from narrative and representation to ethics and identity. Forget game design; this class is about developing sharp critical thinking and media literacy skills to analyze how video games shape and reflect the real world. (Core capacity tags: B, C / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "17",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -128754,7 +128754,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -130274,7 +130274,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -133710,7 +133710,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "75",
         "wl_occupied": "17",
         "attributes": [
@@ -135452,7 +135452,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -175440,7 +175440,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -178729,7 +178729,7 @@
         "capacity": "90",
         "enrolled": "90",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -188098,7 +188098,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -199109,7 +199109,7 @@
         "capacity": "36",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199191,7 +199191,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200211,7 +200211,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
