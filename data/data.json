@@ -93150,7 +93150,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -93427,7 +93427,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
