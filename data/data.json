@@ -23313,7 +23313,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "6",
         "wl_occupied": "1",
         "attributes": [
@@ -44355,7 +44355,7 @@
         "capacity": "8",
         "enrolled": "1",
         "wl_capacity": "4",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "W"
