@@ -22609,7 +22609,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -27921,7 +27921,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "51",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -28129,7 +28129,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "38",
+        "wl_occupied": "37",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -28616,7 +28616,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "111",
+        "enrolled": "112",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -74889,7 +74889,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -108708,9 +108708,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Pandemics in World Literature and Film\" A pandemic is a widespread epidemic. The word comes from the Greek Pandemos, meaning \"of all the people.\" COVID-19 is a pandemic disease because it has spread around the globe. It has affected virtually everybody on earth. What happens when a disease is so widespread that it makes us feel that nobody is safe, that it will contaminate everyone eventually? Does the experience make us more aware of our shared mortality? Does it make us take stock of our vulnerable condition? Does it change our perspective? Do we look differently at ourselves and at others? Does it challenge our illusions of personal invincibility and collective superiority? These are very old questions that writers the world over have addressed in literature. In this course, we will read examples from the literature of Pandemics with these questions in mind. We will explore their elaboration, in fiction, of the connection between our shared vulnerable bodies and the illusion of our personal or collective invulnerability. We will explore, again, the lessons that pandemic diseases, like COVID-19, teach us, with a view to develop a different ethical relation to our world and to others. (Core capacity tags: C, E / AXLE tags: INT)",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -113551,7 +113551,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -133712,7 +133712,7 @@
         "capacity": "70",
         "enrolled": "22",
         "wl_capacity": "75",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -134159,7 +134159,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -175440,7 +175440,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -176421,7 +176421,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -190433,7 +190433,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "50",
+        "enrolled": "52",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -196467,7 +196467,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "93",
+        "enrolled": "92",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -207760,7 +207760,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -215333,7 +215333,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
