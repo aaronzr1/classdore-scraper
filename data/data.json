@@ -34789,8 +34789,8 @@
         "requirements": "Prerequisite: Learning and Leadership in Organizations Ed.D. major. Pre- or Co-requisite: LLO 8110",
         "description": "This course is designed to help students develop the business acumen required of successful leaders across organizational settings. For this course, business acumen has two critical components. First is the strategic insight needed to understand what the organization is trying to accomplish and one's role in helping it achieve those objectives. Second is a facility with the financial and non-financial data needed to monitor and evaluate progress toward those goals. Key outcomes are developing the business acumen needed to assess and design organizational strategies; create a budget for an organizational initiative or department; and construct meaningful metrics and use them to evaluate organizational progress. [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
-        "status": "Closed",
-        "capacity": "19",
+        "status": "Open",
+        "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -41728,7 +41728,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "11",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -91771,7 +91771,7 @@
         "description": "A great deal of the theory and research on leadership has relied on the \"industrial\" model of leadership in which the primary outcome of interest is some measure of organizational performance. In this type of leadership theory, goals are unambiguous and the means to achieve them are uncontested and clear. In the context of modern, knowledge- and service-based organizations, this model is at best deficient and at worst the basis for serious negative, unintended consequences. Although we can learn from this leadership research, it tends to underplay the importance of values and ethics as well as the social and institutional context in which leadership takes place. The focus in this class is on leadership in organizations, where other, external values, goals and expectations stand alongside (or above) simple organizational performance. We will cover a number of important theories, but we will do so with an interest in developing leadership capabilities in our selves and others. As a result, we will move back and forth between theory and practice, and include opportunities for self-reflection and skill development. Prerequisite: Leadership and Learning in Organizations Ed.D. major [3]",
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Barzel, Ur",
         "status": "Open",
-        "capacity": "19",
+        "capacity": "20",
         "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -95211,7 +95211,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Xu, Yaomin"
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -111039,9 +111039,9 @@
         "notes": "The combined enrollment capacity of MATH 3320 and MATH 5320 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -117589,7 +117589,7 @@
         "class_type": "Lecture",
         "credit_hours": "3.0",
         "grading_basis": "Standard Grading Basis",
-        "consent": "No Special Consent Required",
+        "consent": "Department Consent Required",
         "term_year": "2026",
         "term_season": "Spring",
         "session": "Regular Academic Session",
@@ -125725,7 +125725,7 @@
         "notes": "The combined enrollment capacity of CS 3281 and CS 5281 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -133755,7 +133755,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "121",
+        "enrolled": "120",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -134283,7 +134283,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "8",
         "attributes": [
@@ -137384,7 +137384,7 @@
         "class_type": "Lecture",
         "credit_hours": "1.0",
         "grading_basis": "Standard Grading Basis",
-        "consent": "No Special Consent Required",
+        "consent": "Department Consent Required",
         "term_year": "2026",
         "term_season": "Spring",
         "session": "Regular Academic Session",
@@ -152960,7 +152960,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -168482,7 +168482,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "64",
+        "enrolled": "63",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -173672,7 +173672,7 @@
         "notes": "This course will introduce theoretical and practical aspects of quantum computing.  The first part of the course will discuss the history of the field through the current state of the art. We will then cover the mathematical and physical principles of quantum computing and will rigorously examine some of the most famous algorithms in the field. The second part of the course will be hands-on, where we leverage Python and Qiskit to build real programs for quantum computers. The course may conclude with student presentations about recent research papers or student-led projects. Comfort with Python is necessary for this course. Prerequisites: CS3250; linear algebra; differential equations.\n         \n            \n            The combined enrollment capacity of CS 3891 and CS 5891 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -187929,7 +187929,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -188012,7 +188012,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -195444,7 +195444,7 @@
         "notes": "See English Department Website for a more detailed course description. Pre-1800",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
