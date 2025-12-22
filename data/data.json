@@ -2584,7 +2584,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "12",
         "attributes": [
@@ -108262,7 +108262,7 @@
         "notes": "The combined enrollment capacity of MHS 3890-03 and MHS 6500-01 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "15",
         "wl_occupied": "7",
         "attributes": null,
@@ -152956,7 +152956,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "45",
+        "enrolled": "46",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -177397,7 +177397,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
