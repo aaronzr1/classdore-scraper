@@ -15738,7 +15738,8 @@
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
-            "CORE: C-Cultural & Interpretive Investigation"
+            "CORE: C-Cultural & Interpretive Investigation",
+            "LE: SBS-Social and Behavioral Sciences"
         ],
         "meeting_days": [
             "MWF"
@@ -26124,7 +26125,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -35598,7 +35599,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: E-Ethical & Social Engagement",
@@ -36737,9 +36738,9 @@
         "requirements": "",
         "description": "(Previously NURS 6020) This three (3) credit-hour graduate-level course builds on pre-requisite knowledge of pharmacology and is designed to equip advanced practice nursing students with knowledge to guide the safe and appropriate selection of pharmacologic agents for the evidence-based management of common acute and chronic health conditions for diverse populations across the lifespan. Prerequisite: undergraduate or other foundational Pharmacology course. [3]",
         "notes": "Students can enroll in any open section. This course will be taught entirely online.",
-        "status": "Open",
-        "capacity": "30",
-        "enrolled": "29",
+        "status": "Closed",
+        "capacity": "24",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36815,9 +36816,9 @@
         "requirements": "",
         "description": "(Previously NURS 6020) This three (3) credit-hour graduate-level course builds on pre-requisite knowledge of pharmacology and is designed to equip advanced practice nursing students with knowledge to guide the safe and appropriate selection of pharmacologic agents for the evidence-based management of common acute and chronic health conditions for diverse populations across the lifespan. Prerequisite: undergraduate or other foundational Pharmacology course. [3]",
         "notes": "Students can enroll in any open section. This course will be taught entirely online.",
-        "status": "Open",
-        "capacity": "30",
-        "enrolled": "18",
+        "status": "Closed",
+        "capacity": "23",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -48559,7 +48560,7 @@
         "notes": "The interdependence of cosmological theories and religious teachings from the eighth century BCE to the end of the seventeenth century. Examines scientific works and religious texts, including those of Aristotle, Thomas Aquinas, Copernicus, Luther, Galileo, and Newton.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -48902,6 +48903,7 @@
             "Eligible for European Studies",
             "Eligible for Jewish Studies",
             "Eligible for Law, History, and Society",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -50484,7 +50486,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -50938,11 +50940,11 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Theories and empirical evidence of the determinants of wages and employment. Compensating differentials, education and human capital, migration and labor mobility, discrimination, incentive pay, wage inequality. Prerequisite: 3010 or 3012. [3] (SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -53873,7 +53875,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -58033,9 +58035,9 @@
         "requirements": "NURSNURMN",
         "description": "This course is the first in a series on the professional nursing role. The didactic course is designed to foster learner development of an identity for nursing practice. Learners will explore the influence of historical and theoretical foundations of nursing on contemporary professional nursing practice. Principles of person-centered nursing practice including legal accountability, nursing informatics, and ethical theories informing decision-making in nursing will be discussed. Learners will develop an understanding of responsibilities for personal health and well-being, capacity for leadership, and the role of the nurse within the interprofessional healthcare environment. The role of the nurse as educator will be explored with emphasis on learning theory and teaching strategies to enhance ongoing learning within the interprofessional healthcare team. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "21",
-        "enrolled": "27",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -58074,7 +58076,7 @@
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
         "capacity": "21",
-        "enrolled": "6",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -66978,7 +66980,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "15",
+        "wl_occupied": "16",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -76755,7 +76757,7 @@
         "capacity": "30",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -101603,6 +101605,7 @@
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: C-Cultural & Interpretive Investigation",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -101991,7 +101994,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -102192,7 +102195,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -102705,7 +102708,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -103343,7 +103346,7 @@
         "notes": "Students will be manually enrolled by the Peabody Office of Academic Services. The combined enrollment capacity of EDUC 3890 and EDUC 7500 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close. 2. Class meets on the following Fridays from 4:30-9:00pm (January 9, January 30, February 20, and March 27 you must be able to attend all 4 dates) Course Fee: $5665 includes travel from the Nashville airport to Paris and the return flight from Paris to Nashville. It also includes hotels, transport, entry to class-related field sites while traveling, some meals, guided tours, tips, and all museum visits. Students registered for this class on December 1 will be responsible for the full travel fee regardless of whether they remain in the class. While students can drop the credit hours after December 1, students will still be required to pay the travel fee. Section requires travel to France over Spring Break.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -109202,9 +109205,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Designed to improve the student's ability to analyze behavioral patterns in groups such as leadership, conflict, and decision making and group roles. The student is expected to improve his/her abilities by effective participation in the group as well as in written analyses. Problems for analysis are drawn from events in the group and from theoretical readings. [3]",
         "notes": "Not open to Seniors.\n         \n            \n            If you cannot enroll, please put your name on the waitlist.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -110621,7 +110624,7 @@
         "capacity": "25",
         "enrolled": "29",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -110671,6 +110674,7 @@
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
             "Eligible for Communication of Science and Tech",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -110837,6 +110841,7 @@
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
             "Eligible for Communication of Science and Tech",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -113303,7 +113308,7 @@
         "notes": "The combined enrollment capacity of MATH 3310 and MATH 5310 is 20. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "6",
         "attributes": [
@@ -119270,8 +119275,8 @@
         "description": "This course is the second in a series on health equity. Students will analyze the use of quality improvement, policy development, population health data and models of care to promote equitable health and systems outcomes. Health care economics influencing access to care will be explored. Learners will leverage clinical informatics tools to analyze health and health care needs of diverse individuals, communities, and populations. Pre/corequisites: 8212 and 8214. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Closed",
-        "capacity": "32",
-        "enrolled": "32",
+        "capacity": "31",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -119506,8 +119511,8 @@
         "description": "This course is the second in a series on health equity. Students will analyze the use of quality improvement, policy development, population health data and models of care to promote equitable health and systems outcomes. Health care economics influencing access to care will be explored. Learners will leverage clinical informatics tools to analyze health and health care needs of diverse individuals, communities, and populations. Pre/corequisites: 8212 and 8214. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Closed",
-        "capacity": "32",
-        "enrolled": "32",
+        "capacity": "31",
+        "enrolled": "31",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -119742,8 +119747,8 @@
         "description": "This course is the second in a series on health equity. Students will analyze the use of quality improvement, policy development, population health data and models of care to promote equitable health and systems outcomes. Health care economics influencing access to care will be explored. Learners will leverage clinical informatics tools to analyze health and health care needs of diverse individuals, communities, and populations. Pre/corequisites: 8212 and 8214. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Open",
-        "capacity": "32",
-        "enrolled": "28",
+        "capacity": "31",
+        "enrolled": "30",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120224,8 +120229,8 @@
         "description": "This course is the second in a series on health equity. Students will analyze the use of quality improvement, policy development, population health data and models of care to promote equitable health and systems outcomes. Health care economics influencing access to care will be explored. Learners will leverage clinical informatics tools to analyze health and health care needs of diverse individuals, communities, and populations. Pre/corequisites: 8212 and 8214. [2]",
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Closed",
-        "capacity": "23",
-        "enrolled": "23",
+        "capacity": "22",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120569,8 +120574,8 @@
         "description": "This course is the second in a series on health equity. Students will analyze the use of quality improvement, policy development, population health data and models of care to promote equitable health and systems outcomes. Health care economics influencing access to care will be explored. Learners will leverage clinical informatics tools to analyze health and health care needs of diverse individuals, communities, and populations. Pre/corequisites: 8212 and 8214. [2]",
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
         "status": "Open",
-        "capacity": "23",
-        "enrolled": "20",
+        "capacity": "22",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130854,7 +130859,7 @@
         "notes": "The combined enrollment capacity of ECON 3350 and ECON 5350 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -134485,7 +134490,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -139323,11 +139328,11 @@
         "requirements": "NSC 1400 as pre-req",
         "description": "Neural basis of the regulation and dysregulation of reward processing. Pathophysiology of addiction. Serves as repeat credit for NSC 3891 Section 01 in Spring 2016. Prerequisite 1400 (formerly 2201). [3] (MNS)",
         "notes": "The combined enrollment capacity of NSC 3240 and NSC 5240 is 30. Although seats ma appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -146754,7 +146759,8 @@
             "CORE: C-Cultural & Interpretive Investigation",
             "CORE: E-Ethical & Social Engagement",
             "Eligible for American Studies Major",
-            "Eligible for European Studies"
+            "Eligible for European Studies",
+            "LE: HFA-Humanities and Fine Arts"
         ],
         "meeting_days": [
             "TR"
@@ -164583,9 +164589,9 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -167876,7 +167882,7 @@
         "notes": "Furman 121A",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -172069,9 +172075,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -181939,7 +181945,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -183747,7 +183753,7 @@
         "notes": "The combined enrollment capacity of EES 1510 and 1515 is 105. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "50",
         "wl_occupied": "9",
         "attributes": [
@@ -184189,7 +184195,7 @@
         "notes": "Requires field trip participation; dates to be announced.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -185583,7 +185589,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "13",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -187125,6 +187131,7 @@
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
+            "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
         "meeting_days": [
@@ -190969,9 +190976,9 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Analysis of major issues and debates in American economic history. Prerequisite: 3010 or 3012. [3] (US)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -193621,7 +193628,7 @@
         "capacity": "11",
         "enrolled": "11",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -194904,7 +194911,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -195892,7 +195899,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "36",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195933,7 +195940,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -196461,7 +196468,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "92",
+        "enrolled": "93",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -214590,7 +214597,7 @@
         "notes": "The combined enrollment capacity of ECON 3110 and ECON 5240 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -215370,8 +215377,8 @@
         "description": "This course is the third in a series on the professional nursing role. The didactic course is designed to foster learner integration of the art and science of nursing including ethical practice, person-centered care, advocacy, informatics, leadership, and ongoing education within health care systems and organizations. Emphasis will be placed on the role of the nurse for safe management of care and the development of ethical, evidence-based leadership for nursing practice. Learners will explore leadership principles necessary for guiding health care teams through planned change and conflict management to promote healthy work environments. Evaluation of the relationships among theory, evidence, and practice will cultivate learners' spirit of inquiry and advocacy for promoting quality and safety in professional nursing practice. Prerequisites: 8222 and 8224. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
         "status": "Closed",
-        "capacity": "30",
-        "enrolled": "30",
+        "capacity": "21",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -215466,9 +215473,9 @@
         "requirements": "NURS 8222, NURS 8224 & MN students",
         "description": "This course is the third in a series on the professional nursing role. The didactic course is designed to foster learner integration of the art and science of nursing including ethical practice, person-centered care, advocacy, informatics, leadership, and ongoing education within health care systems and organizations. Emphasis will be placed on the role of the nurse for safe management of care and the development of ethical, evidence-based leadership for nursing practice. Learners will explore leadership principles necessary for guiding health care teams through planned change and conflict management to promote healthy work environments. Evaluation of the relationships among theory, evidence, and practice will cultivate learners' spirit of inquiry and advocacy for promoting quality and safety in professional nursing practice. Prerequisites: 8222 and 8224. [2]",
         "notes": "This section is for MN students only. Students can self-enroll in any open section.",
-        "status": "Open",
-        "capacity": "30",
-        "enrolled": "11",
+        "status": "Closed",
+        "capacity": "20",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -216640,9 +216647,9 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
