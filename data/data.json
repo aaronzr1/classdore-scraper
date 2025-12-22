@@ -568,7 +568,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -16352,7 +16352,7 @@
         "notes": "The combined enrollment capacity of CS 4279 and CS 5279 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -21533,7 +21533,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -22607,11 +22607,11 @@
         "requirements": "",
         "description": "(Previously BUS 2600) Success in business is driven by providing goods and services that consumers need and want. This course covers how to achieve such success through analyses of companies, customers, and competitors, and making the right decisions regarding what products to offer, and how to price, promote, and distribute them. Course content spans a wide variety of settings including consumer goods, hi-tech, and service firms, and puts a particular emphasis on digital marketing opportunities and the evolving role of social media. Not open to students who have earned credit for MGRL 1200 without permission, as students will forfeit credit hours. Serves as repeat credit for MGRL 1200. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -22980,11 +22980,11 @@
         "requirements": "",
         "description": "(Previously BUS 2600) Success in business is driven by providing goods and services that consumers need and want. This course covers how to achieve such success through analyses of companies, customers, and competitors, and making the right decisions regarding what products to offer, and how to price, promote, and distribute them. Course content spans a wide variety of settings including consumer goods, hi-tech, and service firms, and puts a particular emphasis on digital marketing opportunities and the evolving role of social media. Not open to students who have earned credit for MGRL 1200 without permission, as students will forfeit credit hours. Serves as repeat credit for MGRL 1200. [1.5]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -25646,9 +25646,9 @@
         "requirements": "ASTR 1010 as Corequisite",
         "description": "Phases of the Moon, colors of stars, shapes and motions of galaxies, properties of exoplanets, and ages of star clusters. Telescopic observations of the Sun. Laboratory ordinarily accompanied by 1010 or 3000. Satisfies the AXLE lab course requirement when completed with 1010 or 3000. Satisfies College Core Inquiry Lab when completed with 1010. Serves as repeat credit for ASTR 1010L.  [1] (No AXLE credit) (CORE: LB)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "21",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -38045,7 +38045,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -59982,7 +59982,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "21",
+        "wl_occupied": "20",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -69856,7 +69856,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "111",
+        "enrolled": "112",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -102705,7 +102705,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -104258,7 +104258,7 @@
         "notes": "The combined enrollment capacity of CS 4277, ECE 4277, and CS 5277 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -108066,7 +108066,7 @@
         "notes": "Who is a space for? Who is excluded? How can we redesign it? Explores how buildings, cities, and everyday spaces shape disability. Introduces medical, social, and cultural models of disability. Eligible for MHS concentration areas D, E, and electives.\n         \n            \n            The combined enrollment capacity of MHS 3890-02, HART 3890-01, and MHS 6500-08 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -109944,7 +109944,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -110495,7 +110495,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -114370,7 +114370,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -133710,9 +133710,9 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "75",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -134485,7 +134485,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -150768,7 +150768,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "21",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -153760,7 +153760,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -157291,7 +157291,7 @@
         "notes": "The combined enrollment capacity of PHIL 1103 and PSCI 1103 is 120. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -160299,11 +160299,11 @@
         "requirements": "",
         "description": "An introduction to the basic problems of philosophy based upon readings in the works of selected leading philosophers. Repeat credit for students who have completed 1002. [3] (HCA) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -199969,7 +199969,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -200543,7 +200543,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "11",
         "attributes": [
