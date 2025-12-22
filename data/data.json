@@ -45039,7 +45039,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -55051,7 +55051,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3861- directed-lab-research/",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -56077,7 +56077,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -108105,7 +108105,7 @@
         "notes": "The combined enrollment capacity of BSCI 4226 and BSCI 6226 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -122775,7 +122775,7 @@
         "notes": "The combined enrollment capacity of ME 4263 and ME 5263 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -138598,7 +138598,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -138966,7 +138966,7 @@
         "capacity": "45",
         "enrolled": "44",
         "wl_capacity": "30",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -139325,7 +139325,7 @@
         "notes": "The combined enrollment capacity of NSC 3240 and NSC 5240 is 30. Although seats ma appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Closed",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "12",
         "attributes": [
@@ -139773,7 +139773,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -144480,11 +144480,11 @@
         "requirements": "",
         "description": "Uses Microsoft Excel (Office 365) for Windows and Mac to demonstrate the power of efficient analytics for business intelligence. Advanced features of Excel are covered, including named ranges, formal tables, structured references for tables, pivot tables, form controls, conditional formatting, and advanced worksheet functions, including the new dynamic-array worksheet functions. Applications include optimization modeling (linear programming) and simulation of financial and operations problems. Financial applications include portfolio optimization, short-term cash flow planning, and arbitrage models. Operations applications include supply chain optimization, aggregate production and inventory planning, and personnel scheduling. Illustrations from actual company projects demonstrate the power and versatility of course concepts. At the end of this course, students should become Excel power users. Prerequisite: A knowledge of Excel's SUM, MIN, MAX, and AVERAGE functions, copying and pasting formulas with relative and absolute cell references (such as $A$1), and formatting the number of decimal places in data cells. A test is available from the instructor to determine whether students will need to come to review sessions in order to stay in the class. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "0",
         "enrolled": "38",
         "wl_capacity": "7",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Ops & Analytics Concentration"
         ],
@@ -145203,7 +145203,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "35",
         "wl_occupied": "1",
         "attributes": [
@@ -146384,7 +146384,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -152601,7 +152601,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -164583,7 +164583,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -178266,7 +178266,7 @@
         "notes": "The combined enrollment capacity of ECE 4275 and ECE 5275 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -212377,9 +212377,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -212460,7 +212460,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -212713,7 +212713,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -213367,7 +213367,7 @@
         "notes": "The combined enrollment capacity of BSCI 2201-01 and BSCI 5201-01 is 140. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "81",
+        "enrolled": "80",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -216646,7 +216646,7 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "12",
         "attributes": [
@@ -219452,7 +219452,7 @@
         "notes": "The combined enrollment capacity of CE 4250 and CE 5250 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -220623,7 +220623,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
