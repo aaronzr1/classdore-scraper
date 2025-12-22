@@ -9903,9 +9903,9 @@
         "notes": "An in-depth exploration of research and theories explaining how cognitive processes affect human functioning in modern society. We will explore basic processes such as attention, memory, language, problem solving, and action as they occur in a wide range of meaningful contexts including education, society and politics, psychopathology, the arts, and emerging technologies. Prerequisite: PSY-PC 1205/1207, or 2250 or PSY 1200.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Psychology",
             "Next Steps Eligible"
@@ -16217,9 +16217,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -25889,7 +25889,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "21",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -111848,7 +111848,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -150564,7 +150564,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "71",
-        "enrolled": "64",
+        "enrolled": "63",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -178345,7 +178345,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "CE 2205 and Math 2420 are prerequisites for this course",
         "description": "Development and solution of finite element equations for solid mechanics and heat transfer problems. Commercial finite element and pre- and post-processing software. Prerequisite: CE 2205, MATH 2420. [3]",
-        "notes": "The combined enrollment capacity of ME 4275 and ME 5275 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
+        "notes": "The combined enrollment capacity of ME 4275 and ME 5275 is 22. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Closed",
         "capacity": "22",
         "enrolled": "16",
@@ -178430,7 +178430,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "(Also listed as ME 4275) Development and solution of finite element equations for solid mechanics and heat transfer problems. Commercial finite element and pre- and post-processing software. No credit for students who have earned credit for 4275. [3]",
-        "notes": "The combined enrollment capacity of ME 4275 and ME 5275 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
+        "notes": "The combined enrollment capacity of ME 4275 and ME 5275 is 22. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "5",
         "enrolled": "0",
