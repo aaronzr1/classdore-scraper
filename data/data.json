@@ -101003,7 +101003,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -110749,7 +110749,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -168807,7 +168807,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -176743,9 +176743,9 @@
         "requirements": "",
         "description": "Baseball as a social institution. Group dynamics; baseball as work and business. Free agency and law; race and ethnic relations. Globalization. Serves as repeat credit for students who have earned credit for 3224W. [3] (SBS) (CORE B, C) (LE SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "75",
-        "enrolled": "74",
+        "enrolled": "75",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
