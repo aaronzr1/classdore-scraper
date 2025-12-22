@@ -3514,7 +3514,7 @@
         "capacity": "7",
         "enrolled": "7",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -22124,9 +22124,9 @@
         "requirements": "",
         "description": "This pedagogy seminar accompanies a core course in the College of Arts & Sciences and examines the process of teaching and learning of that course content. Students enrolled in the core course lecture may elect to participate in this accompanying pedagogy seminar. This optional seminar will be team-taught by the core course instructor and an education faculty member. [2]",
         "notes": "The combined enrollment capacity of SCED 2330-01 and BSCI 1400-01 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "22",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -22378,7 +22378,7 @@
             "TR"
         ],
         "meeting_times": [
-            "12:30p - 01:15p"
+            "12:30p - 01:45p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -32192,7 +32192,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Later Plays\n         \n            \n            Pre-1800",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -35685,7 +35685,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -37397,7 +37397,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -40147,7 +40147,7 @@
             "TR"
         ],
         "meeting_times": [
-            "12:30p - 01:15p"
+            "12:30p - 01:45p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -49223,7 +49223,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -51707,7 +51707,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "41",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -74969,7 +74969,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "35",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -75087,7 +75087,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "34",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -89349,7 +89349,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "CORE: E-Ethical & Social Engagement",
@@ -109943,7 +109943,7 @@
         "notes": "Students enrolled in MATH 1300-01 must also register for either MATH 1300-02, or 03.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "20",
         "wl_occupied": "5",
         "attributes": [
@@ -110177,7 +110177,7 @@
         "notes": "Students enrolled in MATH 1300-01 must also register for either MATH 1300-02, or 03.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -111039,9 +111039,9 @@
         "notes": "The combined enrollment capacity of MATH 3320 and MATH 5320 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -130668,7 +130668,7 @@
         "capacity": "13",
         "enrolled": "13",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Religious Studies",
@@ -131914,7 +131914,7 @@
             "TR"
         ],
         "meeting_times": [
-            "12:30p - 01:15p"
+            "12:30p - 01:45p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -134283,9 +134283,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134322,9 +134322,9 @@
         "requirements": "Pre- or co-requisite 1501 or 1601. Not open to students who have earned credit for PHYS 1501L or 1901 without permission.",
         "description": "Laboratory to accompany Physics 1501 and Physics 1601. Satisfies the AXLE lab course requirement when completed with 1501 or 1601. Serves as repeat credit for PHYS 1501L. Not open to students who have earned credit for 1901 without permission. Credit for this course and 1901 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite 1501 or 1601. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -135774,7 +135774,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -136057,7 +136057,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -137810,6 +137810,7 @@
         "instructors": [
             "Delaney, Kendra",
             "Carter, Mary E. (Secondary)",
+            "Ott, Melissa M. (Secondary)",
             "Schroer, Matthew E. (Secondary)",
             "Walker, Jessica N. (Secondary)"
         ],
@@ -167880,7 +167881,7 @@
         "notes": "Furman 121A",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -185906,7 +185907,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -191433,9 +191434,9 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "44",
+        "wl_occupied": "43",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -193595,7 +193596,6 @@
         ],
         "instructors": [
             "Delaney, Kendra",
-            "Gardner, Virginia S. (Secondary)",
             "Ott, Melissa M. (Secondary)",
             "Schroer, Matthew E. (Secondary)",
             "Vick, Rose M. (Secondary)",
@@ -201231,7 +201231,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -210744,7 +210744,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -210867,9 +210867,9 @@
         "requirements": "Prerequisite: KOR 1101.",
         "description": "Basic skills in speaking, listening, reading, and writing, with a focus on oral proficiency. No credit for students who have earned credit for a more advanced Korean language course. Prerequisite: 1101 [4] (INT) (CORE LA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -212206,7 +212206,7 @@
         "notes": "Topic: Sex and Sexuality in Society",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -213490,7 +213490,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -218441,7 +218441,7 @@
         "notes": "Students must also register for section 21 for discussion. Lab requirement waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "7",
         "attributes": [
@@ -218484,7 +218484,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "10",
         "wl_occupied": "7",
         "attributes": [
@@ -220698,7 +220698,7 @@
         "notes": "This course explores the memories and aftereffects of the nuclear bombings that have long haunted the contemporary world. Central to our discussion is what happened in Hiroshima and Nagasaki in August 1945, but we will also go beyond narrow regional and national foci. We will explore the political process that led to the development and deployment of the atomic bomb, the lasting environmental damage caused by the weapons production process, the survivors efforts to understand and represent their near-death experiences, the cultural images of nuclear war (and future thermonuclear war), and the nuclear testing at Bikini Atoll (Operation Crossroads). Students will be introduced to the basic skills and methods of historical analysis and to major debates in the field. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
