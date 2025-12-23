@@ -2543,7 +2543,7 @@
         "notes": "The combined enrollment capacity of BSCI 3271-01 and BSCI 5271-01 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -5290,7 +5290,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -37233,7 +37233,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -39008,7 +39008,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -46396,7 +46396,7 @@
         "notes": "MBA Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -51911,7 +51911,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -52313,7 +52313,7 @@
         "notes": "MBA only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -57082,7 +57082,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "21",
+        "wl_occupied": "22",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -72176,7 +72176,7 @@
         "notes": "Systems, Hardware, and Data Harvesting for AI Engineering. Practical and theoretical foundations of deployment of AI systems on embedded systems. Emphasis on data collection (data harvesting), edge-device deployment, system integration, and end-to-end pipeline design for real-world AI applications. Prerequisite: CS 1100 or CS 1101 or CS 1104; ECE/CS 2123/L or ECE/CS 2281/L or ME 2171 or BME 2900W or DS 3100. The combined enrollment capacity of ECE 3892 and ECE 8396 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -76753,7 +76753,7 @@
         "notes": "Not open to first-year students. Seats are initially reserved for H&OD majors and a limited number of HOD minors.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -104059,9 +104059,9 @@
         "notes": "The combined enrollment capacity of CS 4277, ECE 4277, and CS 5277 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -105253,7 +105253,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -108672,7 +108672,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -110334,7 +110334,7 @@
         "notes": "The combined enrollment capacity of CHEM 3310 and CHEM 5310 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "28",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -111692,7 +111692,7 @@
         "capacity": "25",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -112977,7 +112977,7 @@
         "requirements": "No credit for students who have completed MGRL 3333 section 01 offered spring 2021.",
         "description": "Responses of business leaders respond in times of crisis (e.g., climate change, global pandemic, product recall, etc.). Awareness, risk assessment, business continuity, adverse events, adaptation, reputation management, and resilience. How individual and organizational perspective, purpose, priorities, plans, and performance shape leadership choices and outcomes. Serves as repeat credit for MGRL 3333, section 01 Spring 2021. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "44",
         "enrolled": "43",
         "wl_capacity": "12",
@@ -132527,9 +132527,9 @@
         "requirements": "",
         "description": "This course offers students the opportunity to explore entrepreneurship through acquisition (ETA) of existing businesses with established products or services. The course serves as a practical guide to identifying, evaluating, acquiring, and ultimately leading a business as an entrepreneur. Students will explore the full lifecycle of ETA, culminating in a mock search simulation that applies the frameworks and tools discussed in class. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "55",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": null,
@@ -134771,7 +134771,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "93",
+        "enrolled": "92",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": [
@@ -137960,7 +137960,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -144607,7 +144607,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -145849,7 +145849,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -151963,7 +151963,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -159844,9 +159844,9 @@
         "requirements": "MHS 3890 anti-requisites",
         "description": "May be repeated for credit if there is no duplication in topic. Students may enroll in more than one section of this course each semester. [1-3; maximum of 9 credits total for all semesters of MHS 3890] (No AXLE credit)",
         "notes": "How social, cultural, political, and economic forces shape health, disease, and medicine. Community health, climate activism, indigenous rights, and the geopolitics of knowledge production. Eligible for MHS concentration areas B, D, and electives.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "17",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -173107,7 +173107,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -174652,7 +174652,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Closed",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "5",
         "attributes": [
@@ -174697,7 +174697,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -185907,7 +185907,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -193047,7 +193047,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -193463,7 +193463,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -199842,7 +199842,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
