@@ -3143,7 +3143,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -3470,7 +3470,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -3592,7 +3592,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -6208,7 +6208,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -6447,7 +6447,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -15906,7 +15906,7 @@
         "notes": "Reserved for Peabody Scholars",
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -18228,7 +18228,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -26283,7 +26283,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -35981,7 +35981,7 @@
         "description": "General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1010 without permission. Serves as repeat credit for 1010. Corequisite: 1601L. [3] (MNS) (CORE B) (LE MNS)",
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Closed",
-        "capacity": "60",
+        "capacity": "96",
         "enrolled": "60",
         "wl_capacity": "12",
         "wl_occupied": "12",
@@ -45926,7 +45926,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -54446,7 +54446,7 @@
         "notes": "The combined enrollment capacity of CS 4359 and CS 5359 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -55277,7 +55277,7 @@
         "notes": "The course may be applied to the concentrations in Black Religion and Culture Studies; Spirituality and Social Activism; Pastoral and Prophetic Congregational Leadership; Religion and Gender Studies; and to the certificate program in the Kelly Miller Smith Institute in Black Church Studies. The course also fulfills a degree requirement in ethics.\n         \n            \n            The combined enrollment capacity of DIV and REL 7128 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Closed",
         "capacity": "15",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -67677,7 +67677,7 @@
             "1/5/26-2/20/26"
         ],
         "instructors": [
-            "Olson, Erik"
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -69751,7 +69751,7 @@
             "3/9/26-4/24/26"
         ],
         "instructors": [
-            "Olson, Erik"
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -71225,7 +71225,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Palmer, Jeremiah A."
         ],
         "date_added": null
     },
@@ -71386,7 +71386,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Iddings, Ana C."
         ],
         "date_added": null
     },
@@ -71547,7 +71547,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Perot, Sarah C."
         ],
         "date_added": null
     },
@@ -71708,7 +71708,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Joseph, Nicole M."
         ],
         "date_added": null
     },
@@ -71869,7 +71869,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Hall, Shateara L."
         ],
         "date_added": null
     },
@@ -72069,7 +72069,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Anderson, LaToya R."
         ],
         "date_added": null
     },
@@ -72151,7 +72151,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Smith, Blaine E."
         ],
         "date_added": null
     },
@@ -72310,7 +72310,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "McIlroy, Sarah E."
         ],
         "date_added": null
     },
@@ -72510,7 +72510,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Collins, Molly F."
         ],
         "date_added": null
     },
@@ -72828,7 +72828,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Pak, Lauren S."
         ],
         "date_added": null
     },
@@ -72948,7 +72948,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Rogers, Emma R."
         ],
         "date_added": null
     },
@@ -75483,7 +75483,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -78577,7 +78577,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -79754,7 +79754,7 @@
         "capacity": "20",
         "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Cinema and Media Arts",
@@ -81531,7 +81531,7 @@
         "notes": "MMark and MBA",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -99156,7 +99156,7 @@
         "notes": "The combined enrollment capacity of MATH 2821 and MATH 5821 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -104883,7 +104883,7 @@
         "notes": "Full Title: \"The Divided Metropolis: Culture and Design in the City\" - Cultures create cities; cities transform cultures. The city is one of humanity's great inventions, revolutionizing technology, health care, and finance, yet cities are often represented as sites of corruption and danger. This course unites English and Engineering in exploring the evolution of urban environments and the roles of literature and culture in that evolution. We will examine the landscape of urban infrastructure and representations of cities in books and works of art to unearth how and why cities create opportunity and innovation while simultaneously restricting access to such benefits. Students will examine urban designs from antiquity to the present and their relationship to culture and geography; read literary works covering cities in the ancient world, in the 19th-century Industrial Revolution, and in the 20th-century flight to suburbia; identify the characteristics of \"livable cities.\" (Core capacity tags: A, E / AXLE tags: HCA) Class includes domestic air travel and enrolled students are expected to have all travel documents ready at the start of spring semester (REAL ID, passports or other documentation). Students will be charged a nonrefundable course fee of $2,750 following students accepting their space in the course. Students eligible for financial aid should contact their Financial Aid Officer to discuss funding options",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -105085,27 +105085,16 @@
         "requirements": "",
         "description": "Technical elective courses of special current interest. No more than six semester hours of these courses may be credited to the student's record. Prerequisite: consent of instructor. FALL, SPRING. [1-3]",
         "notes": null,
-        "status": "Closed",
+        "status": "Cancelled Section",
         "capacity": "10",
         "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "T",
-            "R"
-        ],
-        "meeting_times": [
-            "02:45p - 04:00p",
-            "01:15p - 02:30p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26",
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Staff (Secondary)"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -109453,7 +109442,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -111041,7 +111030,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -111443,7 +111432,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "12",
         "attributes": [
@@ -111898,7 +111887,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -116332,7 +116321,7 @@
             "3/9/26-4/24/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Shah, Vedanti S."
         ],
         "date_added": null
     },
@@ -120532,7 +120521,7 @@
         "notes": "The combined enrollment capacity of MATH 3800 and MATH 5800 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -120893,9 +120882,9 @@
         "requirements": "",
         "description": "This course focuses on effective practices for designing early childhood classroom environments to support children's social emotional development and prevent challenging behavior and effective practices for teaching social emotional skills. It includes an examination of the research bases for effective teaching for children with and at-risk for social-emotional delays and behavior problems. Covers procedures for supporting children who are served by classroom teachers, consultants, resource teachers, or behavior support personnel. Students are expected to synthesize and analyze research on effective teaching and management practices, and to apply the knowledge to classroom situations for children with or at-risk for social-emotional delays or behavior problems. Students will learn how to evaluate the effectiveness of these strategies and procedures and, if necessary, change them. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Closed",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -122415,7 +122404,7 @@
         "notes": "Instructor - Che Guan\n         \n            \n            This course is an extension of DS 5899 Leveraging NLP for Asset Management course, though it is not a pre-requisite. This course will focus on research on reinforcement learning, reasoning, and hardware architecture.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -128588,7 +128577,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -128757,7 +128746,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -132531,7 +132520,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -133673,7 +133662,7 @@
         "capacity": "70",
         "enrolled": "13",
         "wl_capacity": "75",
-        "wl_occupied": "28",
+        "wl_occupied": "27",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -141074,7 +141063,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -152606,7 +152595,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "55",
+        "enrolled": "54",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -155862,7 +155851,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -180264,7 +180253,7 @@
         "notes": "The combined enrollment capacity of CE 4150 and CE 5150 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": null,
@@ -184477,7 +184466,7 @@
         "notes": "Second course in statistics for undergraduates. Multi factor analysis of variance designs (including repeated measures), and goodness of fit and contingency analyses.\n         \n            \n            Prerequisite: PSY-PC 2110 or PSY 2100. [3]",
         "status": "Wait list",
         "capacity": "104",
-        "enrolled": "104",
+        "enrolled": "102",
         "wl_capacity": "50",
         "wl_occupied": "23",
         "attributes": [
@@ -191352,7 +191341,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "26",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191394,7 +191383,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "32",
+        "wl_occupied": "30",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191434,9 +191423,9 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "75",
-        "wl_occupied": "42",
+        "wl_occupied": "38",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -194081,7 +194070,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -194365,7 +194354,7 @@
         "notes": "Enrollment limited to MSF and second year MBA students only.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -196466,7 +196455,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "92",
+        "enrolled": "93",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -214762,7 +214751,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -217494,7 +217483,7 @@
         "notes": "MGT 6355 is only available to first year MBA students.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -217661,7 +217650,7 @@
         "notes": "MGT 6355 is only available to first year MBA students.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -217871,7 +217860,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
