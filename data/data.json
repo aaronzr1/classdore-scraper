@@ -6208,7 +6208,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "55",
+        "enrolled": "54",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -6447,7 +6447,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -69856,7 +69856,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "113",
+        "enrolled": "114",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -91935,7 +91935,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Closed",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -112261,7 +112261,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -131464,7 +131464,7 @@
         "capacity": "72",
         "enrolled": "70",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -155403,7 +155403,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "50",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -157862,7 +157862,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -191425,7 +191425,7 @@
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "75",
-        "wl_occupied": "38",
+        "wl_occupied": "36",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -194354,7 +194354,7 @@
         "notes": "Enrollment limited to MSF and second year MBA students only.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -194898,7 +194898,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -198359,7 +198359,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198484,7 +198484,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -217952,7 +217952,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -219932,7 +219932,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "Introduction to methods to determine the three-dimensional structures of biological macromolecules and macromolecular complexes at or near atomic resolution. Techniques covered include X-ray crystallography, NMR, EPR, and fluorescence spectroscopies, cryo-electron microscopy, and computational modeling. Emphasis is placed on practical aspects of each technique and the range of applications for which each technique is applicable. The course is given during the first third of the semester, just preceding Biochemistry 8303. SPRING. [1] Chazin, Egli, Lacy, Lang, Mchaourab.",
-        "notes": "The combined enrollment capacity of IGP 8002 11 and BCHM 8300 is 150. although seats may appear open in a section, if the combined capacity has been reached the course will close.",
+        "notes": "The combined enrollment capacity of IGP 8002-11 and BCHM 8300 is 150. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
         "enrolled": "5",
