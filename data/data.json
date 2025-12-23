@@ -3391,7 +3391,7 @@
         "capacity": "18",
         "enrolled": "15",
         "wl_capacity": "10",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -5674,7 +5674,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -67435,7 +67435,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Leich-Hilbun, Allison L."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -70080,7 +70080,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Russell, Alexandra C."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -78039,7 +78039,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Leddin, Patrick R."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -90163,7 +90163,7 @@
         "notes": "Course only open to students in the Online Masters in Engineering Management program.",
         "status": "Open",
         "capacity": "17",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -97526,7 +97526,7 @@
         "notes": "Examines the applications of psychological theories and research to teaching and learning settings. Focuses on cognitive development, problem solving and critical thinking, learning theories, motivation, social contexts, individual differences, classroom issues, and evaluation issues. Prerequisite: PSY-PC 1205/1207 or 1250 or PSY 1200 Twelve seats reserved for students with a home department at Peabody through initial enrollment period\n         \n            \n            Twenty seats reserved for CST,CD,CGS students through the initial enrollment period.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -157438,7 +157438,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Leich-Hilbun, Allison L."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -186537,7 +186537,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Stewart, Tony K."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -217235,7 +217235,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Leddin, Patrick R."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -219217,7 +219217,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
