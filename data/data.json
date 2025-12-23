@@ -4522,7 +4522,7 @@
         "notes": "The combined enrollment capacity of HIST 2580 and HIST 5580 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -29056,7 +29056,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -109943,7 +109943,7 @@
         "notes": "Students enrolled in MATH 1300-01 must also register for either MATH 1300-02, or 03.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "20",
         "wl_occupied": "5",
         "attributes": [
@@ -110177,7 +110177,7 @@
         "notes": "Students enrolled in MATH 1300-01 must also register for either MATH 1300-02, or 03.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -111443,7 +111443,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "15",
         "wl_occupied": "12",
         "attributes": [
@@ -133419,7 +133419,7 @@
         "capacity": "70",
         "enrolled": "57",
         "wl_capacity": "75",
-        "wl_occupied": "36",
+        "wl_occupied": "37",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -218401,11 +218401,11 @@
         "requirements": "",
         "description": "tudy of the seven chakras, or energy centers, of the body. Emphasis on aligning the chakras through gentle yoga practice (beginner level), and cultivating student well-being. Offered on a pass/fail basis. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -218530,7 +218530,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
