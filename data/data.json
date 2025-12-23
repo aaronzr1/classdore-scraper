@@ -10777,9 +10777,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "235",
-        "enrolled": "235",
+        "enrolled": "234",
         "wl_capacity": "75",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -26283,7 +26283,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -34942,7 +34942,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35100,7 +35100,7 @@
         "notes": "Course is open to students in the online EdD in leadership and learning in organizations program only.\n         \n            \n            Instructor: Nebel, Cynthia",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -101993,7 +101993,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -133665,7 +133665,7 @@
         "capacity": "70",
         "enrolled": "13",
         "wl_capacity": "75",
-        "wl_occupied": "28",
+        "wl_occupied": "29",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133747,7 +133747,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "121",
+        "enrolled": "120",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -134316,7 +134316,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -182180,7 +182180,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -204033,7 +204033,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "95",
+        "enrolled": "96",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -213350,7 +213350,7 @@
         "notes": "The combined enrollment capacity of BSCI 2201-01 and BSCI 5201-01 is 140. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "79",
+        "enrolled": "78",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -213433,7 +213433,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
