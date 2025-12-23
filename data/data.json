@@ -6162,7 +6162,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: From 1660 to the Present",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -35593,9 +35593,9 @@
         "requirements": "",
         "description": "Roles and responsibilities of business in society. Stakeholder theory, governance, intersection of strategy and operations, and \"ESG\" (environmental/ social governance) from company and investor perspectives globally. Focus on diversity/inclusion and climate change/sustainability. [3] (SBS) (CORE E) (LE SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -41284,7 +41284,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -45603,7 +45603,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -62876,7 +62876,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -67341,7 +67341,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -78696,7 +78696,7 @@
         "capacity": "20",
         "enrolled": "27",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -82776,7 +82776,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -112129,9 +112129,9 @@
         "requirements": "MATH 3890 01 enrollment reqts",
         "description": "Fundamental properties of integers and polynomials. Elementary properties of groups, rings, integral domains, fields, and lattices. Prerequisite: 2410, 2600, or 2501. [3] (MNS)",
         "notes": "The combined enrollment capacity of MATH 3300 and MATH 5300 is 20. Although seats may appear open, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -132520,7 +132520,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -140823,9 +140823,9 @@
         "requirements": "",
         "description": "A survey of the history and achievements of Greece from its Mycenaean origins to the Roman domination. Topics include literature, art, athletics, Periclean Athens, the conquest of Alexander, and the Hellenistic age. [3] (INT) (CORE B, C) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -147821,7 +147821,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -188248,11 +188248,11 @@
         "requirements": "Prerequisite: ECON 1010, 1020, and either MATH 1201 or 1301. Not open to students who have earned credit for ECON 3020.",
         "description": "Contemporary models of national income, employment, interest rates, price level, and economic growth. Decisions underlying consumption and investment behavior, as well as the effect of government policies. Not open to students who have earned credit for 3020. Total credit for this course and 3020 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1010, 1020, and either MATH 1201 or 1301. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "15",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -190677,7 +190677,7 @@
         "requirements": "Prerequisite: BUS 1100 (Previously BUS 2100).",
         "description": "This course provides a critical analysis of current practices in business sustainability disclosure, reporting and analysis. Topics covered include disclosure & reporting practices, regulatory requirements, reporting frameworks, reporting standards, rating agencies, investment products, activist investing, and NGOs. The course also provides guidance for synthesizing information from corporate sustainability disclosures into traditional financial and valuation analyses. The class format combines lectures, interactive discussions, cases studies and project presentations. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
         "enrolled": "0",
         "wl_capacity": "6",
@@ -190685,18 +190685,10 @@
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "11:00a - 12:15p"
-        ],
-        "meeting_dates": [
-            "2/24/26-4/20/26"
-        ],
-        "instructors": [
-            "Cohen, Daniel A."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -218430,9 +218422,9 @@
         "notes": "Students must also register for section 21 for discussion. Lab requirement waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "34",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -218473,9 +218465,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "32",
+        "enrolled": "34",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -219564,7 +219556,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Next Steps Eligible"
         ],
