@@ -5134,7 +5134,7 @@
         "notes": "The combined enrollment capacity of MATH 3800 and MATH 5800 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -16353,7 +16353,7 @@
         "notes": "The combined enrollment capacity of CS 4279 and CS 5279 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -35340,7 +35340,7 @@
         "notes": "The combined enrollment capacity of ARTS 1600, ARTS 2600 and ARTS 3600 is 12. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "9",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -35982,9 +35982,9 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "61",
+        "enrolled": "62",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36538,7 +36538,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "144",
+        "enrolled": "143",
         "wl_capacity": "25",
         "wl_occupied": "2",
         "attributes": [
@@ -37233,7 +37233,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -37799,7 +37799,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -39258,7 +39258,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "83",
+        "enrolled": "82",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -48978,7 +48978,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "68",
+        "enrolled": "69",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -49549,7 +49549,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -49791,9 +49791,9 @@
         "requirements": "Prerequisites: One of: CS 1100, DS 1100, CS 1101 or CS 1104. One of: DS 2100, BME 2400, BSCI 3270, CE 3300, ECON 1500 or 1510, MATH 2810 or 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "Obtaining, manipulating, processing, cleaning, wrangling, visualizing, and analyzing data; effectively communicating results from data analyses. Imputation, multiple linear and logistic regression, regularization, dimensionality reduction, maximum likelihood, model selection, general linear model. Ethics, privacy, and security in data science. Statistical computing for data science in R. Prerequisites: One of: CS 1100, 1101, or 1104. One of: DS 2100, BME 2400, BSCI 3270, CE 3300, ECON 1500, ECON 1510, MATH 2810, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [4]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -49995,7 +49995,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "100",
         "wl_occupied": "5",
         "attributes": [
@@ -50236,7 +50236,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "50",
         "wl_occupied": "2",
         "attributes": [
@@ -80794,6 +80794,7 @@
             "AXLE: Humanities and the Creative Arts",
             "CORE: D-Data Literacy & Computational Thinking",
             "CORE: E-Ethical & Social Engagement",
+            "Eligible for Data Science Minor",
             "LE: HFA-Humanities and Fine Arts",
             "Next Steps Eligible"
         ],
@@ -81531,7 +81532,7 @@
         "notes": "MMark and MBA",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -82854,7 +82855,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -105118,7 +105119,7 @@
         "notes": "Full Title: \"Haunted Spaces and Places in Performance Design\" - From the fiery hellmouths of Medieval pageant plays to the cluttered mansions of modernized Shakespeare, the physical environments of haunted tales have captivated audiences for as long as people have put these stories on stage. This exploration of art, architecture, and theatre history looks at the designed environments of horror stories. We will survey Western period style ranging from Ancient Greek culture through the 19th Century revivals and their manifestation in theatre, opera, film, and entertainment design. Through lecture, discussion, and hands-on projects, we will build the research and design skills necessary to produce our own spooky spaces. (Core capacity tags: A, C / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108664,7 +108665,9 @@
         "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "0",
-        "attributes": null,
+        "attributes": [
+            "Eligible for Data Science Minor"
+        ],
         "meeting_days": [
             "MW"
         ],
@@ -114907,7 +114910,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -121246,9 +121249,9 @@
         "notes": "You must register for both MSE 1500 and MSE 1500L",
         "status": "Wait list",
         "capacity": "95",
-        "enrolled": "96",
+        "enrolled": "97",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -121441,7 +121444,7 @@
         "notes": "You must register for both MSE 1500 and MSE 1500L",
         "status": "Wait list",
         "capacity": "95",
-        "enrolled": "97",
+        "enrolled": "96",
         "wl_capacity": "10",
         "wl_occupied": "8",
         "attributes": null,
@@ -142344,7 +142347,7 @@
         "capacity": "6",
         "enrolled": "4",
         "wl_capacity": "4",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -145436,7 +145439,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -149786,7 +149789,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: B-Systemic & Structural Reasoning",
@@ -177715,7 +177718,7 @@
         "notes": "Students registering for Sec 04 should also register for Sec 51, 52, 53, 54, or 55 of discussion 1. Will have Learning Assistants in the classroom in this section. 2. Required to register for lecture, discussion, and 2222L",
         "status": "Wait list",
         "capacity": "100",
-        "enrolled": "100",
+        "enrolled": "99",
         "wl_capacity": "20",
         "wl_occupied": "4",
         "attributes": [
@@ -179006,7 +179009,7 @@
         "notes": "Students registered for sec 04 must register for sec 51, 52, 53, 54, or 55 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -182054,7 +182057,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -192944,7 +192947,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "68",
-        "enrolled": "70",
+        "enrolled": "69",
         "wl_capacity": "20",
         "wl_occupied": "8",
         "attributes": [
@@ -193156,7 +193159,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "20",
         "wl_occupied": "10",
         "attributes": [
@@ -194020,7 +194023,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -196447,7 +196450,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "93",
+        "enrolled": "92",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -205959,7 +205962,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -214129,7 +214132,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -219118,7 +219121,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -222333,7 +222336,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
