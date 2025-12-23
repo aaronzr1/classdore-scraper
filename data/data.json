@@ -5446,7 +5446,7 @@
         "notes": "Explore how neural populations in the brain generate internal states that shape perception, thought, and behavior. Using primary literature and The Inside Out Brain book, topics include neural oscillations, sleep, active perception, replay, state space representations, and internal models in an unpredictable world.\n         \n            \n            The combined enrollment capacity of PSY 4744 and PSY 8744 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -26008,7 +26008,7 @@
         "notes": "This is for Job Embedded Candidates only. Must also register for EDUC 7972 02.\n         \n            \n            The combined enrollment capacity of WLED 7973-01, WLED 7973-02, and EDML 7973 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -26283,7 +26283,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -33406,7 +33406,7 @@
         "notes": "This course is for Job Embedded students only.  Students must also register for ENED 7973, MTED 7973, SCED 7973, or SSED 7973.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35982,7 +35982,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "63",
+        "enrolled": "62",
         "wl_capacity": "12",
         "wl_occupied": "10",
         "attributes": [
@@ -42953,7 +42953,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -75723,7 +75723,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -75799,11 +75799,11 @@
         "requirements": "Soph/Jr/Sr Group",
         "description": "Instruction and practice in written and oral communication. Emphasis is on organization and presentation of information to a specific audience for a specific purpose. Course includes writing and editing reports of various lengths, preparing and using visual aids, and presenting oral reports. Prerequisite: Sophomore standing. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -100486,7 +100486,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -101798,7 +101798,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -102391,7 +102391,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -108460,7 +108460,7 @@
         "notes": "Data Analytics for Health Policy - Introduction to data analytics skills for healthcare and policy professions. Hands on data visualization and statistical modeling of real-world health issues using R. Industry-relevant projects for professional portfolios. No prior experience required.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -128973,7 +128973,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Landorf, Brittany"
         ],
         "date_added": null
     },
@@ -147377,7 +147377,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -155815,7 +155815,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "18",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -172976,7 +172976,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173181,7 +173181,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -192471,7 +192471,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Dosser, Maxwell A."
         ],
         "date_added": null
     },
@@ -209684,7 +209684,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -211709,7 +211709,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -222134,7 +222134,7 @@
         "capacity": "15",
         "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "M"
