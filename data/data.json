@@ -3629,9 +3629,9 @@
         "requirements": "Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "(Previously BUS 2700) Provides an overview of operations in both service and manufacturing organizations. Process analysis, queuing, inventory management, quality management, lean operations, and optimization. Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -27920,7 +27920,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "53",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -35980,11 +35980,11 @@
         "requirements": "Corequisite: Chem 1601L. Not open to students who have earned credit for CHEM 1010 without permission.",
         "description": "General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1010 without permission. Serves as repeat credit for 1010. Corequisite: 1601L. [3] (MNS) (CORE B) (LE MNS)",
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "96",
-        "enrolled": "60",
+        "enrolled": "61",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -39727,7 +39727,7 @@
         "notes": "Availability of seats in this class is pending. Updates likely in November.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -43520,7 +43520,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Psychological Sciences Course (Graduate School)"
         ],
@@ -49995,7 +49995,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "100",
         "wl_occupied": "5",
         "attributes": [
@@ -50236,7 +50236,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "50",
         "wl_occupied": "2",
         "attributes": [
@@ -54444,7 +54444,7 @@
         "requirements": "Prerequisites: CS 4262, CS 4267, or ECE 4363.",
         "description": "Students work in small groups on the specification, design, implementation, and testing of a sizeable machine learning or deep learning project. Projects can be either application- or algorithm-oriented. Prerequisites: CS 4262, CS 4267, or ECE 4363. No credit for students who have earned credit for CS 5359. SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 4359 and CS 5359 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "12",
@@ -69103,7 +69103,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -99156,9 +99156,9 @@
         "notes": "The combined enrollment capacity of MATH 2821 and MATH 5821 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -102497,7 +102497,7 @@
         "school": "College of Arts and Science",
         "career": "Undergraduate",
         "class_type": "Seminar",
-        "credit_hours": "1.0-3.0",
+        "credit_hours": "3.0",
         "grading_basis": "Student Option Grading Basis",
         "consent": "No Special Consent Required",
         "term_year": "2026",
@@ -110822,7 +110822,7 @@
         "capacity": "16",
         "enrolled": "13",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -111789,7 +111789,7 @@
         "school": "College of Arts and Science",
         "career": "Graduate",
         "class_type": "Lecture",
-        "credit_hours": "1.0-3.0",
+        "credit_hours": "1.0",
         "grading_basis": "Student Option",
         "consent": "No Special Consent Required",
         "term_year": "2026",
@@ -112968,7 +112968,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "44",
-        "enrolled": "43",
+        "enrolled": "42",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -114618,7 +114618,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -132214,9 +132214,9 @@
         "requirements": "",
         "description": "Historical, cultural, and social contexts of sexual diversity, discrimination, and sexual violence. Understanding the centrality of sexuality to identity; challenging harmful modes of sexual expression; developing critical awareness of sex and sexuality. [3] (P) (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "6",
         "wl_occupied": "1",
         "attributes": [
@@ -132520,7 +132520,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -135442,11 +135442,11 @@
         "requirements": "",
         "description": "This course offers a broad overview of the dynamic, complex, and vast world of sports business. Students will explore the economic, financial, legal, and social factors that shape the industry, from professional leagues and franchises to athletes' rights and other emerging trends. Through interactive lectures, case studies, guest speakers, and real-world simulations, you will gain insight into the diverse business operations that fuel the global sports phenomenon. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
@@ -140211,7 +140211,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -159289,7 +159289,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -170833,11 +170833,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -179336,7 +179336,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -184466,9 +184466,9 @@
         "notes": "Second course in statistics for undergraduates. Multi factor analysis of variance designs (including repeated measures), and goodness of fit and contingency analyses.\n         \n            \n            Prerequisite: PSY-PC 2110 or PSY 2100. [3]",
         "status": "Wait list",
         "capacity": "104",
-        "enrolled": "102",
+        "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "23",
+        "wl_occupied": "21",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -191337,11 +191337,11 @@
         "requirements": "",
         "description": "Accessible, engaging, applied introduction to data science for students from all colleges and majors. Data summary and data visualization; causality and correlation; sampling, resampling, and uncertainty; prediction with linear regression; classification, clustering, and machine learning; ethics. Topics introduced with real-world datasets using a statistical programming language for hands on experience in data science. Enrollment limited to freshmen, sophomores, and juniors. Serves as repeat credit for students who have earned credit for PSCI 2300. [3]",
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "100",
-        "wl_occupied": "19",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191423,9 +191423,9 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "36",
+        "wl_occupied": "31",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -196726,7 +196726,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -213311,7 +213311,7 @@
         "notes": "The combined enrollment capacity of BSCI 3270-01 and BSCI 5270-01 is 45. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -215685,7 +215685,7 @@
         "notes": "The combined enrollment capacity of EES 1510 and 1515 is 105. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "105",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "50",
         "wl_occupied": "19",
         "attributes": [
@@ -217952,9 +217952,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
