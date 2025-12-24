@@ -9857,7 +9857,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "71",
+        "enrolled": "70",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -10538,7 +10538,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "215",
-        "enrolled": "217",
+        "enrolled": "216",
         "wl_capacity": "150",
         "wl_occupied": "93",
         "attributes": [
@@ -11367,7 +11367,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "40",
         "wl_occupied": "7",
         "attributes": null,
@@ -35982,7 +35982,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "63",
+        "enrolled": "64",
         "wl_capacity": "12",
         "wl_occupied": "10",
         "attributes": [
@@ -108057,7 +108057,7 @@
         "notes": "Who is a space for? Who is excluded? How can we redesign it? Explores how buildings, cities, and everyday spaces shape disability. Introduces medical, social, and cultural models of disability. Eligible for MHS concentration areas D, E, and electives.\n         \n            \n            The combined enrollment capacity of MHS 3890-02, HART 3890-01, and MHS 6500-08 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -114279,7 +114279,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -170266,7 +170266,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -195881,7 +195881,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "36",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -196005,7 +196005,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -218427,7 +218427,7 @@
         "capacity": "32",
         "enrolled": "36",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -218470,7 +218470,7 @@
         "capacity": "40",
         "enrolled": "36",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
