@@ -21534,7 +21534,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -40506,9 +40506,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: E-Ethical & Social Engagement",
@@ -141629,7 +141629,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -157240,7 +157240,7 @@
         "requirements": "",
         "description": "The study of human society; the nature of culture and its organization. Processes of communication, socialization, mobility, population growth. Repeat credit for students who have completed 1010W or 1011. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "12",
@@ -170590,9 +170590,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -179381,7 +179381,7 @@
         "notes": "This is an interdisciplinary survey of European society and culture from the beginning of the twentieth century through the early twenty-first century. It encompasses the political, socio-economic, colonial, artistic, cultural, and military aspects of Europe's development, covering the advent of modernism at the turn of the century, World War I, the rise of fascism and communism and the crises of the interwar years, World War II and the Holocaust, the Cold War, the artistic and cultural currents of the postwar era, the struggles for decolonization, the revolutions of 1989, fall of communism, and the post-Cold War world.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -191334,7 +191334,7 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "100",
         "wl_occupied": "11",
         "attributes": [
@@ -193365,7 +193365,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -220176,7 +220176,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
