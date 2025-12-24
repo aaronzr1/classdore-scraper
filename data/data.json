@@ -111193,7 +111193,7 @@
         "capacity": "25",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -134601,9 +134601,9 @@
         "requirements": "Pre- or co-requisite 1501 or 1601. Not open to students who have earned credit for PHYS 1501L or 1901 without permission.",
         "description": "Laboratory to accompany Physics 1501 and Physics 1601. Satisfies the AXLE lab course requirement when completed with 1501 or 1601. Serves as repeat credit for PHYS 1501L. Not open to students who have earned credit for 1901 without permission. Credit for this course and 1901 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite 1501 or 1601. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -145558,7 +145558,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "63",
+        "enrolled": "64",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -148739,7 +148739,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -153842,7 +153842,7 @@
         "notes": "Students who enroll in PHIL 1005-01 are required to enroll in a PHIL 1005 discussion section. 02-09",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "116",
+        "enrolled": "115",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -155058,7 +155058,7 @@
         "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section 2-9\n         \n            \n            Instructor: Jena Bashar Khasawneh",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "1",
         "attributes": [
@@ -178294,7 +178294,7 @@
         "notes": "Students enrolled in CHEM 2222-02 must also register for Sec 31 or 32 of discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "10",
         "attributes": [
@@ -178379,7 +178379,7 @@
         "notes": "Students registered for lecture 02 must also register for sec 31 or 32 of discussion.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "10",
         "attributes": [
@@ -197623,7 +197623,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
