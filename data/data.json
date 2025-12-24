@@ -35984,7 +35984,7 @@
         "capacity": "96",
         "enrolled": "64",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -155854,7 +155854,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -191334,7 +191334,7 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "100",
         "wl_occupied": "12",
         "attributes": [
@@ -191420,7 +191420,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "30",
+        "wl_occupied": "29",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
