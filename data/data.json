@@ -28128,7 +28128,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "36",
+        "wl_occupied": "35",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36023,9 +36023,9 @@
         "requirements": "MSN, CRT, or DNP students only",
         "description": "(Previously NURS 6010) This 4-credit hour graduate level course provides advanced in-depth content of complex physiologic and pathophysiologic concepts across the lifespan as a basis for advanced nursing practice. This course builds on undergraduate knowledge of anatomy, physiology, embryology, and pathophysiology. Detailed physiology of major organ systems is included. Emphasis is placed on integrating physiologic concepts to predict, evaluate, and manage pathologic processes. [4]",
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -53873,7 +53873,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -120563,9 +120563,9 @@
         "requirements": "NURS 8212, NURS 8214, and MSN, CRT, or DNP students only",
         "description": "This course is the second in a series on health equity. Students will analyze the use of quality improvement, policy development, population health data and models of care to promote equitable health and systems outcomes. Health care economics influencing access to care will be explored. Learners will leverage clinical informatics tools to analyze health and health care needs of diverse individuals, communities, and populations. Pre/corequisites: 8212 and 8214. [2]",
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "22",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -193242,7 +193242,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193365,7 +193365,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193446,7 +193446,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -213714,7 +213714,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -213756,7 +213756,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
