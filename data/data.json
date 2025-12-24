@@ -150362,7 +150362,7 @@
         "capacity": "31",
         "enrolled": "31",
         "wl_capacity": "40",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences",
@@ -178255,7 +178255,7 @@
         "notes": "The combined enrollment capacity of ECE 4275 and ECE 5275 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
