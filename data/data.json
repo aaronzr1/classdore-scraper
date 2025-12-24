@@ -35982,9 +35982,9 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "64",
+        "enrolled": "65",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180537,7 +180537,7 @@
         "notes": "Students enrolled in MATH 1201 07 must also register for either MATH 1201 08 or MATH 1201 09",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -180784,7 +180784,7 @@
         "notes": "Students enrolled in MATH 1201 07 must also register for either MATH 1201 08 or MATH 1201 09",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -191334,9 +191334,9 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
