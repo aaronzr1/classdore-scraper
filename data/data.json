@@ -10779,7 +10779,7 @@
         "capacity": "235",
         "enrolled": "235",
         "wl_capacity": "75",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -48558,7 +48558,7 @@
         "notes": "The interdependence of cosmological theories and religious teachings from the eighth century BCE to the end of the seventeenth century. Examines scientific works and religious texts, including those of Aristotle, Thomas Aquinas, Copernicus, Luther, Galileo, and Newton.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -56077,7 +56077,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -58271,7 +58271,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -74200,7 +74200,7 @@
         "notes": "This course examines several key inflection points in American political, intellectual, cultural history. The class explores (1) the events that created the context for essential public actions; (2) which historical factors, including the disposition of the public and the personalities of the leaders involved, led to the moments outcome; and, where appropriate, (3) how succeeding generations came to view these moments and, in some cases, to use them as precedents to inform thinking about contemporary problems.\n         \n            \n            Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -78815,7 +78815,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -109195,9 +109195,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Designed to improve the student's ability to analyze behavioral patterns in groups such as leadership, conflict, and decision making and group roles. The student is expected to improve his/her abilities by effective participation in the group as well as in written analyses. Problems for analysis are drawn from events in the group and from theoretical readings. [3]",
         "notes": "Not open to Seniors.\n         \n            \n            If you cannot enroll, please put your name on the waitlist.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -138354,7 +138354,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -152953,7 +152953,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -155056,7 +155056,7 @@
         "requirements": "",
         "description": "A study of theories of the good life and of the nature of virtue. Readings in major texts and discussion of selected problems. Serves as repeat credit for PHIL 1005W. [3] (P) (CORE C, E) (LE HFA)",
         "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section 2-9\n         \n            \n            Instructor: Jena Bashar Khasawneh",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "8",
@@ -165028,9 +165028,9 @@
         "requirements": "",
         "description": "Causes of morbidity and mortality. Socioeconomic, behavioral, and environmental factors of health. Role of government in protecting health. Analytic methods and recent challenges or controversies in the field. Noticing and interpreting through a population health lens, responding to strengthen population health, and reflecting on ethics and evaluating interventions. Serves as repeat credit for students who have earned credit for MHS 3890 section 05 offered Fall 2023, or MHS 3890 section 06 offered Spring 2024, or MHS 3890-05 offered in fall 2024. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -191336,7 +191336,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191420,7 +191420,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "29",
+        "wl_occupied": "28",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -197862,7 +197862,7 @@
         "capacity": "36",
         "enrolled": "42",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -197905,7 +197905,7 @@
         "capacity": "18",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198354,7 +198354,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198479,7 +198479,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -213350,7 +213350,7 @@
         "notes": "The combined enrollment capacity of BSCI 2201-01 and BSCI 5201-01 is 140. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "78",
+        "enrolled": "77",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -214408,9 +214408,9 @@
         "requirements": "",
         "description": "An introduction to the cognitive studies major. Readings, lectures, and discussions are focused on thinking and understanding, especially as related to the brain, immediate context, and culture. These topics are considered from a variety of perspectives, including those taken from philosophy; literature; cognitive, social, and developmental psychology; sociology; psychiatry; and cultural anthropology. [3]",
         "notes": "An introduction to the cognitive studies major. Readings, lectures, and discussions are focused on thinking and understanding, especially as related to the brain, immediate context, and culture. These topics are considered from a variety of perspectives, including those taken from philosophy; literature; cognitive, social, and developmental psychology; sociology; psychiatry; and cultural anthropology.\n         \n            \n            Five seats reserved for transfers and freshman through the initial enrollment period.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
