@@ -169745,7 +169745,7 @@
         "capacity": "2",
         "enrolled": "1",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -169784,7 +169784,7 @@
         "capacity": "2",
         "enrolled": "0",
         "wl_capacity": "2",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -182774,7 +182774,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
