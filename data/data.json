@@ -114070,7 +114070,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114617,9 +114617,9 @@
         "requirements": "Prerequisite: BUS 1100 or 2100, ECON 1020, and one of BME 2400, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. Not open to students who have earned credit for FNEC 2700 without permission.",
         "description": "(Previously BUS 2300) Emphasis on asset valuation. Stock and bond valuation, capital budgeting, cost of capital, market efficiency, and company valuation. Not open to students who have earned credit for FNEC 2700 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 2700. Prerequisite: BUS 1100 (Previously BUS 2100), ECON 1020, and one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -133621,7 +133621,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "75",
         "wl_occupied": "0",
         "attributes": [
@@ -133665,7 +133665,7 @@
         "capacity": "70",
         "enrolled": "13",
         "wl_capacity": "75",
-        "wl_occupied": "29",
+        "wl_occupied": "28",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -212613,7 +212613,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
