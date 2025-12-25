@@ -11055,9 +11055,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11172,7 +11172,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": null,
@@ -27876,7 +27876,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -27920,7 +27920,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "53",
+        "enrolled": "54",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -133707,7 +133707,7 @@
         "capacity": "70",
         "enrolled": "23",
         "wl_capacity": "75",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133789,7 +133789,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "75",
         "wl_occupied": "4",
         "attributes": [
@@ -137870,7 +137870,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "21",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -139682,7 +139682,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -147377,7 +147377,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -180539,7 +180539,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180660,7 +180660,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
