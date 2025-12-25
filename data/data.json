@@ -141629,7 +141629,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -176521,9 +176521,9 @@
         "requirements": "EES 1080 anti-requisite",
         "description": "The science of the atmosphere: principles of weather and climate; the atmosphere as part of the Earth system; weather forecasting; hurricanes, tornadoes, and severe storms; human impacts, such as air pollution and climate change. [3] (MNS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "55",
-        "enrolled": "55",
+        "enrolled": "54",
         "wl_capacity": "25",
         "wl_occupied": "2",
         "attributes": [
@@ -184512,7 +184512,7 @@
         "notes": "The combined enrollment capacity of EES 2510 and EES 5510 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Requires field trip participation; dates to be announced.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -184594,7 +184594,7 @@
         "notes": "The combined enrollment capacity of EES 2510 and EES 5510 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Requires field trip participation; dates to be announced.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -201137,7 +201137,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
