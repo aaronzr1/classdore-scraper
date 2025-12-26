@@ -4354,7 +4354,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "45",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -38044,7 +38044,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -57793,7 +57793,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "4",
         "attributes": [
@@ -93030,7 +93030,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -106544,9 +106544,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"How to Find a Life of Meaning In A World of Likes and Retweets\" - Our internet-organized world promises us endless freedom:  access to information, goods and, supposedly, happiness.  Our social networks promise us friendship, support and contact.  But we're feeling (as people attest and studies confirm) more trapped, more devoid of agency and purpose, more lonely, unfocused and isolated, and, perhaps worst, more confused about truth and unmoored from any sense of meaning and guiding values.  \"Finding a Life of Meaning in a World of Likes and Retweets\" will help you situate these problems not just in our own moment but also historically and then will turn to literature as-in Kenneth Burke's resonant characterization-\"equipment for living.\"  By reading about others searching for meaning, we'll experiment with and enhance our own self-worth and integrity.  We'll explore our own belief and values as we read about others finding and developing theirs.  We'll cultivate a self-understanding that doesn't depend on what others think about us but keeps us aligned with our core values.  We will advance our own answers to the questions life asks of, and the demands it make on us.  In so doing we will strengthen our personal congruence and self-esteem through learning and practice.  We'll develop and exercise social trust and responsibility in our classroom community to create a setting where we can hazard and share our noble experiments of living in truth, and in finding and experiencing meaning! (Core capacity tags: A, E / AXLE tags: HCA)",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108374,7 +108374,7 @@
         "notes": "Full title: \"Physics and Public Policy\" The purpose of this course is to provide an introduction to aspects of physics that are relevant to public policy. The goal is for students to develop a sufficient background in these topics to make intelligent decisions as informed citizens and leaders. Students will also develop a facility with order of magnitude scientific estimates and simple statistics relevant to political issues. Topics covered include energy, thermodynamics and heat, light and radiation, nuclear weapons, the space program, and government funding for science. Available for credit as PHYS 1020 (Core capacity tags: B, D / AXLE tags: MNS)",
         "status": "Open",
         "capacity": "28",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -113546,7 +113546,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -124781,7 +124781,7 @@
         "notes": "The combined enrollment capacity of CS 2281 and ECE 2281 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -125366,7 +125366,7 @@
         "notes": "The combined enrollment capacity of CS 2281L and ECE 2281L is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -175429,7 +175429,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -179748,7 +179748,7 @@
         "notes": "This class is designed for students who have taken two semesters of French (Pre-req: FREN1102 or FREN1103, or equivalent - or placement test score between 350 and 419, ACTFL Novice-High). Tenses of the three timeframes (present, past, future) and two new moods (subjunctive, conditional) will be studied. Class progressively taught from mostly to entirely in French. If you still have doubts or questions about the level required for this class, please contact the French language program director at alexis.finet@vanderbilt.edu.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
