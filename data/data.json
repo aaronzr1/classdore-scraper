@@ -22983,7 +22983,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
         "wl_occupied": "6",
         "attributes": [
@@ -26369,7 +26369,7 @@
         "notes": "The combined enrollment capacity of BSCI 2250-01 and BSCI 5250-01 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -28454,7 +28454,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "14",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -35982,7 +35982,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "66",
+        "enrolled": "67",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -51707,7 +51707,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "41",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -62144,9 +62144,9 @@
         "requirements": "Prerequisite: ECON 1020; either ECON 1500, 1510, or both MATH 2820L and either MATH 2810 or 2820; and either Math 1201 or 1301. Not open to students who have earned credit for 3035 or 3050.",
         "description": "Quantitative economic analysis with emphasis on multivariate regression. Measurement, specification, estimation, inference, prediction, and interpretation of econometric models. Experience with data and computer applications. Not open to students who have earned credit for 3035 or 3050. Total credit for this course and 3035 will not exceed 3 credit hours. Total credit for this course and 3050 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1020; either 1500, 1510, or both MATH 2820L and either MATH 2810 or 2820; and either Math 1201 or 1301. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -62474,9 +62474,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Climate Studies",
@@ -96586,7 +96586,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -103553,7 +103553,7 @@
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Critical Theories of Education introduces students to a range of theoretical traditions that interrogate power, knowledge, and inequality as they relate to education. The course explores how different forms of criticality-such as critical race theory, feminist theory, postcolonial theory, critical pedagogy, and critical disability studies-emerged historically and continue to inform educational practice, research, and policy.Ultimately, the course situates critical theories of education as tools for questioning taken-for-granted assumptions, developing deeper analysis of systemic inequities, and engaging in transformative educational work. Participants will gain an introductory grounding in multiple strands of critical thought and practice, building a toolkit for applying critical frameworks in diverse educational spaces.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -130974,7 +130974,7 @@
         "notes": "The combined enrollment capacity of MATH 2820 and MATH 5820 is 28. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -144880,7 +144880,7 @@
         "notes": "The combined enrollment capacity of CS 3265, ECE 3265, CS 5265, and ECE 5265 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "35",
         "wl_occupied": "0",
         "attributes": [
@@ -146338,7 +146338,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -166520,7 +166520,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -175017,7 +175017,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180944,9 +180944,9 @@
         "notes": "Students enrolled in MATH 1201 10 must also register for either MATH 1201 11 or MATH 1201 12",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -181032,7 +181032,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -181155,7 +181155,7 @@
         "notes": "Students enrolled in MATH 1201 10 must also register for either MATH 1201 11 or MATH 1201 12",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "5",
         "attributes": [
@@ -194557,11 +194557,11 @@
         "requirements": "",
         "description": "Introduction to technical and professional composition for careers in science, business, and industry.  [3] (HCA)",
         "notes": "The combined enrollment capacity of CSET 3200W and CSET 5200 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts"
@@ -199743,7 +199743,7 @@
         "capacity": "30",
         "enrolled": "26",
         "wl_capacity": "15",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Communication of Science and Tech",
@@ -217812,7 +217812,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -218634,7 +218634,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -221278,7 +221278,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
