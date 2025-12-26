@@ -10417,7 +10417,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -24772,7 +24772,7 @@
         "notes": "See English Department Website for a more detailed course description\n         \n            \n            Topic: Race and Digital Culture\n         \n            \n            Diverse Perspectives",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -29098,7 +29098,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -56077,7 +56077,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -98758,7 +98758,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -112971,7 +112971,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "44",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -121446,7 +121446,7 @@
         "capacity": "95",
         "enrolled": "96",
         "wl_capacity": "10",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -152793,7 +152793,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -193076,7 +193076,7 @@
         "notes": "The combined enrollment capacity of BSCI 2105-01 and 5105-01 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -204033,7 +204033,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "96",
+        "enrolled": "97",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -210564,7 +210564,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -210771,7 +210771,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -212236,7 +212236,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -218632,7 +218632,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
