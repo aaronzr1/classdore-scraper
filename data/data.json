@@ -177802,7 +177802,7 @@
         "notes": "Students registered for lecture 05 must also register for section 21 or 24 of discussion.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -177884,7 +177884,7 @@
         "notes": "Students registered for lecture sec 05 must also register for sec 21 or 25 for discussion.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -179257,9 +179257,9 @@
         "requirements": "CHEM 2212 or CHEM 2222 as pre- or co-req",
         "description": "Laboratory to accompany 2212 or 2222. One four-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 2212 or 2222. Prerequisite or corequisite: 2212 or 2222. [1] (No AXLE credit)",
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "72",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
