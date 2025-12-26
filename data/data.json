@@ -42177,9 +42177,9 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Declared Data Science minors will be given priority to register. Students who have not declared the minor will be eligible to register for remaining spots during the all undergraduates registration period.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "100",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -70021,9 +70021,9 @@
         "notes": "An overview of basic concepts and current research in social and personality development. Specific topics include research methods, development of self, social cognition, achievement motivation, prosocial behavior, moral development, aggression, gender role development, family and cultural influences. Prerequisite: PSY-PC 1205/1207 or 1250 or PSY 1200. [3] 2.Twelve seats reserved for students with a home department at Peabody through initial enrollment period.",
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -114617,7 +114617,7 @@
         "requirements": "Prerequisite: BUS 1100 or 2100, ECON 1020, and one of BME 2400, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. Not open to students who have earned credit for FNEC 2700 without permission.",
         "description": "(Previously BUS 2300) Emphasis on asset valuation. Stock and bond valuation, capital budgeting, cost of capital, market efficiency, and company valuation. Not open to students who have earned credit for FNEC 2700 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 2700. Prerequisite: BUS 1100 (Previously BUS 2100), ECON 1020, and one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "6",
@@ -140826,7 +140826,7 @@
         "requirements": "",
         "description": "A survey of the history and achievements of Greece from its Mycenaean origins to the Roman domination. Topics include literature, art, athletics, Periclean Athens, the conquest of Alexander, and the Hellenistic age. [3] (INT) (CORE B, C) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "32",
         "enrolled": "31",
         "wl_capacity": "12",
@@ -142227,7 +142227,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -146742,9 +146742,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -187324,7 +187324,7 @@
         "notes": "Instructor: Bairam Khan",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -217684,9 +217684,9 @@
         "requirements": "",
         "description": "Analysis and discussion of problems created for society by computers, and how these problems pose ethical dilemmas to both computer professionals and computer users. Topics include: computer crime, viruses, software theft, ethical implications of life-critical systems. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "6",
         "attributes": [
