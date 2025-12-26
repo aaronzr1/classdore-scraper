@@ -9857,7 +9857,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "70",
+        "enrolled": "69",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -37847,7 +37847,7 @@
         "notes": "Students registered in this section will be appropriated into the following rooms: SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39008,7 +39008,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -52434,7 +52434,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Film Studies",
@@ -78534,9 +78534,9 @@
         "requirements": "Not open to students who have earned credit for MATH 2500, MATH 2501, or MATH 2600. Corequisite: MATH 2300",
         "description": "Logic, proof writing, sets, quantifiers, proof by contradiction and contrapositive, mathematical induction, relations, functions (injections, surjections, and bijections), selected topics from number theory. Not open to students who have earned credit for MATH 2500, MATH 2501, or MATH 2600. Corequisite: MATH 2300. [1.5] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -96586,7 +96586,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -111437,7 +111437,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "12",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -131385,7 +131385,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/8/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "85",
+        "enrolled": "84",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -131465,7 +131465,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -132392,7 +132392,7 @@
         "capacity": "20",
         "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -138879,7 +138879,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies",
@@ -146827,9 +146827,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -148538,7 +148538,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -152557,7 +152557,7 @@
         "capacity": "15",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: LA-World Language through 2nd Semester",
@@ -164707,7 +164707,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -173099,7 +173099,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -176649,7 +176649,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "87",
+        "enrolled": "88",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -177720,7 +177720,7 @@
         "capacity": "100",
         "enrolled": "100",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179011,7 +179011,7 @@
         "capacity": "24",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -183744,7 +183744,7 @@
         "notes": "The combined enrollment capacity of EES 1510 and 1515 is 105. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "66",
+        "enrolled": "65",
         "wl_capacity": "50",
         "wl_occupied": "9",
         "attributes": [
@@ -184186,7 +184186,7 @@
         "notes": "Requires field trip participation; dates to be announced.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -203329,7 +203329,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "20",
-        "wl_occupied": "19",
+        "wl_occupied": "18",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -206865,7 +206865,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society"
@@ -216423,9 +216423,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
