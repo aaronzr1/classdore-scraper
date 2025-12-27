@@ -3790,7 +3790,7 @@
         "notes": "The combined enrollment capacity of ECE 4377 and ECE 5377 is 44. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -15003,7 +15003,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "8",
         "attributes": null,
@@ -28454,9 +28454,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "14",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -30024,7 +30024,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "9",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -32523,7 +32523,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: What is Nature?",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -63599,9 +63599,9 @@
         "requirements": "",
         "description": "Philosophical thought of Asian origin, especially India and China, from ancient times to the present, theoretical and practical concerns. Repeat credit for students who have completed 1004W. [3] (INT) (CORE C) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -74200,7 +74200,7 @@
         "notes": "This course examines several key inflection points in American political, intellectual, cultural history. The class explores (1) the events that created the context for essential public actions; (2) which historical factors, including the disposition of the public and the personalities of the leaders involved, led to the moments outcome; and, where appropriate, (3) how succeeding generations came to view these moments and, in some cases, to use them as precedents to inform thinking about contemporary problems.\n         \n            \n            Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -74965,11 +74965,11 @@
         "requirements": "",
         "description": "Introduction to descriptive and inferential statistics using computational and resampling approaches from data science. Probability, measurement, random variables, distributions, central tendency, variability, confidence intervals, measures of uncertainty, estimation, prediction, hypothesis testing and inference, replicability, power, effect size, t-tests, correlation, univariate ANOVA, and simple linear regression. Examples from wide range of disciplines. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "35",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -82012,11 +82012,11 @@
         "requirements": "Open to MBA students only",
         "description": "This course will help you build and defend a great business. A strong business leader has to make smart, strategic marketing decisions, create and present a plan to get people on board, and then execute. You will learn about all of these steps in the course, as we review a range of topics including marketing fundamentals, new business strategy, established business strategy, brand portfolio strategy, and more. In doing so, we will build on the core marketing course and other marketing classes, in addition to introducing new concepts. The course is a challenging course. In particular, the simulation requires substantial time commitment. However, it will prove to be a valuable learning experience; the material will help you analyze and understand businesses, develop and gain support for your marketing strategies and ultimately deliver strong results. Prerequisite: MGT 6361. [2]",
         "notes": "MBA students only",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -84204,7 +84204,7 @@
         "notes": "Course will meet for ten weeks.  Limited enrollment.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -116679,7 +116679,7 @@
         "notes": "The combined enrollment capacity of BSCI 3240 and BSCI 5240 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -122938,7 +122938,7 @@
         "notes": "The combined enrollment capacity of ECE 4354and ECE 5354 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -123180,7 +123180,7 @@
         "capacity": "5",
         "enrolled": "3",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -133747,7 +133747,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "119",
+        "enrolled": "118",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -134154,7 +134154,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134236,7 +134236,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134316,7 +134316,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -141351,7 +141351,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "51",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -141629,7 +141629,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -148739,7 +148739,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "56",
+        "enrolled": "55",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -148941,7 +148941,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -152598,7 +152598,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "51",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -152793,9 +152793,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Scientific Computing"
         ],
@@ -175753,7 +175753,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Wait list",
         "capacity": "14",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -177552,7 +177552,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178381,7 +178381,7 @@
         "capacity": "24",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178716,7 +178716,7 @@
         "notes": "Prerequisite is waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "90",
-        "enrolled": "90",
+        "enrolled": "89",
         "wl_capacity": "12",
         "wl_occupied": "10",
         "attributes": [
@@ -179179,7 +179179,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179468,7 +179468,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "6",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab",
             "LE: HFA-Humanities and Fine Arts"
@@ -191378,7 +191378,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "27",
+        "wl_occupied": "26",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -214947,11 +214947,11 @@
         "requirements": "",
         "description": "Explorations of themes, forms, and social and cultural issues shaping the works of American writers. Authors may include Cooper, Poe, Hawthorne, Douglass, Jacobs, Stowe, Melville, Dickinson, Alcott, Whitman, and Twain. [3] (HCA)",
         "notes": "Honors Seminar - a cumulative 3.4 G.P.A. is required.\n         \n            \n            See English Department Website for a more detailed course description.\n         \n            \n            Topic: Black Atlantic Currents\n         \n            \n            Diverse Perspectives",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "7",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for American Studies Major",
@@ -218554,7 +218554,7 @@
         "notes": "The combined enrollment capacity of CS 4240 and CS 5240 is 40. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -218632,9 +218632,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
