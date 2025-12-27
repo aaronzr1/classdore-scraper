@@ -4861,7 +4861,7 @@
         "notes": "Limited Enrollment",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -35511,7 +35511,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "121",
-        "enrolled": "122",
+        "enrolled": "121",
         "wl_capacity": "30",
         "wl_occupied": "6",
         "attributes": [
@@ -35937,7 +35937,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -57987,7 +57987,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -133579,7 +133579,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -133747,7 +133747,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "118",
+        "enrolled": "119",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -160669,7 +160669,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "HOD Domain 3",
             "Next Steps Eligible"
