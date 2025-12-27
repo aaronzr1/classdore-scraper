@@ -15003,9 +15003,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": null,
         "meeting_days": [
             "F",
@@ -37678,7 +37678,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -37960,9 +37960,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students will be distributed to SC 5208",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -39008,7 +39008,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -39049,9 +39049,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students in this discussion will be distributed into SC 5215",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -53506,9 +53506,9 @@
         "requirements": "",
         "description": "Analysis of a range of texts in social, political, and aesthetic contexts. Interdisciplinary study of cultural forms as diverse as poetry, advertisement, and film. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Neuro-Culture",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -135289,7 +135289,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135408,7 +135408,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -155139,9 +155139,9 @@
         "requirements": "Course is not open to Bachelor of Music or Bachelor of Music Arts students.",
         "description": "A total-musicianship approach to the piano. Repertoire, technique, and sight reading are studied. Also includes the study of transposition, harmonization, and improvisation. One 50-minute group lesson weekly. Fees apply. Not open to B.Mus./B.Mus.Arts students. FALL, SPRING. [1]",
         "notes": "$1,184.00 music fee (50-minute group lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Students who are unsure of appropriate level should contact the instructor.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "6",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -178714,7 +178714,7 @@
         "requirements": "BUS 1300 as prereq",
         "description": "Private equity, venture capital, investment process, private credit, and other forms of alternative capital. Serves as repeat credit for BUSA 3891 section 02 Special Topics: Private Capital Markets in Fall 2023. Prerequisite: BUS 1300 [1.5] (SBS)",
         "notes": "Prerequisite is waived for Spring 2026.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "90",
         "enrolled": "89",
         "wl_capacity": "12",
