@@ -10940,7 +10940,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11057,7 +11057,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "19",
+        "wl_occupied": "18",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -35982,7 +35982,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "67",
+        "enrolled": "68",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -36615,7 +36615,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Wait list",
         "capacity": "160",
-        "enrolled": "160",
+        "enrolled": "159",
         "wl_capacity": "25",
         "wl_occupied": "24",
         "attributes": [
@@ -37596,7 +37596,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39574,7 +39574,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "78",
+        "enrolled": "77",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -112969,9 +112969,9 @@
         "requirements": "No credit for students who have completed MGRL 3333 section 01 offered spring 2021.",
         "description": "Responses of business leaders respond in times of crisis (e.g., climate change, global pandemic, product recall, etc.). Awareness, risk assessment, business continuity, adverse events, adaptation, reputation management, and resilience. How individual and organizational perspective, purpose, priorities, plans, and performance shape leadership choices and outcomes. Serves as repeat credit for MGRL 3333, section 01 Spring 2021. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "44",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -113774,7 +113774,7 @@
         "notes": "ot open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -141629,7 +141629,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -155406,7 +155406,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "50",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -160040,7 +160040,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "HOD Domain 1"
         ],
@@ -194853,7 +194853,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "Human & Organizational Development",
             "Next Steps Eligible"
