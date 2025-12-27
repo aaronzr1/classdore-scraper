@@ -3468,7 +3468,7 @@
         "requirements": "Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "(Previously BUS 2700) Provides an overview of operations in both service and manufacturing organizations. Process analysis, queuing, inventory management, quality management, lean operations, and optimization. Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "6",
@@ -22693,7 +22693,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -23764,7 +23764,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -37960,7 +37960,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students will be distributed to SC 5208",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "5",
@@ -48558,7 +48558,7 @@
         "notes": "The interdependence of cosmological theories and religious teachings from the eighth century BCE to the end of the seventeenth century. Examines scientific works and religious texts, including those of Aristotle, Thomas Aquinas, Copernicus, Luther, Galileo, and Newton.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -117791,7 +117791,7 @@
         "capacity": "85",
         "enrolled": "82",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -118233,7 +118233,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -131467,7 +131467,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -148538,7 +148538,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -157036,9 +157036,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172523,7 +172523,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174034,7 +174034,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -186057,7 +186057,7 @@
         "requirements": "",
         "description": "A study of the uses of language, definition, informal fallacies, the theory of the syllogism, the basic operations of modern symbolic logic, and selected issues in inductive logic and scientific method. Emphasis is placed on the ambiguities and pitfalls of ordinary usage and on techniques for translating ordinary arguments into formal logic. [3] (MNS) (CORE B, D) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "15",
@@ -207739,11 +207739,11 @@
         "requirements": "",
         "description": "The study of human society; the nature of culture and its organization. Processes of communication, socialization, mobility, population growth. Repeat credit for students who have completed 1010W or 1011. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
