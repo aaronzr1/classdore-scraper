@@ -39299,7 +39299,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -76392,11 +76392,11 @@
         "requirements": "",
         "description": "Organizations are comprised of individuals with diverse interests functioning within rapidly changing, complex environments, often with limited resources. Accordingly, understanding organizations requires multiple perspectives and approaches to problem-solving. Students in the course will learn to apply organizational theories to specific challenges in order to generate potential solutions that promote organizational health. HOD 2100 can substitute for BUS 1400 in the business minor. Serves as repeat credit for BUS 1400. [3]",
         "notes": "Not open to first-year students. Seats are reserved for HOD majors and minors until open enrollment.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "31",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -99159,7 +99159,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -101206,7 +101206,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -112052,7 +112052,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -168840,7 +168840,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -176649,7 +176649,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "88",
+        "enrolled": "87",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -189382,7 +189382,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -191378,7 +191378,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "26",
+        "wl_occupied": "25",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
