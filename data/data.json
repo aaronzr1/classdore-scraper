@@ -36538,9 +36538,9 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "140",
+        "enrolled": "141",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37964,7 +37964,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39008,7 +39008,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -39496,9 +39496,9 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -53075,7 +53075,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -178424,7 +178424,7 @@
         "capacity": "5",
         "enrolled": "3",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -188089,7 +188089,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
