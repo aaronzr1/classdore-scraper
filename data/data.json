@@ -11486,7 +11486,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "25",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -24209,7 +24209,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36363,7 +36363,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "157",
+        "enrolled": "158",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -37233,7 +37233,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -64000,7 +64000,7 @@
         "notes": "The combined enrollment capacity of PSY 3715 and PSY 6715 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -109607,7 +109607,7 @@
         "notes": "The combined enrollment capacity of ASAM 2107 and ASAM 5107 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -131305,9 +131305,9 @@
         "requirements": "Prerequisite: CHEM 1601L. Corequisite: CHEM 1602. Not open to students who have earned credit for CHEM 1020L without permission.",
         "description": "Laboratory to accompany 1602. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1602. Not open to students who have earned credit for CHEM 1020L without permission.  Serves as repeat credit for CHEM 1020L. Prerequisite: 1601L. Corequisite: 1602. [1] (No AXLE credit)",
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/8/2026",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": null,
@@ -143487,7 +143487,7 @@
         "notes": "The combined enrollment capacity of PSY 3785 and PSY 8551 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
