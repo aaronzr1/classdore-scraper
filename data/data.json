@@ -63603,7 +63603,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -81127,7 +81127,7 @@
         "notes": "The combined enrollment capacity for PSY-PC 2550-01 and PSY-PC 5120-01 is 25.  Although seats may appear to be open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Examines theory, research, and other literature pertinent to the development and education of adolescents (ages 12-19). Specific topics include: cognitive and social development; issues in identity, intimacy, autonomy, and sexuality; family-adolescent relationships; peer relationships; school achievement and organization; choices and decision making related to work.\n         \n            \n            Twenty-five seats reserved for CST,CD,CGS students through the initial enrollment period.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -97647,7 +97647,7 @@
         "notes": "Examines the applications of psychological theories and research to teaching and learning settings. Focuses on cognitive development, problem solving and critical thinking, learning theories, motivation, social contexts, individual differences, classroom issues, and evaluation issues. Prerequisite: PSY-PC 1205/1207 or 1250 or PSY 1200 Twelve seats reserved for students with a home department at Peabody through initial enrollment period\n         \n            \n            Twenty seats reserved for CST,CD,CGS students through the initial enrollment period.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -124937,7 +124937,7 @@
         "notes": "This course is equivalent to MGT 6402 so it is not available for MSF students.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "51",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -133006,7 +133006,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "56",
+        "enrolled": "55",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -134072,7 +134072,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -137952,7 +137952,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -138960,7 +138960,7 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "43",
+        "enrolled": "42",
         "wl_capacity": "30",
         "wl_occupied": "2",
         "attributes": [
@@ -139280,7 +139280,7 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -153636,7 +153636,7 @@
         "notes": "Open by audition only; consent of instructor is required.",
         "status": "Open",
         "capacity": "180",
-        "enrolled": "159",
+        "enrolled": "160",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -182376,7 +182376,7 @@
         "requirements": "A CS course or Calculus II is prerequisite for this course",
         "description": "Survey of the mathematical tools necessary for an understanding of computer science. Sets, relations, functions, basic counting techniques, permutations, combinations, graphs, recurrence relations, simple analysis of algorithms, O-notation, Boolean algebra, propositional calculus, and numeric representation. Prerequisite: A course in computer science or two semesters of calculus. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "35",
         "enrolled": "34",
         "wl_capacity": "40",
@@ -191332,9 +191332,9 @@
         "requirements": "",
         "description": "Accessible, engaging, applied introduction to data science for students from all colleges and majors. Data summary and data visualization; causality and correlation; sampling, resampling, and uncertainty; prediction with linear regression; classification, clustering, and machine learning; ethics. Topics introduced with real-world datasets using a statistical programming language for hands on experience in data science. Enrollment limited to freshmen, sophomores, and juniors. Serves as repeat credit for students who have earned credit for PSCI 2300. [3]",
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "100",
         "wl_occupied": "7",
         "attributes": [
@@ -191378,7 +191378,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "25",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191620,7 +191620,7 @@
         "notes": "Open only by permission of the Associate Dean.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -195831,11 +195831,11 @@
         "requirements": "",
         "description": "How culture influences women's health, body image, self esteem. Issues include fertility control and child bearing, medical innovations to detect disease, alternative therapies, psychological well-being, sexuality, physical and sexual abuse. Impact of politics on health options for women. [3] (P)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "20",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for African American and Diaspora Studies",
@@ -201055,7 +201055,7 @@
         "requirements": "Prerequisite: Sophomore, Junior, or Senior standing",
         "description": "Critical issues faced by chief technology officers. Assessment of technological capabilities and opportunities, formulation of a technical plan for the product portfolio and commercialization, management of intellectual property, and economic analysis. Prerequisite: Sophomore standing. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "12",
@@ -205124,7 +205124,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
