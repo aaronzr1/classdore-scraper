@@ -28373,7 +28373,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -35982,7 +35982,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "68",
+        "enrolled": "69",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -36613,11 +36613,11 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "24",
+        "wl_occupied": "25",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37964,7 +37964,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39299,7 +39299,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -39336,7 +39336,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "50",
+        "enrolled": "51",
         "wl_capacity": "3",
         "wl_occupied": "0",
         "attributes": null,
@@ -65970,7 +65970,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -131309,7 +131309,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -133411,7 +133411,7 @@
         "capacity": "70",
         "enrolled": "57",
         "wl_capacity": "75",
-        "wl_occupied": "37",
+        "wl_occupied": "36",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133621,7 +133621,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "75",
         "wl_occupied": "0",
         "attributes": [
@@ -134844,7 +134844,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "125",
+        "enrolled": "126",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -135246,7 +135246,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -146501,7 +146501,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -152598,7 +152598,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "51",
+        "enrolled": "50",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -155854,7 +155854,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -193323,7 +193323,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -213350,7 +213350,7 @@
         "notes": "The combined enrollment capacity of BSCI 2201-01 and BSCI 5201-01 is 140. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "77",
+        "enrolled": "78",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -213511,9 +213511,9 @@
         "requirements": "BSCI 2201 as pre- or co-req",
         "description": "One three-hour laboratory and discussion period per week. Satisfies the AXLE lab course requirement when completed with 2201. Prerequisite or corequisite: 2201. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
