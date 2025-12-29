@@ -71974,7 +71974,7 @@
         "notes": "Generative AI Engineering Applications. Introduction to Generative AI, with focus on models, training methodologies, and real-world engineering applications. Theoretical analysis and hands-on labs for challenges in electrical and computer engineering, including synthetic signal generation, defect simulation, data augmentation for low-sample tasks, and digital twin enhancement. Prerequisite: CS 1100 or CS 1101 or CS 1104; ECE/CS 2123/L or ECE/CS 2281/L or ME 2171 or BME 2900W or DS 3100. The combined enrollment capacity of ECE 3892 and ECE 8396 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -152795,7 +152795,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Scientific Computing"
         ],
