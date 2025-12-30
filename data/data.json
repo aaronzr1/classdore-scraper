@@ -9697,7 +9697,7 @@
         "capacity": "200",
         "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "34",
+        "wl_occupied": "35",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -14794,7 +14794,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -16062,7 +16062,7 @@
         "notes": "The combined enrollment capacity of CS 4279 and CS 5279 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "38",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "35",
         "wl_occupied": "4",
         "attributes": null,
@@ -22610,7 +22610,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "5",
         "attributes": [
@@ -35384,7 +35384,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "CORE: A-Written & Creative Expression",
@@ -35597,7 +35597,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: E-Ethical & Social Engagement",
@@ -36538,7 +36538,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "140",
+        "enrolled": "141",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -38716,7 +38716,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -41002,7 +41002,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -59620,7 +59620,7 @@
         "notes": "Requires consent of DUS",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -62956,7 +62956,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -106506,7 +106506,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3"
@@ -112969,11 +112969,11 @@
         "requirements": "No credit for students who have completed MGRL 3333 section 01 offered spring 2021.",
         "description": "Responses of business leaders respond in times of crisis (e.g., climate change, global pandemic, product recall, etc.). Awareness, risk assessment, business continuity, adverse events, adaptation, reputation management, and resilience. How individual and organizational perspective, purpose, priorities, plans, and performance shape leadership choices and outcomes. Serves as repeat credit for MGRL 3333, section 01 Spring 2021. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "44",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -119810,7 +119810,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -146995,7 +146995,7 @@
         "notes": "The combined enrollment capacity of PHAR-GS 8338 and NURO 8335 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -147419,7 +147419,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -152193,7 +152193,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -152555,7 +152555,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -175384,11 +175384,11 @@
         "requirements": "",
         "description": "Ethical issues arising from business and professional practice. Topics will include: corporate social responsibility, employee rights, technology and privacy in the workplace, corporate governance, and globalization. [3] (P)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "8",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Undergraduate Business Minor",
@@ -177552,7 +177552,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178296,7 +178296,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -188005,7 +188005,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -188170,7 +188170,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "16",
         "wl_occupied": "16",
         "attributes": [
@@ -205325,7 +205325,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -206865,7 +206865,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society"
@@ -213267,7 +213267,7 @@
         "notes": "Requires consent from the DUS for BCB major",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "17",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -214537,7 +214537,7 @@
         "notes": "This course will cover a history of food and food policy in the US in the 20th and 21st centuries. Students will gain an understanding of the history of food, how it is sourced and processed, and the government agencies responsible for policy. This course will also cover trends in food consumption, nutrition research, and nutraceuticals (where food is medicine), and the changing narratives of what is considered healthy. This course will have an inquiry learning lab component where students will explore the complex relationships between humans and the food they eat.",
         "status": "Closed",
         "capacity": "20",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "10",
         "attributes": [
