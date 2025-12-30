@@ -106176,9 +106176,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"What is a \"Cult\"?: Cults and New Religious Movements\" - An examination of the emergence, beliefs, and practices of new religious movements often labeled \"cults.\" We will also learn the broader cultural reactions to these groups and their representation in the media. Topics covered include Mormonism, Jonestown, the Satanic Temple, and UFO Religions. We will discuss race, gender, sexuality, violence, and surveillance. (Core capacity tags: A, C / AXLE tags: HCA)",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -112134,7 +112134,7 @@
         "notes": "The combined enrollment capacity of MATH 3300 and MATH 5300 is 20. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -163037,7 +163037,7 @@
         "capacity": "16",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
