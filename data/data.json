@@ -22693,7 +22693,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36937,7 +36937,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -43074,7 +43074,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "152",
-        "enrolled": "74",
+        "enrolled": "73",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -74200,7 +74200,7 @@
         "notes": "This course examines several key inflection points in American political, intellectual, cultural history. The class explores (1) the events that created the context for essential public actions; (2) which historical factors, including the disposition of the public and the personalities of the leaders involved, led to the moments outcome; and, where appropriate, (3) how succeeding generations came to view these moments and, in some cases, to use them as precedents to inform thinking about contemporary problems.\n         \n            \n            Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -132560,7 +132560,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -134478,9 +134478,9 @@
         "requirements": "",
         "description": "For students who need to improve their writing. Emphasis on writing skills, with some analysis of modern nonfiction writing. [3] (No AXLE credit)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -144599,7 +144599,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -174034,7 +174034,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174810,7 +174810,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -175429,7 +175429,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "60",
+        "enrolled": "61",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -190424,7 +190424,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -199952,7 +199952,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -204831,7 +204831,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.\n         \n            \n            Instructor: Nick Hall",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -205962,7 +205962,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -205999,11 +205999,11 @@
         "requirements": "Corequisites: PHYS 1602 and MATH 2300.",
         "description": "Development of basic electrical circuit element models, signal representations, and methods of circuit analysis. Matrix methods and computer techniques. Demonstrations of physical components, measurement techniques, and transient phenomena. Corequisite: MATH 2300; PHYS 1602. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
         "enrolled": "61",
         "wl_capacity": "10",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": null,
         "meeting_days": [
             "TR"
