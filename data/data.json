@@ -6693,7 +6693,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -10540,7 +10540,7 @@
         "capacity": "215",
         "enrolled": "216",
         "wl_capacity": "150",
-        "wl_occupied": "93",
+        "wl_occupied": "92",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -103553,7 +103553,7 @@
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Critical Theories of Education introduces students to a range of theoretical traditions that interrogate power, knowledge, and inequality as they relate to education. The course explores how different forms of criticality-such as critical race theory, feminist theory, postcolonial theory, critical pedagogy, and critical disability studies-emerged historically and continue to inform educational practice, research, and policy.Ultimately, the course situates critical theories of education as tools for questioning taken-for-granted assumptions, developing deeper analysis of systemic inequities, and engaging in transformative educational work. Participants will gain an introductory grounding in multiple strands of critical thought and practice, building a toolkit for applying critical frameworks in diverse educational spaces.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -129397,7 +129397,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "25",
         "wl_occupied": "17",
         "attributes": [
@@ -171455,7 +171455,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172523,7 +172523,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -184188,7 +184188,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
