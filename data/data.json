@@ -10660,7 +10660,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "55",
+        "enrolled": "56",
         "wl_capacity": "40",
         "wl_occupied": "3",
         "attributes": null,
@@ -11055,7 +11055,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "40",
         "wl_occupied": "16",
         "attributes": null,
@@ -24088,7 +24088,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -24527,7 +24527,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: AI, Robots, and Clones",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -28816,7 +28816,7 @@
         "capacity": "10",
         "enrolled": "10",
         "wl_capacity": "10",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -36617,7 +36617,7 @@
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "23",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37680,7 +37680,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39416,7 +39416,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Open",
         "capacity": "48",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -43074,7 +43074,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "152",
-        "enrolled": "73",
+        "enrolled": "72",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -75483,7 +75483,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -91178,7 +91178,7 @@
         "notes": "Limited enrollment",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -92014,7 +92014,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -102707,7 +102707,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -119810,7 +119810,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -129480,7 +129480,7 @@
         "notes": "Prerequisite of JAPN 1011, 1101 or equivalent.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -134562,7 +134562,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -135888,7 +135888,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: The Brontes",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -138877,7 +138877,7 @@
         "notes": "See English Department Website for a more detailed course description. Pre-1800.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -149787,7 +149787,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -157038,7 +157038,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -159840,7 +159840,7 @@
         "capacity": "17",
         "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: B-Systemic & Structural Reasoning",
             "CORE: D-Data Literacy & Computational Thinking"
@@ -167317,9 +167317,9 @@
         "requirements": "",
         "description": "Explorations of the aesthetic and social world of letters from the English Civil War to the French Revolution. Drama, poetry, and prose, including Restoration plays, political poetry, satire, travel narratives, and tales. Authors may include Behn, Dryden, Congreve, Addison, Swift, Finch, Pope, Fielding, Burney, Johnson, and Inchbald. Later writers. [3] (HCA)",
         "notes": "See English Department website for full course description\n         \n            \n            Topic: The Making of Jane Austen\n         \n            \n            Pre-1800.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -175017,7 +175017,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -191462,7 +191462,7 @@
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -195595,7 +195595,7 @@
         "capacity": "36",
         "enrolled": "40",
         "wl_capacity": "36",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195675,7 +195675,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -206003,7 +206003,7 @@
         "capacity": "60",
         "enrolled": "61",
         "wl_capacity": "10",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": null,
         "meeting_days": [
             "TR"
