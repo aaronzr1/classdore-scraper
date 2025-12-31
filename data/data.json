@@ -11486,7 +11486,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "25",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -28576,7 +28576,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -34356,7 +34356,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "MT"
@@ -101403,7 +101403,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "42",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -117246,7 +117246,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "42",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
