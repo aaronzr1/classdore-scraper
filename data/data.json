@@ -11055,9 +11055,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11369,7 +11369,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -24086,7 +24086,7 @@
         "requirements": "",
         "description": "History, basis in science, and techniques of forensic anthropology to determine general identification and specific identification from physical and skeletal remains. Estimation of age, biological sex, ancestry, and analysis of trauma for medicolegal purposes. Serves as repeat credit for ANTH 3890-01 offered Spring 2024, 3890-05 offered Spring 2023, 3890-01 offered Spring 2022. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "12",
@@ -35982,7 +35982,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "73",
+        "enrolled": "74",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -36538,7 +36538,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "141",
+        "enrolled": "140",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -36983,9 +36983,9 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -43074,7 +43074,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "152",
-        "enrolled": "72",
+        "enrolled": "73",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -51024,7 +51024,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats are reserved for Peabody majors through the initial enrollment period.",
         "status": "Open",
         "capacity": "26",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -56568,7 +56568,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -57082,7 +57082,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "23",
+        "wl_occupied": "24",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -58583,7 +58583,7 @@
         "notes": "The combined enrollment capacity of BCB 4320 and CPBP 8320 is 31.  Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -59019,7 +59019,7 @@
         "notes": "Full Course Title: Alcohol, Drugs & Emerging Adulthood. Not open to FR. This course will count in Domain 1: Individual/Interpersonal",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -63520,7 +63520,7 @@
         "notes": "The combined enrollment capacity of CHEM 3710 and CHEM 5710 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -75723,7 +75723,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -91851,7 +91851,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "14",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -110091,7 +110091,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130271,7 +130271,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -134763,7 +134763,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "91",
+        "enrolled": "92",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": [
@@ -134925,7 +134925,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "73",
+        "enrolled": "72",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": [
@@ -135008,7 +135008,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135049,7 +135049,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135166,7 +135166,7 @@
         "notes": "This lab section is currently listed but closed. It will only be opened if sufficient TA staffing becomes available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "18",
         "wl_occupied": "3",
         "attributes": [
@@ -138875,7 +138875,7 @@
         "requirements": "",
         "description": "An examination of ways in which the Bible and biblical imagery have functioned in literature and fine arts, in both \"high culture\" and popular culture, from Old English poems to modern poetry, drama, fiction, cartoons, and political rhetoric. Readings include influential biblical texts and a broad selection of literary texts drawn from all genres and periods of English literature. [3] (HCA)",
         "notes": "See English Department Website for a more detailed course description. Pre-1800.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
@@ -153154,7 +153154,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "92",
+        "enrolled": "93",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -156425,7 +156425,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -177802,7 +177802,7 @@
         "notes": "Students registered for lecture 05 must also register for section 21 or 24 of discussion.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -178212,7 +178212,7 @@
         "notes": "Students registered for lecture sec 05 should register for sec 21 or 25 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -190469,7 +190469,7 @@
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra. Students with a 5 on AP Statistics or credits from ECON 1500, PSY 2100, or MATH 2810/2820 are strongly discouraged from taking this class.\n         \n            \n            Fifteen seats reserved for students with a home department at Peabody through initial enrollment period.",
         "status": "Closed",
         "capacity": "30",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "20",
         "wl_occupied": "20",
         "attributes": [
@@ -194853,7 +194853,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "Next Steps Eligible"
@@ -195881,7 +195881,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "36",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -196005,7 +196005,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -211867,7 +211867,7 @@
         "notes": "The maximum enrollment is limited to 18 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
