@@ -161198,7 +161198,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -166205,7 +166205,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -194349,7 +194349,7 @@
         "notes": "Enrollment limited to MSF and second year MBA students only.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -212657,7 +212657,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
