@@ -32523,7 +32523,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: What is Nature?",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -139483,7 +139483,7 @@
         "capacity": "5",
         "enrolled": "3",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -177386,7 +177386,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -192869,7 +192869,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
