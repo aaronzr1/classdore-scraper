@@ -8192,11 +8192,11 @@
         "requirements": "",
         "description": "Public understanding of complex issues in the age of big-data. Data analysis using Tableau. Narratives created as personal stories, posters, games, maps, sculptures, and sound from large data sets. Emotive, aesthetic, and practical effects of different presentation methods; metrics for assessing impact. Studio approach with case studies, and hands-on work with tools and technologies. Serves as repeat credit for CSET 3890, section 01 in Fall 2020. [3] (SBS)",
         "notes": "Public understanding of complex issues in the age of big-data. Data analysis using Tableau. Narratives created as personal stories, posters, games, maps, sculptures, and sound from large data sets. Emotive, aesthetic, and practical effects of different presentation methods; metrics for assessing impact. Studio approach with case studies, and hands-on work with tools and technologies. Serves as repeat credit for CSET 3890, section 01 in Fall 2020.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "20",
         "enrolled": "22",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -28615,7 +28615,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "112",
+        "enrolled": "111",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -39094,7 +39094,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -59460,7 +59460,7 @@
         "capacity": "22",
         "enrolled": "22",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3",
@@ -59702,7 +59702,7 @@
         "capacity": "22",
         "enrolled": "22",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3",
@@ -67458,9 +67458,9 @@
         "requirements": "Coreq: LAW 7180 or LAW 7195",
         "description": "Lectures, presentations, classroom exercises, and mock trials designed to introduce students to the basic elements of trial practice. Subjects include jury selection, opening statement and closing arguments, direct and cross examination, presentation of expert testimony, introduction and handling of exhibits, trial preparation, courtroom etiquette, motion practice, and litigation ethics. All sections meet together on Monday afternoon. In addition, each section meets weekly in a small group for two hours with the faculty member teaching that section. Pre or corequisite: Evidence Law or Evidence I. Enrollment limited. Pass/Fail. [3]",
         "notes": "Limited Enrollment Course.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -68143,7 +68143,7 @@
         "notes": "Students are prompted to select this section in addition to the individual section they have selected.",
         "status": "Open",
         "capacity": "48",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -72973,7 +72973,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -108499,7 +108499,7 @@
         "notes": "The combined enrollment capacity of BSCI 3252 and BSCI 5252 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -111396,7 +111396,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -134109,7 +134109,7 @@
         "requirements": "",
         "description": "For students who need to improve their writing. Emphasis on writing skills, with some analysis of modern nonfiction writing. [3] (No AXLE credit)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Now You See Me: The Mark of the Writer",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "15",
@@ -177884,7 +177884,7 @@
         "notes": "Students registered for lecture sec 05 must also register for sec 21 or 25 for discussion.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -178212,7 +178212,7 @@
         "notes": "Students registered for lecture sec 05 should register for sec 21 or 25 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -180537,7 +180537,7 @@
         "notes": "Students enrolled in MATH 1201 07 must also register for either MATH 1201 08 or MATH 1201 09",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "39",
+        "enrolled": "37",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -180658,7 +180658,7 @@
         "notes": "Students enrolled in MATH 1201 07 must also register for either MATH 1201 08 or MATH 1201 09",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -180784,7 +180784,7 @@
         "notes": "Students enrolled in MATH 1201 07 must also register for either MATH 1201 08 or MATH 1201 09",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -195345,7 +195345,7 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "36",
         "wl_occupied": "2",
         "attributes": [
@@ -195472,7 +195472,7 @@
         "notes": "Students enrolled in MATH 1200-01 must also register for either MATH 1200-02, or 03.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -203883,7 +203883,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
