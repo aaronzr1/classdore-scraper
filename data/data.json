@@ -9695,7 +9695,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "200",
-        "enrolled": "200",
+        "enrolled": "199",
         "wl_capacity": "50",
         "wl_occupied": "35",
         "attributes": [
@@ -12902,7 +12902,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -13107,7 +13107,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -27920,7 +27920,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "54",
+        "enrolled": "53",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -29138,7 +29138,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -36363,7 +36363,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "156",
+        "enrolled": "155",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -36615,9 +36615,9 @@
         "notes": "Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Wait list",
         "capacity": "160",
-        "enrolled": "159",
+        "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "24",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38087,9 +38087,9 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38219,7 +38219,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -39727,7 +39727,7 @@
         "notes": "Availability of seats in this class is pending. Updates likely in November.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -83999,7 +83999,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "26",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -113940,9 +113940,9 @@
         "requirements": "",
         "description": "Origins of rhetoric and resistance to it in Ancient Greece, especially Athens.  Its role in the Athenian courts.  Rhetoric in the Roman judicial system, and its influence on the law.  Constructing a legal argument.  [3] (SBS)",
         "notes": "Satisfies LHS",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -130849,7 +130849,7 @@
         "notes": "The combined enrollment capacity of ECON 3350 and ECON 5350 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -135049,7 +135049,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -148941,7 +148941,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "45",
+        "enrolled": "46",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -150604,7 +150604,7 @@
         "notes": "This course counts towards both GSS 3304 and ENGL 8304",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -150765,7 +150765,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "21",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -152598,7 +152598,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "53",
+        "enrolled": "52",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -164578,7 +164578,7 @@
         "requirements": "",
         "description": "Introduction to writing prose fiction. [3] (HCA) (CORE A) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "5",
@@ -178459,7 +178459,7 @@
         "requirements": "Prerequisite: CHEM 2211 or 2221. Corequisite: CHEM 2222L.",
         "description": "Continuation of 2221. Fundamental types of organic compounds. Nomenclature and classification. Preparations, reactions, and general application. Three hours of lecture and one hour of recitation each week. Serves as repeat credit for CHEM 2212. Prerequisite: 2211 or 2221. Corequisite: 2222L. [3] (MNS)",
         "notes": "Students registered for lecture sec 03 must also register for sec 41, 42, 43, 44, or 45 for discussion",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "15",
@@ -179095,7 +179095,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "70",
+        "enrolled": "69",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -179177,9 +179177,9 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179339,7 +179339,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -190597,7 +190597,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "18",
+        "wl_occupied": "19",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -194483,7 +194483,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "25",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -203329,7 +203329,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -216378,9 +216378,9 @@
         "requirements": "Not open to students who have earned credit for MATH 2310, 2400, 2500, 2501, or 2600 without permission. Prerequisite or corequisite: MATH 2300",
         "description": "Vectors and matrix operations. Linear transformations and fundamental properties of finite dimensional vector spaces. Solutions of systems of linear equations. Eigenvalues and eigenvectors. Not open to students who have earned credit for MATH 2310, 2400, 2500, 2501, or 2600 without permission. Total credit for this course and MATH 2310 will not exceed 6 credit hours; total credit for this course and MATH 2400 or 2501 will not exceed 4 credit hours; total credit for this course and MATH 2500 will not exceed 5 credit hours; total credit for this course and MATH 2600 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite or corequisite: 2300. [3] (MNS) (CORE B) (LE MNS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
