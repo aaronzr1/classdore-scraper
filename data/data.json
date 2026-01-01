@@ -74722,7 +74722,7 @@
         "notes": "Enrollment Limited",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -147620,7 +147620,7 @@
         "notes": "Class meets for seven weeks",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -177466,9 +177466,9 @@
         "requirements": "Prerequisite: CHEM 2211 or 2221. Corequisite: CHEM 2222L.",
         "description": "Continuation of 2221. Fundamental types of organic compounds. Nomenclature and classification. Preparations, reactions, and general application. Three hours of lecture and one hour of recitation each week. Serves as repeat credit for CHEM 2212. Prerequisite: 2211 or 2221. Corequisite: 2222L. [3] (MNS)",
         "notes": "Students registering for section 01 should register for Sec 22, 23, or 24, for discussion\n         \n            \n            Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 2222L",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "80",
-        "enrolled": "80",
+        "enrolled": "79",
         "wl_capacity": "25",
         "wl_occupied": "5",
         "attributes": [
@@ -177552,7 +177552,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178130,7 +178130,7 @@
         "notes": "Students registered for lecture sec 01 must also register for sec 22, 23, or 24 for discussion.",
         "status": "Open",
         "capacity": "27",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -178381,7 +178381,7 @@
         "capacity": "24",
         "enrolled": "17",
         "wl_capacity": "15",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
