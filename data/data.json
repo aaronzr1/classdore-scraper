@@ -68422,9 +68422,9 @@
         "notes": "Students enrolled in MATH 2400-01 must also register for either MATH 2400-02 or MATH 2400-03",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -68740,11 +68740,11 @@
         "requirements": "Not open to students who have earned credit for MATH 2310, 2410, 2420, 2500, 2501, or 2610 without permission. Prerequisite or corequisite: MATH 2300.",
         "description": "Scalar differential equations, Laplace transforms, systems of differential equations. Gauss-elimination, algebra of matrices, determinants, vector spaces, linear operators, eigenvalues and eigenvectors. Intended for students in Biomedical Engineering, Electrical Engineering and Computer Engineering. Not open to students who have earned credit for MATH 2310, 2410, 2420, 2500, 2501, or 2610 without permission. Total credit for this course and MATH 2310, 2410, 2420, 2500, 2501, or 2610 will not exceed 4 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite or corequisite: 2300. [4] (No AXLE credit)",
         "notes": "Students enrolled in MATH 2400-01 must also register for either MATH 2400-02 or MATH 2400-03",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -68943,7 +68943,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -69064,7 +69064,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -109935,9 +109935,9 @@
         "notes": "Students enrolled in MATH 1300-01 must also register for either MATH 1300-02, or 03.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -110486,9 +110486,9 @@
         "notes": "Students enrolled in MATH 1300-01 must also register for either MATH 1300-02, or 03.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -129757,7 +129757,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3961- independent-laboratory-research/",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -139296,7 +139296,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Karadag, Tekin"
         ],
         "date_added": null
     },
@@ -139536,7 +139536,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Karadag, Tekin"
         ],
         "date_added": null
     },
@@ -139783,7 +139783,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Karadag, Tekin"
         ],
         "date_added": null
     },
@@ -145836,7 +145836,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "Not open to students who have earned credit for MATH 2400 or 2610 without permission. Prerequisite: 2300, 2310, or 2501.",
         "description": "Linear first-order differential equations, applications, higher order linear differential equations, complementary and particular solutions, applications, Laplace transform methods, series solutions, numerical techniques. Not open to students who have earned credit for MATH 2400 or 2610 without permission. Total credit for this course and MATH 2400 will not exceed 4 credit hours; total credit for this course and MATH 2610 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 2300, 2310, or 2501. [3] (MNS) (CORE B) (LE MNS)",
-        "notes": "Instructor: Baik, Juhun",
+        "notes": null,
         "status": "Open",
         "capacity": "25",
         "enrolled": "24",
@@ -145858,7 +145858,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Niknejad, Jila"
         ],
         "date_added": null
     },
@@ -146080,7 +146080,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "Not open to students who have earned credit for MATH 2400 or 2610 without permission. Prerequisite: 2300, 2310, or 2501.",
         "description": "Linear first-order differential equations, applications, higher order linear differential equations, complementary and particular solutions, applications, Laplace transform methods, series solutions, numerical techniques. Not open to students who have earned credit for MATH 2400 or 2610 without permission. Total credit for this course and MATH 2400 will not exceed 4 credit hours; total credit for this course and MATH 2610 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 2300, 2310, or 2501. [3] (MNS) (CORE B) (LE MNS)",
-        "notes": "Instructor: Baik, Juhun",
+        "notes": null,
         "status": "Wait list",
         "capacity": "25",
         "enrolled": "25",
@@ -146102,7 +146102,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Niknejad, Jila"
         ],
         "date_added": null
     },
@@ -155465,7 +155465,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            ""
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -195593,9 +195593,9 @@
         "notes": "Students enrolled in MATH 1200-04 must also register for either MATH 1200-05, or 06.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "36",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195673,9 +195673,9 @@
         "notes": "Students enrolled in MATH 1200-04 must also register for either MATH 1200-05, or 06.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -198124,7 +198124,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Niknejad, Jila"
+            "Gong, Le"
         ],
         "date_added": null
     },
@@ -198598,9 +198598,9 @@
         "notes": "Students enrolled in MATH 1301 10 must also register for either MATH 1301 11 or MATH 1301 12.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198762,9 +198762,9 @@
         "notes": "Students enrolled in MATH 1301 10 must also register for either MATH 1301 11 or MATH 1301 12.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198862,7 +198862,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Niknejad, Jila"
+            "Huang, Yixuan"
         ],
         "date_added": null
     },
@@ -213350,7 +213350,7 @@
         "notes": "The combined enrollment capacity of BSCI 2201-01 and BSCI 5201-01 is 140. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "140",
-        "enrolled": "77",
+        "enrolled": "78",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
