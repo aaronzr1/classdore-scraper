@@ -3472,7 +3472,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -9697,7 +9697,7 @@
         "capacity": "200",
         "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "35",
+        "wl_occupied": "34",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -20510,7 +20510,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -57987,7 +57987,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -58271,7 +58271,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -111396,7 +111396,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -113014,7 +113014,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -135008,7 +135008,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -151360,9 +151360,9 @@
         "requirements": "",
         "description": "Observed and physical properties of stars. Supernovae, neutron stars, and black holes. Our Milky Way galaxy and other galaxies. Cosmology, dark matter, dark energy, and the Big Bang. Serves as repeat credit for ASTR 1010. [3] (MNS) (CORE B) (LE MNS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -170266,7 +170266,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200778,7 +200778,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
