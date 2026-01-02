@@ -78458,7 +78458,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -78577,7 +78577,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -98758,7 +98758,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -114863,7 +114863,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -130974,7 +130974,7 @@
         "notes": "The combined enrollment capacity of MATH 2820 and MATH 5820 is 28. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -133492,7 +133492,7 @@
         "capacity": "70",
         "enrolled": "47",
         "wl_capacity": "75",
-        "wl_occupied": "24",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -214412,7 +214412,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Next Steps Eligible"
