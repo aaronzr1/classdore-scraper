@@ -2582,11 +2582,11 @@
         "requirements": "Prereqs for ECON 3170",
         "description": "Theories of benefit-cost analysis, externalities, and public goods applied to study environmental market failures. Empirical methods applied to nonmarket valuation of environmental amenities and policy evaluation. Theories of optimal control and use applied to study energy, forests, fisheries, water, and climate change. Prerequisites: 3012; 3032 or 3035. [3] (SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -9857,7 +9857,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "72",
+        "enrolled": "73",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -28615,7 +28615,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "130",
-        "enrolled": "109",
+        "enrolled": "110",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -36109,7 +36109,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -74763,7 +74763,7 @@
         "notes": "The combined enrollment capacity of CSET 2100 and CSET 5100 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -83014,7 +83014,7 @@
         "notes": "[Formerly SPED 2050]",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -101004,7 +101004,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -102391,7 +102391,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -106344,7 +106344,7 @@
         "notes": "Full title: \" Russian Science Fiction\" - This course explores Russian science fiction across literature, art, and film, with occasional forays into other media such as video games, featuring works by Protazanov, the Strugatsky Brothers, and Tarkovsky. (Core capacity tags: A, C / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -106544,9 +106544,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"How to Find a Life of Meaning In A World of Likes and Retweets\" - Our internet-organized world promises us endless freedom:  access to information, goods and, supposedly, happiness.  Our social networks promise us friendship, support and contact.  But we're feeling (as people attest and studies confirm) more trapped, more devoid of agency and purpose, more lonely, unfocused and isolated, and, perhaps worst, more confused about truth and unmoored from any sense of meaning and guiding values.  \"Finding a Life of Meaning in a World of Likes and Retweets\" will help you situate these problems not just in our own moment but also historically and then will turn to literature as-in Kenneth Burke's resonant characterization-\"equipment for living.\"  By reading about others searching for meaning, we'll experiment with and enhance our own self-worth and integrity.  We'll explore our own belief and values as we read about others finding and developing theirs.  We'll cultivate a self-understanding that doesn't depend on what others think about us but keeps us aligned with our core values.  We will advance our own answers to the questions life asks of, and the demands it make on us.  In so doing we will strengthen our personal congruence and self-esteem through learning and practice.  We'll develop and exercise social trust and responsibility in our classroom community to create a setting where we can hazard and share our noble experiments of living in truth, and in finding and experiencing meaning! (Core capacity tags: A, E / AXLE tags: HCA)",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -144358,7 +144358,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Film Studies"
@@ -148739,7 +148739,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "55",
+        "enrolled": "54",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -151955,7 +151955,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -173058,7 +173058,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -186144,7 +186144,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
