@@ -28660,7 +28660,7 @@
         "notes": "The combined enrollment capacity of CS 4267, ECE 4467, CS 5267, and ECE 5467 is 45. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "5",
         "attributes": null,
@@ -200176,7 +200176,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Asian Studies",
             "Human & Organizational Development",
