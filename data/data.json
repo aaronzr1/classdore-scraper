@@ -15856,7 +15856,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -16392,7 +16392,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -22812,7 +22812,7 @@
         "notes": "Limited enrollment.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -31520,7 +31520,7 @@
         "notes": "Full title - Statutory Revolutions in Delaware Corporate Law: A Short Course\n         \n            \n            Instructor - Laster, Travis",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -36199,7 +36199,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -36456,7 +36456,7 @@
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -38046,7 +38046,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -39297,11 +39297,11 @@
         "requirements": "CE 2200 and Phys 1601 are prerequisites for this course",
         "description": "The principles of dynamics (kinematics and kinetics) of particles and rigid bodies. Mechanical vibrations. Continuous media. Prerequisite: CE 2200, PHYS 1601. Corequisite: MATH 2300. FALL, SPRING, SUMMER. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -74708,7 +74708,7 @@
         "notes": "Enrollment Limited",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -109038,7 +109038,7 @@
         "notes": "Instructor: Lauren Curry",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -133743,7 +133743,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "75",
         "wl_occupied": "3",
         "attributes": [
@@ -137260,7 +137260,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -174593,7 +174593,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -186000,7 +186000,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
