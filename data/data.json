@@ -36365,7 +36365,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "152",
+        "enrolled": "151",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -38590,7 +38590,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -39498,7 +39498,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "70",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": null,
@@ -41483,7 +41483,7 @@
         "notes": "$2,693.00 music fee (60-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.\n         \n            \n            STUDENTS WHO HAVE NOT YET STUDIED PIANO AT VANDERBILT MUST ENROLL IN PIAN 1100 SECTION 00. Students with no prior piano experience should enroll in PIAN 1010.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -69842,7 +69842,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "117",
+        "enrolled": "118",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -76378,11 +76378,11 @@
         "requirements": "",
         "description": "Organizations are comprised of individuals with diverse interests functioning within rapidly changing, complex environments, often with limited resources. Accordingly, understanding organizations requires multiple perspectives and approaches to problem-solving. Students in the course will learn to apply organizational theories to specific challenges in order to generate potential solutions that promote organizational health. HOD 2100 can substitute for BUS 1400 in the business minor. Serves as repeat credit for BUS 1400. [3]",
         "notes": "Not open to first-year students. Seats are reserved for HOD majors and minors until open enrollment.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "31",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76503,7 +76503,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76782,7 +76782,7 @@
         "notes": "Not open to first-year students. Seats are reserved for H&OD majors and minors until open enrollment.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -112226,7 +112226,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -128906,7 +128906,7 @@
         "notes": "Instructor: Brittany Landorf",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -132175,7 +132175,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -134067,7 +134067,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -149902,7 +149902,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "7",
         "attributes": [
@@ -153788,7 +153788,7 @@
         "notes": "Students who enroll in PHIL 1005-01 are required to enroll in a PHIL 1005 discussion section. 02-09",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "113",
+        "enrolled": "112",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -154351,9 +154351,9 @@
         "requirements": "",
         "description": "A study of theories of the good life and of the nature of virtue. Readings in major texts and discussion of selected problems. Serves as repeat credit for PHIL 1005W. [3] (P) (CORE C, E) (LE HFA)",
         "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section 2-9\n         \n            \n            Instructor: Gates Ely",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -156774,11 +156774,11 @@
         "requirements": "",
         "description": "The study of human society; the nature of culture and its organization. Processes of communication, socialization, mobility, population growth. Repeat credit for students who have completed 1010W or 1011. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -206802,7 +206802,7 @@
         "notes": "Satisfies LHS",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -220035,7 +220035,7 @@
         "notes": "All seats are reserved for seniors until Open Enrollment period.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
