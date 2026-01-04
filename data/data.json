@@ -9417,7 +9417,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -14833,7 +14833,7 @@
         "notes": "Instructor - Donaldson, Joshua M.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -52461,7 +52461,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -82841,7 +82841,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -84977,9 +84977,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -92428,7 +92428,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -106991,7 +106991,7 @@
         "notes": "The combined enrollment capacity of CS 4383, CS 5383, ECE 4383, and ECE 5383 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\"",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130573,7 +130573,7 @@
         "notes": "Introduction to Applied Artificial Intelligence in Engineering. AI principles, methods, and tools with an engineering focus. Application of AI for Internet of Things (IoT), robotics, smart grids, signal processing, and predictive maintenance. The combined enrollment capacity of ECE 3892 and ECE 8396 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\"",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -133365,7 +133365,7 @@
         "capacity": "70",
         "enrolled": "57",
         "wl_capacity": "75",
-        "wl_occupied": "35",
+        "wl_occupied": "34",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133619,7 +133619,7 @@
         "capacity": "70",
         "enrolled": "13",
         "wl_capacity": "75",
-        "wl_occupied": "27",
+        "wl_occupied": "26",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -166348,7 +166348,7 @@
         "requirements": "",
         "description": "What makes some organizations more innovative than others? In this course, students will learn how to improve an organization's innovation capabilities. Major themes include how to foster innovation within the firm, how to commercialize innovative ideas through new products and services, how to protect innovation from competitors, and how to overcome common barriers to innovation. Students will also improve their own innovation abilities through a project in which they pitch a new product or service. Note that while we will discuss examples of technical innovation, this is not a tech course; rather, this course is about how to create an effective strategy for innovation in a wide range of organizations. [2]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "48",
         "enrolled": "47",
         "wl_capacity": "10",
@@ -182721,7 +182721,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -193833,7 +193833,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -202947,7 +202947,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "8",
         "attributes": [
@@ -218448,11 +218448,11 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Scientific study of the onset of expansion and consequences of war; conditions of peace, emphasizing alliances, arms races, and crisis escalation. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
@@ -221174,7 +221174,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
