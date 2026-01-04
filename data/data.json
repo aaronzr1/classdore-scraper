@@ -13710,7 +13710,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "71",
+        "enrolled": "70",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -46398,7 +46398,7 @@
         "notes": "MBA Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -56063,7 +56063,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -63986,7 +63986,7 @@
         "notes": "The combined enrollment capacity of PSY 3715 and PSY 6715 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -67607,7 +67607,7 @@
         "notes": "Limited Enrollment Course.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -67929,7 +67929,7 @@
         "notes": "Limited Enrollment Course.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -106869,7 +106869,7 @@
         "notes": "Algebraic geometry is a central field of modern mathematics, concerned with geometric objects defined by polynomial equations and notable for its wide-ranging applications in statistics, data science, cryptography, robotics, and theoretical physics. Students will be introduced to fundamental ideas in algebraic geometry through examples such as conic sections, cubic curves, and higher-dimensional varieties. The course emphasizes both computational techniques and conceptual understanding. A background in linear algebra is required, and prior coursework in abstract algebra is recommended but not required. Assessment will be based on in-class activities, homework, and a final project; there will be no in-class exams.\n         \n            \n            Prerequisites: Math 2410, Math 2600, or Math 2501.\n         \n            \n            The combined enrollment capacity of MATH 3890 02 and MATH 5890 02 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "8",
         "attributes": null,
@@ -108747,7 +108747,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -184738,11 +184738,11 @@
         "requirements": "",
         "description": "Offered on a graded basis only. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -185213,7 +185213,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -191231,7 +191231,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -205495,7 +205495,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -214434,7 +214434,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
