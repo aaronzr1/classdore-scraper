@@ -9695,7 +9695,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "200",
-        "enrolled": "200",
+        "enrolled": "199",
         "wl_capacity": "50",
         "wl_occupied": "34",
         "attributes": [
@@ -24527,7 +24527,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: AI, Robots, and Clones",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -28334,7 +28334,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "20",
+        "wl_occupied": "21",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -35984,7 +35984,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "79",
+        "enrolled": "80",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -36111,7 +36111,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -36365,7 +36365,7 @@
         "notes": "Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 1602L\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "153",
+        "enrolled": "152",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -36619,7 +36619,7 @@
         "capacity": "160",
         "enrolled": "159",
         "wl_capacity": "25",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38221,7 +38221,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -38720,7 +38720,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39576,7 +39576,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -58257,7 +58257,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -74584,7 +74584,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -76378,11 +76378,11 @@
         "requirements": "",
         "description": "Organizations are comprised of individuals with diverse interests functioning within rapidly changing, complex environments, often with limited resources. Accordingly, understanding organizations requires multiple perspectives and approaches to problem-solving. Students in the course will learn to apply organizational theories to specific challenges in order to generate potential solutions that promote organizational health. HOD 2100 can substitute for BUS 1400 in the business minor. Serves as repeat credit for BUS 1400. [3]",
         "notes": "Not open to first-year students. Seats are reserved for HOD majors and minors until open enrollment.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "31",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -114032,7 +114032,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -117753,7 +117753,7 @@
         "capacity": "85",
         "enrolled": "82",
         "wl_capacity": "20",
-        "wl_occupied": "9",
+        "wl_occupied": "10",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -118672,7 +118672,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -136042,7 +136042,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -160246,7 +160246,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -168660,7 +168660,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -175540,7 +175540,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -177094,7 +177094,7 @@
         "capacity": "35",
         "enrolled": "34",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -177749,7 +177749,7 @@
         "notes": "Students registered for lecture 05 must also register for section 21 or 24 of discussion.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -178159,7 +178159,7 @@
         "notes": "Students registered for lecture sec 05 should register for sec 21 or 25 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -179206,7 +179206,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -189037,7 +189037,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -194376,7 +194376,7 @@
         "notes": "Enrollment limited to MSF and second year MBA students only.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -195286,7 +195286,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "36",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195413,7 +195413,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -203974,7 +203974,7 @@
         "capacity": "100",
         "enrolled": "98",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -205345,7 +205345,7 @@
         "notes": "Limited Enrollment",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -217711,7 +217711,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
