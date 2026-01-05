@@ -3347,7 +3347,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -3472,7 +3472,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -27676,9 +27676,9 @@
         "requirements": "",
         "description": "Iron Age through Middle Ages (ca. 1000 BCE-1500 CE). Remains of Greeks, Romans, and related peoples of southern Europe, north Africa, and the Near East. Society, economy, religion, urbanism. Human settlement and natural environment. Classical and Renaissance paradigms. Modern theory of material and visual culture. Techniques of data collection, analysis, and curation [3] (SBS) (CORE C) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -74875,7 +74875,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -112933,7 +112933,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "44",
-        "enrolled": "44",
+        "enrolled": "43",
         "wl_capacity": "12",
         "wl_occupied": "6",
         "attributes": [
@@ -114241,7 +114241,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "47",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -149085,9 +149085,9 @@
         "requirements": "Not open to HOD or HOS majors, or to students who have earned credit for HOD 2100 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2400) Accomplishing goals by effectively working for, with, and through others. The units of analysis explored are individuals, teams, and organizations. Not open to HOD or HOS majors, or to students who have earned credit for HOD 2100 without permission, as students will forfeit credit hours. Serves as repeat credit for HOD 2100. [1.5]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
         "wl_occupied": "3",
         "attributes": [
@@ -178663,7 +178663,7 @@
         "notes": "Prerequisite is waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "90",
-        "enrolled": "90",
+        "enrolled": "89",
         "wl_capacity": "12",
         "wl_occupied": "11",
         "attributes": [
@@ -185213,7 +185213,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -220327,7 +220327,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
