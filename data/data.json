@@ -2586,7 +2586,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -10540,7 +10540,7 @@
         "capacity": "215",
         "enrolled": "215",
         "wl_capacity": "150",
-        "wl_occupied": "82",
+        "wl_occupied": "83",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -11170,8 +11170,8 @@
         "requirements": "BSCI 1511 is a pre- or co-requisite to this course.",
         "description": "Laboratory to accompany 1511. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1511. Prerequisite or corequisite: 1511. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
-        "capacity": "60",
+        "status": "Wait list",
+        "capacity": "46",
         "enrolled": "47",
         "wl_capacity": "40",
         "wl_occupied": "0",
@@ -13105,7 +13105,7 @@
         "notes": "This course is a project-based language course that continues to focus evenly on the four skills (listening, speaking, reading, and writing) in French. Students will further develop their French grammar and vocabulary through the use of contextualized, multimodal supports from the French-speaking world, and via problem-solving, communicative projects, and a portfolio. Pre-requisite: FREN2201 (FREN2203) or equivalent (ACTFL Intermediate-Low). Class taught in French. If you still have doubts or questions about the level required for this class, please contact the French language program director at alexis.finet@vanderbilt.edu.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "1",
         "attributes": [
@@ -16115,7 +16115,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Smith, Blaine E."
+            "Johnson, Heather J."
         ],
         "date_added": null
     },
@@ -17289,7 +17289,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Smith, Blaine E."
+            "Johnson, Heather J."
         ],
         "date_added": null
     },
@@ -17369,7 +17369,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Smith, Blaine E."
+            "Johnson, Heather J."
         ],
         "date_added": null
     },
@@ -23694,7 +23694,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Smith, Blaine E."
+            "Johnson, Heather J."
         ],
         "date_added": null
     },
@@ -23858,7 +23858,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Smith, Blaine E."
+            "Johnson, Heather J."
         ],
         "date_added": null
     },
@@ -25307,7 +25307,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Smith, Blaine E."
+            "Johnson, Heather J."
         ],
         "date_added": null
     },
@@ -25546,7 +25546,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Smith, Blaine E."
+            "Johnson, Heather J."
         ],
         "date_added": null
     },
@@ -26219,7 +26219,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Helmuth, Chalene"
         ],
         "date_added": null
     },
@@ -27922,7 +27922,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "56",
+        "enrolled": "55",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -37171,7 +37171,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Conklin, Beth A."
+            "Sauer, Jacob J."
         ],
         "date_added": null
     },
@@ -43772,7 +43772,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Demarest, Arthur A."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -48980,7 +48980,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "75",
-        "enrolled": "68",
+        "enrolled": "69",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -49264,7 +49264,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -52500,7 +52500,7 @@
         "notes": "MMark Only",
         "status": "Wait list",
         "capacity": "38",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": null,
@@ -52658,7 +52658,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -52697,7 +52697,7 @@
         "notes": "MMark Only",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -53660,7 +53660,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -54023,7 +54023,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "This course is intended for students who are focused on big data analysis in the Python programming language, from large scale epidemiologic datasets, electronic medical records, or next generation sequence data. It will cover basic programming, including strings, arrays, dictionaries, conditional statements, data visualization, external data sources, and algorithms, with a focus on using programing to solve challenges within the students' own research projects. At the end of the course, students will have an understanding of the foundation of programming in Python. They will understand the importance and use of regular expressions and efficient data search tools and will demonstrate proficiency in algorithms and data visualization. Evaluations will be based on a midterm exam, homework, a final project, and class participation. SPRING. Instructor: Jennifer Below and staff. [2-4]",
-        "notes": "The combined enrollment capacity of HGEN 8394-01 and HGEN 8394-02 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
+        "notes": "The combined enrollment capacity of HGEN 8394-01 and HGEN 8394-02 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Class will meet in Suite 9500, 2525 West End Avenue",
         "status": "Open",
         "capacity": "30",
         "enrolled": "3",
@@ -54312,7 +54312,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "This course is intended for students who are focused on big data analysis in the Python programming language, from large scale epidemiologic datasets, electronic medical records, or next generation sequence data. It will cover basic programming, including strings, arrays, dictionaries, conditional statements, data visualization, external data sources, and algorithms, with a focus on using programing to solve challenges within the students' own research projects. At the end of the course, students will have an understanding of the foundation of programming in Python. They will understand the importance and use of regular expressions and efficient data search tools and will demonstrate proficiency in algorithms and data visualization. Evaluations will be based on a midterm exam, homework, a final project, and class participation. SPRING. Instructor: Jennifer Below and staff. [2-4]",
-        "notes": "The combined enrollment capacity of HGEN 8394-01 and HGEN 8394-02 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
+        "notes": "The combined enrollment capacity of HGEN 8394-01 and HGEN 8394-02 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Class will meet in Suite 9500, 2525 West End Avenue",
         "status": "Open",
         "capacity": "20",
         "enrolled": "8",
@@ -54881,7 +54881,7 @@
         "notes": "The combined enrollment capacity of ECE 4356 and ECE 5356 is 30. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": null,
@@ -55037,7 +55037,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3861- directed-lab-research/",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -56806,7 +56806,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Gill, Lesley"
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -56829,9 +56829,9 @@
         "requirements": "",
         "description": "Critical Theories of Education introduces students to a range of theoretical traditions that interrogate power, knowledge, and inequality as they relate to education. The course explores how different forms of criticality-such as critical race theory, feminist theory, postcolonial theory, critical pedagogy, and critical disability studies-emerged historically and continue to inform educational practice, research, and policy.Ultimately, the course situates critical theories of education as tools for questioning taken-for-granted assumptions, developing deeper analysis of systemic inequities, and engaging in transformative educational work. Participants will gain an introductory grounding in multiple strands of critical thought and practice, building a toolkit for applying critical frameworks in diverse educational spaces. [3]",
         "notes": "The combined enrollment capacity of EDUC 3890 and EDUC 7550 is 40. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -57948,7 +57948,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Fowler, William R."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -70009,7 +70009,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -78444,7 +78444,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -79740,7 +79740,7 @@
         "capacity": "20",
         "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Cinema and Media Arts",
@@ -82802,7 +82802,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "9",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "1",
         "wl_occupied": "0",
         "attributes": null,
@@ -83039,7 +83039,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "55",
+        "enrolled": "56",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": null,
@@ -83193,9 +83193,9 @@
         "requirements": "Corequisite: MATH 2300",
         "description": "Techniques associated with engineering measurements, curve fitting, presentation, and analysis of data. Corequisite: MATH 2300. SPRING. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "11",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "1",
         "wl_occupied": "0",
         "attributes": null,
@@ -92233,7 +92233,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -96443,7 +96443,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -99336,7 +99336,7 @@
         "notes": "This course will explore Beyonc\u00e9's unprecedented rise in American culture by: (1) placing her in the historical context of American women performers from Bessie Smith to Janet Jackson, who inspire and preceded her; and (2) analyzing her iconicity, impact, and intersectional politics through contemporary cultural, racial, and feminist criticism. This course will count toward all areas of Study within the AADS major and minor.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -103584,7 +103584,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Demarest, Arthur A."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -103974,7 +103974,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Fowler, William R."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -105328,7 +105328,7 @@
         "notes": "Full title: \"Italy and Asia: Deconstructing Representations of Asia in Italian and European Culture\" - Since the Middle-Ages, Italy enjoys intense social, political, and commercial exchanges with Asia. For centuries, Italian merchants and explorers travel along terrestrial and maritime trade routes, which connect the city-states of the peninsula with the Near and Far East. In the tales of Genoese and Venetian adventurers, Persia, India, Indonesia, China, Korea, and Japan appear as lands of opulence, wonder, and magic, regardless of the innumerable dangers of the long journey. The emergence of Portugal, Holland, and England as global colonial empires during the Modern era do not decrease established relationships between Italy and Asia. Rather, Italian inventors, diplomats, and missionaries become even more influential as cultural ambassadors, who are often able to create a synthesis between European and Asian cultures in politics, religion, science, and art. This tradition continues in the present. The works of several contemporary Italian writers, artists, and filmmakers demonstrate a constant, reciprocal fascination between Italy and Asia, which this course will investigate, challenge, and deconstruct. Based on intense interdisciplinarity between the verbal and the visual domains, we will put into conversation several disciplines, including history, art history, literary history, economy, geopolitics, and film studies. (Core capacity tags: A, C / AXLE tags: INT)",
         "status": "Closed",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -106869,7 +106869,7 @@
         "notes": "Algebraic geometry is a central field of modern mathematics, concerned with geometric objects defined by polynomial equations and notable for its wide-ranging applications in statistics, data science, cryptography, robotics, and theoretical physics. Students will be introduced to fundamental ideas in algebraic geometry through examples such as conic sections, cubic curves, and higher-dimensional varieties. The course emphasizes both computational techniques and conceptual understanding. A background in linear algebra is required, and prior coursework in abstract algebra is recommended but not required. Assessment will be based on in-class activities, homework, and a final project; there will be no in-class exams.\n         \n            \n            Prerequisites: Math 2410, Math 2600, or Math 2501.\n         \n            \n            The combined enrollment capacity of MATH 3890 02 and MATH 5890 02 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "7",
         "attributes": null,
@@ -108585,7 +108585,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "59",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": null,
@@ -114872,7 +114872,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -129711,7 +129711,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3961- independent-laboratory-research/",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -131713,7 +131713,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -132346,7 +132346,7 @@
         "capacity": "20",
         "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -132431,7 +132431,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "10",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -136731,26 +136731,18 @@
         "requirements": "",
         "description": "This course examines business opportunities within the health care industry and the financial considerations necessary for effective management of health care service sector businesses. Our rapidly changing health care industry increasingly demands that executives consider financial implications when making informed business decisions. As such, this course relies on a case study approach to give participants the opportunity to apply finance concepts to scenarios faced by \"real world\" health care organizations. Course material, case studies, class discussions, and assigned projects will explore various approaches for navigating the health care industry transformation from volume to value through the application of patient-centered care delivery, clinical integration, and provider consolidation. Learning objectives include the ability to evaluate hospital financial performance, recommend improvements, and guide future forecasts; generate ideas to strengthen physician alignment, identify important considerations in the development of pay-for-performance compensation, and gain working knowledge of physician practice valuation; as well as discuss innovative business solutions that address health care industry trends. [2]",
         "notes": null,
-        "status": "Closed",
+        "status": "Cancelled Section",
         "capacity": "0",
-        "enrolled": "8",
+        "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
             "Health Care Concentration"
         ],
-        "meeting_days": [
-            "W"
-        ],
-        "meeting_times": [
-            "05:20p - 08:30p"
-        ],
-        "meeting_dates": [
-            "3/9/26-4/24/26"
-        ],
-        "instructors": [
-            "Lomicka, Edward W."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -137987,7 +137979,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -139762,9 +139754,9 @@
         "notes": "The combined enrollment capacity of MATH 3630 and MATH 5630 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Scientific Computing"
@@ -141305,7 +141297,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "55",
+        "enrolled": "56",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -153184,7 +153176,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -159048,7 +159040,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Conklin, Beth A."
+            "Sauer, Jacob J."
         ],
         "date_added": null
     },
@@ -159786,7 +159778,7 @@
         "capacity": "17",
         "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: B-Systemic & Structural Reasoning",
             "CORE: D-Data Literacy & Computational Thinking"
@@ -168953,9 +168945,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must also enroll in a Wednesday discussion section, HOD 1250-02, -03, -04, -05, -06, -07, -08, or -17.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "100",
-        "enrolled": "100",
+        "enrolled": "99",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -169322,7 +169314,7 @@
         "notes": "Students must be enrolled in HOD 1250 01.",
         "status": "Open",
         "capacity": "14",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -188194,7 +188186,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "14",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -195089,7 +195081,7 @@
         "capacity": "30",
         "enrolled": "33",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -196230,7 +196222,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "45",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -199029,7 +199021,7 @@
         "notes": "Students enrolled in MATH 1301 16 must also register for either MATH 1301 17 or MATH 1301 18",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "20",
         "wl_occupied": "9",
         "attributes": [
@@ -199193,7 +199185,7 @@
         "notes": "Students enrolled in MATH 1301 16 must also register for either MATH 1301 17 or MATH 1301 18",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "15",
         "wl_occupied": "2",
         "attributes": [
@@ -201565,7 +201557,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -205901,7 +205893,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -206804,7 +206796,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society"
@@ -209194,7 +209186,7 @@
         "notes": "Registration must be completed through the Neuroscience Program Office. See instructions at as.vanderbilt.edu/neuroscience/3861-3862-undergraduate-research",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -209233,7 +209225,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -209793,7 +209785,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Fowler, William R."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -209871,7 +209863,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Gill, Lesley"
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -209910,7 +209902,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Demarest, Arthur A."
+            "Staff (Secondary)"
         ],
         "date_added": null
     },
@@ -216522,7 +216514,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -221174,7 +221166,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
