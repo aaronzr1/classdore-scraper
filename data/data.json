@@ -10777,7 +10777,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "235",
-        "enrolled": "228",
+        "enrolled": "227",
         "wl_capacity": "75",
         "wl_occupied": "1",
         "attributes": [
@@ -11172,7 +11172,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": null,
@@ -39729,7 +39729,7 @@
         "notes": "Availability of seats in this class is pending. Updates likely in November.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -74426,7 +74426,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -75198,7 +75198,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -122410,7 +122410,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -171689,7 +171689,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -184901,7 +184901,7 @@
         "notes": "A student's permission to register for this course will be forwarded from the director of field education to the assistant dean for academic affairs who will enter the course on the student's schedule. The course may be applied to the concentrations in Chaplaincy or in Pastoral and Prophetic Congregational Leadership. Because Clinical Pastoral Education is a variable-hour course (1 to 6 credits), the permission to enroll must specify the number of credit hours to be entered on one's schedule.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "2",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -201154,7 +201154,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -212552,7 +212552,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -212635,7 +212635,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
