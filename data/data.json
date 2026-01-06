@@ -23099,7 +23099,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for African American and Diaspora Studies",
@@ -29092,7 +29092,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -50932,9 +50932,9 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Theories and empirical evidence of the determinants of wages and employment. Compensating differentials, education and human capital, migration and labor mobility, discrimination, incentive pay, wage inequality. Prerequisite: 3010 or 3012. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -148438,7 +148438,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -174224,7 +174224,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -207616,11 +207616,11 @@
         "requirements": "",
         "description": "The study of human society; the nature of culture and its organization. Processes of communication, socialization, mobility, population growth. Repeat credit for students who have completed 1010W or 1011. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
