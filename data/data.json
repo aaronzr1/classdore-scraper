@@ -3063,7 +3063,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Gender and Sexuality Studies",
@@ -6693,7 +6693,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -35374,9 +35374,9 @@
         "requirements": "",
         "description": "Ideals and practices of deliberative democracy in the US.  Prospects for deliberation and conversation in a divided political era. [3] (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -35505,7 +35505,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "121",
-        "enrolled": "119",
+        "enrolled": "120",
         "wl_capacity": "30",
         "wl_occupied": "4",
         "attributes": [
@@ -35931,7 +35931,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -37793,7 +37793,7 @@
         "notes": "The synchronous meetings with instructor are required. The rest of the class will be offered asynchronously.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -40546,7 +40546,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -56039,7 +56039,7 @@
         "notes": "The combined enrollment capacity of CS 2204 and ECE 2204 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -56728,9 +56728,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "110",
-        "enrolled": "90",
+        "enrolled": "91",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -57290,7 +57290,7 @@
         "capacity": "38",
         "enrolled": "39",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -65032,7 +65032,7 @@
         "notes": "Artistic, musical, and cinematic representations of supernatural beings and scenes. Russian ancient beliefs and ritual practices from pre-Christian Slavic paganism and Christianity. Four main conceptual approaches to fairy tale analysis.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "10",
         "wl_occupied": "4",
         "attributes": [
@@ -67102,7 +67102,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "18",
+        "wl_occupied": "19",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -108349,7 +108349,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -121973,7 +121973,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -124162,11 +124162,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -124363,7 +124363,7 @@
         "capacity": "12",
         "enrolled": "10",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -128504,7 +128504,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -133335,7 +133335,7 @@
         "capacity": "70",
         "enrolled": "57",
         "wl_capacity": "75",
-        "wl_occupied": "28",
+        "wl_occupied": "29",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133581,7 +133581,7 @@
         "capacity": "70",
         "enrolled": "13",
         "wl_capacity": "75",
-        "wl_occupied": "22",
+        "wl_occupied": "21",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133705,7 +133705,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "75",
         "wl_occupied": "1",
         "attributes": [
@@ -137653,7 +137653,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -138305,7 +138305,7 @@
         "notes": "The combined enrollment capacity of ENGM 3700-01 and ENGM 5700-01 is 35. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -153742,7 +153742,7 @@
         "notes": "Students who enroll in PHIL 1005-01 are required to enroll in a PHIL 1005 discussion section. 02-09",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "112",
+        "enrolled": "113",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -153823,9 +153823,9 @@
         "requirements": "",
         "description": "A study of theories of the good life and of the nature of virtue. Readings in major texts and discussion of selected problems. Serves as repeat credit for PHIL 1005W. [3] (P) (CORE C, E) (LE HFA)",
         "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section\n         \n            \n            Instructor: Makaelan Bond",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -175285,7 +175285,7 @@
         "requirements": "",
         "description": "Ethical issues arising from business and professional practice. Topics will include: corporate social responsibility, employee rights, technology and privacy in the workplace, corporate governance, and globalization. [3] (P)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "8",
@@ -182281,7 +182281,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "40",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -194182,7 +194182,7 @@
         "notes": "The combined enrollment capacity of CMA 1200 and GER 1442 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "26",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "8",
         "attributes": [
@@ -196327,7 +196327,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "91",
+        "enrolled": "92",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -220438,7 +220438,7 @@
         "notes": "The subject of this course is how individuals represent themselves, are represented by others, and how groups of biographies can be used to understand history. How do we read and understand the biased accounts of autobiographies? What motivations drive biographers? What can we tell from a mass of biased accounts of individuals. We will also examine the value of possibly unreliable oral accounts of family histories. Students will both produce and critique autobiographies. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
