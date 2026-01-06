@@ -6008,7 +6008,7 @@
         "notes": "See English Department Website for a more detailed course description. Pre-1800",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -10062,7 +10062,7 @@
         "notes": "This course provides an overview of the science and practice of clinical psychology, with an emphasis on child and adolescent clinical psychology. Clinical research, psychological assessment, psychotherapy, and related issues will be discussed in class. Students examine the techniques used by clinical psychologists to assess and treat psychopathology, and research investigating the efficacy of these techniques. There is an emphasis on experiential learning in the class. Students will examine the science of clinical psychology by reviewing research from scientific journals on the effects of a specific type of psychotherapy for a specific psychological disorder. Previous courses in abnormal psychology and psychological research methods / statistics are highly recommended. [3]",
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -10660,7 +10660,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "55",
+        "enrolled": "54",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": null,
@@ -11482,9 +11482,9 @@
         "requirements": "BSCI 1511 is a pre- or co-requisite to this course.",
         "description": "Laboratory to accompany 1511. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1511. Prerequisite or corequisite: 1511. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": null,
@@ -20664,9 +20664,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -21165,7 +21165,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -39252,7 +39252,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "81",
+        "enrolled": "80",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -39410,7 +39410,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Open",
         "capacity": "48",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -40047,7 +40047,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "Research presentations by faculty members, visiting scholars, and graduate students. Assists students in the selection of research topics and in the presentation of research. May be repeated for credit. [1]",
-        "notes": null,
+        "notes": "Class will meet in GARL 334",
         "status": "Open",
         "capacity": "15",
         "enrolled": "9",
@@ -51293,7 +51293,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for students with a home department at Peabody through initial enrollment period",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -54779,7 +54779,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3860- research-internship/",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -74402,7 +74402,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -102854,9 +102854,9 @@
         "notes": "Principles of high-speed machining and subtractive manufacturing with a focus on CNC milling, laser cutting, and plasma cutting. Fundamentals of tooling, fixturing, and optimizing cutting parameters (feeds and speeds) for precision machining. Computer-aided manufacturing (CAM) and simulation to develop toolpaths and improve efficiency. Students gain hands-on experience with 2D cutting operations before programming and operating a 3-axis milling machine with a high-speed spindle. Emphasis on problem-solving, process optimization, and design iteration. Students design and machine their own prototypes. Prerequisite: DF 2100.",
         "status": "Wait list",
         "capacity": "10",
-        "enrolled": "11",
+        "enrolled": "13",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "6",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -113478,7 +113478,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -115111,7 +115111,7 @@
             "MW"
         ],
         "meeting_times": [
-            "01:25p - 02:15p"
+            "01:15p - 02:30p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -116199,7 +116199,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -129681,7 +129681,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3961- independent-laboratory-research/",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -132098,7 +132098,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -134965,7 +134965,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -147407,7 +147407,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -149689,7 +149689,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: B-Systemic & Structural Reasoning",
@@ -150110,7 +150110,7 @@
             "MW"
         ],
         "meeting_times": [
-            "04:10p - 05:25p"
+            "04:10p - 07:00p"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -160362,7 +160362,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -173195,11 +173195,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -182515,7 +182515,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "21",
         "wl_occupied": "0",
         "attributes": null,
@@ -182755,7 +182755,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -188140,7 +188140,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "14",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -195351,7 +195351,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195392,7 +195392,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -202512,7 +202512,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -205474,7 +205474,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -205595,7 +205595,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -213591,7 +213591,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "41",
+        "enrolled": "40",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -213675,7 +213675,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -213801,7 +213801,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
