@@ -3063,7 +3063,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Gender and Sexuality Studies",
@@ -3305,9 +3305,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -3470,9 +3470,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -3629,7 +3629,7 @@
         "requirements": "Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "(Previously BUS 2700) Provides an overview of operations in both service and manufacturing organizations. Process analysis, queuing, inventory management, quality management, lean operations, and optimization. Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "6",
@@ -3712,9 +3712,9 @@
         "notes": "The combined enrollment capacity of ECE 4377 and ECE 5377 is 44. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "44",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -8192,9 +8192,9 @@
         "requirements": "",
         "description": "Public understanding of complex issues in the age of big-data. Data analysis using Tableau. Narratives created as personal stories, posters, games, maps, sculptures, and sound from large data sets. Emotive, aesthetic, and practical effects of different presentation methods; metrics for assessing impact. Studio approach with case studies, and hands-on work with tools and technologies. Serves as repeat credit for CSET 3890, section 01 in Fall 2020. [3] (SBS)",
         "notes": "Public understanding of complex issues in the age of big-data. Data analysis using Tableau. Narratives created as personal stories, posters, games, maps, sculptures, and sound from large data sets. Emotive, aesthetic, and practical effects of different presentation methods; metrics for assessing impact. Studio approach with case studies, and hands-on work with tools and technologies. Serves as repeat credit for CSET 3890, section 01 in Fall 2020.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -9697,7 +9697,7 @@
         "capacity": "200",
         "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "24",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -9857,7 +9857,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "65",
+        "enrolled": "64",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -10540,7 +10540,7 @@
         "capacity": "215",
         "enrolled": "215",
         "wl_capacity": "150",
-        "wl_occupied": "72",
+        "wl_occupied": "71",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -13062,7 +13062,7 @@
         "notes": "This course is a project-based language course that continues to focus evenly on the four skills (listening, speaking, reading, and writing) in French. Students will further develop their French grammar and vocabulary through the use of contextualized, multimodal supports from the French-speaking world, and via problem-solving, communicative projects, and a portfolio. Pre-requisite: FREN2201 (FREN2203) or equivalent (ACTFL Intermediate-Low). Class taught in French. If you still have doubts or questions about the level required for this class, please contact the French language program director at alexis.finet@vanderbilt.edu.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -16062,7 +16062,7 @@
         "notes": "The combined enrollment capacity of CS 4279 and CS 5279 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "38",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "35",
         "wl_occupied": "3",
         "attributes": null,
@@ -16314,7 +16314,7 @@
         "notes": "Limited enrollment.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": null,
@@ -16353,7 +16353,7 @@
         "notes": "The combined enrollment capacity of CS 4279 and CS 5279 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -18459,7 +18459,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint.com/sites/VUSNStudents/SitePages/Block-Schedules,-Intensives,-and-Textbooks.aspx",
         "status": "Open",
         "capacity": "150",
-        "enrolled": "73",
+        "enrolled": "72",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -20506,9 +20506,9 @@
         "requirements": "Pre- or co-requisite: 1502 or 1602. Not open to students who have earned credit for PHYS 1502L or 1902 without permission.",
         "description": "Laboratory to accompany Physics 1602. Satisfies the AXLE lab course requirement when completed with 1602 (strongly preferred) or 1502. Serves as repeat credit for PHYS 1502L. Not open to students who have earned credit for 1902 without permission. Credit for this course and 1902 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite: 1502 or 1602. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
         "wl_occupied": "1",
         "attributes": [
@@ -21407,7 +21407,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -21524,9 +21524,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -21995,9 +21995,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -23219,11 +23219,11 @@
         "requirements": "",
         "description": "(Previously BUS 2600) Success in business is driven by providing goods and services that consumers need and want. This course covers how to achieve such success through analyses of companies, customers, and competitors, and making the right decisions regarding what products to offer, and how to price, promote, and distribute them. Course content spans a wide variety of settings including consumer goods, hi-tech, and service firms, and puts a particular emphasis on digital marketing opportunities and the evolving role of social media. Not open to students who have earned credit for MGRL 1200 without permission, as students will forfeit credit hours. Serves as repeat credit for MGRL 1200. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -23752,9 +23752,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -23875,7 +23875,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "5",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -24035,11 +24035,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -25400,9 +25400,9 @@
         "requirements": "",
         "description": "Introduction to drawing: visual problems related to observation, idea formation, composition, media, and various forms of expression. Figure and landscape may be included. [3] (HCA) (CORE A, B)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -25682,7 +25682,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -26275,7 +26275,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -26361,7 +26361,7 @@
         "notes": "The combined enrollment capacity of BSCI 2250-01 and BSCI 5250-01 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "62",
+        "enrolled": "63",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -26898,7 +26898,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "22",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -27257,7 +27257,7 @@
         "notes": "Pre-requisite (1711 or 2781) have been waived for Spring 2026.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -27672,7 +27672,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -28077,7 +28077,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -28163,7 +28163,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "14",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -34350,7 +34350,7 @@
         "capacity": "15",
         "enrolled": "8",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MT"
@@ -34662,8 +34662,8 @@
         "requirements": "2L or 3L standing is required for this course.",
         "description": "Students in the Immigration Clinic represent vulnerable low-income immigrants from all over the world before the immigration agencies, the Department of Homeland Security (DHS) and the Department of Homeland Security (DOJ) and federal courts in humanitarian immigration cases. Students take primary responsibility and decision-making authority for their cases, under the mentorship of the clinic faculty member. Early classes provide knowledge in substantive immigration law, including the Immigration and Nationality Act, the applicable Code of Federal Regulations, and Department of Homeland Security forms, applications, and internal policies. Classes will also be taught on substantive subjects specific to representing immigrants, including working with interpreters and the impact of the administrative nature of the system. Students will be expected to prepare for substantive immigration hearings, appearances and filings with United States Customs and Immigration Service and the Department of Justice Immigration Courts. Note: This clinic requires that students attend a \"boot camp\" to be scheduled on the weekend prior to the start of classes. Note: A \"no drop\" policy will be in place once students have registered. Only the individual clinic professor can grant a waiver of this policy. Enrollment limited. [4]",
         "notes": "A \"no drop\" policy will be in place once students have registered. Only the individual clinic professor can grant a waiver of this policy. Limited Enrollment Course.",
-        "status": "Open",
-        "capacity": "8",
+        "status": "Closed",
+        "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -35505,9 +35505,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "121",
-        "enrolled": "117",
+        "enrolled": "118",
         "wl_capacity": "30",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for American Studies Major",
@@ -36532,7 +36532,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "121",
+        "enrolled": "120",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -36611,7 +36611,7 @@
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "19",
+        "wl_occupied": "21",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -36691,7 +36691,7 @@
         "capacity": "25",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -36977,7 +36977,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5208",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "10",
@@ -37022,7 +37022,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "150",
-        "enrolled": "50",
+        "enrolled": "51",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -37108,7 +37108,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38334,7 +38334,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5206.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
@@ -38580,7 +38580,7 @@
         "requirements": "Prerequisite: CHEM 1601. Corequisite: CHEM 1602L. Not open to students who have earned credit for CHEM 1020 without permission.",
         "description": "Continuation of 1601. General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1020 without permission. Serves as repeat credit for 1020. Prerequisite: 1601. Corequisite: 1602L. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "Students registered in this section will be appropriated into SC 5215.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
@@ -38710,7 +38710,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -38794,7 +38794,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5208.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -39002,7 +39002,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -39410,7 +39410,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Open",
         "capacity": "48",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -39490,7 +39490,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/6/2026",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "70",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": null,
@@ -40215,7 +40215,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -41078,7 +41078,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -41722,7 +41722,7 @@
         "capacity": "32",
         "enrolled": "31",
         "wl_capacity": "11",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -41928,7 +41928,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -42048,7 +42048,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -42905,7 +42905,7 @@
         "notes": "Prerequisites waived for Spring 2026.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -45553,7 +45553,7 @@
         "requirements": "",
         "description": "From the fourteenth century to the present. Fiction, drama, and poetry. Family relations and nation-state in romantic writings. Knowledge of Chinese is not required. [3] (HCA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "5",
@@ -47776,9 +47776,9 @@
         "requirements": "",
         "description": "Great Books from the points of view of literary expression and changing ideologies: The 17th century to the contemporary period. Repeat credit for students who have completed 2319W. [3] (HCA) (CORE B, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Literature and Language Loss\n         \n            \n            Diverse Perspectives",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -49543,7 +49543,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -50521,7 +50521,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats reserved for Peabody students through the initial enrollment period.",
         "status": "Wait list",
         "capacity": "26",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -50934,7 +50934,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -51677,7 +51677,7 @@
         "notes": "Satisfies EHIST",
         "status": "Open",
         "capacity": "41",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -53955,11 +53955,11 @@
         "requirements": "",
         "description": "Analysis of a range of texts in social, political, and aesthetic contexts. Interdisciplinary study of cultural forms as diverse as poetry, advertisement, and film. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Asian American Speculative Fiction",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
         "enrolled": "14",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -54168,7 +54168,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Good Girls Gone Bad",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "13",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -54659,7 +54659,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -56528,9 +56528,9 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -58781,7 +58781,7 @@
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.\n         \n            \n            The combined enrollment capacity of HODC 3650 02 and HOD 7500 03 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "20",
         "wl_occupied": "5",
         "attributes": [
@@ -59942,9 +59942,9 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group.",
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "22",
+        "wl_occupied": "21",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -62108,7 +62108,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -63563,7 +63563,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -68384,9 +68384,9 @@
         "notes": "Students enrolled in MATH 2400-01 must also register for either MATH 2400-02 or MATH 2400-03",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -68544,9 +68544,9 @@
         "notes": "Students enrolled in MATH 2400-01 must also register for either MATH 2400-02 or MATH 2400-03",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -68905,7 +68905,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -69026,7 +69026,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -69983,9 +69983,9 @@
         "notes": "An overview of basic concepts and current research in social and personality development. Specific topics include research methods, development of self, social cognition, achievement motivation, prosocial behavior, moral development, aggression, gender role development, family and cultural influences. Prerequisite: PSY-PC 1205/1207 or 1250 or PSY 1200. [3] 2.Twelve seats reserved for students with a home department at Peabody through initial enrollment period.",
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -74006,9 +74006,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -74931,7 +74931,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "35",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -75683,9 +75683,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -75999,9 +75999,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -76155,11 +76155,11 @@
         "requirements": "",
         "description": "Organizations are comprised of individuals with diverse interests functioning within rapidly changing, complex environments, often with limited resources. Accordingly, understanding organizations requires multiple perspectives and approaches to problem-solving. Students in the course will learn to apply organizational theories to specific challenges in order to generate potential solutions that promote organizational health. HOD 2100 can substitute for BUS 1400 in the business minor. Serves as repeat credit for BUS 1400. [3]",
         "notes": "Not open to first-year students. Seats are reserved for HOD majors and minors until open enrollment.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76477,9 +76477,9 @@
         "notes": "Not open to first-year students. Seats are initially reserved for H&OD majors and a limited number of HOD minors.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76758,7 +76758,7 @@
         "notes": "Not open to first-year students. Seats are reserved for H&OD majors and minors until open enrollment.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -79368,7 +79368,7 @@
         "notes": "What is a \"great\" work? Why does it endure over centuries? What is its contemporary relevance? These are some of the questions that will inform our readings of German authors from the Middle Ages to the present. Approaching texts from the twelfth-century epic poem The Nibelungenlied to authors in contemporary Germany, we will examine traditions of German narrative and drama, observing how notions of heroism, choice, death, and war change radically over time; how humor, violence, and love play different roles in stories; and how literary works both reflect their historical circumstances and transcend them to offer orientation to readers in far different situations. We will consider translation, adaptation, parody, and canonization as literary processes, as well. The authors we will read include Goethe, Jean Paul, Georg B\u00fcchner, Franz Kafka, Heiner M\u00fcller, Elfriede Jelinek, and others.\n         \n            \n            Knowledge of German is not required; we texts will be available in English translation. Taught in English. [3] (INT)",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -80872,9 +80872,9 @@
         "requirements": "",
         "description": "The German fairy tale tradition and its role in American culture. Taught in English. [3] (INT) (CORE B, C) (LE HFA)",
         "notes": "Fairy tales are central to our shared cultural narrative and have long fueled the imaginations of both children and adults. This course applies a critical lens to the fairy tales of Jakob and Wilhelm Grimm, Charles Perrault, Hans Christian Andersen, and others. It locates the tales in their socio-cultural context of origin and then examines 20th and 21st-century retellings of the tales. Topics of discussion include: the social function of the tales, their changing roles in media and popular culture, psychology, gender, social class, visual and film adaptations.\n         \n            \n            All course material is in English. No prerequisites. Taught in English.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "26",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "8",
         "wl_occupied": "8",
         "attributes": [
@@ -82145,7 +82145,7 @@
         "notes": "MMark Student Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -84004,7 +84004,7 @@
         "notes": "Prerequisite: PSY-GS 8861 or equivalent [3]. During the initial open enrollment period only, all seats are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed.\n         \n            \n            During the initial open enrollment period only, all seats are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -84956,7 +84956,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -89301,9 +89301,9 @@
         "requirements": "",
         "description": "Examine science and technologies exploited by supervillains to achieve world domination.  Readings and discussions will reveal how these fictional schemes have real-world correlates that pose existential threats to humanity, and students will grapple with how we can summon our inner superhero to address them. [3] (CORE D, E)",
         "notes": "Examine science and technologies exploited by supervillains to achieve world domination. Readings and discussions will reveal how these fictional schemes have real-world correlates that pose existential threats to humanity, and students will grapple with how we can summon our inner superhero to address them.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -94632,7 +94632,7 @@
         "capacity": "40",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -96182,7 +96182,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "54",
+        "enrolled": "53",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -99196,7 +99196,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -99313,7 +99313,7 @@
         "notes": "This course will explore Beyonc\u00e9's unprecedented rise in American culture by: (1) placing her in the historical context of American women performers from Bessie Smith to Janet Jackson, who inspire and preceded her; and (2) analyzing her iconicity, impact, and intersectional politics through contemporary cultural, racial, and feminist criticism. This course will count toward all areas of Study within the AADS major and minor.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "43",
+        "enrolled": "42",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -99394,7 +99394,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -99925,7 +99925,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -101543,9 +101543,9 @@
         "requirements": "",
         "description": "Exploration and practice of the use of improv in communicating science.  Literature examination of improv as a performance based art form. Practice of improv through in-class games and forms.  Personal reflections on performances. Final performance is a science communication improv show to a general audience. Serves as repeat credit for CSET 3890-01 offered Spring 2025 and Spring 2024. [3] (CORE: A, C) (LE: SBS)",
         "notes": "How can we effectively communicate science? We can know the basics, but we need to be able to respond to, connect with, and bring our audience along for the journey. Students will learn the basics of improv comedy through play, deep dive into the literature around this field, talk with experts, and then apply this knowledge to creating their own science communication \"brand\" in a final project.",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -104998,7 +104998,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "8",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -105190,7 +105190,7 @@
         "notes": "Note: Open Elective credit only for all majors. All seats reserved for students with senior standing",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "10",
         "wl_occupied": "3",
         "attributes": null,
@@ -105382,7 +105382,7 @@
         "notes": "The combined enrollment capacity of HIST 2480 and HIST 5480 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -106036,9 +106036,9 @@
         "requirements": "H&OD/H&OS MAMI & SO JR SR",
         "description": "Exploration of special issues on topics related to human and organizational development. May be repeated for credit with change of topic. [3]",
         "notes": "Not open to FR. This course will count in Domain 1.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -106243,7 +106243,7 @@
         "notes": "Not open to FR. This course provides an in-depth look at the interrelationships between community, learning, identity, and context. We will examine the historical, political, social, theoretical, cultural, and educational influences that shape schooling for all students. We will be studying and theorizing about place, space, language, ethnicity, race, and culture across diverse settings (e.g., schools, households, communities) from an asset rather than a subtractive or deficit approach. The major goal of this course will be to learn how such influences affect students' educational experiences, instruction, and school-wide decisions. This course will count in Domain 2: Organizational/Group.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -106447,7 +106447,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3"
@@ -106838,11 +106838,11 @@
         "requirements": "MATH 3890 enrollment reqts",
         "description": "Topics vary. May be repeated for a total of 12 credits in 3890 and 3895 combined if there is no duplication in topic. Students may enroll in more than one section of this course each semester. Prerequisite: 2501; or both 2300 (or 2310) with either 2410 or 2600. [1-3; maximum of 12 credits total for all semesters of MATH 3890 and 3895 combined] (No AXLE credit)",
         "notes": "Algebraic geometry is a central field of modern mathematics, concerned with geometric objects defined by polynomial equations and notable for its wide-ranging applications in statistics, data science, cryptography, robotics, and theoretical physics. Students will be introduced to fundamental ideas in algebraic geometry through examples such as conic sections, cubic curves, and higher-dimensional varieties. The course emphasizes both computational techniques and conceptual understanding. A background in linear algebra is required, and prior coursework in abstract algebra is recommended but not required. Assessment will be based on in-class activities, homework, and a final project; there will be no in-class exams.\n         \n            \n            Prerequisites: Math 2410, Math 2600, or Math 2501.\n         \n            \n            The combined enrollment capacity of MATH 3890 02 and MATH 5890 02 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -107677,9 +107677,9 @@
         "notes": "The combined enrollment capacity of ME 3890 and ME 5890 is 17. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "9",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -108029,7 +108029,7 @@
         "notes": "The combined enrollment capacity of BSCI 4226 and BSCI 6226 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -108143,8 +108143,8 @@
         "requirements": "",
         "description": "Students in the Innocence Clinic evaluate cases of possible wrongful conviction, conduct investigations to develop new evidence of innocence, and represent clients in post-conviction litigation. At the early stages of case evaluation, students review trial transcripts, trial-level discovery, additional law enforcement records, the direct appeal record, and the initial post-conviction record. When a case is approved for investigation, students map out an investigation plan, gather additional records, consult with forensic experts, and interview witnesses. In appropriate cases, students draft, file, and argue motions for DNA or other forensic testing. When sufficient new evidence of innocence is developed, students represent clients in post-conviction litigation to overturn the wrongful conviction. Through weekly clinic classes, students obtain a foundation in the causes of wrongful conviction and Tennessee post-conviction procedure. Clinic classes also focus on skill-building, including sessions on interviewing witnesses, drafting affidavits, obtaining documents through open records laws, and creating strong factual narratives in legal writing. Note: This clinic requires that students attend a \"boot camp\" to be scheduled on the weekend prior to the start of classes. Note: A \"no drop\" policy will be in place once students have registered. Only the individual clinic professor can grant a waiver of this policy. Enrollment limited. [4]",
         "notes": "A \"no drop\" policy will be in place once students have registered. Only the individual clinic professor can grant a waiver of this policy. Limited Enrollment Course.",
-        "status": "Open",
-        "capacity": "8",
+        "status": "Closed",
+        "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
@@ -108184,9 +108184,9 @@
         "requirements": "MHS 3890 anti-requisites",
         "description": "May be repeated for credit if there is no duplication in topic. Students may enroll in more than one section of this course each semester. [1-3; maximum of 9 credits total for all semesters of MHS 3890] (No AXLE credit)",
         "notes": "The combined enrollment capacity of MHS 3890-03 and MHS 6500-01 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "4",
         "attributes": null,
@@ -109009,7 +109009,7 @@
         "notes": "Instructor: Lauren Curry",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -109128,9 +109128,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Designed to improve the student's ability to analyze behavioral patterns in groups such as leadership, conflict, and decision making and group roles. The student is expected to improve his/her abilities by effective participation in the group as well as in written analyses. Problems for analysis are drawn from events in the group and from theoretical readings. [3]",
         "notes": "Not open to Seniors.\n         \n            \n            If you cannot enroll, please put your name on the waitlist.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -109378,7 +109378,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -109748,7 +109748,7 @@
         "notes": "There are no prerequisites for the class. All texts will be in English. This course can count towards majors and minors in Asian Studies (ASIA 3891), Asian American and Asian Diaspora Studies, English and CAL.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -110339,7 +110339,7 @@
         "notes": "The combined enrollment capacity of BSCI 4274 and BSCI 6274 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -110545,9 +110545,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -110674,7 +110674,7 @@
         "notes": "The combined enrollment capacity of MATH 3320 and MATH 5320 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "15",
         "wl_occupied": "5",
         "attributes": [
@@ -110966,7 +110966,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -111085,7 +111085,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -111124,7 +111124,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "15",
         "wl_occupied": "8",
         "attributes": [
@@ -111774,7 +111774,7 @@
         "requirements": "",
         "description": "Theory and practice in speaking before an audience. Problems of preparation, content, organization, language, and delivery are treated. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "12",
@@ -111819,9 +111819,9 @@
         "requirements": "Prerequisite: Math 2501 or both 2300 (or 2310) with either 2410 or 2600.",
         "description": "Major developments in mathematics from ancient times to the early twentieth century. Emphasis both on the historical perspective and the mathematics; assignments include many exercises and theorems. Highly recommended for teacher candidates. Prerequisite: 2501 or both 2300 (or 2310) with either 2410 or 2600. [3] (MNS) (CORE C) (LE MNS)",
         "notes": "The combined enrollment capacity of MATH 3000 and MATH 5000 is 20. Although seats may appear open, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "4",
         "attributes": [
@@ -112065,11 +112065,11 @@
         "requirements": "MATH 3890 01 enrollment reqts",
         "description": "Fundamental properties of integers and polynomials. Elementary properties of groups, rings, integral domains, fields, and lattices. Prerequisite: 2410, 2600, or 2501. [3] (MNS)",
         "notes": "The combined enrollment capacity of MATH 3300 and MATH 5300 is 20. Although seats may appear open, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -112546,7 +112546,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -112824,7 +112824,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -112904,7 +112904,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "44",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -113027,7 +113027,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "17",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -113191,7 +113191,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -113272,9 +113272,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "17",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -113317,7 +113317,7 @@
         "notes": "An exploration of such social factors as the individual's values, beliefs, and emotions and their contributions to the basic cognitive processes involved in social perception, complex decision making, and problem solving. Topics include the social construction of perceived reality, attitude formation and change, heuristics and biases in social inference, and the role of emotion in coping and problem solving. [3]\n         \n            \n            2.Twelve seats reserved for students with a home department at Peabody through initial enrollment period",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -113666,7 +113666,7 @@
         "notes": "The combined enrollment capacity of MHS 3080-01 and MHS 6500-06 is 28. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "28",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "12",
         "wl_occupied": "12",
         "attributes": [
@@ -114124,7 +114124,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "18",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -114505,7 +114505,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -114889,7 +114889,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -116096,8 +116096,8 @@
             "1/5/26-4/17/26"
         ],
         "instructors": [
-            "Littlemouse, Gloria",
-            "Andrews, Susan P. (Secondary)"
+            "Andrews, Susan P.",
+            "Littlemouse, Gloria (Secondary)"
         ],
         "date_added": null
     },
@@ -116533,7 +116533,7 @@
         "notes": "The course may be applied to the concentrations in Religion and Gender Studies and to Religion and the Arts (as fulfilling the praxis requirement). The course may be applied also to the certificate in Religion and the Arts in Contemporary Culture and the Carpenter Certificate in Religion, Gender, and Sexuality. The combined enrollment capacity of DIV 6715, REL 6715, and RLST 3230 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            The combined enrollment capacity of RLST 3230, DIV 6715, and REL 6715 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -117681,7 +117681,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -119743,7 +119743,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -121455,7 +121455,7 @@
         "notes": "Students work in small groups on the specification, design, implementation, and testing of a sizeable machine learning or deep learning project. Projects can be either application- or algorithm-oriented. No credit for students who have earned credit for CS 4359. SPRING. [3]\n         \n            \n            The combined enrollment capacity of CS 4359 and CS 5359 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -122096,7 +122096,7 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "3",
@@ -123181,9 +123181,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -123366,11 +123366,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -123728,9 +123728,9 @@
         "notes": "Algebraic geometry is a central field of modern mathematics, concerned with geometric objects defined by polynomial equations and notable for its wide-ranging applications in statistics, data science, cryptography, robotics, and theoretical physics. Students will be introduced to fundamental ideas in algebraic geometry through examples such as conic sections, cubic curves, and higher-dimensional varieties. The course emphasizes both computational techniques and conceptual understanding. A background in linear algebra is required, and prior coursework in abstract algebra is recommended but not required. Assessment will be based on in-class activities, homework, and a final project; there will be no in-class exams.\n         \n            \n            Prerequisites: Math 2410, Math 2600, or Math 2501.\n         \n            \n            The combined enrollment capacity of MATH 3890 02 and MATH 5890 02 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -123765,9 +123765,9 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "3",
         "wl_occupied": "1",
         "attributes": null,
@@ -124940,7 +124940,7 @@
         "notes": "The combined enrollment capacity of MATH 3000 and MATH 5000 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -128245,7 +128245,7 @@
         "notes": "The Spring 26 version of this course will count for EES majors with EES departmental approval.\n         \n            \n            In Spring 2026, we will focus on the natural history collection on Vanderbilts campus, working on cataloging, organizing, and making the collection more accessible.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -128369,7 +128369,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "18",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -128576,9 +128576,9 @@
         "requirements": "",
         "description": "Close reading and writing in a variety of genres drawn from several periods. Productive dialogue, persuasive argument, and effective prose style. Offered on a graded basis only. [3] (HCA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Reading the Storm",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -129000,7 +129000,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -130573,9 +130573,9 @@
         "requirements": "",
         "description": "Expansion from second through fifteenth centuries across the Mediterranean into Asia, Africa, and Europe. Believers' practice and doctrine, relationship with Roman Empire, development of the Church, and social and cultural history of believers from after New Testament into late Middle Ages. Global perspective. Roots of Catholicism, Protestantism, and Eastern Christianity. [3] (INT)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "13",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -130766,7 +130766,7 @@
         "notes": "The combined enrollment capacity of ECON 3350 and ECON 5350 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -131015,9 +131015,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -131549,7 +131549,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -131595,7 +131595,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -131632,9 +131632,9 @@
         "requirements": "",
         "description": "Advanced video editing, color grading, audio post-production, motion graphics, visual effects creation, and real-time performance design. Content generation and enhancement workflows, automated processing and optimization, ethical AI usage, and creative authenticity evaluation. Industry-standard workflow optimization, collaborative production methodologies, and portfolio development for AI-integrated media careers. [3] (HCA) (LE: HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -132134,11 +132134,11 @@
         "requirements": "",
         "description": "Historical, cultural, and social contexts of sexual diversity, discrimination, and sexual violence. Understanding the centrality of sexuality to identity; challenging harmful modes of sexual expression; developing critical awareness of sex and sexuality. [3] (P) (CORE A, E) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -132392,7 +132392,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": [
@@ -132475,9 +132475,9 @@
         "requirements": "",
         "description": "Transnational art ca. 1700-1960. Cultural cross-pollination between Europe and Americas, Asia, and Africa as well as global modernisms. Art of New Spain, Orientalism, Realisms, Global Surrealism, and Geometric Abstraction in South America. [3] (INT) (CORE C, E) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -132923,7 +132923,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "49",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -133086,7 +133086,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -133399,7 +133399,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "41",
+        "enrolled": "42",
         "wl_capacity": "75",
         "wl_occupied": "20",
         "attributes": [
@@ -133698,7 +133698,7 @@
         "notes": "The combined enrollment capacity of CS 1100 and DS 1100 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "75",
         "wl_occupied": "0",
         "attributes": [
@@ -133742,7 +133742,7 @@
         "capacity": "135",
         "enrolled": "135",
         "wl_capacity": "30",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -134104,7 +134104,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -134753,7 +134753,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "101",
+        "enrolled": "100",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -138051,7 +138051,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "18",
-        "enrolled": "13",
+        "enrolled": "11",
         "wl_capacity": "9",
         "wl_occupied": "0",
         "attributes": [
@@ -138778,7 +138778,7 @@
         "notes": "See English Department Website for a more detailed course description. Pre-1800.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -138859,7 +138859,7 @@
         "requirements": "Not open to students who have earned credit for MATH 1200, 1201, or 1300 without permission.",
         "description": "A basic course in the rudiments of analytic geometry and differential and integral calculus with emphasis on applications. Designed for students who do not plan further study in calculus. Not open to students who have earned credit for MATH 1200, 1201, or 1300 without permission. Total credit for this course and MATH 1200 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours; Total credit for this course and MATH 1201 will not exceed 6 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [4] (MNS)",
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "45",
         "enrolled": "44",
         "wl_capacity": "30",
@@ -139181,7 +139181,7 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -139668,7 +139668,7 @@
         "notes": "Students enrolled in MATH 1100-01 must also register for either MATH 1100-02, MATH 1100-03, or MATH 1100-04",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -141252,7 +141252,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -141530,9 +141530,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -142128,7 +142128,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -146643,9 +146643,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -148415,7 +148415,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -148818,7 +148818,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "43",
+        "enrolled": "42",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -150077,7 +150077,7 @@
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -150642,7 +150642,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "21",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -151239,9 +151239,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -152475,7 +152475,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -152668,9 +152668,9 @@
         "requirements": "Not open to students who have earned credit for CS 1104 or CS 2204 without permission.",
         "description": "An intensive introduction to algorithm development and problem solving on the computer. Structured problem definition, top down and modular algorithm design. Running, debugging, and testing programs. Program documentation. Not open to students who have earned credit for CS 1104 without permission. Total credit for this course and CS 1104 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -153513,7 +153513,7 @@
         "notes": "Open by audition only; consent of instructor is required.",
         "status": "Open",
         "capacity": "180",
-        "enrolled": "159",
+        "enrolled": "158",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -153719,7 +153719,7 @@
         "notes": "Students who enroll in PHIL 1005-01 are required to enroll in a PHIL 1005 discussion section. 02-09",
         "status": "Open",
         "capacity": "120",
-        "enrolled": "108",
+        "enrolled": "106",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -153800,9 +153800,9 @@
         "requirements": "",
         "description": "A study of theories of the good life and of the nature of virtue. Readings in major texts and discussion of selected problems. Serves as repeat credit for PHIL 1005W. [3] (P) (CORE C, E) (LE HFA)",
         "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section\n         \n            \n            Instructor: Makaelan Bond",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -156302,7 +156302,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -159459,7 +159459,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -159598,7 +159598,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -159642,7 +159642,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -159713,11 +159713,11 @@
         "requirements": "MHS 3890 anti-requisites",
         "description": "May be repeated for credit if there is no duplication in topic. Students may enroll in more than one section of this course each semester. [1-3; maximum of 9 credits total for all semesters of MHS 3890] (No AXLE credit)",
         "notes": "How social, cultural, political, and economic forces shape health, disease, and medicine. Community health, climate activism, indigenous rights, and the geopolitics of knowledge production. Eligible for MHS concentration areas B, D, and electives.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "17",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: B-Systemic & Structural Reasoning",
             "CORE: D-Data Literacy & Computational Thinking"
@@ -160040,9 +160040,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -160087,7 +160087,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -160130,7 +160130,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "5",
         "wl_occupied": "4",
         "attributes": [
@@ -160177,7 +160177,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "6",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -160544,7 +160544,7 @@
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.\n         \n            \n            For a waiver of the prerequisites listed in the course description, please contact the instructor Professor Kimberly Bess at kimberly.d.bess@vanderbilt.edu",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "4",
         "attributes": [
@@ -162914,7 +162914,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -164457,7 +164457,7 @@
         "notes": "See English Department Website for a more detailed course description.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -164907,9 +164907,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -165068,7 +165068,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -166916,7 +166916,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -170798,7 +170798,7 @@
         "notes": "TBA Section; Contact Prof. Heard for violin placement info: connie.heard@vanderbilt.edu / 615-322-7681.   Music fees apply for applied instruction.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -172190,7 +172190,7 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "5",
@@ -173057,7 +173057,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -173502,9 +173502,9 @@
         "requirements": "Prerequisites: CS3250, CS 3251, CS 3270, one of MATH 2810, MATH 2820, or MATH 3640, and one of CS 3262, CS 4260, CS 4262, CS 4267, or ECE 4363.",
         "description": "[Variable credit: 1-3 each semester]",
         "notes": "As machine learning models are increasingly being employed to aid critical decision-making in high-stakes domains such as healthcare, autonomous driving, finance, and law, it becomes important to ensure that relevant stakeholders are able to understand the behavior of these models. Such an understanding helps determine if, when, and how much to rely on the outputs generated by these models. This course aims to familiarize students with the recent advances in the emerging field of eXplainable Artificial Intelligence (XAI). In this course, we will learn the notion of explainability from the perspective of different end users (e.g., doctors, ML researchers/engineers), discuss in detail different classes of interpretable models and post hoc explanations (e.g., rule-based and prototype-based models, feature attributions, counterfactual explanations, mechanistic interpretability), and explore the connections between explainability and fairness, robustness, and privacy. This course will also\n         \n            \n            The combined enrollment capacity of CS 3891 and CS 5891 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "18",
         "wl_capacity": "24",
         "wl_occupied": "11",
         "attributes": null,
@@ -173750,7 +173750,7 @@
         "notes": "This course explores the frontiers of machine learning, with a special focus on large language models (LLMs) and their potential to address real-world challenges in health and well-being. Students will engage with influential, peer-reviewed research articles from machine learning and biomedical informatics, gaining a deeper understanding of how emerging methods are shaping the future of healthcare. While a variety of machine learning models will be discussed, the course is designed for students with prior experience in the field. Participants should be comfortable reading and critically evaluating research papers, writing reviews, and using standard machine learning libraries to complete course projects. Prerequisites: CS 4262 Foundations of Machine Learning or equivalent\n         \n            \n            The combined enrollment capacity of CS 3891, CS 5891, and BMIF 6390 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "6",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": null,
@@ -175952,7 +175952,7 @@
         "requirements": "",
         "description": "Law's relationship to gender and sexuality from the seventeenth century to the present. Legal categories of gender that have governed the household, the economy, and the political sphere. [3] (US)",
         "notes": "The combined enrollment capacity of HIST 2239 and HIST 5239 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close. Eligible for LHS and GSS.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "5",
@@ -176122,7 +176122,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: History and Culture of the United States",
@@ -176356,7 +176356,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -176659,7 +176659,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "14",
+        "wl_occupied": "15",
         "attributes": null,
         "meeting_days": [
             "R",
@@ -177023,7 +177023,7 @@
         "notes": "The combined enrollment capacity of CS 4260, ECE 4260, CS 5260, and ECE 5260 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -177428,7 +177428,7 @@
         "notes": "Students registering for Sec 02 of lecture should register for Sec 31 or 32 of discussion\n         \n            \n            Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 2222L",
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "41",
+        "enrolled": "40",
         "wl_capacity": "25",
         "wl_occupied": "10",
         "attributes": [
@@ -177510,9 +177510,9 @@
         "notes": "Students registering for Sec 03 should also register for Sec 41, 42, 43, 44, or 45 of discussion\n         \n            \n            Will have Learning Assistants in the classroom in this section.\n         \n            \n            Required to register for lecture, discussion, and 2222L",
         "status": "Wait list",
         "capacity": "108",
-        "enrolled": "107",
+        "enrolled": "108",
         "wl_capacity": "25",
-        "wl_occupied": "13",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -177680,7 +177680,7 @@
         "notes": "Students registered for lecture 05 must also register for section 21 or 24 of discussion.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -178090,7 +178090,7 @@
         "notes": "Students registered for lecture sec 05 should register for sec 21 or 25 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -178257,7 +178257,7 @@
         "notes": "Students registered for lecture 02 must also register for sec 31 or 32 of discussion.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "15",
         "wl_occupied": "6",
         "attributes": [
@@ -178594,7 +178594,7 @@
         "notes": "Prerequisite is waived for Spring 2026.",
         "status": "Closed",
         "capacity": "90",
-        "enrolled": "90",
+        "enrolled": "91",
         "wl_capacity": "12",
         "wl_occupied": "12",
         "attributes": [
@@ -178635,11 +178635,11 @@
         "requirements": "Prerequisite: CHEM 2211 or 2221. Corequisite: CHEM 2222L.",
         "description": "Continuation of 2221. Fundamental types of organic compounds. Nomenclature and classification. Preparations, reactions, and general application. Three hours of lecture and one hour of recitation each week. Serves as repeat credit for CHEM 2212. Prerequisite: 2211 or 2221. Corequisite: 2222L. [3] (MNS)",
         "notes": "Students registered for lecture sec 03 must also register for sec 41, 42, 43, 44, or 45 for discussion",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179055,9 +179055,9 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179217,7 +179217,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -179342,11 +179342,11 @@
         "requirements": "Antirequisite: RLST 4960W.",
         "description": "Theories and methods for the academic study of religious traditions. Not open to students who earned credit for RLST 4960W. [3] (CORE: LB) (LE HFA)",
         "notes": "The combined enrollment capacity of RLST 2112 and RLST 4970 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "CORE: LB-Inquiry Lab",
             "LE: HFA-Humanities and Fine Arts"
@@ -179505,7 +179505,7 @@
         "notes": "This class is designed for students who have taken two semesters of French (Pre-req: FREN1102 or FREN1103, or equivalent - or placement test score between 350 and 419, ACTFL Novice-High). Tenses of the three timeframes (present, past, future) and two new moods (subjunctive, conditional) will be studied. Class progressively taught from mostly to entirely in French. If you still have doubts or questions about the level required for this class, please contact the French language program director at alexis.finet@vanderbilt.edu.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -179751,7 +179751,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -179964,7 +179964,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -180011,7 +180011,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180417,7 +180417,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180664,7 +180664,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180822,7 +180822,7 @@
         "notes": "Students enrolled in MATH 1201 10 must also register for either MATH 1201 11 or MATH 1201 12",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "20",
         "wl_occupied": "5",
         "attributes": [
@@ -180908,7 +180908,7 @@
         "notes": "Students enrolled in MATH 1201 10 must also register for either MATH 1201 11 or MATH 1201 12",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -181814,7 +181814,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -182054,7 +182054,7 @@
         "requirements": "No credit for students who have earned credit for a higher-level Spanish language course. Score between 520 and 620 on the SAT Spanish Subject Test or between 365 and 409 on the departmental test.",
         "description": "Development of intermediate linguistic competence in Spanish using a communicative approach. Study of cultures of Spanish-speaking countries by incorporating authentic materials. Three hours of classroom instruction. Intended for students who have earned credit for 1102 or 1103 or in consultation with the placement test scores on departmental website. No credit for students who have earned credit for a more advanced Spanish language course. [3] (INT) (CORE LA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
         "enrolled": "15",
         "wl_capacity": "12",
@@ -183746,7 +183746,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -184339,9 +184339,9 @@
         "notes": "Second course in statistics for undergraduates. Multi factor analysis of variance designs (including repeated measures), and goodness of fit and contingency analyses.\n         \n            \n            Prerequisite: PSY-PC 2110 or PSY 2100. [3]",
         "status": "Wait list",
         "capacity": "104",
-        "enrolled": "103",
+        "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -184665,7 +184665,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -184743,7 +184743,7 @@
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "TBA"
@@ -186004,7 +186004,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -187187,7 +187187,7 @@
         "notes": "Instructor: Bairam Khan",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -189039,9 +189039,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -189243,9 +189243,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -189280,9 +189280,9 @@
         "requirements": "CE 2200 is prerequisite for this course",
         "description": "Stress and strain; tension, compression, and shear; Hooke's law, Mohr's circle, combined stresses, strain-energy. Beams, columns, shafts, and continuous beams. Deflections, shear and moment diagrams. Prerequisite: CE 2200. FALL, SPRING, SUMMER. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -189600,7 +189600,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -190038,7 +190038,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "47",
+        "enrolled": "46",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -191064,9 +191064,9 @@
         "notes": "An overview of language development with an emphasis on relevant research in linguistics, developmental psychology, and comparative psychology. Specific topics covered include research methods, speech perception, conversational competence, word learning, pragmatic development, and syntactic competence. The course is intended for students beyond the first year.\n         \n            \n            This course is cross-listed with PSY-PC 7500-07 and 10 seats in that section are reserved for Psychology and Human Development master's students.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Psychology",
             "Next Steps Eligible"
@@ -191191,7 +191191,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "13",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191273,9 +191273,9 @@
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "16",
+        "wl_occupied": "15",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191958,9 +191958,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "16",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -192002,7 +192002,7 @@
         "notes": "Limited Enrollment",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -192267,9 +192267,9 @@
         "notes": "The combined enrollment capacity of BSCI 2210 01 and BSCI 5210 01 is 100. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "100",
-        "enrolled": "99",
+        "enrolled": "100",
         "wl_capacity": "40",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Neuroscience",
@@ -193094,7 +193094,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -193460,11 +193460,11 @@
         "requirements": "",
         "description": "Aesthetics and techniques of the black-and-white medium. Image taking, making, and production of meaning. Camera use, film exposure, image quality, and darkroom practices. Basic history of photography and grounding the ways of seeing. The eye as a viewfinder. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -193831,7 +193831,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -194203,7 +194203,7 @@
         "notes": "Enrollment limited to MSF and second year MBA students only.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -194507,8 +194507,8 @@
             "1/5/26-4/17/26"
         ],
         "instructors": [
-            "Lewallen, Kanah M.",
-            "Kim, Jennifer L. (Secondary)"
+            "Kim, Jennifer L.",
+            "Lewallen, Kanah M. (Secondary)"
         ],
         "date_added": null
     },
@@ -194705,9 +194705,9 @@
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "9",
+        "wl_occupied": "8",
         "attributes": [
             "Human & Organizational Development",
             "Next Steps Eligible"
@@ -194747,7 +194747,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -195733,7 +195733,7 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "36",
         "wl_occupied": "2",
         "attributes": [
@@ -195813,7 +195813,7 @@
         "requirements": "",
         "description": "The body as a cultural, social, and historical construction. Western culture and narratives of \"normalcy\" and their impact on identity and representation. Body image and eating disorders. Cultural politics of size, weight, and shape. Disability. Cosmetic surgery. [3] (P)",
         "notes": "This class has a mezzanine option if grad students want to take it.\n         \n            \n            The combined enrollment capacity of GSS 2244 and GSS 6244 is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
@@ -195857,7 +195857,7 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -197390,7 +197390,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -198446,7 +198446,7 @@
         "capacity": "36",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198610,7 +198610,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199180,7 +199180,7 @@
         "requirements": "MATH 1300 or 1201 is a prerequisite to this course. Not open to students who have earned credit for MATH 1201 without permission.",
         "description": "Differentiation and integration of transcendental functions, applications, methods of integration, coordinate geometry, polar coordinates, infinite series. Not open to students who have earned credit for MATH 1201 without permission. Total credit for this course and MATH 1201 will not exceed 6 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. Prerequisite: 1300 or 1201. [4] (MNS) (CORE B) (LE MNS)",
         "notes": "Students enrolled in MATH 1301 19 must also register for either MATH 1301 20 or MATH 1301 21.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
         "enrolled": "34",
         "wl_capacity": "20",
@@ -199756,7 +199756,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -200079,7 +200079,7 @@
         "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "This course focuses on an in-depth analysis of current developments in education and schooling in the vast and diverse Asia-Pacific Region. Students will examine perspectives from educational researchers, policy makers and practitioners on the major issues, concerns and prospects regarding educational developments in the region. [3]",
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "20",
@@ -200372,7 +200372,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "10",
         "attributes": [
@@ -200456,7 +200456,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -200622,7 +200622,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -200784,7 +200784,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -201308,7 +201308,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -202479,9 +202479,9 @@
         "requirements": "",
         "description": "From prehistory to the present. Social and religious functions of the arts of China, India, Japan, Korea, and Himalayas. Select examples explored in museum visits, lectures, discussions, and varied writing projects. [3] (INT) (CORE A, C) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -202854,7 +202854,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "7",
         "attributes": [
@@ -202896,9 +202896,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -203175,7 +203175,7 @@
         "capacity": "55",
         "enrolled": "54",
         "wl_capacity": "20",
-        "wl_occupied": "15",
+        "wl_occupied": "14",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -203879,7 +203879,7 @@
         "notes": "The combined enrollment capacity of BSCI 2520-01 and BSCI 5520-01 is 100. although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "97",
+        "enrolled": "96",
         "wl_capacity": "25",
         "wl_occupied": "1",
         "attributes": [
@@ -204116,11 +204116,11 @@
         "requirements": "Prerequisite: ECON 3010 or 3012; and either ECON 1500, 1510, 3032, 3035, or 3050.",
         "description": "Causes of global economic integration. Winners and losers. World Trade Organization, international environmental treaties, labor and capital markets. U.S. leadership. Offered on a graded basis only. Prerequisite: 3010 or 3012; and either 1500, 1510, 3032, 3035, or 3050. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "18",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -204725,7 +204725,7 @@
         "notes": "Meeting Dates: February 6-7, March 20-21, and April 10-11",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -205050,9 +205050,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: International Cultures",
@@ -205685,7 +205685,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -205888,7 +205888,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -206788,9 +206788,9 @@
         "requirements": "",
         "description": "A narrative and medical history of the concept of hysteria as a mental illness with its foundations in nineteenth century psychoanalysis.  How gender impacts perception of mental illness, socially appropriate behavior, and whose story is believed as \"truth.\"  Four major course themes: medical history, mental health narratives, horror, and comedy.  Serves as repeat credit for MHS 3890, section 01 in Fall 2024 and Spring 2025. [3] (HCA)",
         "notes": "The combined enrollment capacity of MHS 2155-01 and MHS 6500-09 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "4",
         "attributes": [
@@ -207541,9 +207541,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -209023,7 +209023,7 @@
         "notes": "Registration must be completed through the Neuroscience Program Office. See instructions at as.vanderbilt.edu/neuroscience/3861-3862-undergraduate-research",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "37",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -209140,7 +209140,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -210293,7 +210293,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "45",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -211350,7 +211350,7 @@
             "MW"
         ],
         "meeting_times": [
-            "08:40a - 09:55a"
+            "09:45a - 11:00a"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -211594,7 +211594,7 @@
             "MW"
         ],
         "meeting_times": [
-            "08:40a - 09:55a"
+            "09:45a - 11:00a"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -211754,7 +211754,7 @@
             "MW"
         ],
         "meeting_times": [
-            "08:40a - 09:55a"
+            "09:45a - 11:00a"
         ],
         "meeting_dates": [
             "1/5/26-4/20/26"
@@ -212026,9 +212026,9 @@
         "requirements": "",
         "description": "Social change, conflict, and inequality in modern societies. Basic sociological concepts and methods as they apply to social issues and policy. Focus varies by section. Repeat credit for students who have completed 1020W. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": "Topic: Sex and Sexuality in Society",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -212990,7 +212990,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "42",
-        "enrolled": "42",
+        "enrolled": "41",
         "wl_capacity": "12",
         "wl_occupied": "8",
         "attributes": [
@@ -213269,11 +213269,11 @@
         "requirements": "BSCI 2201 as pre- or co-req",
         "description": "One three-hour laboratory and discussion period per week. Satisfies the AXLE lab course requirement when completed with 2201. Prerequisite or corequisite: 2201. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -213392,7 +213392,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "45",
+        "enrolled": "44",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -214250,7 +214250,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Next Steps Eligible"
@@ -214417,7 +214417,7 @@
         "notes": "The combined enrollment capacity of ECON 3110 and ECON 5240 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -214952,7 +214952,7 @@
         "notes": "The combined enrollment capacity of MATH 3620 02 and MATH 5620 02 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -215520,7 +215520,7 @@
         "capacity": "105",
         "enrolled": "39",
         "wl_capacity": "50",
-        "wl_occupied": "19",
+        "wl_occupied": "18",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -216341,9 +216341,9 @@
         "requirements": "This course requires ECE 2112 as Corequisite.",
         "description": "Experiments in electrical theory, circuits, and components, including linear circuit theorems, operational amplifiers, comparators, oscillators, multivibrators, data converters, diode circuits, transistors as digital switches, sensors and transducers, data transmission circuits, and first-order filters. Corequisite: ECE 2112. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -216382,7 +216382,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -216467,9 +216467,9 @@
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal.",
         "status": "Wait list",
         "capacity": "26",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -217522,9 +217522,9 @@
         "requirements": "",
         "description": "Analysis and discussion of problems created for society by computers, and how these problems pose ethical dilemmas to both computer professionals and computer users. Topics include: computer crime, viruses, software theft, ethical implications of life-critical systems. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "5",
         "attributes": [
@@ -217610,7 +217610,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
@@ -217650,7 +217650,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -217691,7 +217691,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -218183,9 +218183,9 @@
         "requirements": "",
         "description": "tudy of the seven chakras, or energy centers, of the body. Emphasis on aligning the chakras through gentle yoga practice (beginner level), and cultivating student well-being. Offered on a pass/fail basis. FALL, SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": null,
@@ -218349,7 +218349,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -218392,7 +218392,7 @@
         "notes": "The combined enrollment capacity of CS 4240 and CS 5240 is 40. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -218468,9 +218468,9 @@
         "requirements": "Prerequisite: ECON 3010 or 3012. Limited to majors in economics or public policy.",
         "description": "Intensive study of three or four current problems in microeconomic policy. Repeat credit for students who have completed 4530W. Limited to majors in economics and public policy. Prerequisite: 3010 or 3012. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -219310,9 +219310,9 @@
         "requirements": "",
         "description": "Rock and roll's transformation of American culture. Focus on three pivotal artists and their role in the history of each of their breakout decades: the 1950s, 1960s, and 1970s. Readings and listenings on the African American roots of rock, the gendered dimensions of the genre, the role of dissent and accommodation in popular music. Issues of youth, alienation, religion, and individuality. [3] (US)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "3",
         "attributes": [
@@ -219397,7 +219397,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -219434,11 +219434,11 @@
         "requirements": "Prerequisite: ECON 1020. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours.",
         "description": "(Previously BUS 2100) Emphasis on mandated corporate disclosure. Economic concepts that guide the development and use of accounting conventions as well as the institutional context that disciplines producers and users. Not open to students who have earned credit for FNEC 1600 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 1600. Prerequisite: ECON 1020. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
@@ -220269,7 +220269,7 @@
         "notes": "The combined enrollment capacity of HIST 2300 and HIST 5300 is 40. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "27",
+        "enrolled": "28",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -220442,7 +220442,7 @@
         "notes": "The past twenty years have refuted the once widespread notion that our globalizing world is moving toward a future without nations. But what is a nation, and why does nationality remain such a persistent category of identity? This writing seminar focuses on how historians have made sense of nationalism, while interrogating how history has been indispensable to nation-building around the world. Students are introduced to the basic skills and methods of historical analysis and to major debates about the purposes of history. Topics will include nationalism's affinities and tensions with other major modern political ideologies, such as liberalism, imperialism, fascism, socialism, and decolonization, as well as nationalism's relationship to identity categories such as race, class, and gender. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "8",
         "wl_occupied": "4",
         "attributes": [
@@ -221071,9 +221071,9 @@
         "notes": "Not open to Seniors\n         \n            \n            If you cannot enroll, please put your name on the waitlist.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -221116,7 +221116,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -222007,9 +222007,9 @@
         "requirements": "",
         "description": "Introduction to the art of writing poetry. [3] (HCA) (CORE A) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
