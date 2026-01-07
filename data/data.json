@@ -21407,7 +21407,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -134761,7 +134761,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "99",
+        "enrolled": "100",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -139759,7 +139759,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -202385,7 +202385,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
