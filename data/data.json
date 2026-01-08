@@ -3307,7 +3307,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -7389,7 +7389,7 @@
         "notes": "The combined enrollment capacity of EDUC 3790 and EDUC 6595 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -10777,7 +10777,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "235",
-        "enrolled": "224",
+        "enrolled": "223",
         "wl_capacity": "75",
         "wl_occupied": "0",
         "attributes": [
@@ -10938,7 +10938,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": null,
@@ -11365,9 +11365,9 @@
         "requirements": "BSCI 1511 is a pre- or co-requisite to this course.",
         "description": "Laboratory to accompany 1511. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1511. Prerequisite or corequisite: 1511. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "40",
         "wl_occupied": "2",
         "attributes": null,
@@ -36524,7 +36524,7 @@
         "notes": "Required to register for lecture, discussion, and 1602L.\n         \n            \n            Required attendance at Mid Term Exams Thursday nights 7 to 9 PM: February 5, March 5, and April 9. Therefore, do not register for another course on Thursday evenings",
         "status": "Open",
         "capacity": "160",
-        "enrolled": "119",
+        "enrolled": "120",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -37949,7 +37949,7 @@
         "notes": "Students will be distributed to SC 5208",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -39245,7 +39245,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/5/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "79",
+        "enrolled": "80",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": null,
@@ -41592,7 +41592,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -54773,7 +54773,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3860- research-internship/",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "13",
+        "enrolled": "15",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -75517,7 +75517,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "11",
         "attributes": [
@@ -84161,7 +84161,7 @@
         "notes": "Course will meet for ten weeks.  Limited enrollment.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -95936,7 +95936,7 @@
         "notes": "The combined enrollment capacity of JS 2600 and DIV 5469 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "12",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
@@ -106111,9 +106111,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"What is a \"Cult\"?: Cults and New Religious Movements\" - An examination of the emergence, beliefs, and practices of new religious movements often labeled \"cults.\" We will also learn the broader cultural reactions to these groups and their representation in the media. Topics covered include Mormonism, Jonestown, the Satanic Temple, and UFO Religions. We will discuss race, gender, sexuality, violence, and surveillance. (Core capacity tags: A, C / AXLE tags: HCA)",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -106481,7 +106481,7 @@
         "notes": "Full title: \"How to Find a Life of Meaning In A World of Likes and Retweets\" - Our internet-organized world promises us endless freedom:  access to information, goods and, supposedly, happiness.  Our social networks promise us friendship, support and contact.  But we're feeling (as people attest and studies confirm) more trapped, more devoid of agency and purpose, more lonely, unfocused and isolated, and, perhaps worst, more confused about truth and unmoored from any sense of meaning and guiding values.  \"Finding a Life of Meaning in a World of Likes and Retweets\" will help you situate these problems not just in our own moment but also historically and then will turn to literature as-in Kenneth Burke's resonant characterization-\"equipment for living.\"  By reading about others searching for meaning, we'll experiment with and enhance our own self-worth and integrity.  We'll explore our own belief and values as we read about others finding and developing theirs.  We'll cultivate a self-understanding that doesn't depend on what others think about us but keeps us aligned with our core values.  We will advance our own answers to the questions life asks of, and the demands it make on us.  In so doing we will strengthen our personal congruence and self-esteem through learning and practice.  We'll develop and exercise social trust and responsibility in our classroom community to create a setting where we can hazard and share our noble experiments of living in truth, and in finding and experiencing meaning! (Core capacity tags: A, E / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108023,7 +108023,7 @@
         "notes": "The combined enrollment capacity of BSCI 4226 and BSCI 6226 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -109454,7 +109454,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -110333,7 +110333,7 @@
         "notes": "The combined enrollment capacity of BSCI 4274 and BSCI 6274 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -118119,7 +118119,7 @@
         "notes": "The combined enrollment capacity of ENED 3380 and ENED 6380 is 20.  Although seats may appear open in a section, if the combined capacity has been reached, the course will close",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -129668,7 +129668,7 @@
         "notes": "Requires application accessed through Biological Sciences website. https://as.vanderbilt. edu/biological-sciences/bsci-3961- independent-laboratory-research/",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "50",
+        "enrolled": "51",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -132473,7 +132473,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -137864,7 +137864,8 @@
             "1/5/26-2/20/26"
         ],
         "instructors": [
-            "Metcalf, Robert"
+            "Metcalf, Robert",
+            "Wood, Burch S. (Secondary)"
         ],
         "date_added": null
     },
@@ -139577,7 +139578,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -149827,7 +149828,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -155277,7 +155278,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "50",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -156827,7 +156828,7 @@
         "notes": "$2,147.00 music fee (45-minute private lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Minors and 2nd Music Majors receive 50% discount.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -157159,7 +157160,7 @@
         "notes": "The combined enrollment capacity of PHIL 1103 and PSCI 1103 is 120. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -175866,7 +175867,7 @@
         "notes": "The combined enrollment capacity of HIST 2238 and HIST 5238 is 20. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Satisfies LHS",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -177590,7 +177591,7 @@
         "notes": "Students registering for Sec 04 should also register for Sec 51, 52, 53, 54, or 55 of discussion 1. Will have Learning Assistants in the classroom in this section. 2. Required to register for lecture, discussion, and 2222L",
         "status": "Open",
         "capacity": "108",
-        "enrolled": "98",
+        "enrolled": "99",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -178924,7 +178925,7 @@
         "notes": "Students registered for lecture sec 04 must also register for sec 51, 52, 53, 54, or 55 for discussion.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -179006,9 +179007,9 @@
         "requirements": "CHEM 2212 or CHEM 2222 as pre- or co-req",
         "description": "Laboratory to accompany 2212 or 2222. One four-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 2212 or 2222. Prerequisite or corequisite: 2212 or 2222. [1] (No AXLE credit)",
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "72",
-        "enrolled": "71",
+        "enrolled": "72",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -184657,7 +184658,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": null,
@@ -192263,7 +192264,7 @@
         "capacity": "100",
         "enrolled": "100",
         "wl_capacity": "40",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Neuroscience",
@@ -195727,7 +195728,7 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "36",
         "wl_occupied": "2",
         "attributes": [
@@ -195768,7 +195769,7 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -202848,7 +202849,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "15",
         "wl_occupied": "6",
         "attributes": [
@@ -210691,9 +210692,9 @@
         "requirements": "Prerequisite: KOR 1101.",
         "description": "Basic skills in speaking, listening, reading, and writing, with a focus on oral proficiency. No credit for students who have earned credit for a more advanced Korean language course. Prerequisite: 1101 [4] (INT) (CORE LA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -210775,7 +210776,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
