@@ -11250,7 +11250,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "59",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": null,
@@ -11369,7 +11369,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -11482,7 +11482,7 @@
         "requirements": "BSCI 1511 is a pre- or co-requisite to this course.",
         "description": "Laboratory to accompany 1511. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1511. Prerequisite or corequisite: 1511. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "25",
@@ -26890,7 +26890,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "22",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -74552,7 +74552,7 @@
         "notes": "The combined enrollment capacity of CSET 2100 and CSET 5100 is 15. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "15",
         "wl_occupied": "4",
         "attributes": [
@@ -177757,7 +177757,7 @@
         "notes": "Students registered for lecture sec 05 must also register for sec 21 or 25 for discussion.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -178085,7 +178085,7 @@
         "notes": "Students registered for lecture sec 05 should register for sec 21 or 25 for discussion",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -217653,7 +217653,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -220357,9 +220357,9 @@
         "requirements": "",
         "description": "Introduction to the \"historian's craft.\" Reconstructing the past using primary documents such as diaries, letters, memoirs, and declassified government papers. Methods of historical research and reasoning through individual projects. Offered on a graded basis only. [3] (SBS)",
         "notes": "We're told the United States is the most religiously diverse nation in the world, possessing a dizzying array of religious beliefs and behavior. How have people (including nonbelievers) experienced this religious multiplicity? How are these religious differences negotiated socially, culturally, politically, and legally? This seminar explores these questions historically. Readings in the first half of the semester will include religious history, historiography, and historical methods. Using the skills developed in this class, students will conclude the semester by writing their own original research essay analyzing a topic related to the seminar theme.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
