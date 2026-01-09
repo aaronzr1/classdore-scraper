@@ -9695,9 +9695,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "200",
-        "enrolled": "199",
+        "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "20",
+        "wl_occupied": "19",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -9903,7 +9903,7 @@
         "notes": "An in-depth exploration of research and theories explaining how cognitive processes affect human functioning in modern society. We will explore basic processes such as attention, memory, language, problem solving, and action as they occur in a wide range of meaningful contexts including education, society and politics, psychopathology, the arts, and emerging technologies. Prerequisite: PSY-PC 1205/1207, or 2250 or PSY 1200.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -11482,7 +11482,7 @@
         "requirements": "BSCI 1511 is a pre- or co-requisite to this course.",
         "description": "Laboratory to accompany 1511. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1511. Prerequisite or corequisite: 1511. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "25",
@@ -15984,7 +15984,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "43",
+        "enrolled": "44",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -29082,9 +29082,9 @@
         "notes": "The combined enrollment capacity of MATH 3640 and MATH 5640 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -40783,7 +40783,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -41351,7 +41351,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Declared Data Science minors will be given priority to register. Students who have not declared the minor will be eligible to register for remaining spots during the all undergraduates registration period.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -41550,7 +41550,7 @@
         "capacity": "60",
         "enrolled": "32",
         "wl_capacity": "50",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -42082,7 +42082,7 @@
         "notes": "The combined enrollment capacity of NSC 3270, NSC 6270, PSY 3270, and PSY 6270 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -44662,7 +44662,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -96412,7 +96412,7 @@
         "notes": "The combined enrollment capacity of MATH 2600 and MATH 5600 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -107828,9 +107828,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Title: \"Aliens, The Illuminati, and JFK\" - Conspiracy theories in modern culture. Topics include witch trials, anti- Semitism, UFOs, and the Kennedy assassination. Relation of conspiracy theories to broader cultures of knowledge. (Core capacity tags: C, E / AXLE tags: US)",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -128156,7 +128156,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -191186,7 +191186,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "100",
-        "wl_occupied": "13",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191228,7 +191228,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "22",
+        "wl_occupied": "23",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -195444,7 +195444,7 @@
         "capacity": "36",
         "enrolled": "40",
         "wl_capacity": "36",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195604,7 +195604,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195726,11 +195726,11 @@
         "requirements": "Not open to students who have earned credit for MATH 1100 or 1300 without permission.",
         "description": "A first semester calculus course covering differential calculus in the context of optimization and other applications to the social sciences.  Review of functions and trigonometry. Exponential and logarithmic functions, inverse functions. Limits and asymptotic behavior, differentiation, rules of differentiation, related rates, maximum and minimum values, curve sketching. Not open to students who have earned credit for MATH 1100 or 1300 without permission. Total credit for this course and MATH 1100 will not exceed 4 credit hours; Total credit for this course and MATH 1300 will not exceed 5 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (MNS)",
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "36",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195769,9 +195769,9 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
