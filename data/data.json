@@ -3631,7 +3631,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "58",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
@@ -11250,7 +11250,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": null,
@@ -11484,7 +11484,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": null,
@@ -35497,7 +35497,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "121",
-        "enrolled": "114",
+        "enrolled": "113",
         "wl_capacity": "30",
         "wl_occupied": "3",
         "attributes": [
@@ -35970,7 +35970,7 @@
         "capacity": "96",
         "enrolled": "96",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36097,7 +36097,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36395,7 +36395,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -38703,7 +38703,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -38995,7 +38995,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -59656,7 +59656,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 3: Community/Policy.",
         "status": "Wait list",
         "capacity": "22",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "20",
         "wl_occupied": "3",
         "attributes": [
@@ -105788,7 +105788,7 @@
         "notes": "Full title: Nonprofit Management and Strategy in Community Organizations. Not open to FR. This course will count in Domain 2: Organizational/Group.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -106437,9 +106437,9 @@
         "requirements": "H&OD/H&OS MAMI & SO JR SR",
         "description": "Exploration of special issues on topics related to human and organizational development. May be repeated for credit with change of topic. [3]",
         "notes": "Not open to FR. This course will count in Domain 3: Community/Policy.   This course provides an in-depth understanding of Geographic Information Systems (GIS) and its application in addressing complex social, environmental, and economic challenges. Students will gain practical skills in spatial data analysis, visualization, and geospatial technologies, exploring how GIS can be leveraged to drive social impact. By examining case studies and engaging in hands-on projects, students will learn how GIS can be used to inform policies and interventions in fields like urban planning, public health, environmental justice, and humanitarian efforts.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -113997,7 +113997,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -129199,7 +129199,7 @@
         "notes": "Class will be in music Rehearsal Hall",
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": null,
@@ -132388,7 +132388,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -135991,7 +135991,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -159992,7 +159992,7 @@
         "capacity": "78",
         "enrolled": "76",
         "wl_capacity": "22",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -166911,7 +166911,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "17",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -187780,7 +187780,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "12",
+        "wl_occupied": "11",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -195728,7 +195728,7 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "36",
         "wl_occupied": "4",
         "attributes": [
@@ -195852,7 +195852,7 @@
         "notes": "Students enrolled in MATH 1200-07 must also register for either MATH 1200-08, or 09.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -202891,7 +202891,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -203447,7 +203447,7 @@
         "notes": "The combined enrollment capacity of SPED 1210 and SPED 7000 is 112. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -207536,7 +207536,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
