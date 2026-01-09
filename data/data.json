@@ -3827,9 +3827,9 @@
         "requirements": "",
         "description": "This lecture course will provide students an introduction to modern microscopy and its biological applications. Topics will include diverse methods of light and electron microscopy, the basic principles of each method, details of specific instrumentation, historical background, advantages and restrictions, as well as applicability to various model systems and organisms. Sample preparation, technical hurdles, tricks of live imaging, micro- and nanomanipulation, quantitative image analysis and other issues will be addressed. The course will also include a tour of microscopy facilities available at Vanderbilt. SPRING. [1] Burnette",
         "notes": "The combined enrollment capacity of IGP 8002 06 and CBIO-GS 8313 is 150. although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Please see Brightspace for room assignments.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "4",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -11369,7 +11369,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -14833,7 +14833,7 @@
         "notes": "Instructor - Donaldson, Joshua M.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -20316,7 +20316,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Grawe DeSantis, Larisa R."
         ],
         "date_added": null
     },
@@ -26353,7 +26353,7 @@
         "notes": "The combined enrollment capacity of BSCI 2250-01 and BSCI 5250-01 is 70. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "70",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -29084,7 +29084,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -29571,7 +29571,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "15",
         "wl_occupied": "12",
         "attributes": [
@@ -35127,7 +35127,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor",
@@ -38031,7 +38031,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -43061,7 +43061,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "152",
-        "enrolled": "80",
+        "enrolled": "81",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -45549,7 +45549,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -51289,7 +51289,7 @@
         "capacity": "75",
         "enrolled": "75",
         "wl_capacity": "30",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -51513,7 +51513,7 @@
         "notes": "Full course title: Regulation of Emerging Technologies: AI, Blockchain, and Quantum Computing.  Limited enrollment.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -52388,7 +52388,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "27",
+        "enrolled": "26",
         "wl_capacity": "15",
         "wl_occupied": "3",
         "attributes": [
@@ -54246,7 +54246,7 @@
         "notes": "To design a fall or summer capstone semester, register for HOD 4949 in spring. To design a spring capstone, register for HOD 4949 in fall. HOD 4949 is not offered in the summer. Requirements: Completed or enrolled in all HOD core classes. Note: You are permitted and required to take HOD 4949 while studying abroad if you are studying abroad the semester prior to your capstone semester.",
         "status": "Open",
         "capacity": "200",
-        "enrolled": "184",
+        "enrolled": "183",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -55273,7 +55273,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -60461,7 +60461,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Grawe DeSantis, Larisa R."
         ],
         "date_added": null
     },
@@ -74131,7 +74131,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Grawe DeSantis, Larisa R."
         ],
         "date_added": null
     },
@@ -74357,7 +74357,7 @@
         "notes": "The purpose of this course is to study the eating and dieting disorders (anorexia nervosa, bulimia, and binge eating disorder) from a psychological perspective.  Related phenomenon such as body image disturbances, compulsive exercise, body building and steroid abuse will be discussed. We will examine each of these psychological/behavioral disorders at a descriptive, theoretical, and clinical level. We examine the basic elements of the eating disorders such as binge eating, body image problems, dieting, excessive exercise, self-induced vomiting, and laxative abuse.  We will attempt to understand the significance of these behaviors using psychological theory and we will explore the interactions among psychological, cultural, environmental, and biological systems. A variety of theories will be explored including cognitive, behavioral, family systems, psychoanalytic, ecological, feminist, and biogenetic.  Once we have developed a descriptive and theoretical understanding of eating disorders, we will look closely at the methods that have been developed for the assessment and treatment of these problems.  We will end the course with a more general look at preventing eating disorders and promoting healthy lifestyles.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -79710,7 +79710,7 @@
         "capacity": "20",
         "enrolled": "14",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Cinema and Media Arts",
@@ -94543,7 +94543,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -97476,7 +97476,7 @@
         "notes": "Examines the applications of psychological theories and research to teaching and learning settings. Focuses on cognitive development, problem solving and critical thinking, learning theories, motivation, social contexts, individual differences, classroom issues, and evaluation issues. Prerequisite: PSY-PC 1205/1207 or 1250 or PSY 1200 Twelve seats reserved for students with a home department at Peabody through initial enrollment period\n         \n            \n            Twenty seats reserved for CST,CD,CGS students through the initial enrollment period.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "28",
+        "enrolled": "29",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -101934,7 +101934,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "22",
+        "enrolled": "23",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -107275,7 +107275,7 @@
         "notes": "Full title: \"Technologies of the Soul: Human Thriving Across Traditions\" - Addresses the challenges of modern alienation by drawing on conceptual, moral, and spiritual resources from world religions and global philosophy. Our psychological and emotional struggles may feel unique to our time, every generation has wrestled with similar questions of meaning and well-being. By engaging the shared wisdom of diverse global traditions, we seek insights into human thriving and the good life. (Core capacity tags: A, E / AXLE tags: P)",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -108628,9 +108628,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"Pandemics in World Literature and Film\" A pandemic is a widespread epidemic. The word comes from the Greek Pandemos, meaning \"of all the people.\" COVID-19 is a pandemic disease because it has spread around the globe. It has affected virtually everybody on earth. What happens when a disease is so widespread that it makes us feel that nobody is safe, that it will contaminate everyone eventually? Does the experience make us more aware of our shared mortality? Does it make us take stock of our vulnerable condition? Does it change our perspective? Do we look differently at ourselves and at others? Does it challenge our illusions of personal invincibility and collective superiority? These are very old questions that writers the world over have addressed in literature. In this course, we will read examples from the literature of Pandemics with these questions in mind. We will explore their elaboration, in fiction, of the connection between our shared vulnerable bodies and the illusion of our personal or collective invulnerability. We will explore, again, the lessons that pandemic diseases, like COVID-19, teach us, with a view to develop a different ethical relation to our world and to others. (Core capacity tags: C, E / AXLE tags: INT)",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -110333,7 +110333,7 @@
         "notes": "The combined enrollment capacity of BSCI 4274 and BSCI 6274 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -110500,7 +110500,7 @@
         "notes": "The combined enrollment capacity of BSCI 4274 and BSCI 6274 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -111040,7 +111040,7 @@
         "capacity": "16",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: International Cultures"
         ],
@@ -112141,9 +112141,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -113997,7 +113997,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -119737,7 +119737,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -126881,7 +126881,7 @@
         "notes": "The combined enrollment capacity of CS 2281 and ECE 2281 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -127041,7 +127041,7 @@
         "notes": "The combined enrollment capacity of CS 2281 and ECE 2281 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "3",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -129079,7 +129079,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "14",
+        "wl_occupied": "15",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -133000,7 +133000,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": null,
@@ -134465,7 +134465,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Storytelling and Storytellers",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -134747,7 +134747,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "99",
+        "enrolled": "98",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -134828,7 +134828,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "67",
+        "enrolled": "68",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": [
@@ -134907,9 +134907,9 @@
         "requirements": "Pre- or co-requisite: 1502 or 1602. Not open to students who have earned credit for PHYS 1502L or 1902 without permission.",
         "description": "Laboratory to accompany Physics 1602. Satisfies the AXLE lab course requirement when completed with 1602 (strongly preferred) or 1502. Serves as repeat credit for PHYS 1502L. Not open to students who have earned credit for 1902 without permission. Credit for this course and 1902 will not exceed 5 credit hours. Credit reduced from second course taken (or test or transfer credit) as appropriate. Pre- or co-requisite: 1502 or 1602. [1] (No AXLE credit) (CORE: LB)",
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "3",
         "attributes": [
@@ -135190,9 +135190,9 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -139578,7 +139578,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -144495,7 +144495,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -147257,7 +147257,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -152663,9 +152663,9 @@
         "requirements": "Not open to students who have earned credit for CS 1104 or CS 2204 without permission.",
         "description": "An intensive introduction to algorithm development and problem solving on the computer. Structured problem definition, top down and modular algorithm design. Running, debugging, and testing programs. Program documentation. Not open to students who have earned credit for CS 1104 without permission. Total credit for this course and CS 1104 will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -153882,7 +153882,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "12",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -155726,7 +155726,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "49",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -176522,7 +176522,7 @@
         "notes": "Spring 2026, the only prerequisite enforced for this class is PSY 1200",
         "status": "Open",
         "capacity": "100",
-        "enrolled": "66",
+        "enrolled": "65",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -179746,7 +179746,7 @@
         "capacity": "36",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "13",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180006,7 +180006,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -190405,7 +190405,7 @@
         "capacity": "30",
         "enrolled": "31",
         "wl_capacity": "20",
-        "wl_occupied": "19",
+        "wl_occupied": "18",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -191270,7 +191270,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "18",
+        "wl_occupied": "17",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -192837,7 +192837,7 @@
         "notes": "The combined enrollment capacity of IGP 8002 08 and CPBP 8308 is 150. although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -194698,7 +194698,7 @@
         "requirements": "SO/JR/SR HOD or HOS Majors/Minors",
         "description": "The globalization process induces new forms of human organization and transforms existing organizations at the community, national, and international levels. This course provides an understanding of the nature, functioning, and development of organizations affected by globalization in societies different from our own and as they relate to multilateral or global institutions that span different social and cultural settings. To do this, the course explores organizations from a comparative perspective, using the analytical framework of human ecology, in terms of differential access to economic and other productive assets, education and information, security and the rule of law, social capital and cultural identity. [3]",
         "notes": "Not open to FR or SO. This course will count in Domain 3: Community/Policy.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "20",
@@ -200775,9 +200775,9 @@
         "requirements": "ECON 1020 as Prereq",
         "description": "Theoretical study of legal institutions. Economic consequences of legal frameworks as they pertain to individual and group behavior. Prerequisite: ECON 1020. [3] (SBS) (CORE B) (LE SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -201957,7 +201957,7 @@
         "notes": "Students who have pre-formed groups and confirmed faculty coaches must complete the chamber music enrollment request form instead of enrolling in this class: https://blair.vanderbilt.edu/pdfs/18-19-chamber-music-enrollment.pdf. Students who remain in this section of MUSE 2210 will be placed in groups by a faculty committee.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -203447,7 +203447,7 @@
         "notes": "The combined enrollment capacity of SPED 1210 and SPED 7000 is 112. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "80",
-        "enrolled": "70",
+        "enrolled": "71",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -213513,7 +213513,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -213555,7 +213555,7 @@
         "notes": "The combined enrollment capacity of CS 2201 and ECE 2201 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "60",
         "wl_occupied": "0",
         "attributes": [
@@ -215157,7 +215157,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "15",
+        "enrolled": "17",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -217739,11 +217739,11 @@
         "requirements": "",
         "description": "Sex and gender roles in culture and society. Gender, race, and class. Women and men in literature, art, culture, politics, institutions. Repeat credit for students who have completed 1150W. [3] (P) (CORE A, C) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -219398,7 +219398,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
