@@ -21360,7 +21360,7 @@
         "capacity": "25",
         "enrolled": "22",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -35968,7 +35968,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Wait list",
         "capacity": "96",
-        "enrolled": "98",
+        "enrolled": "97",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -36093,9 +36093,9 @@
         "requirements": "Corequisite: Chem 1601L. Not open to students who have earned credit for CHEM 1010 without permission.",
         "description": "General principles of chemistry for science and engineering students. Composition and structure of matter, chemical reactions, bonding, solution chemistry, and kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry, and coordination compounds. Three lectures per week and a recitation period. Not open to students who have earned credit for CHEM 1010 without permission. Serves as repeat credit for 1010. Corequisite: 1601L. [3] (MNS) (CORE B) (LE MNS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "24",
-        "enrolled": "24",
+        "enrolled": "23",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -121556,11 +121556,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "12",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -122082,9 +122082,9 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "3",
         "wl_occupied": "1",
         "attributes": null,
@@ -146751,7 +146751,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -193906,7 +193906,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
