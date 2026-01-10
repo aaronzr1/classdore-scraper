@@ -29080,11 +29080,11 @@
         "requirements": "Prerequisite: MATH 2810 or 2820. Co-requisite MATH 2410, 2501, or 2600",
         "description": "Combinatorics, probability models (binomial, Poisson, normal, gamma, etc.), Stochastic independence, generating functions, limit theorems and types of convergence, bivariate distributions, transformations of variables. Markov processes and applications. Prerequisite: 2810 or 2820. Co-requisite 2410, 2501, or 2600 [3] (MNS)",
         "notes": "The combined enrollment capacity of MATH 3640 and MATH 5640 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -51865,7 +51865,7 @@
         "notes": "The combined enrollment capacity of MATH 3100 02 and MATH 5100 02 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -133726,7 +133726,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "135",
-        "enrolled": "135",
+        "enrolled": "134",
         "wl_capacity": "30",
         "wl_occupied": "12",
         "attributes": [
@@ -135622,7 +135622,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "25",
-        "enrolled": "21",
+        "enrolled": "23",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -151228,7 +151228,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -181271,7 +181271,7 @@
         "notes": "The combined enrollment capacity of CLAS 2120 and CLAS 5120 is 32. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "12",
         "wl_occupied": "10",
         "attributes": [
@@ -212067,7 +212067,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "17",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
