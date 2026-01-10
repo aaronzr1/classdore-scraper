@@ -110742,7 +110742,7 @@
         "notes": "No Seniors allowed to register for this course.\n         \n            \n            Students who do not attend the first class will be dropped",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -139570,7 +139570,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -168578,7 +168578,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -168705,7 +168705,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -200320,7 +200320,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "9",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -201126,11 +201126,11 @@
         "requirements": "",
         "description": "Diverse narratives and themes in influential short stories and novels; fiction's role in cultural and personal identity; techniques for analysis. Each section will have a specific theme-see English Departmental Course Descriptions. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: Robots, Androids, and Enhanced Humans",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "16",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "12",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -201295,7 +201295,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -217356,7 +217356,7 @@
         "requirements": "",
         "description": "Neurophysiological, endocrine, and immune systems. Factors underlying health habits and lifestyles. Methods to enhance health behaviors and prevent illness. Stress management. Reciprocal interactions among behavior, thoughts, and physiology with resulting effects on physical and psychological health and illness. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "50",
         "enrolled": "49",
         "wl_capacity": "20",
