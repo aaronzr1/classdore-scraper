@@ -2586,7 +2586,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "10",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -69804,7 +69804,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "250",
-        "enrolled": "122",
+        "enrolled": "123",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -84625,7 +84625,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "80",
-        "enrolled": "56",
+        "enrolled": "55",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -99096,9 +99096,9 @@
         "requirements": "MATH 2810 or 2820 as pre-req",
         "description": "Review of basic applied statistics. Analysis of variance as a technique for interpreting experimental data. Generalized likelihood ratio principle, confounding, multiple comparisons, introduction to response surface methodology, and nonparametric methods. Experimental designs: completely randomized, nested, orthogonal contrasts, randomized block, Latin squares, factorial, and fractional factorial. Prerequisite: 2810 or 2820. [3] (MNS) (CORE D) (LE MNS)",
         "notes": "The combined enrollment capacity of MATH 2821 and MATH 5821 is 25. Although seats may appear open, if the combined capacity has been reached, the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "25",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -105174,9 +105174,9 @@
         "requirements": "",
         "description": "Foundations of financial planning; managing basic assets, credit, and insurance needs; employee incentive plans such as stock options, deferred compensation and severance; managing investments in stocks, bonds, mutual funds, and real estate; retirement and estate planning such as 401k, 403b, IRA, Roth, estate preservation. Students in the School of Engineering may only receive open elective credit for ENGM 4800. SPRING [1]",
         "notes": "Note: Open Elective credit only for all majors. All seats reserved for students with senior standing",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "10",
         "wl_occupied": "2",
         "attributes": null,
@@ -113465,7 +113465,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "41",
+        "enrolled": "40",
         "wl_capacity": "12",
         "wl_occupied": "4",
         "attributes": [
@@ -128606,9 +128606,9 @@
         "requirements": "Prereq: LAW 7026 or LAW 7029",
         "description": "The Vanderbilt AI Law Lab (VAILL) Course offers an immersive practicum where students apply artificial intelligence to tackle challenges in legal service delivery. In this dynamic setting, participants work under the direction of VAILL faculty and practicing legal professionals to bring innovative AI solutions to life. Through hands-on projects, students will develop a deep understanding of AI's capabilities and limitations, explore ethical considerations, and refine their skills in technology deployment, project management, and client advocacy in the legal domain. Prerequisite: LAW 7026 AI in Law Practice or LAW 7029 AI in Law Practice. Pass/Fail. [3]",
         "notes": "Limited Enrollment",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "6",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -133726,7 +133726,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "135",
-        "enrolled": "135",
+        "enrolled": "134",
         "wl_capacity": "30",
         "wl_occupied": "10",
         "attributes": [
@@ -133768,7 +133768,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "18",
         "wl_occupied": "5",
         "attributes": [
@@ -154436,7 +154436,7 @@
         "notes": "The course will start with an introduction to quantum mechanics (quantum measurements, mixed states, Stern-Gerlach experiment etc.) and then treat the basics of quantum computing: qubits, quantum gates, quantum circuit model, no cloning theorem, entanglement and quantum teleportation. I plan to discuss various measures of entanglement for bipartite quantum systems, e.g.the relative von Neumann entropy, and quantum operations. In the second part of the course, I will discuss quantum algorithms, including the Deutsch-Josza algorithm and Shor's factoring algorithm. I will then focus on quantum error correction and present the Shor code and the Knill-Laflamme model for error correction. If there is time, I plan to discuss the use of bi-unitary matrices from subfactor theory to construct error correcting codes.\n         \n            \n            Prerequisites: Graduate analysis and some knowledge of functional analysis. Undergraduate students must obtain the approval of the instructor and the DGS in the Math Department to enroll in this class.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -182639,7 +182639,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "18",
+        "enrolled": "19",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -185991,7 +185991,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "56",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -187770,7 +187770,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "15",
         "wl_occupied": "8",
         "attributes": [
@@ -187937,7 +187937,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -190803,7 +190803,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "10",
         "wl_occupied": "6",
         "attributes": [
@@ -192871,7 +192871,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -193906,7 +193906,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
