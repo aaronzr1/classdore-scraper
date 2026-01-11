@@ -25633,7 +25633,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "21",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -41071,7 +41071,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -41590,7 +41590,7 @@
         "notes": "Open to HOD Sophomores, Juniors and Seniors;  Not open to Freshmen.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "5",
         "wl_occupied": "2",
         "attributes": [
@@ -111764,7 +111764,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -114621,7 +114621,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -150224,7 +150224,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "31",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "40",
         "wl_occupied": "4",
         "attributes": [
@@ -191341,7 +191341,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "43",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -201712,7 +201712,7 @@
         "notes": "Class meets first ten weeks of the semester.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "22",
+        "enrolled": "21",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -219850,7 +219850,7 @@
         "notes": "Students are required to attend one weekly film screening, Wednesdays at 5:30PM in Buttrick 103.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
