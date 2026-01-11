@@ -2937,7 +2937,7 @@
         "notes": "The enrollment capacity of JS 2710 and DIV 7146 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "5",
+        "enrolled": "4",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -43061,7 +43061,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "152",
-        "enrolled": "81",
+        "enrolled": "82",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -45347,7 +45347,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "120",
-        "enrolled": "116",
+        "enrolled": "115",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -50801,7 +50801,7 @@
         "notes": "An overview of human development emphasizing the period from conception through adolescence. Course content includes research methods as well as in-depth coverage of selected topics in cognitive, social, emotional, and physical development.\n         \n            \n            Fifteen seats are reserved for Peabody majors through the initial enrollment period.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "10",
+        "enrolled": "9",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -57229,7 +57229,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "26",
         "wl_occupied": "16",
         "attributes": [
@@ -72921,7 +72921,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -133314,7 +133314,7 @@
         "capacity": "70",
         "enrolled": "59",
         "wl_capacity": "75",
-        "wl_occupied": "26",
+        "wl_occupied": "27",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -140714,9 +140714,9 @@
         "requirements": "",
         "description": "A survey of the history and achievements of Greece from its Mycenaean origins to the Roman domination. Topics include literature, art, athletics, Periclean Athens, the conquest of Alexander, and the Hellenistic age. [3] (INT) (CORE B, C) (LE HFA)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -155268,9 +155268,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "50",
-        "wl_occupied": "2",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -155677,9 +155677,9 @@
         "notes": "The maximum enrollment is limited to 18 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "18",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -158633,7 +158633,7 @@
         "notes": "In this course, students are introduced to the basic concepts of educational and psychological measurement, classical test theory (CTT), and item response theory (IRT). These concepts will be taught with the practice by illustrating the construction of instruments using the 'Four Building Blocks' approach (Wilson, 2005) and investigating their measurement properties, (e.g., validity and reliability). This class will present both the 'how to' and the 'why' of IRT. The primary objective of the course is to sharpen the skill, sophistication, and intuition of the student in the interpretation of educational and psychological test data, and in the construction and use of tests as instruments of educational and psychological theory and as tools in the practical problems of selection, evaluation, and guidance in the light of IRT\n         \n            \n            Also listed as PSY-PC 3738-01 for undergraduate students. The combined enrollment capacity of PSY-PC 3738 and PSY-GS 8880 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            During the initial open enrollment period only, all seats in this course are reserved for Psychological Sciences Ph.D., Child Studies M.Ed., Cognitive Psychology in Context M.S., and Quant Methods M.Ed students.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -190437,9 +190437,9 @@
         "notes": "Introductory course emphasizes selection, application, and interpretation of measures of relative frequency, location, dispersion, and association. Approaches to statistical inferences are emphasized. Prerequisite: proficiency in high school algebra.\n         \n            \n            Fifteen seats reserved for Peabody students during initial enrollment period.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "16",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -196291,7 +196291,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "87",
+        "enrolled": "88",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
