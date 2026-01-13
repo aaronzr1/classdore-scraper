@@ -1676,7 +1676,7 @@
         "notes": "The combined enrollment capacity of MATH 3120 and MATH 5120 is 20. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "18",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -4395,7 +4395,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R",
@@ -9415,9 +9415,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -10938,7 +10938,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": null,
@@ -11365,9 +11365,9 @@
         "requirements": "BSCI 1511 is a pre- or co-requisite to this course.",
         "description": "Laboratory to accompany 1511. One three-hour laboratory per week. Satisfies the AXLE lab course requirement when completed with 1511. Prerequisite or corequisite: 1511. [1] (No AXLE credit)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": null,
@@ -15005,7 +15005,7 @@
         "capacity": "50",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "F",
@@ -16316,7 +16316,7 @@
         "capacity": "20",
         "enrolled": "16",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -21157,7 +21157,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "32",
+        "enrolled": "31",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
@@ -22878,7 +22878,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "S",
@@ -23011,7 +23011,7 @@
         "capacity": "28",
         "enrolled": "30",
         "wl_capacity": "150",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Professional Skills"
         ],
@@ -35710,7 +35710,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "32",
-        "enrolled": "28",
+        "enrolled": "27",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -35968,7 +35968,7 @@
         "notes": "Required to register for both lecture and discussion.\n         \n            \n            Lab Co-Req waived for Spring 2025",
         "status": "Wait list",
         "capacity": "96",
-        "enrolled": "98",
+        "enrolled": "97",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": [
@@ -37665,7 +37665,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -38074,7 +38074,7 @@
         "notes": "Students registered in this section will be appropriated into SC 5215.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -39561,7 +39561,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L.\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/7/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "69",
+        "enrolled": "70",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -41351,7 +41351,7 @@
         "notes": "The combined enrollment capacity of CS 3262 and DS 3262 is 60. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Declared Data Science minors will be given priority to register. Students who have not declared the minor will be eligible to register for remaining spots during the all undergraduates registration period.",
         "status": "Open",
         "capacity": "60",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "100",
         "wl_occupied": "0",
         "attributes": [
@@ -42736,7 +42736,7 @@
         "notes": "This course will cover etiology, assessment, and treatment of psychological disorders (e.g., depression, anxiety, disruptive behavior disorders, autism spectrum disorders) emerging in childhood and adolescence. We will examine the development and treatment of psychopathology from an integrative perspective, including biological, cognitive, behavioral, cultural, and environmental perspectives, and explore current issues and challenges in the field Prerequisites: One course from PSY-PC 1205, 1207, 1250, or PSY 1200.",
         "status": "Open",
         "capacity": "35",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -45549,7 +45549,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "17",
+        "enrolled": "18",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
@@ -52431,7 +52431,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -53996,7 +53996,7 @@
         "notes": "The combined enrollment capacity of HGEN 8394-01 and HGEN 8394-02 is 50. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            Class will meet in Suite 9500, 2525 West End Avenue",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -64070,7 +64070,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -66924,7 +66924,7 @@
         "notes": "Seats are initially reserved for HOD SO, JR, and SR Majors and Minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 1: Individual/Interpersonal.",
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "20",
         "wl_occupied": "5",
         "attributes": [
@@ -70028,7 +70028,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Vinci-Booher, Sophia"
         ],
         "date_added": null
     },
@@ -75985,7 +75985,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "24",
-        "enrolled": "23",
+        "enrolled": "22",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -78763,7 +78763,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -83948,7 +83948,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "26",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -99299,7 +99299,7 @@
         "notes": "This course will explore Beyonc\u00e9's unprecedented rise in American culture by: (1) placing her in the historical context of American women performers from Bessie Smith to Janet Jackson, who inspire and preceded her; and (2) analyzing her iconicity, impact, and intersectional politics through contemporary cultural, racial, and feminist criticism. This course will count toward all areas of Study within the AADS major and minor.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "47",
+        "enrolled": "46",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -105054,7 +105054,7 @@
         "notes": "Full Title: \"Haunted Spaces and Places in Performance Design\" - From the fiery hellmouths of Medieval pageant plays to the cluttered mansions of modernized Shakespeare, the physical environments of haunted tales have captivated audiences for as long as people have put these stories on stage. This exploration of art, architecture, and theatre history looks at the designed environments of horror stories. We will survey Western period style ranging from Ancient Greek culture through the 19th Century revivals and their manifestation in theatre, opera, film, and entertainment design. Through lecture, discussion, and hands-on projects, we will build the research and design skills necessary to produce our own spooky spaces. (Core capacity tags: A, C / AXLE tags: HCA)",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -106103,9 +106103,9 @@
         "requirements": "A&S Sophomore, Junior, Senior, or transfer students only. Max 2 course enrollments",
         "description": "Topics vary.  Courses in this series explore big questions and complex problems from a variety of disciplinary perspectives. As part of the new A&S College Core, Exploratory Core courses are designed for the second year, are broad in topic, and help students discover paths to new interests and more specialized study. Students are limited to two completions of CORE 2500. Limited to A&S students. Not open to freshmen. [3]",
         "notes": "Full title: \"What is a \"Cult\"?: Cults and New Religious Movements\" - An examination of the emergence, beliefs, and practices of new religious movements often labeled \"cults.\" We will also learn the broader cultural reactions to these groups and their representation in the media. Topics covered include Mormonism, Jonestown, the Satanic Temple, and UFO Religions. We will discuss race, gender, sexuality, violence, and surveillance. (Core capacity tags: A, C / AXLE tags: HCA)",
-        "status": "Open",
+        "status": "Closed",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -111042,7 +111042,7 @@
         "notes": "Full title - Sex, Sin and the Law in the Early Modern European Witch-Hunts",
         "status": "Open",
         "capacity": "16",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "3",
         "wl_occupied": "2",
         "attributes": [
@@ -112143,9 +112143,9 @@
         "requirements": "",
         "description": "Survey of issues in medicine and law, including the physician-patient relationship, medical malpractice, organ donation, healthcare financing, and the limits and powers of the government to protect the public's health. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "35",
-        "enrolled": "33",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -131312,7 +131312,7 @@
         "notes": "Required to register for 1602 lecture, discussion, and 1602L\n         \n            \n            Consent of Instructor and DUS after first day of class, 1/8/2026",
         "status": "Open",
         "capacity": "96",
-        "enrolled": "78",
+        "enrolled": "77",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -135206,7 +135206,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "36",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "1",
         "attributes": [
@@ -155029,7 +155029,7 @@
         "notes": "$1,184.00 music fee (50-minute group lesson 2025-2026) is charged to Non-Bachelor of Music students for enrollments. No adjustment will be made to fee after the last calendar day to drop Blair performance classes. Students who are unsure of appropriate level should contact the instructor.",
         "status": "Wait list",
         "capacity": "6",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "3",
         "wl_occupied": "1",
         "attributes": [
@@ -176412,7 +176412,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "65",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "25",
         "wl_occupied": "3",
         "attributes": [
@@ -176584,7 +176584,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -176670,7 +176670,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "17",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R",
@@ -179025,7 +179025,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Wait list",
         "capacity": "72",
-        "enrolled": "72",
+        "enrolled": "71",
         "wl_capacity": "20",
         "wl_occupied": "1",
         "attributes": [
@@ -179107,7 +179107,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "63",
+        "enrolled": "64",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -190503,7 +190503,7 @@
         "notes": "The combined enrollment capacity of DIV 7006, REL 8050, and RLST 2110 is 25. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -191445,7 +191445,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "220",
-        "enrolled": "169",
+        "enrolled": "167",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -192093,7 +192093,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T",
@@ -193026,7 +193026,7 @@
         "capacity": "36",
         "enrolled": "33",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193184,11 +193184,11 @@
         "requirements": "",
         "description": "(Previously MGRL 3105) Contemporary challenges in leading change in organizations and building effective management teams. The context and dynamics of negotiation; components, structure, and management of negotiations; and varying requirements across the spectrum of negotiation types. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "36",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193230,7 +193230,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -196315,7 +196315,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "140",
-        "enrolled": "87",
+        "enrolled": "86",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": [
@@ -200793,7 +200793,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "15",
         "wl_occupied": "1",
         "attributes": [
@@ -201649,7 +201649,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Law and Business Class"
         ],
@@ -201738,7 +201738,7 @@
         "capacity": "25",
         "enrolled": "23",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Professional Skills"
         ],
@@ -202171,7 +202171,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -203030,7 +203030,7 @@
         "capacity": "70",
         "enrolled": "87",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MT"
@@ -215600,7 +215600,7 @@
         "notes": "The combined enrollment capacity of CE 4150 and CE 5150 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -216506,7 +216506,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -219393,7 +219393,7 @@
         "notes": "The combined enrollment capacity of ME 4259 and ME 5259 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
