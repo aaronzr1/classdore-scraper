@@ -7506,7 +7506,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -58886,9 +58886,9 @@
         "requirements": "MSN, CRT, or DNP students only",
         "description": "This course is the first in a series on health equity. Learners will explore interdisciplinary frameworks and theories that influence the health of the individual, community, and population. Systems science, quality improvement, social determinants of health, and health equity are explored through the nursing lens to foster learner understanding of health status, resource availability, and barriers to access. Students will examine the role of health care systems, policy, clinical informatics, and interprofessional practice for the promotion of equitable health and systems outcomes. [3]",
         "notes": "This section is for MSN, PMC and DNP students only. Class is 100% online. Students can self-enroll in any open section.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "26",
-        "enrolled": "26",
+        "enrolled": "25",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -64070,7 +64070,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -110715,7 +110715,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "3",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: International Cultures"
         ],
@@ -112145,7 +112145,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "34",
+        "enrolled": "33",
         "wl_capacity": "12",
         "wl_occupied": "3",
         "attributes": [
@@ -114043,7 +114043,7 @@
         "notes": "Refer to your program's class meeting schedule here: https://vanderbilt365.sharepoint. com/sites/VUSNStudents/SitePages/Bl ock-Schedules,-Intensives, -and-Textbooks.aspx",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "11",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -130817,10 +130817,10 @@
         "requirements": "Corequisite:HOD2100 SO/JR/SR HOD or HOS Majors/Minors or BUS Minor",
         "description": "Accessing and using published research in solving organizational and social problems is a cornerstone of movements in management, education, medicine and a range of other fields. Using evidence from academic research has even become part of the definition of ethical practice in many of these fields. As a result, identifying and appraising research studies that might be used to solve individual, team and organizational problems has become a critical skill for practitioners. From this research, practitioners must be prepared to create actionable interventions and to persuade others to adopt them. Corequisite: HOD 2100 [3]",
         "notes": "Not open to FR or SO. Seats are reserved for HOD senior and junior majors and minors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group.",
-        "status": "Wait list",
+        "status": "Closed",
         "capacity": "25",
         "enrolled": "28",
-        "wl_capacity": "25",
+        "wl_capacity": "0",
         "wl_occupied": "7",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
@@ -133338,7 +133338,7 @@
         "capacity": "70",
         "enrolled": "58",
         "wl_capacity": "75",
-        "wl_occupied": "22",
+        "wl_occupied": "21",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133411,7 +133411,7 @@
         "capacity": "70",
         "enrolled": "43",
         "wl_capacity": "75",
-        "wl_occupied": "14",
+        "wl_occupied": "13",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -168364,7 +168364,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "56",
+        "enrolled": "57",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -173068,7 +173068,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -191198,9 +191198,9 @@
         "requirements": "",
         "description": "Accessible, engaging, applied introduction to data science for students from all colleges and majors. Data summary and data visualization; causality and correlation; sampling, resampling, and uncertainty; prediction with linear regression; classification, clustering, and machine learning; ethics. Topics introduced with real-world datasets using a statistical programming language for hands on experience in data science. Enrollment limited to freshmen, sophomores, and juniors. Serves as repeat credit for students who have earned credit for PSCI 2300. [3]",
         "notes": "Enrollment limited to freshmen, sophomores, and juniors during initial registration. Seniors will be permitted to register for DS 1000 after the initial registration period has ended. There is no guarantee that there will be seats in the course after initial registration.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "100",
         "wl_occupied": "4",
         "attributes": [
@@ -193184,9 +193184,9 @@
         "requirements": "",
         "description": "(Previously MGRL 3105) Contemporary challenges in leading change in organizations and building effective management teams. The context and dynamics of negotiation; components, structure, and management of negotiations; and varying requirements across the spectrum of negotiation types. [3] (SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -193268,9 +193268,9 @@
         "requirements": "Phys 1601 and Math 2300 are prerequisites for this course",
         "description": "Application of the first and second laws to energy transformation processes and properties of technologically important materials. Prerequisite: PHYS 1601, MATH 2300. FALL, SPRING, SUMMER. [3]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "33",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "15",
         "wl_occupied": "10",
         "attributes": null,
@@ -193309,7 +193309,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "5",
         "attributes": [
@@ -193351,9 +193351,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "34",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -193445,8 +193445,8 @@
         "instructors": [
             "Delaney, Kendra",
             "Butler, Molly E. (Secondary)",
+            "Gardner, Virginia S. (Secondary)",
             "Ott, Melissa M. (Secondary)",
-            "Schroer, Matthew E. (Secondary)",
             "Vick, Rose M. (Secondary)",
             "Walker, Jessica N. (Secondary)"
         ],
@@ -194172,7 +194172,7 @@
         "capacity": "26",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies",
@@ -199680,9 +199680,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
