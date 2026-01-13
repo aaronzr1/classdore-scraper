@@ -5887,9 +5887,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "6",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Medicine Health and Society",
@@ -7753,7 +7753,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R",
@@ -11250,7 +11250,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "58",
+        "enrolled": "57",
         "wl_capacity": "40",
         "wl_occupied": "1",
         "attributes": null,
@@ -12266,9 +12266,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "11",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "7",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -15168,9 +15168,9 @@
         "requirements": "Prerequisite: At least two BSCI courses at the 2000-level",
         "description": "Discussions and papers based on readings in research journals. Topics vary. Prerequisite: completion of at least two BSCI courses at the 2000 level. May be repeated for credit more than once if there is no duplication in topic. Check major requirements for restrictions on total credits. Students may enroll in more than one section of this course each semester. [2] (No AXLE credit)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "12",
-        "enrolled": "12",
+        "enrolled": "11",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": null,
@@ -36766,7 +36766,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -41116,7 +41116,7 @@
         "capacity": "20",
         "enrolled": "17",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Professional Skills"
         ],
@@ -41919,7 +41919,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "2",
         "attributes": [
@@ -43061,7 +43061,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "152",
-        "enrolled": "86",
+        "enrolled": "85",
         "wl_capacity": "50",
         "wl_occupied": "0",
         "attributes": [
@@ -48341,9 +48341,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "15",
-        "enrolled": "15",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -49090,7 +49090,7 @@
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
         "status": "Open",
         "capacity": "14",
-        "enrolled": "11",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -49335,7 +49335,7 @@
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
         "status": "Open",
         "capacity": "14",
-        "enrolled": "9",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -49899,9 +49899,9 @@
         "requirements": "Freshmen, Sophomores, Juniors registration groups",
         "description": "Introduction to the processes of human development and how such development can be influenced. Emphasis is placed on social development and implications for solving personal and professional problems. The course focuses on late adolescent and young adult development. [3]",
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
-        "status": "Closed",
+        "status": "Open",
         "capacity": "14",
-        "enrolled": "14",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -50305,7 +50305,7 @@
         "notes": "Students must be enrolled in HOD 1250 09.\n         \n            \n            Instructor - Mundy, Meaghan E.",
         "status": "Open",
         "capacity": "14",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -54402,7 +54402,7 @@
         "notes": "The combined enrollment capacity of CS 4359 and CS 5359 is 35. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
         "wl_occupied": "1",
         "attributes": null,
@@ -59928,7 +59928,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group.",
         "status": "Wait list",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "25",
         "wl_occupied": "13",
         "attributes": [
@@ -83002,9 +83002,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "57",
+        "enrolled": "58",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -83156,11 +83156,11 @@
         "requirements": "Corequisite: MATH 2300",
         "description": "Techniques associated with engineering measurements, curve fitting, presentation, and analysis of data. Corequisite: MATH 2300. SPRING. [2]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "11",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "1",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -84625,7 +84625,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "80",
-        "enrolled": "54",
+        "enrolled": "55",
         "wl_capacity": "40",
         "wl_occupied": "0",
         "attributes": [
@@ -102718,7 +102718,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -107428,7 +107428,7 @@
         "notes": "Full title - Materials Selection for Manufacturing & Design. The combined enrollment capacity of ME 3890-03 and ME 5890-03 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            The combined enrollment capacity of ME 3890-03 and ME 5890-03 is 15. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -111166,7 +111166,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "45",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114885,7 +114885,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "37",
+        "enrolled": "38",
         "wl_capacity": "20",
         "wl_occupied": "2",
         "attributes": [
@@ -128255,7 +128255,7 @@
         "notes": "The Spring 26 version of this course will count for EES majors with EES departmental approval.\n         \n            \n            In Spring 2026, we will focus on the natural history collection on Vanderbilts campus, working on cataloging, organizing, and making the collection more accessible.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -133666,7 +133666,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "119",
+        "enrolled": "120",
         "wl_capacity": "30",
         "wl_occupied": "3",
         "attributes": [
@@ -133750,7 +133750,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "135",
-        "enrolled": "133",
+        "enrolled": "131",
         "wl_capacity": "30",
         "wl_occupied": "8",
         "attributes": [
@@ -134440,7 +134440,7 @@
         "notes": "The maximum enrollment is limited to 36 students due to classroom capacity. No additional seats will be made available.",
         "status": "Wait list",
         "capacity": "36",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "18",
         "wl_occupied": "3",
         "attributes": [
@@ -152886,7 +152886,7 @@
         "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Professional Skills"
         ],
@@ -160006,7 +160006,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "78",
-        "enrolled": "77",
+        "enrolled": "76",
         "wl_capacity": "22",
         "wl_occupied": "17",
         "attributes": [
@@ -161006,7 +161006,7 @@
         "capacity": "22",
         "enrolled": "20",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Law and Business Class"
         ],
@@ -169061,7 +169061,7 @@
         "notes": "Students must be enrolled in HOD 1250 01.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -169389,7 +169389,7 @@
         "notes": "Students must be enrolled in HOD 1250 01.",
         "status": "Open",
         "capacity": "14",
-        "enrolled": "13",
+        "enrolled": "12",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -170151,9 +170151,9 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "15",
-        "enrolled": "13",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -170481,7 +170481,7 @@
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -193353,7 +193353,7 @@
         "capacity": "34",
         "enrolled": "34",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -194092,9 +194092,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "19",
         "wl_capacity": "8",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -202210,7 +202210,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "1",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -206819,9 +206819,9 @@
         "notes": "The combined enrollment capacity of MHS 2155-01 and MHS 6500-09 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "30",
-        "enrolled": "30",
+        "enrolled": "32",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "4",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -210482,7 +210482,7 @@
         "notes": "For students in the master of divinity and master of theological studies degree programs, the course will fulfill a requirement in theology. The course may be applied to the concentrations in Global Christianities and Interreligious Encounter, Spirituality and Social Activism, and Religion and Economic Justice.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "7",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -215191,7 +215191,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -217912,7 +217912,7 @@
         "capacity": "16",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -218029,7 +218029,7 @@
         "capacity": "4",
         "enrolled": "3",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": null,
         "meeting_days": [
             "T"
