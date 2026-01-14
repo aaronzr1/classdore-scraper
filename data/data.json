@@ -2586,7 +2586,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -2744,7 +2744,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -3063,7 +3063,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Gender and Sexuality Studies",
@@ -3184,7 +3184,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -3391,7 +3391,7 @@
         "capacity": "18",
         "enrolled": "15",
         "wl_capacity": "10",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -3714,7 +3714,7 @@
         "capacity": "44",
         "enrolled": "32",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -5889,7 +5889,7 @@
         "capacity": "30",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Medicine Health and Society",
@@ -6164,7 +6164,7 @@
         "capacity": "18",
         "enrolled": "13",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -6210,7 +6210,7 @@
         "capacity": "60",
         "enrolled": "45",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Econ/Hist Interdisciplinary",
@@ -6612,7 +6612,7 @@
         "capacity": "15",
         "enrolled": "9",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Econ/Hist Interdisciplinary",
@@ -9341,7 +9341,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -9423,7 +9423,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -9699,11 +9699,11 @@
         "requirements": "PSY 1200 anti-requisites",
         "description": "A survey of modern scientific psychology. Topics include development, perception, motivation, learning, thinking, remembering, emotion, intelligence, special aptitudes, and personality development. General applications to human behavior. The student must either analyze published research or be a subject in current research. Not open to students who have earned credit for 1111, sections 1, 2, or 3. Total credit hours for this course and 1111 (sections 1, 2, or 3) will not exceed 3 credit hours. Credit hours reduced from second course taken (or from test or transfer credit) as appropriate. [3] (SBS) (CORE B) (LE MNS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "200",
-        "enrolled": "199",
+        "enrolled": "200",
         "wl_capacity": "50",
-        "wl_occupied": "12",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -10546,7 +10546,7 @@
         "capacity": "215",
         "enrolled": "215",
         "wl_capacity": "150",
-        "wl_occupied": "56",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -10946,7 +10946,7 @@
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "40",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -11063,7 +11063,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "10",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -11258,7 +11258,7 @@
         "capacity": "60",
         "enrolled": "57",
         "wl_capacity": "40",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -11375,7 +11375,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "40",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "F"
@@ -11492,7 +11492,7 @@
         "capacity": "60",
         "enrolled": "57",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -12274,7 +12274,7 @@
         "capacity": "11",
         "enrolled": "7",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -12908,7 +12908,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -14972,7 +14972,7 @@
         "capacity": "45",
         "enrolled": "37",
         "wl_capacity": "35",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -16076,7 +16076,7 @@
         "capacity": "38",
         "enrolled": "36",
         "wl_capacity": "35",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "WF"
@@ -16232,7 +16232,7 @@
         "capacity": "12",
         "enrolled": "13",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -20111,7 +20111,7 @@
         "capacity": "16",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -20514,7 +20514,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -20715,7 +20715,7 @@
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "18",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -21372,7 +21372,7 @@
         "capacity": "25",
         "enrolled": "22",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -21575,7 +21575,7 @@
         "capacity": "10",
         "enrolled": "3",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -22202,7 +22202,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Oral Communications course",
             "AXLE: Social and Behavioral Sciences",
@@ -22485,7 +22485,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -22567,7 +22567,7 @@
         "capacity": "33",
         "enrolled": "22",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -22689,7 +22689,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -23103,7 +23103,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for African American and Diaspora Studies",
@@ -23269,7 +23269,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -23357,7 +23357,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for African American and Diaspora Studies",
@@ -24043,7 +24043,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -24445,7 +24445,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -25164,7 +25164,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -25647,7 +25647,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -25688,7 +25688,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -25888,7 +25888,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -27263,7 +27263,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Film Studies",
@@ -27874,7 +27874,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -27920,7 +27920,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -28083,7 +28083,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -28126,7 +28126,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "12",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -28169,7 +28169,7 @@
         "capacity": "14",
         "enrolled": "13",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -28330,7 +28330,7 @@
         "capacity": "130",
         "enrolled": "130",
         "wl_capacity": "50",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -28658,7 +28658,7 @@
         "capacity": "35",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -28814,7 +28814,7 @@
         "capacity": "10",
         "enrolled": "10",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -28853,7 +28853,7 @@
         "capacity": "18",
         "enrolled": "6",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Cinema and Media Arts",
@@ -28937,7 +28937,7 @@
         "capacity": "7",
         "enrolled": "7",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -29096,7 +29096,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -29585,7 +29585,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -30274,7 +30274,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "9",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -31273,7 +31273,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "16",
-        "enrolled": "14",
+        "enrolled": "15",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -32029,7 +32029,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Perspectives",
@@ -32967,7 +32967,7 @@
         "notes": "Instructor approval required to enroll. Student: please ask instructor to email Blair Registrar to enroll you in this class.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -35139,7 +35139,7 @@
         "capacity": "25",
         "enrolled": "18",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor",
@@ -35340,7 +35340,7 @@
         "capacity": "9",
         "enrolled": "5",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -35511,7 +35511,7 @@
         "capacity": "121",
         "enrolled": "113",
         "wl_capacity": "30",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for American Studies Major",
@@ -35595,7 +35595,7 @@
         "capacity": "32",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: E-Ethical & Social Engagement",
@@ -35724,7 +35724,7 @@
         "capacity": "32",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: E-Ethical & Social Engagement",
@@ -35853,7 +35853,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: E-Ethical & Social Engagement",
@@ -35982,7 +35982,7 @@
         "capacity": "96",
         "enrolled": "97",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36064,7 +36064,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for American Studies Major",
@@ -36109,7 +36109,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -36363,7 +36363,7 @@
         "capacity": "160",
         "enrolled": "144",
         "wl_capacity": "25",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -36493,7 +36493,7 @@
         "capacity": "15",
         "enrolled": "13",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for American Studies Major",
@@ -36615,7 +36615,7 @@
         "capacity": "160",
         "enrolled": "160",
         "wl_capacity": "25",
-        "wl_occupied": "18",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -36856,7 +36856,7 @@
         "capacity": "25",
         "enrolled": "13",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -36986,7 +36986,7 @@
         "capacity": "25",
         "enrolled": "23",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37113,7 +37113,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37316,7 +37316,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -37679,7 +37679,7 @@
         "capacity": "25",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38043,7 +38043,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -38131,7 +38131,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -38220,7 +38220,7 @@
         "capacity": "25",
         "enrolled": "16",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38589,7 +38589,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38717,7 +38717,7 @@
         "capacity": "25",
         "enrolled": "22",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -38844,7 +38844,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -39009,7 +39009,7 @@
         "capacity": "25",
         "enrolled": "12",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39052,7 +39052,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -39259,7 +39259,7 @@
         "capacity": "96",
         "enrolled": "83",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -39294,11 +39294,11 @@
         "requirements": "CE 2200 and Phys 1601 are prerequisites for this course",
         "description": "The principles of dynamics (kinematics and kinetics) of particles and rigid bodies. Mechanical vibrations. Continuous media. Prerequisite: CE 2200, PHYS 1601. Corequisite: MATH 2300. FALL, SPRING, SUMMER. [3]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -39497,7 +39497,7 @@
         "capacity": "72",
         "enrolled": "71",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -40423,7 +40423,7 @@
         "capacity": "30",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -40507,7 +40507,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: E-Ethical & Social Engagement",
@@ -40551,7 +40551,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -40674,7 +40674,7 @@
         "capacity": "30",
         "enrolled": "28",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -40839,7 +40839,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41001,7 +41001,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41283,7 +41283,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41604,7 +41604,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -41727,7 +41727,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "11",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -41807,7 +41807,7 @@
         "capacity": "32",
         "enrolled": "28",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -41891,7 +41891,7 @@
         "capacity": "14",
         "enrolled": "16",
         "wl_capacity": "18",
-        "wl_occupied": "10",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -41933,7 +41933,7 @@
         "capacity": "30",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -42544,7 +42544,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "25",
-        "wl_occupied": "10",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -43034,7 +43034,7 @@
         "capacity": "20",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Leadership, Policy & Organization Dept"
         ],
@@ -43995,7 +43995,7 @@
         "capacity": "10",
         "enrolled": "1",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -45563,7 +45563,7 @@
         "capacity": "20",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -46086,7 +46086,7 @@
         "capacity": "30",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Communication of Science and Tech",
@@ -47189,7 +47189,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -48980,7 +48980,7 @@
         "capacity": "75",
         "enrolled": "70",
         "wl_capacity": "100",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -49795,7 +49795,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "50",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -49997,7 +49997,7 @@
         "capacity": "75",
         "enrolled": "75",
         "wl_capacity": "100",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -50238,7 +50238,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "50",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -50444,7 +50444,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "50",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -50529,7 +50529,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -50691,7 +50691,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "50",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -50942,7 +50942,7 @@
         "capacity": "36",
         "enrolled": "33",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -52402,7 +52402,7 @@
         "capacity": "30",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Film Studies",
@@ -53168,7 +53168,7 @@
         "capacity": "16",
         "enrolled": "14",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -53683,11 +53683,11 @@
         "requirements": "",
         "description": "Analysis of a range of texts in social, political, and aesthetic contexts. Interdisciplinary study of cultural forms as diverse as poetry, advertisement, and film. [3] (HCA) (CORE A, C) (LE HFA)",
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: African American Modernism",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "16",
-        "enrolled": "16",
+        "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -53971,7 +53971,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -54182,7 +54182,7 @@
         "capacity": "16",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -54383,7 +54383,7 @@
         "capacity": "38",
         "enrolled": "38",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -54422,7 +54422,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -54588,7 +54588,7 @@
         "capacity": "12",
         "enrolled": "17",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -54671,7 +54671,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -54871,7 +54871,7 @@
         "capacity": "30",
         "enrolled": "26",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -56542,7 +56542,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -57048,7 +57048,7 @@
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "26",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -57249,7 +57249,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "26",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -58787,7 +58787,7 @@
         "capacity": "15",
         "enrolled": "6",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3",
@@ -59426,7 +59426,7 @@
         "capacity": "22",
         "enrolled": "22",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3",
@@ -59948,7 +59948,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -62442,7 +62442,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Climate Studies",
@@ -63770,7 +63770,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -63968,7 +63968,7 @@
         "capacity": "30",
         "enrolled": "24",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Neuroscience",
@@ -65044,7 +65044,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -65287,7 +65287,7 @@
         "capacity": "8",
         "enrolled": "8",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -66950,7 +66950,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -67118,7 +67118,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -68408,7 +68408,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -68728,7 +68728,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -68927,7 +68927,7 @@
         "capacity": "36",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -69048,7 +69048,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -69368,7 +69368,7 @@
         "capacity": "25",
         "enrolled": "22",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -70007,7 +70007,7 @@
         "capacity": "35",
         "enrolled": "34",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -70753,7 +70753,7 @@
         "notes": "Must have permission of the Director of Honors. Registration must be completed through the Neuroscience Program Office. See instructions at https://as.vanderbilt.edu/neuroscience/the-honorsprogram/",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -74022,7 +74022,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -74574,7 +74574,7 @@
         "capacity": "15",
         "enrolled": "13",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -74741,7 +74741,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -74945,7 +74945,7 @@
         "capacity": "30",
         "enrolled": "25",
         "wl_capacity": "35",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -75026,7 +75026,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -75188,7 +75188,7 @@
         "capacity": "20",
         "enrolled": "22",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -75461,7 +75461,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -75539,7 +75539,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -75699,7 +75699,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -75775,11 +75775,11 @@
         "requirements": "Soph/Jr/Sr Group",
         "description": "Instruction and practice in written and oral communication. Emphasis is on organization and presentation of information to a specific audience for a specific purpose. Course includes writing and editing reports of various lengths, preparing and using visual aids, and presenting oral reports. Prerequisite: Sophomore standing. FALL, SPRING. [3]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -76173,7 +76173,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76372,7 +76372,7 @@
         "capacity": "31",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "9",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -76493,7 +76493,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -78434,7 +78434,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -78553,7 +78553,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -78672,7 +78672,7 @@
         "capacity": "20",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -78713,7 +78713,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives"
         ],
@@ -79730,7 +79730,7 @@
         "capacity": "20",
         "enrolled": "15",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Cinema and Media Arts",
@@ -80890,7 +80890,7 @@
         "capacity": "26",
         "enrolled": "24",
         "wl_capacity": "8",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -81106,7 +81106,7 @@
         "capacity": "36",
         "enrolled": "23",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -81227,7 +81227,7 @@
         "capacity": "35",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Eligible for Psychology",
@@ -92187,7 +92187,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -92623,7 +92623,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -93005,7 +93005,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -93126,7 +93126,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -93881,7 +93881,7 @@
         "capacity": "16",
         "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures"
         ],
@@ -94202,7 +94202,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for Communication of Science and Tech"
@@ -94325,7 +94325,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -94650,9 +94650,9 @@
         "notes": "Open to majors in Soc, CSET, Clim Studies, and PPS; minors in Environmental and Sustainability Studies; and minors in Soc.",
         "status": "Open",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -95566,7 +95566,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -96440,7 +96440,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -99333,7 +99333,7 @@
         "notes": "This course will explore Beyonc\u00e9's unprecedented rise in American culture by: (1) placing her in the historical context of American women performers from Bessie Smith to Janet Jackson, who inspire and preceded her; and (2) analyzing her iconicity, impact, and intersectional politics through contemporary cultural, racial, and feminist criticism. This course will count toward all areas of Study within the AADS major and minor.",
         "status": "Open",
         "capacity": "75",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "25",
         "wl_occupied": "0",
         "attributes": null,
@@ -99906,7 +99906,7 @@
         "capacity": "15",
         "enrolled": "13",
         "wl_capacity": "6",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -100297,7 +100297,7 @@
         "capacity": "10",
         "enrolled": "10",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -100494,7 +100494,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -102319,7 +102319,7 @@
         "capacity": "10",
         "enrolled": "5",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -102877,7 +102877,7 @@
         "capacity": "10",
         "enrolled": "12",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -102994,7 +102994,7 @@
         "capacity": "32",
         "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -103836,7 +103836,7 @@
         "capacity": "8",
         "enrolled": "8",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -104031,7 +104031,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -104623,7 +104623,7 @@
         "capacity": "11",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Perspectives",
@@ -105134,7 +105134,7 @@
         "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -105212,7 +105212,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -105319,7 +105319,7 @@
         "notes": "Full title: \"Italy and Asia: Deconstructing Representations of Asia in Italian and European Culture\" - Since the Middle-Ages, Italy enjoys intense social, political, and commercial exchanges with Asia. For centuries, Italian merchants and explorers travel along terrestrial and maritime trade routes, which connect the city-states of the peninsula with the Near and Far East. In the tales of Genoese and Venetian adventurers, Persia, India, Indonesia, China, Korea, and Japan appear as lands of opulence, wonder, and magic, regardless of the innumerable dangers of the long journey. The emergence of Portugal, Holland, and England as global colonial empires during the Modern era do not decrease established relationships between Italy and Asia. Rather, Italian inventors, diplomats, and missionaries become even more influential as cultural ambassadors, who are often able to create a synthesis between European and Asian cultures in politics, religion, science, and art. This tradition continues in the present. The works of several contemporary Italian writers, artists, and filmmakers demonstrate a constant, reciprocal fascination between Italy and Asia, which this course will investigate, challenge, and deconstruct. Based on intense interdisciplinarity between the verbal and the visual domains, we will put into conversation several disciplines, including history, art history, literary history, economy, geopolitics, and film studies. (Core capacity tags: A, C / AXLE tags: INT)",
         "status": "Closed",
         "capacity": "20",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -105365,7 +105365,7 @@
         "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -105652,7 +105652,7 @@
         "capacity": "25",
         "enrolled": "15",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2"
@@ -105980,7 +105980,7 @@
         "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "2",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -106060,7 +106060,7 @@
         "capacity": "25",
         "enrolled": "23",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1"
@@ -106467,7 +106467,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3"
@@ -106706,7 +106706,7 @@
         "capacity": "25",
         "enrolled": "23",
         "wl_capacity": "20",
-        "wl_occupied": "19",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -106862,7 +106862,7 @@
         "capacity": "20",
         "enrolled": "14",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -107108,7 +107108,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -107464,7 +107464,7 @@
         "capacity": "15",
         "enrolled": "11",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -108220,7 +108220,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -109121,7 +109121,7 @@
         "capacity": "10",
         "enrolled": "10",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -109164,7 +109164,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -109246,7 +109246,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Medicine Health and Society",
             "Human & Organizational Development",
@@ -109410,7 +109410,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -109492,7 +109492,7 @@
         "capacity": "25",
         "enrolled": "21",
         "wl_capacity": "25",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 2",
@@ -109738,7 +109738,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "9",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -110373,7 +110373,7 @@
         "capacity": "25",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -110579,7 +110579,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -110708,7 +110708,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -110749,7 +110749,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures"
         ],
@@ -110915,7 +110915,7 @@
         "capacity": "25",
         "enrolled": "28",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -110998,7 +110998,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -111078,7 +111078,7 @@
         "capacity": "16",
         "enrolled": "13",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures"
         ],
@@ -111158,7 +111158,7 @@
         "capacity": "25",
         "enrolled": "26",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -111402,7 +111402,7 @@
         "capacity": "25",
         "enrolled": "27",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -111563,7 +111563,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -111649,7 +111649,7 @@
         "capacity": "25",
         "enrolled": "31",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -111810,7 +111810,7 @@
         "capacity": "15",
         "enrolled": "13",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -111855,7 +111855,7 @@
         "capacity": "20",
         "enrolled": "13",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -112017,7 +112017,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -112181,7 +112181,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -112229,7 +112229,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -112383,7 +112383,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "85",
-        "enrolled": "52",
+        "enrolled": "53",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -112535,7 +112535,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -112813,7 +112813,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -112938,7 +112938,7 @@
         "capacity": "44",
         "enrolled": "44",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -113061,7 +113061,7 @@
         "capacity": "17",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -113223,7 +113223,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Next Steps Eligible"
@@ -113265,7 +113265,7 @@
         "capacity": "20",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -113306,7 +113306,7 @@
         "capacity": "17",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -113394,7 +113394,7 @@
         "capacity": "10",
         "enrolled": "2",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -113513,7 +113513,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Asian Studies",
@@ -113700,7 +113700,7 @@
         "capacity": "28",
         "enrolled": "28",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -113784,7 +113784,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -113909,7 +113909,7 @@
         "capacity": "20",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Law, History, and Society"
@@ -114246,7 +114246,7 @@
         "capacity": "50",
         "enrolled": "49",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -114539,7 +114539,7 @@
         "capacity": "50",
         "enrolled": "41",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: D-Data Literacy & Computational Thinking",
@@ -114667,7 +114667,7 @@
         "capacity": "35",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -114921,7 +114921,7 @@
         "capacity": "40",
         "enrolled": "38",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: LB-Inquiry Lab",
@@ -115177,7 +115177,7 @@
         "capacity": "16",
         "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: Social and Behavioral Sciences",
@@ -116234,7 +116234,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Perspectives",
@@ -116685,7 +116685,7 @@
         "capacity": "12",
         "enrolled": "10",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Immersion: Exp. or Culm. (Instructor guidance)",
@@ -117754,9 +117754,9 @@
         "notes": "Not open to first-year students. Seats initially reserved for HOD majors and a limited number of HOD minors. If you cannot enroll, please put your name on the waitlist. Students must enroll for a discussion section (section 2-5).",
         "status": "Open",
         "capacity": "85",
-        "enrolled": "81",
+        "enrolled": "82",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -117966,7 +117966,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -118210,7 +118210,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -118448,7 +118448,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -118683,11 +118683,11 @@
         "requirements": "",
         "description": "This course offers an introduction to social science research methods covering qualitative and quantitative approaches. Students will develop the ability to critically analyze research studies as well as collaborate with others to conduct studies of their own, reporting their results in a professional format. [3]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "20",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -118927,7 +118927,7 @@
         "capacity": "85",
         "enrolled": "85",
         "wl_capacity": "20",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -120028,11 +120028,11 @@
         "requirements": "Prerequisite: ECON 3010 or 3012.",
         "description": "Urban growth, development of suburbs, location of firms, housing markets, transportation, property taxes, and local government services. Offered on a graded basis only. Prerequisite: 3010 or 3012. [3] (SBS)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "12",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -120074,7 +120074,7 @@
         "capacity": "25",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -121228,7 +121228,7 @@
         "capacity": "95",
         "enrolled": "94",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -121384,7 +121384,7 @@
         "capacity": "10",
         "enrolled": "8",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -121462,7 +121462,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -121618,7 +121618,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -121774,7 +121774,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -122018,7 +122018,7 @@
         "capacity": "12",
         "enrolled": "10",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -122144,7 +122144,7 @@
         "capacity": "12",
         "enrolled": "10",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -122425,7 +122425,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -122626,7 +122626,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -122665,7 +122665,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -123414,7 +123414,7 @@
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -123570,7 +123570,7 @@
         "capacity": "10",
         "enrolled": "2",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -124008,7 +124008,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -124160,11 +124160,11 @@
         "requirements": "",
         "description": "(Also listed as ME 3890.)  No credit for students who have earned credit for a corresponding 3890 course. [1-3]",
         "notes": "The combined enrollment capacity of ME 3890 and ME 5890 is 17. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "8",
         "enrolled": "8",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -124199,11 +124199,11 @@
         "requirements": "MSE 1500 is required as a corequisite for MSE 1500L",
         "description": "Laboratory for MSE 1500. One three-hour laboratory per week. Corequisite: MSE 1500. SPRING. [1]",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "3",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -125337,7 +125337,7 @@
         "capacity": "22",
         "enrolled": "21",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -128093,7 +128093,7 @@
         "capacity": "10",
         "enrolled": "8",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Perspectives",
@@ -128541,7 +128541,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -128710,7 +128710,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -128832,7 +128832,7 @@
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -128961,7 +128961,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -129044,7 +129044,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -129129,7 +129129,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "13",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -129360,7 +129360,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "25",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: D-Data Literacy & Computational Thinking",
             "Eligible for Communication of Science and Tech",
@@ -129484,7 +129484,7 @@
         "capacity": "15",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -130232,7 +130232,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -130500,7 +130500,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts"
@@ -130621,7 +130621,7 @@
         "capacity": "13",
         "enrolled": "12",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for Religious Studies",
@@ -130810,9 +130810,9 @@
         "notes": "The combined enrollment capacity of ECON 3350 and ECON 5350 is 36. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "33",
-        "enrolled": "30",
+        "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Medicine Health and Society",
@@ -130855,7 +130855,7 @@
         "capacity": "25",
         "enrolled": "27",
         "wl_capacity": "0",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -131061,7 +131061,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -131270,7 +131270,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -131506,7 +131506,7 @@
         "capacity": "26",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -131593,7 +131593,7 @@
         "capacity": "25",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -131680,7 +131680,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "LE: HFA-Humanities and Fine Arts"
@@ -131722,7 +131722,7 @@
         "capacity": "36",
         "enrolled": "26",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -132137,7 +132137,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -132267,7 +132267,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -132353,7 +132353,7 @@
         "capacity": "20",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -132438,7 +132438,7 @@
         "capacity": "20",
         "enrolled": "16",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Perspectives",
@@ -133372,7 +133372,7 @@
         "capacity": "70",
         "enrolled": "58",
         "wl_capacity": "75",
-        "wl_occupied": "22",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133445,7 +133445,7 @@
         "capacity": "70",
         "enrolled": "43",
         "wl_capacity": "75",
-        "wl_occupied": "13",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133576,7 +133576,7 @@
         "capacity": "70",
         "enrolled": "46",
         "wl_capacity": "75",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133618,7 +133618,7 @@
         "capacity": "70",
         "enrolled": "12",
         "wl_capacity": "75",
-        "wl_occupied": "16",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133660,7 +133660,7 @@
         "capacity": "70",
         "enrolled": "27",
         "wl_capacity": "75",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Data Science Minor"
@@ -133702,7 +133702,7 @@
         "capacity": "135",
         "enrolled": "119",
         "wl_capacity": "30",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -133786,7 +133786,7 @@
         "capacity": "135",
         "enrolled": "131",
         "wl_capacity": "30",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -133828,7 +133828,7 @@
         "capacity": "36",
         "enrolled": "31",
         "wl_capacity": "18",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -133984,7 +133984,7 @@
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "36",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134025,7 +134025,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -134107,7 +134107,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134230,7 +134230,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134394,7 +134394,7 @@
         "capacity": "0",
         "enrolled": "0",
         "wl_capacity": "36",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134476,7 +134476,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -134880,7 +134880,7 @@
         "capacity": "135",
         "enrolled": "70",
         "wl_capacity": "40",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -134961,7 +134961,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135002,7 +135002,7 @@
         "capacity": "36",
         "enrolled": "34",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -135242,7 +135242,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "18",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -136380,7 +136380,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Human & Organizational Development",
@@ -136653,7 +136653,7 @@
         "capacity": "10",
         "enrolled": "5",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -137294,7 +137294,7 @@
         "capacity": "16",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -137411,7 +137411,7 @@
         "notes": "Elemental Cinema: Water & Air. Modern science has largely questioned the ancient theory of the four elements. And yet, nothing seems more urgent today than to rethink our relationship to water, air, earth, and fire to navigate the climate emergencies of our present. In this seminar, we study films that feature oceans, rivers, rain, fog, clouds, air, or the atmosphere as central protagonists in their narrative or audiovisual design from popular action films to arthouse features, science fiction movies to demanding essay films. We explore the way these films represent water as a vibrant condition of human and nonhuman existence and agency; engage with the work of contemporary artists who approach water as an active collaborator in their artistic practice; and reflect on the planetary importance of water, probing possible kinships between elemental media and today's media of filmmaking, sound recording, and digital storage.",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -137692,7 +137692,7 @@
         "capacity": "25",
         "enrolled": "18",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -137817,7 +137817,7 @@
         "capacity": "21",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for American Studies Major",
@@ -138302,7 +138302,7 @@
         "capacity": "20",
         "enrolled": "12",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3",
@@ -138542,7 +138542,7 @@
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -138786,7 +138786,7 @@
         "capacity": "30",
         "enrolled": "32",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -138825,7 +138825,7 @@
         "capacity": "20",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies",
@@ -139187,7 +139187,7 @@
         "capacity": "10",
         "enrolled": "11",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Open only to Seniors"
         ],
@@ -139269,7 +139269,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -139550,7 +139550,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -139756,7 +139756,7 @@
         "capacity": "25",
         "enrolled": "22",
         "wl_capacity": "15",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Scientific Computing"
@@ -139919,7 +139919,7 @@
         "capacity": "20",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -140209,7 +140209,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -140453,7 +140453,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "20",
-        "wl_occupied": "13",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -141299,7 +141299,7 @@
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -141577,7 +141577,7 @@
         "capacity": "60",
         "enrolled": "55",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -142173,7 +142173,7 @@
         "capacity": "20",
         "enrolled": "19",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -142289,9 +142289,9 @@
         "requirements": "",
         "description": "An accurate kinesthetic sense of the structure and movement of the body through hands-on and verbal instruction in body mapping and the principles developed by F. M. Alexander. Emphasis on ordinary daily activities. Offered on a pass/fail basis only. FALL, SPRING. [1] Ahner.",
         "notes": "Some seats are reserved for Bachelor of Music / Bachelor of Music Arts students until Dec. 4 when seats will be released for all undergraduate students.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "6",
-        "enrolled": "6",
+        "enrolled": "5",
         "wl_capacity": "4",
         "wl_occupied": "0",
         "attributes": null,
@@ -145147,7 +145147,7 @@
         "capacity": "30",
         "enrolled": "27",
         "wl_capacity": "35",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -146031,7 +146031,7 @@
         "capacity": "25",
         "enrolled": "23",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -146690,7 +146690,7 @@
         "capacity": "35",
         "enrolled": "26",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -146767,7 +146767,7 @@
         "capacity": "25",
         "enrolled": "23",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -147006,7 +147006,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -147050,7 +147050,7 @@
         "capacity": "40",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -149710,7 +149710,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: B-Systemic & Structural Reasoning",
@@ -149879,7 +149879,7 @@
         "capacity": "12",
         "enrolled": "10",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -150121,7 +150121,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -150283,7 +150283,7 @@
         "capacity": "31",
         "enrolled": "31",
         "wl_capacity": "40",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences",
@@ -151285,7 +151285,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -151764,7 +151764,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -152478,7 +152478,7 @@
         "capacity": "15",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: LA-World Language through 2nd Semester",
@@ -152519,7 +152519,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "46",
+        "enrolled": "45",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -153282,7 +153282,7 @@
         "capacity": "7",
         "enrolled": "7",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -153360,7 +153360,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -153680,7 +153680,7 @@
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: B-Systemic & Structural Reasoning",
@@ -153970,7 +153970,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -155327,7 +155327,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "50",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "LE: MNS-Math and Natural Sciences"
@@ -155736,7 +155736,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -155775,7 +155775,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -156753,7 +156753,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -156955,11 +156955,11 @@
         "requirements": "",
         "description": "The study of human society; the nature of culture and its organization. Processes of communication, socialization, mobility, population growth. Repeat credit for students who have completed 1010W or 1011. [3] (SBS) (CORE B, E) (LE SBS)",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "40",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -157165,7 +157165,7 @@
         "capacity": "40",
         "enrolled": "37",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -159505,7 +159505,7 @@
         "capacity": "12",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -159920,7 +159920,7 @@
         "capacity": "20",
         "enrolled": "22",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "HOD Domain 1"
         ],
@@ -159961,7 +159961,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "HOD Domain 1"
         ],
@@ -160041,7 +160041,7 @@
         "capacity": "78",
         "enrolled": "75",
         "wl_capacity": "22",
-        "wl_occupied": "15",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: B-Systemic & Structural Reasoning",
@@ -160086,7 +160086,7 @@
         "capacity": "25",
         "enrolled": "27",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -160131,7 +160131,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -160176,7 +160176,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -160221,7 +160221,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -160264,7 +160264,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -160590,7 +160590,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "HOD Domain 3",
             "Next Steps Eligible"
@@ -162958,7 +162958,7 @@
         "capacity": "16",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -164294,7 +164294,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -164419,7 +164419,7 @@
         "capacity": "31",
         "enrolled": "32",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: B-Systemic & Structural Reasoning",
@@ -164503,7 +164503,7 @@
         "capacity": "12",
         "enrolled": "10",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -164628,7 +164628,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -164953,7 +164953,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Next Steps Eligible"
@@ -167243,7 +167243,7 @@
         "capacity": "18",
         "enrolled": "13",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies"
@@ -168635,7 +168635,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -168762,7 +168762,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -168886,7 +168886,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -169667,7 +169667,7 @@
         "capacity": "2",
         "enrolled": "2",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -169706,7 +169706,7 @@
         "capacity": "2",
         "enrolled": "0",
         "wl_capacity": "2",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -170639,7 +170639,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -170762,7 +170762,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -170926,7 +170926,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171049,7 +171049,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171131,7 +171131,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171334,7 +171334,7 @@
         "capacity": "15",
         "enrolled": "13",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171377,7 +171377,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171541,7 +171541,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171660,11 +171660,11 @@
         "requirements": "Prerequisite: CORE 1010. Only open to A&S freshmen.",
         "description": "Living and flourishing in a scientific, technological civilization, ranging from ancient considerations of science to modern global era. Survey of perspectives from natural sciences, social sciences, and humanities. Prerequisite: CORE 1010. [4] (CORE A, B, D)",
         "notes": "Second half of the two course sequence CORE 1010 CORE 1020. Only open to students who completed CORE 1010.",
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -171869,7 +171869,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172156,7 +172156,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172238,7 +172238,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172322,7 +172322,7 @@
         "capacity": "15",
         "enrolled": "17",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -172488,7 +172488,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172572,7 +172572,7 @@
         "capacity": "10",
         "enrolled": "11",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -172652,7 +172652,7 @@
         "capacity": "6",
         "enrolled": "6",
         "wl_capacity": "3",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -172855,7 +172855,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172898,7 +172898,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -172980,7 +172980,7 @@
         "capacity": "15",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173220,7 +173220,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173302,7 +173302,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173386,7 +173386,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "25",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -173466,7 +173466,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173550,7 +173550,7 @@
         "capacity": "20",
         "enrolled": "8",
         "wl_capacity": "24",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -173628,7 +173628,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173753,7 +173753,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173956,7 +173956,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -173999,7 +173999,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174368,7 +174368,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174442,9 +174442,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "11",
+        "enrolled": "12",
         "wl_capacity": "8",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -174568,7 +174568,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174611,7 +174611,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174734,7 +174734,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -174939,7 +174939,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -175310,7 +175310,7 @@
         "capacity": "30",
         "enrolled": "29",
         "wl_capacity": "8",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Undergraduate Business Minor",
@@ -175677,7 +175677,7 @@
         "capacity": "14",
         "enrolled": "14",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -176000,7 +176000,7 @@
         "capacity": "15",
         "enrolled": "9",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society",
@@ -176086,7 +176086,7 @@
         "capacity": "12",
         "enrolled": "10",
         "wl_capacity": "8",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LA-World Language through 2nd Semester"
         ],
@@ -176166,7 +176166,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: History and Culture of the United States",
@@ -176248,7 +176248,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "12",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -176332,7 +176332,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "20",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -176447,7 +176447,7 @@
         "capacity": "65",
         "enrolled": "62",
         "wl_capacity": "25",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Environ. and Sustainability Studies",
@@ -176658,7 +176658,7 @@
         "capacity": "75",
         "enrolled": "76",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -177069,7 +177069,7 @@
         "capacity": "35",
         "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Data Science Minor"
         ],
@@ -177392,7 +177392,7 @@
         "capacity": "80",
         "enrolled": "80",
         "wl_capacity": "25",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -177474,7 +177474,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "25",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -177556,7 +177556,7 @@
         "capacity": "108",
         "enrolled": "108",
         "wl_capacity": "25",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -177599,7 +177599,7 @@
         "capacity": "20",
         "enrolled": "8",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -178054,7 +178054,7 @@
         "capacity": "27",
         "enrolled": "27",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178218,7 +178218,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178261,7 +178261,7 @@
         "capacity": "22",
         "enrolled": "19",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Data Science Minor",
             "Eligible for Scientific Computing"
@@ -178303,7 +178303,7 @@
         "capacity": "24",
         "enrolled": "16",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178385,7 +178385,7 @@
         "capacity": "24",
         "enrolled": "24",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178428,7 +178428,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "119951010980"
@@ -178470,7 +178470,7 @@
         "capacity": "24",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178597,7 +178597,7 @@
         "capacity": "24",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -178683,7 +178683,7 @@
         "capacity": "24",
         "enrolled": "23",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -179019,7 +179019,7 @@
         "capacity": "72",
         "enrolled": "69",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179101,7 +179101,7 @@
         "capacity": "72",
         "enrolled": "72",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -179390,7 +179390,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab",
             "LE: HFA-Humanities and Fine Arts"
@@ -179795,7 +179795,7 @@
         "capacity": "36",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -179928,7 +179928,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "9",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180055,7 +180055,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180098,7 +180098,7 @@
         "capacity": "36",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180219,7 +180219,7 @@
         "capacity": "18",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180340,7 +180340,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180461,7 +180461,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180708,7 +180708,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180868,7 +180868,7 @@
         "capacity": "36",
         "enrolled": "37",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -180954,7 +180954,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -181079,7 +181079,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -181204,7 +181204,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -181330,7 +181330,7 @@
         "capacity": "32",
         "enrolled": "33",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Eligible for History",
@@ -181374,7 +181374,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -182102,7 +182102,7 @@
         "capacity": "16",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -182302,7 +182302,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "40",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -183148,7 +183148,7 @@
         "capacity": "18",
         "enrolled": "17",
         "wl_capacity": "2",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -183272,7 +183272,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "2",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -183668,7 +183668,7 @@
         "capacity": "100",
         "enrolled": "72",
         "wl_capacity": "50",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Environ. and Sustainability Studies",
@@ -183790,7 +183790,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -184102,7 +184102,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -184256,7 +184256,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -184377,7 +184377,7 @@
         "capacity": "104",
         "enrolled": "104",
         "wl_capacity": "50",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Eligible for Communication of Science and Tech",
@@ -184584,7 +184584,7 @@
         "capacity": "25",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -185965,7 +185965,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -186616,7 +186616,7 @@
         "capacity": "30",
         "enrolled": "35",
         "wl_capacity": "6",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Leadership, Policy & Organization Dept"
         ],
@@ -187023,7 +187023,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -187355,7 +187355,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -187827,7 +187827,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -187910,7 +187910,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -188077,7 +188077,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -188160,7 +188160,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "16",
-        "wl_occupied": "10",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -189083,7 +189083,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor",
@@ -189644,7 +189644,7 @@
         "capacity": "25",
         "enrolled": "21",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 3"
@@ -190199,7 +190199,7 @@
         "capacity": "20",
         "enrolled": "17",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "AXLE: Oral Communications course",
@@ -190319,11 +190319,11 @@
         "requirements": "",
         "description": "An introduction to a wide variety of musical genres and traditions in Latin America and the Caribbean. Indigenous, folk, popular, and art music forms and their social function, meaning, historical development, cultural blending, and cross-hybridization. SPRING. [3] Simonett. (CORE A, C)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "CORE: A-Written & Creative Expression",
@@ -190368,7 +190368,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -190410,7 +190410,7 @@
         "capacity": "30",
         "enrolled": "31",
         "wl_capacity": "20",
-        "wl_occupied": "16",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -190452,7 +190452,7 @@
         "capacity": "30",
         "enrolled": "32",
         "wl_capacity": "20",
-        "wl_occupied": "14",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -190494,7 +190494,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Eligible for Data Science Minor"
@@ -190860,7 +190860,7 @@
         "capacity": "32",
         "enrolled": "32",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for American Studies Major",
@@ -191189,7 +191189,7 @@
         "capacity": "40",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for American Studies Major",
@@ -191233,7 +191233,7 @@
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "100",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191275,7 +191275,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "21",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191317,7 +191317,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "75",
-        "wl_occupied": "9",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Data Science Minor"
@@ -191880,7 +191880,7 @@
         "capacity": "16",
         "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -192002,7 +192002,7 @@
         "capacity": "16",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -192765,7 +192765,7 @@
         "capacity": "20",
         "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -192845,7 +192845,7 @@
         "capacity": "68",
         "enrolled": "71",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Neuroscience"
         ],
@@ -193057,7 +193057,7 @@
         "capacity": "36",
         "enrolled": "31",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193138,7 +193138,7 @@
         "capacity": "36",
         "enrolled": "34",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193219,7 +193219,7 @@
         "capacity": "36",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193261,7 +193261,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193303,7 +193303,7 @@
         "capacity": "33",
         "enrolled": "33",
         "wl_capacity": "15",
-        "wl_occupied": "10",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -193342,7 +193342,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Undergraduate Business Minor"
@@ -193384,7 +193384,7 @@
         "capacity": "34",
         "enrolled": "35",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -193506,7 +193506,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -193552,7 +193552,7 @@
         "capacity": "21",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -194203,7 +194203,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Eligible for European Studies",
@@ -194379,7 +194379,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "25",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "MWF"
@@ -194457,7 +194457,7 @@
         "capacity": "15",
         "enrolled": "18",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts"
@@ -194749,7 +194749,7 @@
         "capacity": "25",
         "enrolled": "21",
         "wl_capacity": "20",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "Next Steps Eligible"
@@ -194876,7 +194876,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: International Cultures",
@@ -195243,7 +195243,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "36",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195411,7 +195411,7 @@
         "capacity": "18",
         "enrolled": "17",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195491,7 +195491,7 @@
         "capacity": "36",
         "enrolled": "38",
         "wl_capacity": "36",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195651,7 +195651,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195731,7 +195731,7 @@
         "capacity": "20",
         "enrolled": "24",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for African American and Diaspora Studies",
@@ -195777,7 +195777,7 @@
         "capacity": "36",
         "enrolled": "34",
         "wl_capacity": "36",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195818,7 +195818,7 @@
         "capacity": "18",
         "enrolled": "17",
         "wl_capacity": "20",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -195859,7 +195859,7 @@
         "capacity": "20",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -197189,7 +197189,7 @@
         "capacity": "40",
         "enrolled": "39",
         "wl_capacity": "18",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197351,7 +197351,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197432,7 +197432,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -197553,7 +197553,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -197750,7 +197750,7 @@
         "capacity": "36",
         "enrolled": "39",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -197793,7 +197793,7 @@
         "capacity": "18",
         "enrolled": "22",
         "wl_capacity": "15",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -197914,7 +197914,7 @@
         "capacity": "18",
         "enrolled": "17",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -197996,7 +197996,7 @@
         "capacity": "36",
         "enrolled": "41",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198037,7 +198037,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -198078,7 +198078,7 @@
         "capacity": "18",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198242,7 +198242,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "20",
-        "wl_occupied": "12",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198324,7 +198324,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198367,7 +198367,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "15",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198488,7 +198488,7 @@
         "capacity": "36",
         "enrolled": "40",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198570,7 +198570,7 @@
         "capacity": "18",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198652,7 +198652,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198734,7 +198734,7 @@
         "capacity": "36",
         "enrolled": "42",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198777,7 +198777,7 @@
         "capacity": "18",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198859,7 +198859,7 @@
         "capacity": "18",
         "enrolled": "21",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -198980,7 +198980,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199062,7 +199062,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199144,7 +199144,7 @@
         "capacity": "18",
         "enrolled": "17",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199226,7 +199226,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199351,7 +199351,7 @@
         "capacity": "18",
         "enrolled": "19",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -199631,7 +199631,7 @@
         "capacity": "30",
         "enrolled": "22",
         "wl_capacity": "15",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Eligible for Communication of Science and Tech",
@@ -199842,7 +199842,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200082,7 +200082,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200125,7 +200125,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Asian Studies",
             "Human & Organizational Development",
@@ -200332,7 +200332,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200375,7 +200375,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -200416,7 +200416,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences"
         ],
@@ -200545,7 +200545,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: A-Written & Creative Expression",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200627,7 +200627,7 @@
         "capacity": "16",
         "enrolled": "9",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -200826,7 +200826,7 @@
         "capacity": "40",
         "enrolled": "36",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -200947,7 +200947,7 @@
         "capacity": "35",
         "enrolled": "25",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech"
         ],
@@ -201185,7 +201185,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "10",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -201350,7 +201350,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -201514,7 +201514,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: Humanities and the Creative Arts",
@@ -202403,7 +202403,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -202525,7 +202525,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: International Cultures",
@@ -202572,7 +202572,7 @@
         "capacity": "32",
         "enrolled": "31",
         "wl_capacity": "12",
-        "wl_occupied": "7",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
@@ -202815,7 +202815,7 @@
         "capacity": "15",
         "enrolled": "17",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "CORE: A-Written & Creative Expression",
@@ -202896,9 +202896,9 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "15",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "Next Steps Eligible"
@@ -202940,7 +202940,7 @@
         "capacity": "36",
         "enrolled": "35",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: C-Cultural & Interpretive Investigation",
@@ -203217,7 +203217,7 @@
         "capacity": "55",
         "enrolled": "55",
         "wl_capacity": "20",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -203777,7 +203777,7 @@
         "capacity": "10",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -203929,7 +203929,7 @@
         "capacity": "100",
         "enrolled": "98",
         "wl_capacity": "25",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Medicine Health and Society",
@@ -203973,7 +203973,7 @@
         "capacity": "10",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -204913,7 +204913,7 @@
         "capacity": "20",
         "enrolled": "25",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "W"
@@ -205030,7 +205030,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -205909,7 +205909,7 @@
         "capacity": "60",
         "enrolled": "60",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "TR"
@@ -205948,7 +205948,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -206771,7 +206771,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: History and Culture of the United States",
             "Eligible for Law, History, and Society"
@@ -206852,7 +206852,7 @@
         "capacity": "30",
         "enrolled": "32",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts"
         ],
@@ -207603,7 +207603,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -207649,7 +207649,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "6",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -207695,7 +207695,7 @@
         "capacity": "16",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "Next Steps Eligible"
         ],
@@ -210097,7 +210097,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "20",
+        "enrolled": "21",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -211128,7 +211128,7 @@
         "capacity": "50",
         "enrolled": "63",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "Eligible for Neuroscience"
@@ -211607,7 +211607,7 @@
         "capacity": "18",
         "enrolled": "18",
         "wl_capacity": "18",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab"
         ],
@@ -212175,7 +212175,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -212343,7 +212343,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -212428,7 +212428,7 @@
         "capacity": "16",
         "enrolled": "17",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -212511,7 +212511,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -212594,7 +212594,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -212677,7 +212677,7 @@
         "capacity": "16",
         "enrolled": "16",
         "wl_capacity": "12",
-        "wl_occupied": "8",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
@@ -212978,7 +212978,7 @@
         "capacity": "12",
         "enrolled": "8",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: History and Culture of the United States",
@@ -213060,7 +213060,7 @@
         "capacity": "42",
         "enrolled": "42",
         "wl_capacity": "12",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: International Cultures",
             "Next Steps Eligible"
@@ -214443,9 +214443,9 @@
         "notes": "This course will cover a history of food and food policy in the US in the 20th and 21st centuries. Students will gain an understanding of the history of food, how it is sourced and processed, and the government agencies responsible for policy. This course will also cover trends in food consumption, nutrition research, and nutraceuticals (where food is medicine), and the changing narratives of what is considered healthy. This course will have an inquiry learning lab component where students will explore the complex relationships between humans and the food they eat.",
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "CORE: LB-Inquiry Lab",
             "Next Steps Eligible"
@@ -214653,7 +214653,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "15",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences"
         ],
@@ -214733,7 +214733,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Humanities and the Creative Arts",
@@ -215589,7 +215589,7 @@
         "capacity": "105",
         "enrolled": "35",
         "wl_capacity": "50",
-        "wl_occupied": "16",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -216160,7 +216160,7 @@
         "capacity": "25",
         "enrolled": "25",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -216289,7 +216289,7 @@
         "capacity": "25",
         "enrolled": "24",
         "wl_capacity": "20",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Math and Natural Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -216538,7 +216538,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -216581,7 +216581,7 @@
         "capacity": "26",
         "enrolled": "26",
         "wl_capacity": "20",
-        "wl_occupied": "11",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Domain 1",
@@ -217428,7 +217428,7 @@
         "capacity": "50",
         "enrolled": "47",
         "wl_capacity": "20",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Communication of Science and Tech",
@@ -217595,7 +217595,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
@@ -217637,7 +217637,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
@@ -217679,7 +217679,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "10",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "Eligible for Communication of Science and Tech",
             "Next Steps Eligible"
@@ -217856,7 +217856,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "12",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -217944,7 +217944,7 @@
         "capacity": "16",
         "enrolled": "14",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -218022,7 +218022,7 @@
         "capacity": "4",
         "enrolled": "4",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -218061,7 +218061,7 @@
         "capacity": "4",
         "enrolled": "3",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -218256,7 +218256,7 @@
         "capacity": "35",
         "enrolled": "35",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -218295,7 +218295,7 @@
         "capacity": "35",
         "enrolled": "34",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "T"
@@ -218416,11 +218416,11 @@
         "requirements": "Prerequisite or corequisite: PSCI 1100, 1101, 1102, 1103, or 1150.",
         "description": "Scientific study of the onset of expansion and consequences of war; conditions of peace, emphasizing alliances, arms races, and crisis escalation. Prerequisite or corequisite: 1100, 1101, 1102, 1103, or 1150. [3] (SBS)",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "40",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "15",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for European Studies",
@@ -218541,7 +218541,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "Eligible for Public Policy Studies"
@@ -219108,7 +219108,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -219186,7 +219186,7 @@
         "capacity": "20",
         "enrolled": "20",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "R"
@@ -219379,11 +219379,11 @@
         "requirements": "",
         "description": "Rock and roll's transformation of American culture. Focus on three pivotal artists and their role in the history of each of their breakout decades: the 1950s, 1960s, and 1970s. Readings and listenings on the African American roots of rock, the gendered dimensions of the genre, the role of dissent and accommodation in popular music. Issues of youth, alienation, religion, and individuality. [3] (US)",
         "notes": null,
-        "status": "Closed",
+        "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "5",
-        "wl_occupied": "5",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 1000-level W course",
             "AXLE: History and Culture of the United States",
@@ -219714,7 +219714,7 @@
         "capacity": "2",
         "enrolled": "2",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "Next Steps Eligible"
@@ -220083,7 +220083,7 @@
         "capacity": "20",
         "enrolled": "21",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Perspectives",
             "CORE: A-Written & Creative Expression",
@@ -220295,7 +220295,7 @@
         "capacity": "36",
         "enrolled": "36",
         "wl_capacity": "12",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Social and Behavioral Sciences",
             "CORE: B-Systemic & Structural Reasoning",
@@ -220384,7 +220384,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -220513,7 +220513,7 @@
         "capacity": "15",
         "enrolled": "15",
         "wl_capacity": "8",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: 2000-level and above W course",
             "AXLE: Social and Behavioral Sciences",
@@ -221142,7 +221142,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "4",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -221185,7 +221185,7 @@
         "capacity": "30",
         "enrolled": "30",
         "wl_capacity": "20",
-        "wl_occupied": "9",
+        "wl_occupied": "0",
         "attributes": [
             "Human & Organizational Development",
             "HOD Core",
@@ -222041,7 +222041,7 @@
         "capacity": "15",
         "enrolled": "16",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
             "M"
@@ -222080,7 +222080,7 @@
         "capacity": "12",
         "enrolled": "11",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -222123,7 +222123,7 @@
         "capacity": "12",
         "enrolled": "12",
         "wl_capacity": "5",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Humanities and the Creative Arts",
             "CORE: A-Written & Creative Expression",
@@ -222245,7 +222245,7 @@
         "capacity": "16",
         "enrolled": "11",
         "wl_capacity": "12",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "AXLE: Foreign language proficiency",
             "AXLE: International Cultures",
