@@ -89479,7 +89479,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -95564,7 +95564,7 @@
         "notes": "Not open to FR. Seats are open for HOD sophomores, juniors, and seniors. If you cannot enroll, please put your name on the waitlist. This course will count in Domain 2: Organizational/Group",
         "status": "Wait list",
         "capacity": "25",
-        "enrolled": "25",
+        "enrolled": "26",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -132360,7 +132360,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "20",
-        "enrolled": "25",
+        "enrolled": "24",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -141304,9 +141304,9 @@
         "requirements": "",
         "description": "A general survey of music in the world of commerce. Systems of the contemporary music business, with special emphasis on the recording industry. Music business professionals as guest lecturers. FALL, SPRING. [3] Porter.",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
@@ -153979,7 +153979,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -162619,6 +162619,7 @@
         "attributes": [
             "Eligible for Digital Fabrication",
             "DIVE: Design Thinking through Projects",
+            "Immersion: Experiential",
             "Immersion: Exp. or Culm. (Instructor guidance)",
             "Next Steps Eligible"
         ],
@@ -194051,7 +194052,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -204278,7 +204279,7 @@
             "03:00p - 05:40p"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26"
+            "1/5/26-1/15/26"
         ],
         "instructors": [
             "McTamaney, Catherine"
@@ -204640,7 +204641,7 @@
             "03:00p - 05:40p"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26"
+            "1/5/26-1/15/26"
         ],
         "instructors": [
             "McTamaney, Catherine"
@@ -216797,7 +216798,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "3",
+        "enrolled": "4",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
