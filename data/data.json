@@ -15573,24 +15573,16 @@
         "requirements": "",
         "description": "Also listed as ECE 5278. The nature of software. The object-oriented paradigm. Software life-cycle models. Requirements, specification, design, implementation, documentation, and testing of software. Object-oriented analysis and design. Software maintenance. Serves as repeat credit for ECE 5278. No credit for students who have earned credit for CS 4278 or ECE 4278. FALL. [3]",
         "notes": "Course only open to students in the Online Masters in Computer Science program.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "19",
         "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "W"
-        ],
-        "meeting_times": [
-            "05:00p - 06:15p"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Sedighi, Artin Sedighi"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -73942,7 +73934,7 @@
         "notes": "limited to PPS",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "2",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -80888,7 +80880,7 @@
         "notes": "Fairy tales are central to our shared cultural narrative and have long fueled the imaginations of both children and adults. This course applies a critical lens to the fairy tales of Jakob and Wilhelm Grimm, Charles Perrault, Hans Christian Andersen, and others. It locates the tales in their socio-cultural context of origin and then examines 20th and 21st-century retellings of the tales. Topics of discussion include: the social function of the tales, their changing roles in media and popular culture, psychology, gender, social class, visual and film adaptations.\n         \n            \n            All course material is in English. No prerequisites. Taught in English.",
         "status": "Open",
         "capacity": "26",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "8",
         "wl_occupied": "0",
         "attributes": [
