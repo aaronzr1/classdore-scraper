@@ -40047,7 +40047,7 @@
         "notes": "Class will meet in GARL 334",
         "status": "Open",
         "capacity": "15",
-        "enrolled": "9",
+        "enrolled": "10",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -114027,7 +114027,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "51",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -114778,9 +114778,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "60",
-        "enrolled": "59",
+        "enrolled": "60",
         "wl_capacity": "6",
-        "wl_occupied": "3",
+        "wl_occupied": "2",
         "attributes": [
             "Eligible for Undergraduate Business Minor",
             "Next Steps Eligible"
@@ -125172,7 +125172,7 @@
         "notes": "This seminar delves into the intricate relationship between food and well-being, examining how dietary choices and options impact physical health, mental well-being, and cultural identity at micro-, meso- and macro-levels. Through an interdisciplinary approach, students will explore the relationships between food and well-being, as defined by the WHO.\n         \n            \n            The combined enrollment capacity of MHS 3890-03 and MHS 6500-01 is 30. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
