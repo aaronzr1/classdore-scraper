@@ -6291,7 +6291,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -66862,7 +66862,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -69239,7 +69239,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -71514,13 +71514,19 @@
             "Immersion: Exp. or Culm. (Instructor guidance)"
         ],
         "meeting_days": [
+            "M",
+            "M",
             "M"
         ],
         "meeting_times": [
+            "09:05a - 12:00p",
+            "09:05a - 12:00p",
             "09:05a - 12:00p"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26"
+            "1/5/26-1/16/26",
+            "1/19/26-2/23/26",
+            "3/2/26-4/20/26"
         ],
         "instructors": [
             "Perot, Sarah C."
@@ -82151,7 +82157,7 @@
         "notes": "MMark Student Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "41",
+        "enrolled": "42",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -116267,7 +116273,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "35",
+        "enrolled": "36",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -120895,7 +120901,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "39",
+        "enrolled": "40",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -148863,7 +148869,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "40",
+        "enrolled": "41",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -153971,7 +153977,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "6",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -155776,7 +155782,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "115",
-        "enrolled": "49",
+        "enrolled": "48",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -166642,7 +166648,7 @@
         "notes": "BUSA 3851 does not count toward the Business minor.",
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -167083,7 +167089,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "10",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": [
@@ -175519,7 +175525,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "5",
-        "wl_occupied": "2",
+        "wl_occupied": "3",
         "attributes": [
             "Strategy Concentration"
         ],
@@ -202204,7 +202210,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "5",
+        "enrolled": "6",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -212555,7 +212561,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
