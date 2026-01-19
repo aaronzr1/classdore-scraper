@@ -3629,9 +3629,9 @@
         "requirements": "Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100.",
         "description": "(Previously BUS 2700) Provides an overview of operations in both service and manufacturing organizations. Process analysis, queuing, inventory management, quality management, lean operations, and optimization. Prerequisite: one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
-        "enrolled": "60",
+        "enrolled": "59",
         "wl_capacity": "6",
         "wl_occupied": "2",
         "attributes": [
