@@ -131314,7 +131314,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "6",
-        "enrolled": "7",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -179025,7 +179025,7 @@
         "notes": "Required to register for CHEM 2222 lecture (or CHEM 2212), discussion, and CHEM 2221L\n         \n            \n            Some seats have been reserved for incoming freshmen.",
         "status": "Open",
         "capacity": "72",
-        "enrolled": "70",
+        "enrolled": "69",
         "wl_capacity": "15",
         "wl_occupied": "0",
         "attributes": [
