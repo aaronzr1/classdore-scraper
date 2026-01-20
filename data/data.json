@@ -6162,7 +6162,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Topic: From 1660 to the Present",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "12",
+        "enrolled": "13",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -125139,7 +125139,7 @@
         "notes": "The combined enrollment capacity of CS 2281L and ECE 2281L is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -125529,7 +125529,7 @@
         "notes": "The combined enrollment capacity of CS 2281L and ECE 2281L is 22. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "22",
-        "enrolled": "21",
+        "enrolled": "20",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": null,
@@ -135409,7 +135409,7 @@
         "capacity": "40",
         "enrolled": "40",
         "wl_capacity": "6",
-        "wl_occupied": "4",
+        "wl_occupied": "5",
         "attributes": [
             "Eligible for Undergraduate Business Minor"
         ],
@@ -200009,7 +200009,7 @@
         "notes": "See English Department Website for a more detailed course description.\n         \n            \n            Students are required to join the waitlist and apply by November 15th.",
         "status": "Wait list",
         "capacity": "0",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "30",
         "wl_occupied": "0",
         "attributes": [
@@ -201111,7 +201111,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "12",
         "wl_occupied": "0",
         "attributes": [
@@ -211613,7 +211613,7 @@
         "notes": "The maximum enrollment is limited to 18 students due to classroom capacity. No additional seats will be made available.",
         "status": "Open",
         "capacity": "18",
-        "enrolled": "17",
+        "enrolled": "16",
         "wl_capacity": "18",
         "wl_occupied": "0",
         "attributes": [
