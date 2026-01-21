@@ -2747,13 +2747,22 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
+            "TR",
+            "TR",
+            "TR",
             "TR"
         ],
         "meeting_times": [
+            "01:15p - 02:30p",
+            "01:15p - 02:30p",
+            "01:15p - 02:30p",
             "01:15p - 02:30p"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26"
+            "1/5/26-1/23/26",
+            "1/26/26-1/30/26",
+            "2/2/26-2/27/26",
+            "3/2/26-4/20/26"
         ],
         "instructors": [
             "Osina, Maria A."
@@ -14839,7 +14848,7 @@
         "notes": "Instructor - Donaldson, Joshua M.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -26113,7 +26122,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -33199,7 +33208,7 @@
         "notes": "Students must also register for ENED 7973, MTED 7973, SCED 7973, or SSED 7973\n         \n            \n            The combined enrollment capacity of EDML 7972 and EDUC 7972 is 45. Although seats may appear open in a section, if the combined capacity has been reached the course will close.\n         \n            \n            This course has a $300 course fee.",
         "status": "Open",
         "capacity": "45",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -102356,7 +102365,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "28",
-        "enrolled": "19",
+        "enrolled": "20",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -114328,7 +114337,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "60",
-        "enrolled": "52",
+        "enrolled": "53",
         "wl_capacity": "6",
         "wl_occupied": "0",
         "attributes": [
@@ -168000,7 +168009,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "2",
+        "enrolled": "0",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -176709,7 +176718,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -207097,7 +207106,7 @@
         "notes": "Instructor - Buriss, Sarah",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
