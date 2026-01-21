@@ -32309,9 +32309,9 @@
         "requirements": "CS 4260 is prerequisite for this course.",
         "description": "Students work in small groups on the specification, design, implementation, and testing of a sizeable AI software project. Projects (e.g., an \"intelligent\" game player) require that students address a variety of AI subject areas, notably heuristic search, uncertain reasoning, planning, knowledge representation, and learning. Class discussion highlights student progress, elaborates topics under investigation, and identifies other relevant topics (e.g., vision) that the project does not explore in depth. Prerequisite: CS 4260. SPRING. [3]",
         "notes": "The combined enrollment capacity of CS 4269 and CS 5269 is 39. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "32",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "35",
         "wl_occupied": "0",
         "attributes": null,
@@ -39734,7 +39734,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            ""
+            "Cooper, Lynne"
         ],
         "date_added": null
     },
@@ -82157,7 +82157,7 @@
         "notes": "MMark Student Only",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "42",
+        "enrolled": "44",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -127176,7 +127176,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "13",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -168000,7 +168000,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "6",
+        "enrolled": "2",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -211249,7 +211249,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "31",
+        "enrolled": "30",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
