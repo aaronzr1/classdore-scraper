@@ -10466,7 +10466,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "1",
+        "enrolled": "2",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -14892,7 +14892,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "15",
-        "enrolled": "10",
+        "enrolled": "2",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -15009,7 +15009,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "40",
+        "enrolled": "39",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -57945,7 +57945,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -155244,7 +155244,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "A study of theories of the good life and of the nature of virtue. Readings in major texts and discussion of selected problems. Serves as repeat credit for PHIL 1005W. [3] (P) (CORE C, E) (LE HFA)",
-        "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section\n         \n            \n            Instructor: Christopher Quasti",
+        "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section",
         "status": "Wait list",
         "capacity": "15",
         "enrolled": "15",
@@ -155266,7 +155266,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Minor, Eli (Secondary)"
         ],
         "date_added": null
     },
@@ -155371,7 +155371,7 @@
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
         "description": "A study of theories of the good life and of the nature of virtue. Readings in major texts and discussion of selected problems. Serves as repeat credit for PHIL 1005W. [3] (P) (CORE C, E) (LE HFA)",
-        "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section 2-9\n         \n            \n            Instructor: Christopher Quasti",
+        "notes": "Students who enroll in PHIL 1005-01 must enroll in a discussion section 2-9",
         "status": "Open",
         "capacity": "15",
         "enrolled": "14",
@@ -155393,7 +155393,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Staff (Secondary)"
+            "Minor, Eli (Secondary)"
         ],
         "date_added": null
     },
@@ -168000,7 +168000,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "20",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -176707,9 +176707,9 @@
         "requirements": "",
         "description": "An Introduction to the Law of War is aimed at making students conversant in the fundamental doctrines of the law of armed conflict, including necessity, distinction, and proportion. It will draw on examples of recent armed conflicts to discuss the legal obligations of armed forces when engaging both regular and irregular forces. The class will be presented with a number of real-world dilemmas and be required to reason to an acceptable tactical and strategic conclusion while also upholding military legal obligations. Pass/Fail. Enrollment limited. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "30",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -192130,7 +192130,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "26",
-        "enrolled": "23",
+        "enrolled": "24",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
