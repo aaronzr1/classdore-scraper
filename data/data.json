@@ -160489,7 +160489,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Considers the influence of popular culture and digital technologies on young adult literature and the ways in which societal critique, role of the media, and negotiating identity categories play out in those texts. Examines a wide range of Multigenre, multimodal, and digital fiction focused on various themes such as Real and Imagined Worlds: Gaming and Technology in Texts, Vampires, Zombies, Werewolves and Monsters: Imagining the Other, ans Who am I? Race, Class, Gender, and Sexual Identity in Literature. [3]",
+        "description": "Considers the influence of popular culture and digital technologies on young adult literature and the ways in which societal critique, role of the media, and negotiating identity categories play out in those texts. Examines a wide range of Multigenre, multimodal, and digital fiction focused on various themes such as Real and Imagined Worlds: Gaming and Technology in Texts, Vampires, Zombies, Werewolves and Monsters: Imagining the Other, and Who am I? Race, Class, Gender, and Sexual Identity in Literature. [3]",
         "notes": "The combined enrollment capacity of ENED 3350 and ENED 6360 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.\n         \n            \n            Initially opened to Teaching and Learning first majors, then Peabody students, then other undergraduates.",
         "status": "Open",
         "capacity": "25",
@@ -168019,37 +168019,16 @@
         "requirements": "",
         "description": "In this mini-course, students will engage with some of the most pressing contemporary questions in labor and employment law and will collaboratively develop, draft, and edit blog posts on those questions for publication in the OnLabor blog. The course will equip students to identify the markers of successful examples of this form of legal writing, a form that in modern practice often reaches more readers and has more impact (on practitioners and decisionmakers) than traditional forms of scholarship and advocacy. Classroom time will be split between discussion of new caselaw and emerging legal rules, and interactive engagement with peers and the instructor to identify promising topics and collaboratively produce, critique, and revise posts of 1000-1200 words. Completion of Labor Law or Employment Law is helpful but not required.  Enrollment limited. Pass/Fail. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "20",
         "enrolled": "0",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "R",
-            "F",
-            "S",
-            "S",
-            "U"
-        ],
-        "meeting_times": [
-            "07:05p - 09:05p",
-            "04:30p - 07:30p",
-            "09:00a - 12:00p",
-            "01:00p - 04:00p",
-            "09:00a - 12:00p"
-        ],
-        "meeting_dates": [
-            "1/22/26-1/22/26",
-            "1/23/26-1/23/26",
-            "1/24/26-1/24/26",
-            "1/24/26-1/24/26",
-            "1/25/26-1/25/26"
-        ],
-        "instructors": [
-            "",
-            "Sachs, Benjamin"
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -198438,7 +198417,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "4",
+        "enrolled": "5",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -219093,7 +219072,7 @@
         "session": "Regular Academic Session",
         "dates": "1/5/26 - 4/20/26",
         "requirements": "",
-        "description": "Examines a wide range of multigenre, multimodal, and digital texts appropriate for readers of middle school and high school age. Considers the influence of popular culture and digital technologies on young adult literature. Includes materials and texts for readers of various ability levels. [3]",
+        "description": "Considers the influence of popular culture and digital technologies on young adult literature and the ways in which societal critique, role of the media, and negotiating identity categories play out in those texts. Examines a wide range of Multigenre, multimodal, and digital fiction focused on various themes such as Real and Imagined Worlds: Gaming and Technology in Texts, Vampires, Zombies, Werewolves and Monsters: Imagining the Other, and Who am I? Race, Class, Gender, and Sexual Identity in Literature. [3]",
         "notes": "The combined enrollment capacity of ENED 3350 and ENED 6360 is 25. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
         "status": "Open",
         "capacity": "15",
