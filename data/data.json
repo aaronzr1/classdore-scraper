@@ -2912,13 +2912,19 @@
         "wl_occupied": "0",
         "attributes": null,
         "meeting_days": [
+            "MWF",
+            "MWF",
             "MWF"
         ],
         "meeting_times": [
+            "11:15a - 12:05p",
+            "11:15a - 12:05p",
             "11:15a - 12:05p"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26"
+            "1/5/26-1/21/26",
+            "1/23/26-2/27/26",
+            "3/2/26-4/20/26"
         ],
         "instructors": [
             "Marble, Kimberly"
@@ -70015,13 +70021,19 @@
             "Next Steps Eligible"
         ],
         "meeting_days": [
+            "MWF",
+            "MWF",
             "MWF"
         ],
         "meeting_times": [
+            "10:10a - 11:00a",
+            "10:10a - 11:00a",
             "10:10a - 11:00a"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26"
+            "1/5/26-1/21/26",
+            "1/23/26-2/27/26",
+            "3/2/26-4/20/26"
         ],
         "instructors": [
             "Marble, Kimberly"
