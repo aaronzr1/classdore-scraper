@@ -132954,7 +132954,7 @@
         "notes": "Sophomore Class",
         "status": "Open",
         "capacity": "30",
-        "enrolled": "21",
+        "enrolled": "22",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -133117,7 +133117,7 @@
         "notes": "Class will meet in 6 Magnolia 019 on March 23rd.",
         "status": "Closed",
         "capacity": "30",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": [
@@ -192152,7 +192152,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "26",
-        "enrolled": "24",
+        "enrolled": "25",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
