@@ -57960,7 +57960,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -97768,13 +97768,19 @@
             "Next Steps Eligible"
         ],
         "meeting_days": [
+            "TR",
+            "TR",
             "TR"
         ],
         "meeting_times": [
+            "01:15p - 02:30p",
+            "01:15p - 02:30p",
             "01:15p - 02:30p"
         ],
         "meeting_dates": [
-            "1/5/26-4/20/26"
+            "1/5/26-1/21/26",
+            "1/22/26-2/26/26",
+            "3/3/26-4/20/26"
         ],
         "instructors": [
             "Goscicki, Brittney L."
@@ -107726,9 +107732,9 @@
         "requirements": "",
         "description": "Technical elective courses of special current interest. FALL, SPRING, SUMMER. [Variable credit: 1-3 each semester] (Offered on demand)",
         "notes": "The combined enrollment capacity of ME 3890 and ME 5890 is 17. Although seats may appear open in a section, if the combined capacity has been reached, the course will close.",
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "9",
-        "enrolled": "9",
+        "enrolled": "8",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -176709,7 +176715,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
