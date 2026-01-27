@@ -32326,7 +32326,7 @@
         "notes": "The combined enrollment capacity of CS 4269 and CS 5269 is 39. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Wait list",
         "capacity": "32",
-        "enrolled": "32",
+        "enrolled": "33",
         "wl_capacity": "35",
         "wl_occupied": "0",
         "attributes": null,
@@ -32573,7 +32573,7 @@
         "notes": "The combined enrollment capacity of CS 4269 and CS 5269 is 39. Although seats may appear open in a section, if the combined capacity has been reached the course will close.",
         "status": "Open",
         "capacity": "10",
-        "enrolled": "4",
+        "enrolled": "3",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -154004,7 +154004,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "10",
+        "enrolled": "11",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -191386,7 +191386,8 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
-            "Chaudhry, Divya"
+            "Chaudhry, Divya",
+            "Khan, Bairam"
         ],
         "date_added": null
     },
@@ -193045,6 +193046,7 @@
             "1/5/26-4/20/26"
         ],
         "instructors": [
+            "Jung, Ji H.",
             "Vinson, Lee"
         ],
         "date_added": null
@@ -193110,24 +193112,16 @@
         "requirements": "",
         "description": "Open to percussion majors and minors. Size of ensembles will vary. One hour weekly coaching and two hours of additional rehearsal (independent of coaching) expected each week. [Variable Credit: 0.5 or 1] Jung.",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "30",
         "enrolled": "0",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TBA"
-        ],
-        "meeting_times": [
-            "TBA"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Jung, Ji H."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
