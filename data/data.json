@@ -65704,7 +65704,7 @@
         "notes": "MBA students",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "43",
+        "enrolled": "42",
         "wl_capacity": "10",
         "wl_occupied": "1",
         "attributes": [
@@ -118071,7 +118071,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "15",
+        "enrolled": "16",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -167910,7 +167910,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MW"
