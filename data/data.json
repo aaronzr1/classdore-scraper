@@ -19007,33 +19007,19 @@
         "requirements": "Completed or currently enrolled in at least 1 of the following: Law 9016, 7244, 7278, 7246, 7712, 7084, 9106 or 6789.",
         "description": "This course is an introduction to the responsibilities, functions, and business concerns of entertainment industry attorneys through contract negotiation, drafting and analysis exercises. Primary areas covered are the motion picture, television, and music industries. Prerequisite or Corequisite: A substantive course in intellectual property (e.g., Intellectual Property Survey, Copyright Law, Trademark Law, etc.) or experience with intellectual property law and/or entertainment law issues is required. Enrollment limited. Pass/Fail. [1]",
         "notes": "Limited Enrollment Course.",
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "24",
-        "enrolled": "21",
+        "enrolled": "0",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
             "Law and Business Class",
             "Professional Skills"
         ],
-        "meeting_days": [
-            "R",
-            "F",
-            "SU"
-        ],
-        "meeting_times": [
-            "07:05p - 09:05p",
-            "04:30p - 07:30p",
-            "12:30p - 05:00p"
-        ],
-        "meeting_dates": [
-            "1/29/26-1/29/26",
-            "1/30/26-1/30/26",
-            "1/31/26-2/1/26"
-        ],
-        "instructors": [
-            "Kessler, Suzanne H."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -92755,40 +92741,18 @@
         "requirements": "This course requires that student have completed or are enrolled in Law 7114 - Corporations or Law 7116 Corporations and Business Entities.",
         "description": "This short course will expose students to some of the most important elements of a typical mergers-and-acquisition transaction. After reviewing some foundational concepts, the course will explore issues relating to structuring and executing cross-border M&A deals in which one or more of the parties involved are non-U.S. entities, with particular emphasis on Brazil. As part of focusing on issues that typically arise concerning cross-border M&A deals with Brazil, the course will also focus U.S. M&A and securities laws, rules, and regulations. Pre- or co-requisite: Corporations OR Corporations & Business Entities. Note: This course does NOT count towards the Professional Skills Graduation Requirement. Pass/Fail. [1]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "40",
-        "enrolled": "34",
+        "enrolled": "0",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
             "Law and Business Class"
         ],
-        "meeting_days": [
-            "W",
-            "R",
-            "F",
-            "S",
-            "S"
-        ],
-        "meeting_times": [
-            "07:05p - 09:05p",
-            "07:05p - 09:05p",
-            "04:30p - 07:30p",
-            "08:00a - 12:00p",
-            "01:00p - 04:00p"
-        ],
-        "meeting_dates": [
-            "1/28/26-1/28/26",
-            "1/29/26-1/29/26",
-            "1/30/26-1/30/26",
-            "1/31/26-1/31/26",
-            "1/31/26-1/31/26"
-        ],
-        "instructors": [
-            "Aldrich, Richard S.",
-            "Mussnich, Francisco A.",
-            "Schnell, Paul T."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
