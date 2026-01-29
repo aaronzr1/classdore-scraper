@@ -15024,7 +15024,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "38",
+        "enrolled": "39",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -15869,7 +15869,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "42",
+        "enrolled": "43",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -118035,7 +118035,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "16",
+        "enrolled": "17",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -121346,7 +121346,7 @@
             "3/12/26-4/30/26"
         ],
         "instructors": [
-            "Blocher, Jesse A."
+            "Stanek, Leo"
         ],
         "date_added": null
     },
@@ -144169,7 +144169,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -166282,7 +166282,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -190936,7 +190936,8 @@
             "1/5/26-4/17/26"
         ],
         "instructors": [
-            "May, Erica"
+            "May, Erica",
+            "Tucker, Lucy E. (Secondary)"
         ],
         "date_added": null
     },
@@ -211213,7 +211214,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "31",
+        "enrolled": "32",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
@@ -219883,7 +219884,7 @@
         "notes": "Students are required to attend one weekly film screening, Wednesdays at 5:30PM in Buttrick 103.",
         "status": "Open",
         "capacity": "20",
-        "enrolled": "8",
+        "enrolled": "9",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
