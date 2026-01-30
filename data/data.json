@@ -55185,7 +55185,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "5",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -132945,7 +132945,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -175309,7 +175309,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "65",
+        "enrolled": "66",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
