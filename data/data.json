@@ -4406,36 +4406,16 @@
         "requirements": "",
         "description": "Since the advent of generative artificial intelligence, the world has been mesmerized by the potential promises and consequences of AI.  AI systems and tools have the ability to transform and revolutionize an array of industries, sectors, and areas of law.  At the same time, the deployment of AI raises novel challenges, ranging from algorithmic bias to privacy to cybersecurity. This course seeks to empower law students with a foundational understanding of AI technology and its many legal and policy implications.  Students will learn to assess, analyze, and communicate the benefits and risks of AI systems and tools to clients, regulators, and governing bodies.  The course will include a particular focus on the interplay between AI and employment law, as well as best practices for employment compliance in an age of advancing AI capabilities. Enrollment limited. Pass/Fail. [1]",
         "notes": "Full title - Artificial Intelligence in the Workplace: Legal and Policy Implications Short Course. Limited enrollment.",
-        "status": "Wait list",
+        "status": "Cancelled Section",
         "capacity": "30",
-        "enrolled": "31",
+        "enrolled": "0",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "R",
-            "F",
-            "S",
-            "S",
-            "U"
-        ],
-        "meeting_times": [
-            "07:05p - 09:05p",
-            "04:30p - 07:30p",
-            "09:00a - 12:00p",
-            "01:00p - 04:00p",
-            "09:00a - 12:00p"
-        ],
-        "meeting_dates": [
-            "3/19/26-3/19/26",
-            "3/20/26-3/20/26",
-            "3/21/26-3/21/26",
-            "3/21/26-3/21/26",
-            "3/22/26-3/22/26"
-        ],
-        "instructors": [
-            "Perryman, Sean A."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -107737,7 +107717,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "30",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
