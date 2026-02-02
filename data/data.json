@@ -4939,7 +4939,7 @@
         "notes": "1. MAcc & MBA Students Only 2. No JD/MSF Students",
         "status": "Wait list",
         "capacity": "0",
-        "enrolled": "67",
+        "enrolled": "66",
         "wl_capacity": "13",
         "wl_occupied": "11",
         "attributes": null,
@@ -15983,7 +15983,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "46",
+        "enrolled": "47",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -127147,7 +127147,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -167815,7 +167815,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -167852,9 +167852,9 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "6",
+        "wl_occupied": "5",
         "attributes": null,
         "meeting_days": [
             "MW"
@@ -175393,7 +175393,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "49",
         "wl_capacity": "5",
         "wl_occupied": "1",
         "attributes": [
