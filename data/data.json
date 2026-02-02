@@ -14834,7 +14834,7 @@
         "notes": "Instructor - Donaldson, Joshua M.",
         "status": "Open",
         "capacity": "25",
-        "enrolled": "18",
+        "enrolled": "17",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -15004,7 +15004,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "41",
+        "enrolled": "40",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -18987,7 +18987,7 @@
         "requirements": "Completed or currently enrolled in at least 1 of the following: Law 9016, 7244, 7278, 7246, 7712, 7084, 9106 or 6789.",
         "description": "This course is an introduction to the responsibilities, functions, and business concerns of entertainment industry attorneys through contract negotiation, drafting and analysis exercises. Primary areas covered are the motion picture, television, and music industries. Prerequisite or Corequisite: A substantive course in intellectual property (e.g., Intellectual Property Survey, Copyright Law, Trademark Law, etc.) or experience with intellectual property law and/or entertainment law issues is required. Enrollment limited. Pass/Fail. [1]",
         "notes": "Limited Enrollment Course.",
-        "status": "Cancelled Section",
+        "status": "Open",
         "capacity": "24",
         "enrolled": "0",
         "wl_capacity": "20",
@@ -18996,10 +18996,30 @@
             "Law and Business Class",
             "Professional Skills"
         ],
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "W",
+            "R",
+            "F",
+            "S",
+            "S"
+        ],
+        "meeting_times": [
+            "07:05p - 09:05p",
+            "07:05p - 09:05p",
+            "04:30p - 07:30p",
+            "08:00a - 12:00p",
+            "01:00p - 04:00p"
+        ],
+        "meeting_dates": [
+            "2/11/26-2/11/26",
+            "2/12/26-2/12/26",
+            "2/13/26-2/13/26",
+            "2/14/26-2/14/26",
+            "2/14/26-2/14/26"
+        ],
+        "instructors": [
+            "Staff (Secondary)"
+        ],
         "date_added": null
     },
     {
@@ -29027,7 +29047,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "70",
-        "enrolled": "44",
+        "enrolled": "45",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -31489,7 +31509,7 @@
         "notes": "Full title - Statutory Revolutions in Delaware Corporate Law: A Short Course\n         \n            \n            Instructor - Laster, Travis",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "34",
+        "enrolled": "35",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -132945,7 +132965,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "50",
+        "enrolled": "49",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
