@@ -14885,24 +14885,16 @@
         "requirements": "",
         "description": "A course based on faculty research projects and highly specialized areas of concentration. [Variable credit: 1-3 each semester]",
         "notes": null,
-        "status": "Open",
+        "status": "Cancelled Section",
         "capacity": "15",
-        "enrolled": "2",
+        "enrolled": "0",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "TR"
-        ],
-        "meeting_times": [
-            "09:30a - 10:45a"
-        ],
-        "meeting_dates": [
-            "1/5/26-4/20/26"
-        ],
-        "instructors": [
-            "Caldwell, Joshua D."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
@@ -15004,7 +14996,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "39",
+        "enrolled": "38",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -15849,7 +15841,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "100",
-        "enrolled": "51",
+        "enrolled": "52",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -18989,7 +18981,7 @@
         "notes": "Limited Enrollment Course.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "0",
+        "enrolled": "1",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -31510,7 +31502,7 @@
         "notes": "Full title - Statutory Revolutions in Delaware Corporate Law: A Short Course\n         \n            \n            Instructor - Laster, Travis",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "37",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -31750,7 +31742,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "33",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -127403,7 +127395,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "15",
+        "enrolled": "14",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
