@@ -15975,7 +15975,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "48",
+        "enrolled": "47",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -18981,7 +18981,7 @@
         "notes": "Limited Enrollment Course.",
         "status": "Open",
         "capacity": "24",
-        "enrolled": "4",
+        "enrolled": "10",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": [
@@ -67795,7 +67795,7 @@
         "notes": null,
         "status": "Closed",
         "capacity": "0",
-        "enrolled": "0",
+        "enrolled": "3",
         "wl_capacity": "0",
         "wl_occupied": "0",
         "attributes": null,
@@ -167829,7 +167829,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "4",
+        "wl_occupied": "3",
         "attributes": null,
         "meeting_days": [
             "MW"
