@@ -114766,7 +114766,7 @@
         "requirements": "Prerequisite: BUS 1100 or 2100, ECON 1020, and one of BME 2400, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. Not open to students who have earned credit for FNEC 2700 without permission.",
         "description": "(Previously BUS 2300) Emphasis on asset valuation. Stock and bond valuation, capital budgeting, cost of capital, market efficiency, and company valuation. Not open to students who have earned credit for FNEC 2700 without permission, as students will forfeit credit hours. Serves as repeat credit for FNEC 2700. Prerequisite: BUS 1100 (Previously BUS 2100), ECON 1020, and one of BME 3200, ECON 1500, ECON 1510, MATH 1010, MATH 1011, MATH 2810, MATH 2820, MATH 2821, PSY 2100, PSY-PC 2110, or SOC 2100. [1.5]",
         "notes": null,
-        "status": "Wait list",
+        "status": "Open",
         "capacity": "60",
         "enrolled": "59",
         "wl_capacity": "6",
@@ -167824,11 +167824,11 @@
         "requirements": "Students must have completed the first year of the MBA program to register.",
         "description": "This course is designed to provide an opportunity for students to improve their analytical thinking skills in the context of solving managerial problems. Topics include definition of managerial problems; comparison of intuitive and rational decision making processes; evaluation of evidence supporting managerial decisions; understanding and evaluation of the structure, content, and quality of arguments supporting managerial decisions; making more accurate predictions using Bayesian thinking. This class is graded pass/fail and is designed for MBA second year students only. [2]",
         "notes": null,
-        "status": "Open",
+        "status": "Wait list",
         "capacity": "50",
-        "enrolled": "49",
+        "enrolled": "50",
         "wl_capacity": "10",
-        "wl_occupied": "5",
+        "wl_occupied": "4",
         "attributes": null,
         "meeting_days": [
             "MW"
