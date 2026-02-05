@@ -65684,9 +65684,9 @@
         "notes": "MBA students",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "41",
+        "enrolled": "42",
         "wl_capacity": "10",
-        "wl_occupied": "1",
+        "wl_occupied": "0",
         "attributes": [
             "Brand Management Specialization",
             "Consumer Psych & Mark Analytics Concentration",
@@ -106000,7 +106000,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "50",
-        "enrolled": "50",
+        "enrolled": "51",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -106205,7 +106205,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
