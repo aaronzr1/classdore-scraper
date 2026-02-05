@@ -14996,7 +14996,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "36",
+        "enrolled": "35",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -31524,6 +31524,7 @@
             "2/21/26-2/21/26"
         ],
         "instructors": [
+            "Laster, J. Travis",
             "McCormick, Kathaleen"
         ],
         "date_added": null
@@ -106205,7 +106206,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "36",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -138130,7 +138131,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "40",
-        "enrolled": "38",
+        "enrolled": "37",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": [
@@ -144163,34 +144164,14 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "5",
+        "enrolled": "0",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [
-            "R",
-            "F",
-            "S",
-            "S",
-            "U"
-        ],
-        "meeting_times": [
-            "07:05p - 09:05p",
-            "04:30p - 07:30p",
-            "09:00a - 12:00p",
-            "01:00p - 04:00p",
-            "09:00a - 12:00p"
-        ],
-        "meeting_dates": [
-            "2/5/26-2/5/26",
-            "2/6/26-2/6/26",
-            "2/7/26-2/7/26",
-            "2/7/26-2/7/26",
-            "2/8/26-2/8/26"
-        ],
-        "instructors": [
-            "Werner, Paul A."
-        ],
+        "meeting_days": [],
+        "meeting_times": [],
+        "meeting_dates": [],
+        "instructors": [],
         "date_added": null
     },
     {
