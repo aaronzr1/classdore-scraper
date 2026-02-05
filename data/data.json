@@ -14996,7 +14996,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
@@ -34350,7 +34350,7 @@
             "05:05p - 06:05p"
         ],
         "meeting_dates": [
-            "1/5/26-2/20/26"
+            "1/5/26-2/27/26"
         ],
         "instructors": [
             "Dean, Karl F."
@@ -52442,7 +52442,7 @@
             "08:00a - 09:15a"
         ],
         "meeting_dates": [
-            "1/5/26-4/13/26"
+            "1/5/26-3/27/26"
         ],
         "instructors": [
             "Anderson, Audrey"
@@ -57949,7 +57949,7 @@
             "WR",
             "F",
             "S",
-            "S"
+            "F"
         ],
         "meeting_times": [
             "07:05p - 09:05p",
@@ -57961,7 +57961,7 @@
             "1/21/26-1/22/26",
             "1/23/26-1/23/26",
             "1/24/26-1/24/26",
-            "1/24/26-1/24/26"
+            "3/20/26-3/20/26"
         ],
         "instructors": [
             "Sethi, Arjun S."
@@ -84192,7 +84192,7 @@
             "02:55p - 04:10p"
         ],
         "meeting_dates": [
-            "1/5/26-4/13/26"
+            "1/5/26-2/27/26"
         ],
         "instructors": [
             "Cramer, Phillip F."
@@ -106003,7 +106003,7 @@
         "capacity": "50",
         "enrolled": "51",
         "wl_capacity": "10",
-        "wl_occupied": "0",
+        "wl_occupied": "1",
         "attributes": [
             "Ops & Analytics Concentration"
         ],
@@ -126211,7 +126211,7 @@
         "notes": null,
         "status": "Wait list",
         "capacity": "35",
-        "enrolled": "35",
+        "enrolled": "34",
         "wl_capacity": "10",
         "wl_occupied": "4",
         "attributes": null,
@@ -126406,7 +126406,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "50",
-        "enrolled": "37",
+        "enrolled": "39",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -144164,14 +144164,22 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "0",
+        "enrolled": "5",
         "wl_capacity": "20",
         "wl_occupied": "0",
         "attributes": null,
-        "meeting_days": [],
-        "meeting_times": [],
-        "meeting_dates": [],
-        "instructors": [],
+        "meeting_days": [
+            "TBA"
+        ],
+        "meeting_times": [
+            "TBA"
+        ],
+        "meeting_dates": [
+            "2/5/26-2/8/26"
+        ],
+        "instructors": [
+            "Werner, Paul A."
+        ],
         "date_added": null
     },
     {
@@ -166653,7 +166661,7 @@
         "notes": "Please note that, due to the nature of simulations, attendance is required from the first day of the course forward. The last day to enroll is prior to the first day of class.",
         "status": "Open",
         "capacity": "50",
-        "enrolled": "29",
+        "enrolled": "28",
         "wl_capacity": "10",
         "wl_occupied": "0",
         "attributes": null,
@@ -175470,7 +175478,7 @@
         "capacity": "50",
         "enrolled": "50",
         "wl_capacity": "5",
-        "wl_occupied": "3",
+        "wl_occupied": "4",
         "attributes": [
             "Strategy Concentration"
         ],
@@ -176663,7 +176671,7 @@
             "F",
             "S",
             "S",
-            "U"
+            "T"
         ],
         "meeting_times": [
             "07:05p - 09:05p",
@@ -176677,7 +176685,7 @@
             "1/23/26-1/23/26",
             "1/24/26-1/24/26",
             "1/24/26-1/24/26",
-            "1/25/26-1/25/26"
+            "2/3/26-2/3/26"
         ],
         "instructors": [
             "French, David"
@@ -176796,7 +176804,7 @@
             "09:35a - 11:25a"
         ],
         "meeting_dates": [
-            "1/5/26-4/13/26"
+            "1/5/26-2/27/26"
         ],
         "instructors": [
             "Pavuluri, Emily M.",
@@ -192107,8 +192115,7 @@
             "3/21/26-3/21/26"
         ],
         "instructors": [
-            "Strout, Michaela R.",
-            "Staff (Secondary)"
+            "Strout, Michaela R."
         ],
         "date_added": null
     },
@@ -211189,7 +211196,7 @@
         "notes": null,
         "status": "Open",
         "capacity": "35",
-        "enrolled": "33",
+        "enrolled": "32",
         "wl_capacity": "5",
         "wl_occupied": "0",
         "attributes": null,
