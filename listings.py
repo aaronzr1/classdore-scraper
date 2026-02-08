@@ -27,13 +27,12 @@ def find_total_records(soup):
     
     return total_records
 
-async def fetch(url, session):
+async def fetch(url):
     """
     A simple async fetch function to extract data from a url (with search keywords encoded).
 
     Parameters:
     url (string): url to extract data from
-    session (aiohttp.ClientSession): shared session for requests
 
     Returns:
     BeautifulSoup object: extracted info from url
@@ -113,7 +112,7 @@ async def process_keyword(url, addon, session, semaphore, retry_attempt=0):
     """Process a single keyword with rate limiting. Returns (scraped data, success status, url, addon)."""
     async with semaphore:
         try:
-            soup = await fetch(url, session)
+            soup = await fetch(url)
             new_data = scrape_listings_for_keyword(soup, keyword=addon, retry_attempt=retry_attempt)
             return new_data, True, url, addon
         except Exception as e:

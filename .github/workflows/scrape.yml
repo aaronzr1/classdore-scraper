@@ -79,16 +79,6 @@ jobs:
             echo "data/data.json does not exist"
           fi
 
-      - name: Check for UPLOAD_ONLY marker
-        id: check_upload_only
-        run: |
-          if [ -f "UPLOAD_ONLY" ]; then
-            echo "UPLOAD_ONLY exists, skipping -l job."
-            echo "skip=true" >> $GITHUB_OUTPUT
-          else
-            echo "skip=false" >> $GITHUB_OUTPUT
-          fi
-
       - name: Determine scrape type and add random delay
         id: scrape_type
         run: |

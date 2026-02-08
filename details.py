@@ -1,4 +1,6 @@
-import json, traceback, os
+import json
+import traceback
+import os
 import aiohttp
 import asyncio
 from bs4 import BeautifulSoup
@@ -139,34 +141,6 @@ def scrape_course_details(soup, term_code):
     }
 
     return current_data
-
-def update_course_details(new_data):
-    # load existing data
-    try:
-        with open('data/data.json', 'r') as file:
-            existing_data = json.load(file)
-    except FileNotFoundError:
-        existing_data = []
-
-    # convert to dict for easy saving
-    existing_data_dict = {entry["id"]: entry for entry in existing_data}
-    id = new_data["id"]
-
-    # Only set timestamp for truly new courses
-    if id in existing_data_dict:
-        # Course exists - preserve existing date_added or keep as null
-        new_data["date_added"] = existing_data_dict[id].get("date_added", None)
-    else:
-        # Brand new course - set current timestamp
-        new_data["date_added"] = datetime.now().isoformat()
-
-    existing_data_dict[id] = new_data # update or append
-
-    # back to list for saving
-    updated_data = list(existing_data_dict.values())
-
-    with open('data/data.json', 'w') as file:
-        json.dump(updated_data, file, indent=4)
 
 def batch_update_course_details(batch_data, existing_data_dict):
     """Update existing data dict with a batch of new entries."""
