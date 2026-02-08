@@ -11,7 +11,7 @@ def main():
     parser.add_argument('-c', '--concurrent', type=int, default=6,
                         help="Maximum number of concurrent requests (default: 6)")
     parser.add_argument('-b', '--batch-size', type=int, default=1000,
-                        help="Number of listings to process before writing to disk (default: 500)")
+                        help="Number of listings to process before writing to disk (default: 1000)")
 
     args = parser.parse_args()
 

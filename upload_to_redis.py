@@ -1,6 +1,5 @@
-import os, time, argparse, json
+import os, time, argparse, json, zlib, base64
 import redis
-import json, zlib, base64
 from tqdm import tqdm
 from dotenv import load_dotenv
 from redis.commands.search.field import TextField, NumericField, TagField
@@ -53,7 +52,7 @@ def create_index(r: redis.Redis):
             print("Index already exists, skipping creation.")
         else:
             raise
-def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
+def upload_courses(r: redis.Redis, courses, skip_unchanged=True):
     # Merge with existing compressed data to avoid losing data from failed scrapes
     existing_courses = {}
     try:
@@ -88,7 +87,7 @@ def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
         key = f"course:{course['id']}"
 
         # Only fetch existing data if we need to check for changes
-        if dont_skip_unchanged:
+        if skip_unchanged:
             existing = r.json().get(key)
         else:
             # Check if key exists without fetching the data
@@ -98,7 +97,7 @@ def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
             pipe.json().set(key, "$", course, nx=True)
             new_courses += 1
         else:
-            if not dont_skip_unchanged:
+            if not skip_unchanged:
                 # Replace entire document with one command (much more efficient)
                 pipe.json().set(key, "$", course)
                 updated_courses += 1
@@ -144,7 +143,7 @@ def upload_courses(r: redis.Redis, courses, dont_skip_unchanged=False):
 def main():
     parser = argparse.ArgumentParser(description="Upload course data to Redis with optional skip-unchanged")
     parser.add_argument("data_file", help="Path to JSON data file")
-    parser.add_argument("--dont-skip-unchanged", action="store_true", help="Don't skip unchanged fields (overwrite all fields)")
+    parser.add_argument("--skip-unchanged", action="store_true", help="Skip unchanged fields (only update changed fields)")
     args = parser.parse_args()
 
     # Load environment variables from .env
@@ -169,7 +168,7 @@ def main():
         c["school_tag"] = c.get("school", "")
 
     create_index(r)
-    upload_courses(r, courses, dont_skip_unchanged=not args.dont_skip_unchanged)
+    upload_courses(r, courses, skip_unchanged=args.skip_unchanged)
 
 if __name__ == "__main__":
     main()
